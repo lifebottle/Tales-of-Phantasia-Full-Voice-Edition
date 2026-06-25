@@ -1,6 +1,8 @@
 # Tales-of-Phantasia-Full-Voice-Edition
 Tales of Phantasia Full Voice Edition English Translation
 
+This is **NOT** intended for Tales of Phantasia X. If you want the translation for that, go [here](https://github.com/lifebottle/Tales-of-Phantasia-X).
+
 <img width="480" height="272" alt="top-fve-cover" src="https://github.com/user-attachments/assets/22b025e7-f132-447e-9d06-07d4190a4e50" />
 
 - **Project Managers**
