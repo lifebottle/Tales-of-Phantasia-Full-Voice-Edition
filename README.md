@@ -3,7 +3,7 @@ Tales of Phantasia Full Voice Edition English Translation
 
 **Should I play this or Cross Edition?** Play this version if you prefer the slower-paced battle system of the PSX version and don't want the extra Rondoline content. Otherwise, play [Cross Edition](https://github.com/lifebottle/Tales-of-Phantasia-X).
 
-<img width="480" height="272" alt="top-fve-cover" src="https://github.com/user-attachments/assets/22b025e7-f132-447e-9d06-07d4190a4e50" />
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/51b60f4e-559e-469a-9bd0-29ae5b19ecaa" />
 
 - **Project Managers**
   - mziab
