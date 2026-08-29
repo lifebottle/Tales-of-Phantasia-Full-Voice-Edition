@@ -74,7 +74,7 @@ Tales of Phantasia Full Voice Edition English Translation
   - FlamePurge
 
 - **Original PSX Script and Translated Assets**
-  - Phantasian Productions 
+  - Phantasian Productions
 
 
 ## Discord
