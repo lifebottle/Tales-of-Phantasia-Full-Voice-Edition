@@ -1,0 +1,1036 @@
+Japanese	English
+トレントの森{END}	Treant Forest{END}
+"<audio_1169><Klarth>
+「やはり、ここに<var_D800>がいる
+　事は間違いないな」
+<pause>
+<audio_116A><Cless>
+「ここにですか？」
+<pause>
+<audio_116B><Klarth>
+「ああ、過去の世界で契約の指輪
+　を再生してもらった時・・・」
+<pause>
+<audio_116C><Klarth>
+「一瞬ではあるが、<var_D800>が見
+　えたんだ」{END}"	"<audio_1169><Klarth>
+ Origin's definitely here, all right.
+<pause>
+<audio_116A><Cless>
+ You're absolutely sure?
+<pause>
+<audio_116B><Klarth>
+ Yeah.
+ Remember when we had those
+ pact rings repaired here back in
+ my era?
+<pause>
+<audio_116C><Klarth>
+ It was in the blink of an eye, but I
+ saw him then.{END}"
+"<audio_116D><Chester>
+「<Arche>！」<wait>{END}"	"<audio_116D><Chester>
+ <Arche>!<wait>{END}"
+"<audio_116E><Cless>
+「え！？」{END}"	"<audio_116E><Cless>
+ Huh!?{END}"
+"<audio_116F><Arche>
+「へへぇ<heart>」
+<pause>
+<audio_1170><Arche>
+「やっぱり、来ちゃいました」
+<pause>
+<audio_1171><Klarth>
+「なるほど、空からとはな」
+<pause>
+<audio_1172><Mint>
+「<var_D700>の力のおかげですね」<wait>{END}"	"<audio_116F><Arche>
+ Tee-hee <heart>
+<pause>
+<audio_1170><Arche>
+ I was starting to get bored, so
+ here I am!
+<pause>
+<audio_1171><Klarth>
+ Swept clean past elven
+ security this time, I see.
+ Score one for <Arche>!
+<pause>
+<audio_1172><Mint>
+ ...And one for Volt's sparkly
+ powers, right?<wait>{END}"
+"<audio_1173><Klarth>
+「全く、その通りだな」<wait>{END}"	"<audio_1173><Klarth>
+ I'll say!<wait>{END}"
+"<color_0002><Arche>が復帰しました。
+隊列などを変更できます。{END}"	"<color_0002><Arche> has returned.
+You can change your formation.{END}"
+"<audio_1174><Klarth>
+「おっと、いつまでも、笑ってい
+　る場合じゃないぞ」{END}"	"<audio_1174><Klarth>
+ All right, time to put on your
+ serious faces.{END}"
+"<var_D800>
+「炎と氷の封印を解いて、聖域に
+　現れたる者よ」<wait>{END}"	"Origin
+ You, who have undone the seals of
+ flame and frost; you, who stand
+ brazen upon this sacred site...<wait>{END}"
+"<var_D800>
+「覚悟はできているだろうな」<wait>{END}"	"Origin
+ I trust you are prepared?<wait>{END}"
+"<audio_1177><Klarth>
+「望むところ！」{END}"	"<audio_1177><Klarth>
+ I could ask you the very same!{END}"
+"<audio_1178><var_D800>
+「くっ・・・」
+<pause>
+<audio_1179><var_D800>
+「こ、この私が、人間などに屈す
+　るとは・・・」
+<pause>
+<audio_117A><var_D800>
+「・・・何が望みだ？」
+<pause>
+<audio_117B><Klarth>
+「私と、召喚の契約を結んでいた
+　だきたい・・・」
+<pause>
+<audio_117C><Klarth>
+「しかし、その前にあなたの力を
+　お借りしたい」
+<pause>
+<audio_117D><Klarth>
+「時間の剣を作り出すために、あ
+　なたの力が必要なのだ」
+<pause>
+<audio_117E><Klarth>
+「炎の剣と氷の剣は、既に彼が持っ
+　ている」
+<pause>
+<audio_117F><var_D800>
+「時間の剣を？」
+<pause>
+<audio_1180><var_D800>
+「若者よ、なぜそれを求める？」
+<pause>
+<audio_1181><Cless>
+「ダオスを倒すためです！」
+<pause>
+<audio_1182><Cless>
+「時間の剣がなければ、ダオスは
+　時間転移して、未来に逃げてし
+　まうからです」
+<pause>
+<audio_1183><var_D800>
+「ダオスか・・・」
+<pause>
+<audio_1184><var_D800>
+「今、この世界の脅威となってい
+　るのか・・・」
+<pause>
+<audio_1185><var_D800>
+「ふふふ・・・」
+<pause>
+<audio_1186><Chester>
+「何がおかしいんだ！？」
+<pause>
+<audio_1187><Chester>
+「お前、自分の立場がわかってい
+　るのか！？」
+<pause>
+<audio_1188><var_D800>
+「お前達は、なぜダオスがこの世
+　界に現れたのか、考えたことは
+　あるか？」
+<pause>
+<audio_1189><var_D800>
+「奴は何者なのか？」
+<pause>
+<audio_118A><var_D800>
+「どこから来たのか？」
+<pause>
+<audio_118B><var_D800>
+「なぜ人間相手に、こんなことを
+　しているのか？」
+<pause>
+<audio_118C><Mint>
+「たしかにダオスの正体はわから
+　ないことばかりです」
+<pause>
+<audio_118D><Mint>
+「でも、あの人の行いが元で、多
+　くの人が不幸になっています」
+<pause>
+<audio_118E><Cless>
+「僕達は、この世界を守りたい！」
+<pause>
+<audio_118F><Cless>
+「みんながいるこの世界を！」{END}"	"<audio_1178>Origin
+ Ugh...
+<pause>
+<audio_1179>Origin
+ Th-That I must yield...and to
+ mortals...
+<pause>
+<audio_117A>Origin
+ ...Tell me--what is your desire?
+<pause>
+<audio_117B><Klarth>
+ To establish a summoning pact
+ between us.
+<pause>
+<audio_117C><Klarth>
+ However, before we begin the
+ ritual, we'd like to borrow your
+ powers of creation again.
+<pause>
+<audio_117D><Klarth>
+ We have learned that you alone
+ possess the power necessary to
+ forge the legendary Blade of Time.
+<pause>
+<audio_117E><Klarth>
+ The necessary components, the
+ Blades of Flame and Frost, have
+ been obtained and mastered by my
+ companion.
+<pause>
+<audio_117F>Origin
+ The Blade of Time...?
+<pause>
+<audio_1180>Origin
+ Young man, why do you want such
+ a thing?
+<pause>
+<audio_1181><Cless>
+ To defeat Dhaos once and for all!
+<pause>
+<audio_1182><Cless>
+ He has powers of time travel, and
+ without the Blade of Time, he'll
+ simply use them to flee into the
+ future.
+<pause>
+<audio_1183>Origin
+ The being called Dhaos...
+<pause>
+<audio_1184>Origin
+ ...who presently endangers this
+ world...
+<pause>
+<audio_1185>Origin
+ Hmhmhm...
+<pause>
+<audio_1186><Chester>
+ What's so funny!?
+<pause>
+<audio_1187><Chester>
+ This is serious, dammit!
+<pause>
+<audio_1188>Origin
+ Has it occurred to any of you to
+ consider Dhaos' reasons for
+ appearing in this world?
+<pause>
+<audio_1189>Origin
+ Who might he be?
+<pause>
+<audio_118A>Origin
+ From whence did he come?
+<pause>
+<audio_118B>Origin
+ Why does he harbor such hatred
+ for humans?
+<pause>
+<audio_118C><Mint>
+ I-It's true that we understand
+ nothing of Dhaos' nature or
+ intentions...
+<pause>
+<audio_118D><Mint>
+ But we cannot ignore the suffering his actions have caused.
+ Many have been sacrificed on
+ the altar of his ambitions.
+<pause>
+<audio_118E><Cless>
+ Please, Origin!
+ We only want the power
+ to protect this world!
+<pause>
+<audio_118F><Cless>
+ For ourselves and everyone else
+ who inhabits it!{END}"
+"<audio_1190><var_D800>
+「・・・・・・」
+<pause>
+<audio_1191><var_D800>
+「まあいい・・・」
+<pause>
+<audio_1192><var_D800>
+「私は負けたのだからな・・・」
+<pause>
+<audio_1193><var_D800>
+「お前達に従おう」
+<pause>
+<audio_1194><var_D800>
+「時間の剣を作るのだったな」
+<pause>
+<audio_1195><var_D800>
+「では、二つの剣とダイヤモンド
+　の指輪を石盤の前に置いて下が
+　るがよい」{END}"	"<audio_1190>Origin
+ ......
+<pause>
+<audio_1191>Origin
+ Very well...
+<pause>
+<audio_1192>Origin
+ The defeated have no right to
+ resist, after all...
+<pause>
+<audio_1193>Origin
+ Henceforth, I am now yours to
+ command.
+<pause>
+<audio_1194>Origin
+ As requested, I shall first forge the
+ Blade of Time.
+<pause>
+<audio_1195>Origin
+ Place the two swords and the
+ Diamond Ring before the tablet, and
+ I will begin the synthesis.{END}"
+"<audio_1196><Cless>
+「これが時間の剣・・・」<wait>{END}"	"<audio_1196><Cless>
+ Wow...
+ The legendary Blade of Time...<wait>{END}"
+<color_0002><item_FB00>を手に入れました。<color_0000>{END}	<color_0002>Acquired the <item_FB00>.<color_0000>{END}
+"<audio_1197><Cless>
+「な、何だ！？」
+<pause>
+<audio_1198><Cless>
+「頭に直接話しかけて・・・」
+<pause>
+<audio_1199>時間の剣・エターナルソード
+『時を刻みし剣を使う者よ、我が
+　力と一つとなりて、悪しき心の
+　持ち主を倒すがよい』{END}"	"<audio_1197><Cless>
+ Wh-What!?
+<pause>
+<audio_1198><Cless>
+ Something is...speaking to me...
+<pause>
+<audio_1199>Blade of Time, Eternal Sword
+ “Wielder of this blade that cuts
+ even the fabric of time, unite thy
+ power with mine, and vanquish
+ those possessed of evil hearts.”{END}"
+"<audio_119A><Cless>
+「あ、頭に何かが注ぎこまれてい
+　るようだ・・・」<wait>{END}"	"<audio_119A><Cless>
+ It feels as if something is rushing
+ into my head...<wait>{END}"
+<color_0002><Cless>は<var_8A00>、<var_A300>、<var_A400>を覚えました。<color_0000><wait>{END}	"<color_0002><Cless> learned
+<var_8A00>,
+<var_A300>,
+and <var_A400>.<color_0000><wait>{END}"
+<color_0002><Cless>は『<var_8E01>』の称号を得ました。<wait><color_0000>{END}	"<color_0002><Cless> has earned the title
+“<var_8E01>.”<wait><color_0000>{END}"
+"<audio_119B><var_D800>
+「次は召喚の契約だな」
+<pause>
+<audio_119C><var_D800>
+「ダイヤモンドの指輪を・・・」{END}"	"<audio_119B>Origin
+ Now, the summoning pact.
+<pause>
+<audio_119C>Origin
+ Hold up the Diamond Ring...{END}"
+"<audio_119D><Klarth>
+「我、今、根源の精に願い奉る」
+<pause>
+<audio_119E><Klarth>
+「指輪の盟約のもと、我に精霊を
+　従わせたまえ・・・」
+<pause>
+<audio_119F><Klarth>
+「我が名は<Klarth>・・・」{END}"	"<audio_119D><Klarth>
+ Here and now, I offer my request
+ to the Almighty Spirit of Creation.
+<pause>
+<audio_119E><Klarth>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<audio_119F><Klarth>
+ My name is <Klarth>...{END}"
+<color_0002><Klarth>は<var_D800>を召喚できるようになりました。<color_0000><wait>{END}	<color_0002><Klarth> can now summon Origin.<color_0000><wait>{END}
+<color_0002><Klarth>は『<var_B401>』の称号を得ました。<wait><color_0000>{END}	"<color_0002><Klarth> has earned the title
+“<var_B401>.”<wait><color_0000>{END}"
+"<audio_11A0><Klarth>
+「後は、ダオスの居場所をつきと
+　めるだけだな」
+<pause>
+<audio_11A1><Mint>
+「でも、いったいどこにいるんで
+　しょうね？」
+<pause>
+<audio_11A2><Arche>
+「ルーングロムさんなら知ってい
+　るんじゃない？」
+<pause>
+<audio_11A3><Cless>
+「よし、それじゃあアルヴァニス
+　タに行こう！」
+<pause>
+<audio_11A4><Arche>
+「それじゃ、パッと行こ」
+<pause>
+<color_0002>どうしますか？
+<speed_0000>１。パッと行く
+２。歩いて行く<color_0000><speed_FFFF>{END}"	"<audio_11A0><Klarth>
+ All that's left is to give Dhaos a
+ good skewering.
+<pause>
+<audio_11A1><Mint>
+ But where could he be?
+<pause>
+<audio_11A2><Arche>
+ When all else fails, ask Lundgrom!
+<pause>
+<audio_11A3><Cless>
+ Then we're off to Alvanista!
+<pause>
+<audio_11A4><Arche>
+ Quick-jump is ready to go!
+<pause>
+<color_0002>What will you do?
+<speed_0000>1. Quick-jump there
+2. Walk there<color_0000><speed_FFFF>{END}"
+"<audio_0CAF><Arche>
+「それじゃ、あたしは森の出口で
+　待ってるね」{END}"	"<audio_0CAF><Arche>
+ Well, I'm gonna go back to the
+ entrance of Ymir Forest, then.
+ Don't forget about me <heart>{END}"
+"<audio_0C96><Cless>
+「ブラムバルドさん」{END}"	"<audio_0C96><Cless>
+ We've arrived, sir.{END}"
+"<audio_0C97><Mint>
+「この石盤は？」
+<pause>
+<audio_0C98>ブラムバルド
+「森の名前でもあるユミルとは、
+　根源を意味する言葉です」
+<pause>
+<audio_0C99>ブラムバルド
+「ここには、根源を司る精霊オリ
+　ジンが眠っていると言われてい
+　ます」
+<pause>
+<audio_0C9A><Cless>
+「<var_D800>・・・」
+<pause>
+<audio_0C9B>ブラムバルド
+「精霊達の王、という話です」
+<pause>
+<audio_0C9C>ブラムバルド
+「超古代の終末の戦い<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_0C9D>ブラムバルド
+「私達エルフは『ラグナロック』
+　と呼んでいますが・・・」
+<pause>
+<audio_0C9E>ブラムバルド
+「その時に、一度だけこの世界に
+　現れたようです」<wait>{END}"	"<audio_0C97><Mint>
+ Then, about this stone tablet...
+<pause>
+<audio_0C98>Brambard
+ According to legend, it is where the
+ spirit governing the wellspring of
+ creation, Origin, rests.
+<pause>
+<audio_0C99>Brambard
+ The name of the forest, Ymir, too
+ shares a meaning with the name of
+ the spirit.
+<pause>
+<audio_0C9A><Cless>
+ Hmm, Origin...
+<pause>
+<audio_0C9B>Brambard
+ He is known as the
+ King of Spirits.
+<pause>
+<audio_0C9C>Brambard
+ He is only known to have shown
+ himself to the world once, long
+ ago<speed_0010>...
+<pause>
+<speed_FFFF><audio_0C9D>Brambard
+ ...amidst the war we elves have
+ dubbed “Ragnarok”...
+<pause>
+<audio_0C9E>Brambard
+ ...the war that brought the Age of
+ Antiquity to conclusion.<wait>{END}"
+"<audio_0C9F>ブラムバルド
+「そんないわくつきの石盤だから
+　かどうかは知りませんが」
+<pause>
+<audio_0CA0>ブラムバルド
+「これには物質再生の力があると
+　言われています」
+<pause>
+<audio_0CA1><Klarth>
+「ふぅむ」
+<pause>
+<audio_0CA2><Klarth>
+「まさにそれこそ<var_D800>の持つ
+　と言われる力だ」
+<pause>
+<audio_0CA3>ブラムバルド
+「そんな不思議な力があるから、
+　昔の人は<var_D800>と関係づけた
+　のかもしれませんね」{END}"	"<audio_0C9F>Brambard
+ I know not whether the legend
+ surrounding the tablet is true, but...
+<pause>
+<audio_0CA0>Brambard
+ It is engraved upon it that it has
+ the power to restore deteriorated
+ physical matter to its former glory.
+<pause>
+<audio_0CA1><Klarth>
+ Hrm...
+<pause>
+<audio_0CA2><Klarth>
+ The power to literally return an
+ object to its “origins,” huh?
+<pause>
+<audio_0CA3>Brambard
+ Very astute.
+ Perhaps it is because of this that
+ the ancients chose the name.{END}"
+"<audio_0CA4><Mint>
+「それでは、お願いします」
+<pause>
+<audio_0CA5>ブラムバルド
+「さがっていて下さい・・・」{END}"	"<audio_0CA4><Mint>
+ Then, if you would please try it on
+ the rings...
+<pause>
+<audio_0CA5>Brambard
+ Stand back...{END}"
+"<audio_0CA6>ブラムバルド
+「終わりましたよ」
+<pause>
+<audio_0CA7><Mint>
+「こんなにステキな指輪だったの
+　ですね」
+<pause>
+<audio_0CA8><Klarth>
+「よし、次は月の精霊<var_D400>との契
+　約だな」
+<pause>
+<audio_0CA9><Mint>
+「その後はモリスンさんの手助け
+　ですね」
+<pause>
+<audio_0CAA>ブラムバルド
+「それならばフレイランドとミッ
+　ドガルズの間にある<color_0002>『１２星座
+　の塔』<color_0000>に行ってみなさい」
+<pause>
+<audio_0CAB>ブラムバルド
+「そこには精霊が住んでいるとい
+　うことです」
+<pause>
+<audio_0CAC>ブラムバルド
+「どんな精霊かはわかりませんが
+　召喚できるようになれば、かな
+　りの戦力になるでしょう」
+<pause>
+<audio_0CAD><Klarth>
+「わかった、ありがとう」{END}"	"<audio_0CA6>Brambard
+ The process is complete.
+<pause>
+<audio_0CA7><Mint>
+ Amazing...
+ The rings are absolutely
+ marvelous now.
+<pause>
+<audio_0CA8><Klarth>
+ Next up, we need to find Luna, the
+ Spirit of the Moon.
+<pause>
+<audio_0CA9><Mint>
+ Right, so that we can assist Mr.
+ Morrison.
+<pause>
+<audio_0CAA>Brambard
+ It may be in your interest to
+ ascend the <color_0002>Zodiac Tower<color_0000>, located
+ between Freyland and Midgard.
+<pause>
+<audio_0CAB>Brambard
+ There are many tales of a spirit
+ inhabiting it.
+<pause>
+<audio_0CAC>Brambard
+ It may or may not be the one you
+ are seeking, but one living in that
+ place should be of considerable
+ military value if summoned.
+<pause>
+<audio_0CAD><Klarth>
+ Thanks.
+ This helps us greatly.{END}"
+"<audio_171A><Cless>
+「あっ、待ってください！」
+<pause>
+<audio_171B><Cless>
+「こっ、これをッ！！」{END}"	"<audio_171A><Cless>:<nl>
+Hey, wait!
+<pause>
+<audio_171B><Cless>:<nl>
+How about this!?{END}"
+"<audio_171C><Klarth>
+「なんだその弓は？」
+<pause>
+<audio_171D><Klarth>
+「壊れてるじゃないか」
+<pause>
+{END}"	"<audio_171C><Klarth>:<nl>
+Where'd you get that old bow?
+<pause>
+<audio_171D><Klarth>:<nl>
+It looks like a pile of scrap wood.
+<pause>
+{END}"
+"<audio_171E><Cless>
+「この弓も直りませんか？」
+<pause>
+{END}"	"<audio_171E><Cless>:<nl>
+Can this bow be fixed, too?
+<pause>
+{END}"
+"<audio_171F><Cless>
+「ずうずうしいのは承知です」
+<pause>
+<audio_1720><Cless>
+「でも・・・」
+<pause>
+{END}"	"<audio_171F><Cless>:<nl>
+I know it's a lot to ask.
+<pause>
+<audio_1720><Cless>:<nl>
+But...
+<pause>
+{END}"
+"<audio_1721><Cless>
+「これはどうしても直したい大切
+　なものなんです！」{END}"	"<audio_1721><Cless>:<nl>
+It's very special to me, and I
+really need it repaired!{END}"
+"<audio_1722><Mint>
+「<Cless>さん・・・」
+<pause>
+<audio_1723><Cless>
+「お願いします！」
+<pause>
+<audio_1724><Cless>
+「弓を直してください！」
+<pause>
+{END}"	"<audio_1722><Mint>:<nl>
+<Cless>...
+<pause>
+<audio_1723><Cless>:<nl>
+I beg you!
+<pause>
+<audio_1724><Cless>:<nl>
+Please, fix this bow!
+<pause>
+{END}"
+"<audio_1725>ブラムバルド
+「<speed_0010>・・・・・・<speed_00FF>」
+<pause>
+<audio_1726>ブラムバルド
+「・・・残念ですが、それは無理
+　ですね・・・」{END}"	"<audio_1725>Brambard:<nl>
+<speed_0010>......<speed_00FF>
+<pause>
+<audio_1726>Brambard:<nl>
+I am sorry, but that would be
+impossible.{END}"
+"<audio_1727><Cless>
+「<speed_0010>・・・<speed_00FF>そうですか」
+<pause>
+{END}"	"<audio_1727><Cless>:<nl>
+Oh... I see<speed_0010>...<speed_00FF>
+<pause>
+{END}"
+"<audio_1728><Cless>
+「無理を言ってすみません」
+<pause>
+<audio_1729>ブラムバルド
+「いや・・・、直らないわけでは
+　ないんです」
+<pause>
+{END}"	"<audio_1728><Cless>:<nl>
+Sorry for asking the impossible.
+<pause>
+<audio_1729>Brambard:<nl>
+No, I simply mean it would be
+impossible for me to mend.
+<pause>
+{END}"
+"<audio_172A>ブラムバルド
+「契約の指輪のように
+　強力な魔力のあるものは
+　いいのですが・・・」
+<pause>
+<audio_172B>ブラムバルド
+「石盤の物質再生の力は、本来の
+　姿に戻すものですから・・・」{END}"	"<audio_172A>Brambard:<nl>
+You see, I can mend items with
+magical power, like pact rings.
+<pause>
+<audio_172B>Brambard:<nl>
+However, the black stone simply returns
+things to their original form.{END}"
+"<audio_172C>ブラムバルド
+「その弓は普通の人によって作ら
+　れた物ですよね？」
+<pause>
+<audio_172D>ブラムバルド
+「それだと、本来の姿・・・」
+<pause>
+<audio_172E>ブラムバルド
+「おそらく、木の棒になります」
+<pause>
+<audio_172F><Cless>
+「えッ？？」
+<pause>
+<audio_1730>ブラムバルド
+「単純に壊れているだけなら単純
+　に直せば良いのです」
+<pause>
+<audio_1731>ブラムバルド
+「つまり、腕の良い武器職人に
+　修理してもらえば直る」
+<pause>
+<audio_1732>ブラムバルド
+「と、いうことです」
+<pause>
+<audio_1733>ブラムバルド
+「きっと村の武器屋の者なら直せ
+　るでしょう」
+<pause>
+<audio_1734><Mint>
+「本当ですか！」
+<pause>
+<audio_1735><Mint>
+「良かった・・・」{END}"	"<audio_172C>Brambard:<nl>
+That bow was created by a
+normal human, yes?
+<pause>
+<audio_172D>Brambard:<nl>
+Therefore, I assume its
+original form...
+<pause>
+<audio_172E>Brambard:<nl>
+...was a stave of wood.
+<pause>
+<audio_172F><Cless>:<nl>
+Huh?
+<pause>
+<audio_1730>Brambard:<nl>
+In other words, since it is broken,
+just have someone fix it.
+<pause>
+<audio_1731>Brambard:<nl>
+A skilled bowsmith should be
+up to the task.
+<pause>
+<audio_1732>Brambard:<nl>
+It's simple.
+<pause>
+<audio_1733>Brambard:<nl>
+I believe the village weapon shop
+might even be able to fix it.
+<pause>
+<audio_1734><Mint>:<nl>
+Really!?
+<pause>
+<audio_1735><Mint>:<nl>
+That's wonderful news.{END}"
+"<audio_1736><Klarth>
+「なあ・・・、その弓は一体なん
+　なんだ？」{END}"	"<audio_1736><Klarth>:<nl>
+<Cless>... What's so special about
+that bow, anyway?{END}"
+"<audio_1737><Cless>
+「これは<speed_0010>・・・<speed_00FF>、大切な友人にかえ
+　さなくちゃいけないんです」
+<pause>
+<audio_1738><Cless>
+「かならず・・・」
+<pause>
+{END}"	"<audio_1737><Cless>:<nl>
+It's something I have to return to
+a very close friend.
+<pause>
+<audio_1738><Cless>:<nl>
+And I will, someday...
+<pause>
+{END}"
+"<audio_1739><Cless>
+「かならずもう一度会って！」{END}"	"<audio_1739><Cless>:<nl>
+I will see him again!
+I swear it!{END}"
+"<audio_173A><Mint>
+「行きましょう」
+<pause>
+<audio_173B><Mint>
+「指輪も直ったし、弓も見てもら
+　わないと！」
+<pause>
+<audio_173C>ブラムバルド
+「話はまとまったようですね」
+<pause>
+<audio_173D>ブラムバルド
+「では武器職人の事もあるので、
+　村まで私も一緒に行きましょう」{END}"	"<audio_173A><Mint>:<nl>
+Let's go.
+<pause>
+<audio_173B><Mint>:<nl>
+Now that the rings are fixed,
+we can take care of the bow!
+<pause>
+<audio_173C>Brambard:<nl>
+It appears things are settled.
+<pause>
+<audio_173D>Brambard:<nl>
+If you must visit the weapon shop,
+I will accompany you.{END}"
+<color_0002>契約の指輪<item_5F01>と<item_6001>を手に入れました。<color_0000>{END}	"<color_0002>Acquired the <item_5F01> and
+<item_6001> pact rings.<color_0000>{END}"
+"<Cless>
+「<Suzu>ちゃんじゃないか！」
+<pause>
+<Cless>
+「・・・すると、ここが？」
+<pause>
+<Suzu>
+「お待ちしておりました」<wait>{END}"	"<Cless>
+ Hey!
+ Little <Suzu>!
+<pause>
+<Cless>
+ ...But why are you here?
+ This all seems a bit random.
+<pause>
+<Suzu>
+ I have been waiting for you.<wait>{END}"
+"<Suzu>
+「・・・・・・」<wait>{END}"	"<Suzu>
+ ......<wait>{END}"
+"<Suzu>
+「どうぞ、こちらに」
+<pause>
+<Arche>
+「待って〜」<wait>{END}"	"<Suzu>
+ Please come with me.
+<pause>
+<Arche>
+ Waiiiiiit!<wait>{END}"
+"<Arche>
+「あたしも連れてってぇ〜<panic>」{END}"	"<Arche>
+ Don't go without me! <panic>{END}"
+"<Cless>
+「これは、呪文書だ！」<wait>{END}"	"<Cless>
+ This is a spell book!<wait>{END}"
+<color_0002><Arche>は<var_C500>を覚えました。<color_0000>{END}	<color_0002><Arche> learned <var_C500>.<color_0000>{END}
+"<Cless>
+「でも僕が持っていてもしょうが
+　ないな、戻しておこう・・・」{END}"	"<Cless>
+ But I don't have any use for it. I'll
+ put it back...{END}"
+"<Klarth>
+「不思議な質感の石盤だな・・・」{END}"	"<Klarth>
+ This stone tablet is giving off a
+ mysterious air...{END}"
+"<Cless>
+「ここから森の奥に行けるってい
+　う話だったけど・・・」
+<pause>
+<Arche>
+「<var_D800>に聞けば何かわかるか
+　もしれないじゃん」
+<pause>
+<Klarth>
+「そうだな」{END}"	"<Cless>
+ The entrance to the forest depths
+ is supposedly right around here,
+ but--
+<pause>
+<Arche>
+ I know!
+ Let's ask Origin!
+<pause>
+<Klarth>
+ Okay.
+ Here goes...{END}"
+"<unk1><Klarth>
+<var_D800>よ、この森にはさらに奥があると聞くがどのようにすれば行けるのか？」
+<pause>
+<var_D800>
+この森の奥には何人たりとも、入ることまかりならん」
+<pause>
+<Klarth>
+その理由は？」
+<pause>
+<var_D800>
+トレントの森の奥地に入ったら絶対に出ることはできないからだ」
+<pause>
+<Arche>
+なんでさ？」
+<pause>
+<var_D800>
+お前達のような無知なる者に理解できようはずもないだろうが、簡単に言えば・・・」
+<pause>
+<var_D800>
+この石盤より先の森は閉じた空間、完全に閉鎖されている異次元の世界なのだ」
+<pause>
+<Klarth>
+なんてことだ・・・」
+<pause>
+<Klarth>
+<var_D800>よ、森の奥に入って、再び戻る手段は無いのか？」
+<pause>
+<var_D800>
+短い時間なら、お前達を森の奥に送ることも可能だが・・・」
+<pause>
+<Arche>
+どのくらいの時間なのさ？」
+<pause>
+<var_D800>
+短い時間だ」
+<pause>
+<var_D800>
+まぁ<color_0002><Klarth>の精神力<color_0000>しだい、とだけ言っておこう」
+<pause>
+<var_D800>
+どうしてもトレントの森の奥地に行きたいのだな？」<wait>{END}"	"<unk1><Klarth>
+ Origin, can you tell us how we
+ might venture into the hidden
+ region of this forest?
+<pause>
+Origin
+ Hmph.
+ Know this: The depths are a place
+ absolutely none should enter.
+<pause>
+<Klarth>
+ And the reason for that is?
+<pause>
+Origin
+ There is no escape.
+ Those who enter the depths of
+ Treant Forest are trapped for
+ eternity, without exception.
+<pause>
+<Arche>
+ How come?
+<pause>
+Origin
+ The concepts involved are far
+ beyond the understanding of beings
+ as ignorant as yourselves, but to
+ put it simply...
+<pause>
+Origin
+ ...the area beyond this tablet was
+ sealed off long ago. It exists now
+ in a pocket dimension, parallel to
+ this one.
+<pause>
+<Klarth>
+ That's absolutely ridiculous...
+<pause>
+<Klarth>
+ Do you know of any way to get
+ around this?
+<pause>
+Origin
+ I can create a bridge for a short
+ time, but--
+<pause>
+<Arche>
+ Wh-Whoa!
+ For HOW long!?
+<pause>
+Origin
+ A short time.
+<pause>
+Origin
+ More specifically, it depends on the
+ capacity of <color_0002><Klarth><'s/'> willpower<color_0000>.
+<pause>
+Origin
+ If you wish to put your trust in
+ such rash measures, I will send you
+ there.<wait>{END}"
+<speed_0000><color_0002>トレントの森の奥地に行きますか？{END}	<speed_0000><color_0002>Enter the depths of Treant Forest?{END}
+"<Arche>
+「待って〜」{END}"	"<Arche>
+ Wait for meeeeeee!!{END}"
+"<var_D800>
+「神聖な丸太を見つけるとは、な
+　かなかどうして、やるではない
+　か」
+<pause>
+<var_D800>
+「トレントの森の奥地には多くの
+　財宝が眠ると聞く」
+<pause>
+<var_D800>
+「お前達なら、その財宝を手に入
+　れることもできるかもしれんな」{END}"	"Origin
+ For you to have found a piece of
+ Sacred Wood... I must say, I'm
+ somewhat impressed.
+<pause>
+Origin
+ It's my understanding that many
+ more treasures lie within the
+ depths.
+<pause>
+Origin
+ You may well be the only people
+ capable of obtaining them.{END}"
+"<var_D800>
+「わたしの力とて無尽蔵ではない」
+<pause>
+<var_D800>
+「無理は禁物だぞ」
+<pause>
+<var_D800>
+「そもそもトレントの森の奥地に
+　行くなど止めたほうがよいのだ」{END}"	"Origin
+ Do not be unreasonable.
+<pause>
+Origin
+ My power is not limitless.
+<pause>
+Origin
+ It would have been best for you to
+ never have come to this place.{END}"
+"<audio_0CAF><Arche>
+「それじゃ、あたしは森の出口で
+　待ってるね」{END}"	"<audio_0CAF><Arche>
+ Well, I'm gonna go back to the
+ entrance of Ymir Forest, then.
+ Don't forget about me <heart>{END}"

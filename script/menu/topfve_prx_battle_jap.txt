@@ -1,0 +1,24 @@
+Artes{END}
+
+Strategy{END}
+
+Formation{END}
+
+Items{END}
+
+%s mastered!{END}
+
+But the spell is sealed!{END}
+
+Initialization Error{END}
+
+Defeated{END}
+
+Escaped{END}
+
+All spell effects have disappeared!{END}
+
+Stygian Blade{END}
+
+{END}
+

@@ -1,0 +1,541 @@
+Japanese	English
+"<audio_06DF><Cless>
+「穴の向こうから女性の声が！」
+<pause>
+<audio_06E0>？？？
+「手をこちらへ・・・」
+<pause>
+<audio_06E1><Cless>
+「誰<speed_0010>・・・<speed_FFFF>ですか？」
+<pause>
+<audio_06E2>？？？
+「手をこちらへ・・・」
+<pause>
+<audio_06E3>？？？
+「差し伸べて下さい・・・」
+<pause>
+<audio_06E4>？？？
+「あなたの助けに・・・なりたい
+　のです・・・」
+<pause>
+<color_0002>手を差し伸べますか？<color_0000>{END}"	"<audio_06DF><Cless>
+ Her voice is coming from this hole!
+<pause>
+<audio_06E0>???
+ Your hand...
+<pause>
+<audio_06E1><Cless>
+ Who<speed_0010>...<speed_FFFF>are you?
+<pause>
+<audio_06E2>???
+ Your hand...
+<pause>
+<audio_06E3>???
+ ...please, put it through the hole...
+<pause>
+<audio_06E4>???
+ I want...to help you...
+<pause>
+<color_0002>Put your hand in the hole?<color_0000>{END}"
+"<audio_06E5><Cless>
+「・・・・・・」
+<pause>
+<audio_06E6><Cless>
+「これは、<item_3200>？」
+<pause>
+<audio_06E7>？？？
+「それを壁にかざして・・・」
+<pause>
+<audio_125C>？？？
+「そして、牢屋に捕まっている
+　女の子を助けてあげて・・・」
+<pause>
+<audio_06E9>？？？
+「あなたなら・・・
+　きっと、館から出られるわ」
+<pause>
+<audio_06EA><Cless>
+「ちょ、ちょっと待って！」
+<pause>
+<audio_06EB><Cless>
+「あなたは・・・」
+<pause>
+<audio_06EC>？？？
+「<speed_0010>・・・<speed_FFFF>お願い<speed_0020>・・・」
+<pause>
+<speed_FFFF><audio_06ED><Cless>
+「・・・・・・」
+<pause>
+<audio_06EE><Cless>
+「とにかく、<item_3200>をかざし
+　てみよう」{END}"	"<audio_06E5><Cless>
+ ......
+<pause>
+<audio_06E6><Cless>
+ An...earring?
+<pause>
+<audio_06E7>???
+ Hold it against the wall...
+<pause>
+<audio_125C>???
+ Afterward, I beg you to save the
+ girl held captive in the cell nearby...
+<pause>
+<audio_06E9>???
+ Together, I'm sure you will be able
+ to escape this place...
+<pause>
+<audio_06EA><Cless>
+ W-Wait a minute!
+<pause>
+<audio_06EB><Cless>
+ Who are you...?
+<pause>
+<audio_06EC>???
+ <speed_0010>...<speed_FFFF>Please<speed_0020>...
+<pause>
+<speed_FFFF><audio_06ED><Cless>
+ ......
+<pause>
+<audio_06EE><Cless>
+ I guess all I can do is give what
+ she said a try...{END}"
+"<audio_06EF><Cless>
+「これは・・・」
+<pause>
+<audio_06F0><Cless>
+「さっきの人に会って、お礼を言
+　わなければ・・・」{END}"	"<audio_06EF><Cless>
+ I can get out now...
+<pause>
+<audio_06F0><Cless>
+ I'd better give that person my
+ thanks...{END}"
+"？？？
+「手を差し伸べて・・・」
+<pause>
+？？？
+「手を・・・」{END}"	"???
+ Put your hand through the hole...
+<pause>
+???
+ Please...{END}"
+"<Cless>
+「う〜ん、この穴からじゃ出られ
+　ないな・・・」{END}"	"<Cless>
+ Hmm, it's too small to crawl
+ through...{END}"
+<color_0002><num3_C000511E>で扉をこじ開けました。<color_0000>{END}	"<color_0002>Forced the cell door open with the
+<num3_C000511E>.<color_0000>{END}"
+"<Cless>
+「素手じゃ無理か・・・」{END}"	"<Cless>
+ Can't bend the bars with my bare
+ hands...{END}"
+"<Cless>
+「ここは・・・」
+<pause>
+<Cless>
+「行き止まりみたいだ・・・」{END}"	"<Cless>
+ Umm...
+<pause>
+<Cless>
+ Looks like a dead end...{END}"
+"<audio_070E><Mint>
+「ここから、水路につながってい
+　るようです」
+<pause>
+<audio_070F><Mint>
+「何とか開けられないかしら？」{END}"	"<audio_070E><Mint>
+ I think this connects to the
+ waterway.
+<pause>
+<audio_070F><Mint>
+ Do we have any way of getting
+ past these bars?{END}"
+"<Cless>
+<audio_16FC>「えい！！」<wait>{END}"	"<Cless>
+ <audio_16FC>YAH!!<wait>{END}"
+<color_0002><item_C500>で鉄格子をこじ開けました。<color_0000><wait>{END}	"<color_0002>Forced the bars open with the
+<item_C500>.<color_0000>
+<pause>
+<color_0002>The shaft of the axe splintered
+from the impact. The remains have
+been discarded.<wait>{END}"
+"<Cless>
+<audio_16FD>「これで通れるぞ」
+<pause>
+<Mint>
+<audio_16FE>「やりましたね」
+<pause>
+<color_0002><item_C500>が壊れてしまいました。<wait>{END}"	"<audio_16FD><Cless>
+ Now we can get out of here.
+<pause>
+<audio_16FE><Mint>
+ Well done, Mr. Alvein!<wait>{END}"
+<color_0002><item_A100>を装備しました。<wait>{END}	"<color_0002><Cless> rearmed himself
+with the <item_A100>.<wait>{END}"
+"<Cless>
+「普通の剣じゃあ無理だな・・・」
+<pause>
+<Cless>
+「何か、鉄格子を壊せる物はない
+　かな？」{END}"	"<Cless>
+ An ordinary sword is too light to
+ break the bars.
+<pause>
+<Cless>
+ Maybe there's something heavier I
+ can use to smash them with...{END}"
+"<Cless>
+「ここから、地下水路に抜けられ
+　そうだ・・・」{END}"	"<Cless>
+ We should be able to get out
+ through the underground
+ waterway from here...{END}"
+"<Cless>
+「これ以上進むと、見つかってし
+　まうな・・・」{END}"	"<Cless>
+ I'll be spotted if I go any further...{END}"
+"<Cless>
+（知らない方がいい・・・）{END}"	"<Cless>
+ (It's best she doesn't see that
+ horrifying sight.){END}"
+"<Cless>
+（この子は母親の死を知らない）
+<pause>
+<Cless>
+（現実をこの子に見せるのは、あ
+　まりにも気の毒だ・・・）{END}"	"<Cless>
+ (She doesn't know that her
+ mother's been stabbed to death.)
+<pause>
+<Cless>
+ (If she finds out now, her heart
+ will be crushed...){END}"
+"<audio_06F1><Cless>
+「そんな・・・」
+<pause>
+<audio_06F2><Cless>
+「あの手の温もりは、何だったん
+　だろう・・・」{END}"	"<audio_06F1><Cless>
+ Oh my god...
+<pause>
+<audio_06F2><Cless>
+ Then what was that warm hand I
+ felt...?{END}"
+"<audio_06F3><Cless>
+「大丈夫？」
+<pause>
+<audio_06F4><Cless>
+「ケガはない？」
+<pause>
+<audio_06F5>？？？
+「・・・！」
+<pause>
+<audio_06F6><Cless>
+「心配しなくてもいいよ。
+　僕は、君を助けに来たんだ」
+<pause>
+<audio_06F7><Cless>
+「僕は<Cless>、君は？」<wait>{END}"	"<audio_06F3><Cless>
+ Are you all right?
+<pause>
+<audio_06F4><Cless>
+ Have you been hurt?
+<pause>
+<audio_06F5>???
+ ...!
+<pause>
+<audio_06F6><Cless>
+ Don't be afraid.
+ I have come to help you.
+<pause>
+<audio_06F7><Cless>
+ My name is <Cless> Alvein.
+ What's yours?<wait>{END}"
+"<audio_06F8>？？？
+「<Mint>・・・」
+<pause>
+<audio_06F9>？？？
+「私は<Mint>＝アドネードです」
+<pause>
+<audio_06FA><Mint>
+「あの・・・」
+<pause>
+<audio_06FB><Mint>
+「助けていただいてありがとう
+　ございます」
+<pause>
+<audio_06FC><Cless>
+「僕も捕まったんだけどね」
+<pause>
+<audio_06FD><Cless>
+「さあ、一緒にここから出よう」
+<pause>
+<audio_06FE><Mint>
+「はい」
+<pause>
+<audio_06FF><Cless>
+「いつまでもここにいるわけには
+　いかないからね」
+<pause>
+<audio_0700><Mint>
+「あの<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_0701><Mint>
+「私の母も助けて下さい・・・」
+<pause>
+<audio_0702><Mint>
+「向こうの牢に捕らえられている
+　はずです」<wait>{END}"	"<audio_06F8>???
+ I am <Mint>...
+<pause>
+<audio_06F9>???
+ ...<Mint> Adnade.
+<pause>
+<audio_06FA><Mint>
+ Um...
+<pause>
+<audio_06FB><Mint>
+ Thank you very much for saving
+ me, Mr. Alvein.
+<pause>
+<audio_06FC><Cless>
+ Well, they captured me too.
+ I broke out of my cell just
+ a few moments ago.
+<pause>
+<audio_06FD><Cless>
+ We should escape from this place
+ together.
+<pause>
+<audio_06FE><Mint>
+ Um--
+<pause>
+<audio_06FF><Cless>
+ We can't stay here any longer.
+ They're going to find us.
+<pause>
+<audio_0700><Mint>
+ Um<speed_0010>...<speed_FFFF>please wait.
+<pause>
+<audio_0701><Mint>
+ I beg you...
+ We must save my mother
+ before we go!
+<pause>
+<audio_0702><Mint>
+ She should be in one of the cells on
+ the other side.<wait>{END}"
+"<audio_0703><Cless>
+「えっ？」{END}"	"<audio_0703><Cless>
+ Huh?{END}"
+"<audio_0704><Cless>
+「・・・・・・」
+<pause>
+<audio_0705><Cless>
+「あっちには誰もいなかったよ」
+<pause>
+<audio_0706><Cless>
+「さぁ、早く！！」
+<pause>
+<audio_0707><Mint>
+「で、でも・・・」
+<pause>
+<audio_0708><Mint>
+「確かに、母の声が聞こえていま
+　した！」
+<pause>
+<audio_0709><Mint>
+「私を、励ます声が・・・」
+<pause>
+<audio_070A><Mint>
+「確かに、母が<speed_0010>・・・」{END}"	"<audio_0704><Cless>
+ ......
+<pause>
+<audio_0705><Cless>
+ That's where I was locked up, but I
+ didn't see anyone else on my way
+ out.
+<pause>
+<audio_0706><Cless>
+ We've got no more time!
+ Come on, hurry!!!
+<pause>
+<audio_0707><Mint>
+ B-But...
+<pause>
+<audio_0708><Mint>
+ I'm sure I heard my mother's
+ voice!
+<pause>
+<audio_0709><Mint>
+ She told me to be strong<speed_0010>...<speed_FFFF>
+<pause>
+<audio_070A><Mint>
+ I-I'm certain it was Mother<speed_0010>...<speed_FFFF>{END}"
+"<audio_070B><Cless>
+「時間が無いんだ、早くしないと
+　見つかってしまうかもしれない
+　し・・・」
+<pause>
+<audio_070C><Mint>
+「・・・・・・」<wait>{END}"	"<audio_070B><Cless>
+ Forgive me, <Mint>, but we
+ can't dawdle anymore.
+ We'll be caught if we debate
+ this any longer...
+<pause>
+<audio_070C><Mint>
+ ......<wait>{END}"
+"<audio_070D><Mint>
+「わかりました・・・」{END}"	"<audio_070D><Mint>
+ I understand...{END}"
+"<Cless>
+<audio_16F9>「剣が突き刺さってる・・・」
+<pause>
+<Cless>
+<audio_16FA>「ひどいことを・・・」
+<pause>
+<color_0002>剣を抜くことができます。
+抜きますか？<color_0000>{END}"	"<Cless>
+ <audio_16F9>She was run through with this
+ sword...
+<pause>
+<Cless>
+ <audio_16FA>How awful...
+<pause>
+<color_0002>You can pull out the sword.
+Pull it?<color_0000>{END}"
+"<Cless>
+<audio_16FB>「どうか、安らかにお眠り下さい。
+　・・・失礼します」<wait>{END}"	"<Cless>
+ <audio_16FB>I'm so sorry...
+ Please rest in peace.<wait>{END}"
+<color_0002><item_A100>を手に入れました。<color_0000>{END}	<color_0002>Acquired a <item_A100>.<color_0000>{END}
+"<Cless>
+「そのままにしておこう」{END}"	"<Cless>
+ I-I just can't...{END}"
+"<audio_06D7>番兵
+「よし、入れ！」{END}"	"<audio_06D7>Guard
+ Get in there!{END}"
+"<audio_06D8>番兵
+「もたもたするな！！」{END}"	"<audio_06D8>Guard
+ Move it!!{END}"
+"<audio_06D9>番兵
+「長生きしたかったら、おとなし
+　くしていることだな」{END}"	"<audio_06D9>Guard
+ If you don't want me to slit your
+ miserable little throat, then you'll
+ do as we say!{END}"
+"<audio_06DA><Cless>
+「くそっ！！」{END}"	"<audio_06DA><Cless>
+ Dammit!{END}"
+"<audio_06CB>兵士
+「ミゲールの息子を、捕らえてき
+　ました！」{END}"	"<audio_06CB>Soldier
+ Sir! We have returned with
+ the son of Miguel Alvein,
+ as ordered!{END}"
+"<audio_06CC>？？？
+「ごくろう」{END}"	"<audio_06CC>???
+ Splendid.{END}"
+"<audio_06CD>？？？
+「ふ、貴様のような若造が持って
+　いたとはな・・・」
+<pause>
+<audio_06CE><Cless>
+「村を襲ったのはお前だな！！」
+<pause>
+<audio_06CF>？？？
+「だとしたら、どうだというのだ
+　弱き者よ」
+<pause>
+<audio_06D0><Cless>
+「くっ」{END}"	"<audio_06CD>???
+ Hmph, so it was in the hands of a
+ little brat like this...
+<pause>
+<audio_06CE><Cless>
+ You're the one who attacked the
+ village, aren't you!?
+<pause>
+<audio_06CF>???
+ So what if I was?
+ What could you hope to
+ do about it, Pipsqueak?
+<pause>
+<audio_06D0><Cless>
+ Ugh!{END}"
+"<audio_06D1><Cless>
+「かっ、返せ！！」
+<pause>
+<audio_06D2>？？？
+「このペンダントは、もらってお
+　くぞ・・・」
+<pause>
+<audio_06D3>？？？
+「おい、この若造の武器を奪って
+　牢に入れておけ」{END}"	"<audio_06D1><Cless>
+ G-Give that back!!!
+<pause>
+<audio_06D2>???
+ Ha!
+ This pendant is mine now...
+<pause>
+<audio_06D3>???
+ You!
+ Disarm this runt and throw
+ him in the dungeon.{END}"
+"<audio_06D4>？？？
+「ふふ・・・」
+<pause>
+<audio_06D5>？？？
+「これでついに・・・」{END}"	"<audio_06D4>???
+ Hmhm...
+<pause>
+<audio_06D5>???
+ Only one thing left, and finally...{END}"
+"<audio_06D6><Cless>
+（な、何だ、あれは！？）{END}"	"<audio_06D6><Cless>
+ (Wh-What's with his reflection!?){END}"
+"？？？
+<audio_06DB>「<speed_0010>私の・・・<speed_FFFF>声が<speed_0020>、<speed_FFFF>聞こえますか」{END}"	"???
+ <audio_06DB><speed_0020>Can you...<speed_FFFF>hear my<speed_0020>...<speed_FFFF>voice?{END}"
+"<audio_06DC><Cless>
+「なんだ？」
+<pause>
+<audio_06DD><Cless>
+「今・・・」
+<pause>
+<audio_06DE><Cless>
+「女の人の声がしなかったか？」{END}"	"<audio_06DC><Cless>
+ Huh?
+<pause>
+<audio_06DD><Cless>
+ Did I just hear...
+<pause>
+<audio_06DE><Cless>
+ ...a woman's voice?{END}"
+"<Cless>
+「ひどいことを・・・」{END}"	"<Cless>
+ How horrible...{END}"
+"<Cless>
+「この法衣は法術師のものだ！」
+<pause>
+<Cless>
+「これも、奴らの仕業なのか」{END}"	"<Cless>
+ These are the robes of a cleric!
+<pause>
+<Cless>
+ Who could do such a thing!?{END}"
+"<unk1><Cless>
+これは、捨てちゃまずいかな・・・」
+<pause>
+<color_0002><num3_C000511E>を拾いました。{END}"	"<unk1><Cless>
+ Uhh...
+ On second thought, I'm probably
+ going to need this...
+<pause>
+<color_0002>Picked the <num3_C000511E> back up.{END}"
+<color_0002><item_C500>を手に入れました。{END}	<color_0002>Acquired a <item_C500>.{END}

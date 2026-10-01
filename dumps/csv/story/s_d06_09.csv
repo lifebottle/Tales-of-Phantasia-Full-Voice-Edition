@@ -1,0 +1,245 @@
+Japanese	English
+訓練マップ{END}	 Training Map{END}
+"<audio_1616><Cless>
+「<Chester>・・・
+　少し休んだらどうだ」<wait>{END}"	"<audio_1616><Cless>
+ <Chester>...
+ Can we talk for a few minutes?<wait>{END}"
+"<audio_1617><Chester>
+「<Cless>か・・・」<wait>{END}"	"<audio_1617><Chester>
+ <Cless>...?<wait>{END}"
+"<unk1><audio_1618><Cless>
+<Arche>に言われた事、気にしてるのか？」{END}"	"<unk1><audio_1618><Cless>
+ Is it what <Arche> said
+ that's bothering you?{END}"
+"<audio_1619><Chester>
+「まあ、それもあるけどな」{END}"	"<audio_1619><Chester>
+ That's only part of it...{END}"
+"<audio_161A><Chester>
+「何よりも、お前の事が気になる
+　んだよ」{END}"	"<audio_161A><Chester>
+ Truth is, it's more about you.{END}"
+"<audio_161B><Cless>
+「・・・？」<wait>{END}"	"<audio_161B><Cless>
+ ...?<wait>{END}"
+"<audio_161C><Chester>
+「お前と俺は、剣と弓の違いこそ
+　あれ共に修行をしてきた仲だ」<wait>{END}"	"<audio_161C><Chester>
+ It used to be that you and I stayed
+ neck-and-neck in our training. Our
+ only difference was our weapon of
+ choice. Good times, those.<wait>{END}"
+"<audio_161D><Chester>
+「だが、俺とは違う時間の流れの
+　中でお前は強くなった」<wait>{END}"	"<audio_161D><Chester>
+ But in all of what seemed like only
+ a few minutes to me, you got
+ insanely strong.<wait>{END}"
+"<audio_161E><Chester>
+「なんだか・・・
+　焦っちまうんだよな・・・」{END}"	"<audio_161E><Chester>
+ You're suddenly so far ahead that I
+ just feel sorta...left out, y'know?{END}"
+"<audio_161F><Chester>
+「なあ、<Cless>・・・
+　トーティス村のみんなが夢に出
+　ることはあるか？」
+<pause>
+<audio_1620><Cless>
+「ああ・・・」<wait>{END}"	"<audio_161F><Chester>
+ Say... Do you have dreams about
+ everyone in Totus?
+<pause>
+<audio_1620><Cless>
+ Yeah...<wait>{END}"
+"<audio_1621><Chester>
+「俺はここのところ毎晩さ」<wait>{END}"	"<audio_1621><Chester>
+ Not a single night goes by without
+ me having one.<wait>{END}"
+"<audio_1622><Chester>
+「村が襲われた時の事を考えると
+　眠れなくなるんだ」<wait>{END}"	"<audio_1622><Chester>
+ I'm suddenly awoken by intense
+ thoughts of everyone being
+ massacred! I'll be so furious I can't
+ go back to sleep!<wait>{END}"
+"<audio_1623><Chester>
+「こうして弓を射ってると、気持
+　ちが少しまぎれる・・・」{END}"	"<Chester>
+ I have to go out and shoot some
+ arrows to help me cool off a little.{END}"
+"<unk1><audio_1624><Chester>
+<Cless>・・・知ってたか？」
+<pause>
+<audio_1625><Chester>
+アミィの奴、お前のことが好きだったんだぜ・・・」{END}"	"<unk1><audio_1624><Chester>
+ One last thing, <Cless>...
+ Did you know?
+<pause>
+<audio_1625><Chester>
+ My little sister, Ami...she really liked
+ you...{END}"
+この訓練によって<Chester>に経験値が加算されます。<wait>{END}	"<Chester> has gained additional
+experience from his training.<wait>{END}"
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}	<speed_0000><color_0002>Level up!{END}
+"<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}"	<speed_0000><color_0002>Level up! New arte!{END}
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}	<speed_0000><color_0002>Level up!{END}
+"<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}"	<speed_0000><color_0002>Level up! New arte!{END}
+<color_0002><Chester>は『<var_CA01>』の称号を得ました。<color_0000>{END}	"<color_0002><Chester> has earned the title
+“<var_CA01>.”<color_0000>{END}"
+"<audio_1626><Arche>
+「アンタ、何してんの？」
+<pause>
+<audio_1627><Chester>
+「別に」
+<pause>
+<audio_1628><Arche>
+「別にって・・・
+　こんな真夜中に・・・」{END}"	"<audio_1626><Arche>
+ Sooo...
+ What're YOU doin' out here?
+<pause>
+<audio_1627><Chester>
+ Nothing.
+<pause>
+<audio_1628><Arche>
+ Oh? In the middle of the night?{END}"
+"<audio_1629><Chester>
+「何をしようがオレの勝手だろ」
+<pause>
+<audio_162A><Arche>
+「・・・あたしが弱そうって言っ
+　たこと、気にしてたんだ」{END}"	"<audio_1629><Chester>
+ What, you got a problem with that?
+ I can do whatever I want.
+<pause>
+<audio_162A><Arche>
+ ...I bet you're still annoyed over
+ what I said when we met.{END}"
+"<audio_162B><Chester>
+「そんなんじゃねぇよ」
+<pause>
+<audio_162C><Arche>
+「じゃあ、なんなのよ？」<wait>{END}"	"<audio_162B><Chester>
+ You'd be losing that bet, then.
+<pause>
+<audio_162C><Arche>
+ So tell me, then.<wait>{END}"
+"<audio_162D><Chester>
+「なんでもないって言ってるだろ！
+　用がないんだったら、どっかへ
+　行けよ」{END}"	"<audio_162D><Chester>
+ What part of “nothing” didn't you
+ understand!? If you don't have
+ anything else to do, then buzz off!{END}"
+"<audio_162E><Arche>
+「・・・・・・」
+<pause>
+<audio_162F><Arche>
+「・・・わかった・・・行く」{END}"	"<audio_162E><Arche>
+ ......
+<pause>
+<audio_162F><Arche>
+ ...I get it...I'll leave.{END}"
+"<audio_1630><Chester>
+「待てよ・・・」
+<pause>
+<audio_1631><Chester>
+「・・・ちょっと、強く言いすぎ
+　たよ・・・」{END}"	"<audio_1630><Chester>
+ Hold up...
+<pause>
+<audio_1631><Chester>
+ I...didn't mean to say all that...{END}"
+"<audio_1632><Arche>
+「・・・あたし・・・」
+<pause>
+<audio_1633><Arche>
+「アンタに謝らないと・・・」{END}"	"<audio_1632><Arche>
+ ...I...
+<pause>
+<audio_1633><Arche>
+ ...think I should apologize to y--{END}"
+"<audio_1634><Chester>
+「何か言ったか？」<wait>{END}"	"<audio_1634><Chester>
+ What was that?<wait>{END}"
+"<audio_1635><Arche>
+「なんでもない！」<wait>{END}"	"<audio_1635><Arche>
+ Oh, just forget it!<wait>{END}"
+"<audio_1636><Arche>
+「言っとくけどね、風邪なんかひ
+　かないでよね！皆が迷惑するん
+　だから」
+<pause>
+<audio_1637><Chester>
+「そっちこそ、夜食を食いすぎて
+　腹こわすなよ！」<wait>{END}"	"<audio_1636><Arche>
+ I'll say this, though: don't go getting
+ yourself a cold or anything out
+ here! You'll just hold us all back
+ even more.
+<pause>
+<audio_1637><Chester>
+ Yeah, well, why don't you try not
+ stuffing your face so much every
+ night!? Nobody likes listening to you
+ whine about your stomach aches!<wait>{END}"
+"<audio_1638><Arche>
+「よ・け・い・な・お・世・話！」
+<pause>
+<audio_1639><Arche>
+「おやすみっ」{END}"	"<audio_1638><Arche>
+ La-la-la!
+ I'm-not-listening!
+<pause>
+<audio_1639><Arche>
+ G'night!{END}"
+この訓練によって<Chester>に経験値が加算されます。{END}	"<Chester> has gained additional
+experience from his training.{END}"
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}	<speed_0000><color_0002>Level up!{END}
+"<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}"	<speed_0000><color_0002>Level up! New arte!{END}
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}	<speed_0000><color_0002>Level up!{END}
+"<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}"	<speed_0000><color_0002>Level up! New arte!{END}
+"<audio_163A><Chester>
+「くそ・・・」{END}"	"<audio_163A><Chester>
+ What a bunch of garbage...{END}"
+"<audio_163B><Chester>
+「弱そうだぁ？」{END}"	"<audio_163B><Chester>
+ I'm “wussy,” huh?{END}"
+"<audio_163C><Chester>
+「ふざけんなよっ！」{END}"	"<audio_163C><Chester>
+ She's so full of it!{END}"
+"<audio_163D><Chester>
+「あのバカ女！」{END}"	"<audio_163D><Chester>
+ That stupid, dumbass, immature
+ little...ugh!{END}"
+"<audio_163E><Chester>
+「俺は足手まといになんかならな
+　い！」{END}"	"<audio_163E><Chester>
+ No way in hell I'm going to hold
+ everyone back!{END}"
+"<audio_163F><Chester>
+「なってたまるものかっ！」{END}"	"<audio_163F><Chester>
+ That's a promise!{END}"
+"<audio_1640><Chester>
+「今に見てろ・・・」{END}"	"<audio_1640><Chester>
+ Just you watch, girl...{END}"
+"<audio_1641><Chester>
+「絶対に見返してやる！」{END}"	"<audio_1641><Chester>
+ I'll make you eat your words!{END}"
+"この訓練によって<Chester>に経験値が加算されます。
+<pause>
+{END}"	"<Chester> has gained additional
+experience from his training.
+<pause>
+{END}"
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}	<speed_0000><color_0002>Level up!{END}
+"<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}"	<speed_0000><color_0002>Level up! New arte!{END}
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}	<speed_0000><color_0002>Level up!{END}
+"<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}"	<speed_0000><color_0002>Level up! New arte!{END}

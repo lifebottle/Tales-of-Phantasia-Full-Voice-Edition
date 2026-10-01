@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html translate="no">
+
+<head>
+	<title>Tales of Phantasia: Full Voice Edition Patcher</title>
+	<meta http-equiv="content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+
+
+
+	<!-- Rom Patcher JS needed CSS/JS files -->
+	<link type="text/css" rel="stylesheet" href="./rom-patcher-js/style.css" media="all" />
+	<script type="text/javascript" src="./rom-patcher-js/RomPatcher.webapp.js"></script>
+
+	<!-- Rom Patcher JS initialization -->
+	<script type="text/javascript">
+        const TOPX_MD5 = 'aa49c716783766aa5913e6a5ca8bb822';
+        const TOP_FVE_MD5 = '986193786969438311a41262aead541a';
+
+        const TOP_FVE_VERSION = '1.2';
+        const TOP_FVE_VERSION_NODOTS = TOP_FVE_VERSION.replace('.', '');
+
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+
+        const TOP_FVE_PATCH_NAME = `topfve-v${TOP_FVE_VERSION}`;
+        const TOP_FVE_PATCH_NAME_VANILLA = TOP_FVE_PATCH_NAME + '-vanilla';
+
+        const TOP_FVE_PATCH_TITLE = `Tales of Phantasia: Full Voice Edition v${TOP_FVE_VERSION}`;
+        const TOP_FVE_PATCH_TITLE_VANILLA = `Tales of Phantasia: Full Voice Edition v${TOP_FVE_VERSION} (No QoL)`;
+
+        const topx_warning = "This translation patch is not intended for Tales of Phantasia: Cross Edition.";
+        const wrong_extension_warning = "Wrong format, this translation patch requires an ISO file.";
+
+        const origin = window.location.origin;
+        const pathname = window.location.pathname;
+        const baseUrl = origin + pathname;
+
+        function ready(fn) {
+          if (document.readyState !== 'loading') {
+            fn();
+          } else {
+            document.addEventListener('DOMContentLoaded', fn);
+          }
+        }
+
+const help_text = `
+The main patch features the following quality-of-life improvements over the base game:
+
+<ul>
+<li>Added a skit prompt on the world map</li>
+<li>Added a new Red Lantern location in the Airfread quest</li>
+<li>Restored the original ending credits song</li>
+<li>Removed the Dark element from Suzu's Chizakura weapon</li>
+<li>Made the stealth section of Alvanista Castle less punishing</li>
+<li>Added a toggle for turning Battle Subs on/off</li>
+<li>Added a toggle for turning enhanced Holy Bottles on/off (enhanced bottles stop encounters fully for their duration, as in modern games)</li>
+<li>Monster Book is now alphabetically sorted and starts at the first entry</li>
+<li>The Sorcerer's Ring doesn't need to be equipped to be able to shoot fire</li>
+<li>Curio's Mirror, Scout Orb and Combo Counter now carry over in New Game+ if you select the option to carry over items</li>
+<li>Restored Rhea Super Deformed sprite from ToP GBA</li>
+<li>Monster Book sprites now use the actual enemy graphics</li>
+<li>Ishrantu's Monster Book entry now correctly lists the elemental weakness as Earth</li>
+<li>One censored skit about drinking is now restored</li>
+<li>Fixed coords for two hotspots which were misplaced in the original game (bookshelves in the back of the item shop in the Elven Settlement and Arche's crying animation during a cutscene)</li>
+<li>Added a Technical Ring to the starting equipment</li>
+</ul>
+
+Since some of these affect the gameplay, we have provided a "No QoL" patch for those preferring to
+forgo gameplay-related improvements and have the original experience.
+`;
+
+		window.addEventListener('load', function (evt) {
+			try {
+				RomPatcherWeb.initialize({
+					language: 'en', //default: en
+					requireValidation: false,
+                    allowDropFiles: true,
+                    onloadrom: function (romFile) {
+                        const hash = romFile.hashMD5();
+                        let warning = document.getElementById('rom-patcher-warning');
+                        let extension = romFile.fileName.split('.').at(-1) || '';
+                        if (extension.toLowerCase() !== 'iso') {
+                            warning.innerHTML = wrong_extension_warning;
+                        } else if (hash === TOP_FVE_MD5) {
+                            RomPatcherWeb.pickEmbededFile(`${TOP_FVE_PATCH_NAME}.xdelta`);
+                            warning.innerHTML = '';
+                        } else if (hash == TOPX_MD5) {
+                            warning.innerHTML = topx_warning;
+                        }
+                    },
+				}, {
+                    file: `./topfve_v${TOP_FVE_VERSION_NODOTS}.zip`, //zip containing patches
+                    patches: [ //information about patches inside the zip
+                        {
+                            file: `${TOP_FVE_PATCH_NAME}-main.xdelta`, //required, must match the patch file name in the zip
+                            name: TOP_FVE_PATCH_TITLE,
+                            inputMd5: TOP_FVE_MD5,
+                        },
+                        {
+                            file: `${TOP_FVE_PATCH_NAME_VANILLA}.xdelta`, //required, must match the patch file name in the zip
+                            name: TOP_FVE_PATCH_TITLE_VANILLA,
+                        }
+                    ],
+				});
+			} catch (err) {
+				var message = err.message;
+				if (/incompatible browser/i.test(message) || /variable RomPatcherWeb/i.test(message))
+					message = 'Your browser is outdated and it is not compatible with this app.';
+
+				document.getElementById('rom-patcher-container').innerHTML = message;
+				document.getElementById('rom-patcher-container').style.color = 'red';
+			}
+		});
+
+        ready(function() {
+            document.querySelector('.rom-patcher-help').innerHTML = help_text;
+        });
+	</script>
+</head>
+
+<body>
+	<header>
+		<h1>Tales of Phantasia: Full Voice Edition English Translation</h1>
+
+        <a href="https://www.lifebottle.org/" rel="nofollow noopener"><img class="logo" src="lbp_logo.svg" alt="Life Bottle Productions" /></a>
+
+        <div id="rom-patcher-warning"></div>
+
+	</header>
+
+
+	<!-- Rom Patcher JS container -->
+	<div id="rom-patcher-container">
+		<div class="rom-patcher-row margin-bottom" id="rom-patcher-row-file-rom">
+			<div class="text-right"><label for="rom-patcher-input-file-rom" data-localize="yes">Japanese ISO:</label></div>
+			<div class="rom-patcher-container-input">
+				<input type="file" id="rom-patcher-input-file-rom" class="empty" disabled />
+			</div>
+		</div>
+        <div class="margin-bottom text-selectable text-mono text-muted" id="rom-patcher-rom-info" style="display: none;">
+			<div class="rom-patcher-row">
+				<div class="text-right">CRC32:</div>
+				<div class="text-truncate"><span id="rom-patcher-span-crc32"></span></div>
+			</div>
+			<div class="rom-patcher-row">
+				<div class="text-right">MD5:</div>
+				<div class="text-truncate"><span id="rom-patcher-span-md5"></span></div>
+			</div>
+			<div class="rom-patcher-row">
+				<div class="text-right">SHA-1:</div>
+				<div class="text-truncate"><span id="rom-patcher-span-sha1"></span></div>
+			</div>
+			<div class="rom-patcher-row" id="rom-patcher-row-info-rom">
+				<div class="text-right">ROM:</div>
+				<div class="text-truncate"><span id="rom-patcher-span-rom-info"></span></div>
+			</div>
+		</div>
+
+		<div class="rom-patcher-row margin-bottom" id="rom-patcher-row-file-patch">
+			<div class="text-right"><label for="rom-patcher-input-file-patch" data-localize="yes">Patch file:</label>
+			</div>
+			<div class="rom-patcher-container-input">
+				<select id="rom-patcher-select-patch"></select>
+			</div>
+		</div>
+		<div class="rom-patcher-row margin-bottom" id="rom-patcher-row-patch-description">
+			<div class="text-right text-mono text-muted" data-localize="yes">Description:</div>
+			<div class="text-truncate" id="rom-patcher-patch-description"></div>
+		</div>
+		<div class="rom-patcher-row margin-bottom text-selectable text-mono text-muted"
+			id="rom-patcher-row-patch-requirements">
+			<div class="text-right text-mono" id="rom-patcher-patch-requirements-type">ROM requirements:</div>
+			<div class="text-truncate" id="rom-patcher-patch-requirements-value"></div>
+		</div>
+
+		<div class="text-center" id="rom-patcher-row-apply">
+			<div id="rom-patcher-row-error-message" class="margin-bottom"><span id="rom-patcher-error-message"></span>
+			</div>
+			<button id="rom-patcher-button-apply" data-localize="yes" disabled>Apply patch</button>
+		</div>
+	</div>
+
+    <div class="rom-patcher-help"></div>
+
+	<div id="rom-patcher-powered" class="text-center">
+		<a href="https://github.com/marcrobledo/RomPatcher.js" target="_blank"><img
+				src="rom-patcher-js/assets/powered_by_rom_patcher_js.png" loading="lazy" />Powered by Rom Patcher JS</a>
+	</div>
+</body>
+
+</html>

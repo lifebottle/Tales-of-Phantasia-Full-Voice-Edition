@@ -1,0 +1,422 @@
+“Before the end, comes the
+beginning.”{END}
+
+<audio_12B2><Cless>:<nl>
+ Weird...
+<pause>
+<audio_12B3><Cless>:<nl>
+ Someone scrawled a map of this
+ floor here.
+<pause>
+<audio_12B4><Cless>:<nl>
+ According to this map...
+<pause>
+<audio_12B5><Cless>:<nl>
+ There's a hidden passage in the room with stairs to the lower floor!{END}
+
+<color_0002>Flip the lever?<color_0000>{END}
+
+<audio_12B6><Cless>:<nl>
+ Dhaos!!!
+<pause>
+<audio_12B7><Cless>:<nl>
+ This is it!
+ We're going to settle
+ this once and for all!!!
+<pause>
+<audio_12B8>Dhaos:<nl>
+ Hmhmhm...
+<pause>
+<audio_12B9>Dhaos:<nl>
+ I must say, I'm quite impressed
+ you managed to get this far.
+<pause>
+<audio_12BA>Dhaos:<nl>
+ For such reckless valor, what
+ is an appropriate title?
+ Perhaps “Heroes of Legend”?
+<pause>
+<audio_12BB><Chester>:<nl>
+ Don't mess with us!
+<pause>
+<audio_12BC><Chester>:<nl>
+ We're going to make you wish
+ you'd never been born!!!
+<pause>
+<audio_12BD><Mint>:<nl>
+ Wait, please!{END}
+
+<audio_12BE><Klarth>:<nl>
+ <Mint>!
+ Keep away from him!!!
+<pause>
+<audio_12BF>Dhaos:<nl>
+ What?
+<pause>
+<audio_12C0>Dhaos:<nl>
+ Pleading for your life, after all
+ you've done?
+<pause>
+<audio_12C1><Mint>:<nl>
+ I need to ask you a question.
+<pause>
+<audio_12C2><Mint>:<nl>
+ You once said that you had no
+ grounds upon which to fight with
+ us.
+<pause>
+<audio_12C3><Mint>:<nl>
+ I want to know why.{END}
+
+<audio_12C4>Dhaos:<nl>
+ None of you were involved with
+ magitechnology.
+<pause>
+<audio_12C5><Mint>:<nl>
+ Why do you dislike magitechnology?
+<pause>
+<audio_12C6>Dhaos:<nl>
+ It devours mana!!!
+<pause>
+<audio_12C7>Dhaos:<nl>
+ I cannot allow that to happen!
+ Those who use magitechnology
+ must be exterminated!
+<pause>
+<audio_12C8><Klarth>:<nl>
+ *Everyone* who uses it?
+ That's a little extreme.
+<pause>
+<audio_12C9><Klarth>:<nl>
+ Magitechnology has frightening
+ potential. I'll give you that.
+<pause>
+<audio_12CA><Klarth>:<nl>
+ But it's not as if us humans are so
+ foolish that we can't learn from
+ our mistakes!
+<pause>
+<audio_12CB><Klarth>:<nl>
+ The World Tree will live on!
+<pause>
+<audio_12CC>Dhaos:<nl>
+ Do you really believe that?
+<pause>
+<audio_12CD>Dhaos:<nl>
+ Know the truth: If I had not
+ destroyed Midgard, Yggdrasill would
+ have already withered away.
+<pause>
+<audio_12CE><Cless>:<nl>
+ So all this was to protect
+ Yggdrasill?
+<pause>
+<audio_12CF><Cless>:<nl>
+ But why?
+ What's in it for you?
+<pause>
+<audio_12D0>Dhaos:<nl>
+ Mana.
+ I require it for my cause.
+<pause>
+<audio_12D1>Dhaos:<nl>
+ Hmph... Any further explanation is
+ useless. It's beyond your
+ comprehension.
+<pause>
+<audio_12D2><Chester>:<nl>
+ For all I care, you can shove your
+ “cause” up your ass!
+<pause>
+<audio_12D3><Chester>:<nl>
+ The only thing I've come here to
+ “comprehend” is your bloody,
+ smashed-in prettyboy face!<wait>{END}
+
+<audio_12D4>Dhaos:<nl>
+ Hahahahahah!
+<pause>
+<audio_12D5>Dhaos:<nl>
+ Tell me: Why must I justify myself
+ to you?
+<pause>
+<audio_12D6><Cless>:<nl>
+ You--!!!
+<pause>
+<audio_12D7>Dhaos:<nl>
+ It is YOU who should make amends
+ to ME!
+<pause>
+<audio_12D8><Chester>:<nl>
+ He's playing with us...
+<pause>
+<audio_12D9><Cless>:<nl>
+ No matter the reason...
+<pause>
+<audio_12DA><Cless>:<nl>
+ ...I WILL NEVER forgive someone
+ for killing countless people as
+ though they were insects!!!
+<pause>
+<audio_12DB>Dhaos:<nl>
+ Enough talk!!!
+<pause>
+<audio_12DC>Dhaos:<nl>
+ Those who stand in my way must
+ be purged!
+<pause>
+<audio_12DD><Cless>:<nl>
+ Just shut up already!
+ I've had enough!!{END}
+
+<audio_12DE><Cless>:<nl>
+ D-Did we get him?
+<pause>
+<audio_12DF><Klarth>:<nl>
+ No!
+ He's still breathing!{END}
+
+<audio_12E0>Dhaos:<nl>
+ Mwahahahahah...<wait>{END}
+
+Dhaos:<nl>
+ Astounding that lower life forms
+ could push me this far.<wait>{END}
+
+Dhaos:<nl>
+ So be it!
+ I shall risk both my body
+ and soul on this battle!<wait>{END}
+
+<audio_12E3><Cless>:<nl>
+ Y-You're saying you went easy on
+ us!?<wait>{END}
+
+Dhaos:<nl>
+ The troublesome barrier
+ obstructing my true power shall be
+ cast aside!<wait>{END}
+
+<audio_12E5><Mint>:<nl>
+ Ahhh!
+<pause>
+<audio_12E6><Cless>:<nl>
+ Where'd the floor--!?<wait>{END}
+
+Dhaos:<nl>
+ Mwah...hah hah hah!<wait>{END}
+
+Dhaos:<nl>
+ I will not let you interfere!!<wait>{END}
+
+Dhaos:<nl>
+ My desire--this burden I bear--is
+ for the sake of my people...<wait>{END}
+
+Dhaos:<nl>
+ YOU SHALL NOT STAND IN MY WAY!!<wait>{END}
+
+Dhaos:<nl>
+ O Derris-Kharlan, beloved
+ motherworld!<wait>{END}
+
+Dhaos:<nl>
+ Release my power!!<wait>{END}
+
+<speed_0000><color_0002>Change party formation?{END}
+
+<audio_12ED><Cless>:<nl>
+ D-Did we...!?
+<pause>
+<audio_12EE>Dhaos:<nl>
+ U-Ugh...<wait>{END}
+
+<audio_12EF>Dhaos:<nl>
+ No!
+<pause>
+<audio_12F0>Dhaos:<nl>
+ I shall not give in to something so
+ meager!
+<pause>
+<audio_12F1>Dhaos:<nl>
+ I cannot give in until I obtain a
+ Great Seed!
+<pause>
+<audio_12F2>Dhaos:<nl>
+ O Divine One!
+<pause>
+<audio_12F3>Dhaos:<nl>
+ O Divine One of mother
+ Derris-Kharlan!
+<pause>
+<audio_12F4>Dhaos:<nl>
+ Grant me strength!
+<pause>
+<audio_12F5>Dhaos:<nl>
+ GRANT ME STRENGTH!!!{END}
+
+<audio_12F6><Cless>:<nl>
+ Wh-What the...
+<pause>
+<audio_12F7><Klarth>:<nl>
+ Be careful!
+<pause>
+<audio_12F8><Klarth>:<nl>
+ He could pull anything!<wait>{END}
+
+<audio_12F9><Chester>:<nl>
+ What the hell is he doing!?
+<pause>
+<audio_12FA><Arche>:<nl>
+ Th-This magic...!
+ It's way too strong!
+<pause>
+<audio_12FB>Dhaos:<nl>
+ For my desire...
+<pause>
+<audio_12FC>Dhaos:<nl>
+ For the prayers of my people...
+<pause>
+<audio_12FD>Dhaos:<nl>
+ I...
+<pause>
+<audio_12FE>Dhaos:<nl>
+ I will fight on!<wait>{END}
+
+<speed_0000><color_0002>Change party formation?{END}
+
+<audio_12FF><Cless>:<nl>
+ Did we...finally get him?<wait>{END}
+
+<audio_1300><Cless>:<nl>
+ H-He can still stand!?
+<pause>
+<audio_1301><Klarth>:<nl>
+ Hold on!
+ Something isn't right!<wait>{END}
+
+<unk1><audio_1302><Cless>:<nl>
+ What are you doing, <Mint>!?
+ Stay back!
+<pause>
+<audio_1303><Mint>:<nl>
+ No... He...
+<pause>
+<audio_1304><Mint>:<nl>
+ ...he...will soon...<wait>{END}
+
+<audio_1305>Dhaos:<nl>
+ Ugh<speed_0010>...<speed_0004>am<speed_0010>...<speed_0004>am<speed_0010>...<speed_0004>I<speed_0010>...<speed_0004>dying...?<wait>{END}
+
+Dhaos:<nl>
+ So the fate of my people is
+ sealed...<wait>{END}
+
+<audio_1307><Mint>:<nl>
+ ...Please... Won't you tell us...
+<pause>
+<audio_1308><Mint>:<nl>
+ ...what you fought so fearlessly
+ for...?
+<pause>
+<audio_1309>Dhaos:<nl>
+ It...is meaningless now.
+<pause>
+<audio_130A><Mint>:<nl>
+ Even so...
+<pause>
+<audio_130B><Mint>:<nl>
+ I wish to know the truth...
+<pause>
+<audio_130C>Dhaos:<nl>
+ ......
+<pause>
+<audio_130D>Dhaos:<nl>
+ Very well...
+<pause>
+<audio_130E>Dhaos:<nl>
+ With my last breath...I shall tell
+ you...
+<pause>
+<audio_130F>Dhaos:<nl>
+ ...what...it...was...I...sought...<wait>{END}
+
+<audio_12AF>Sealeye?:<nl>
+ Ssso you have come, lowly
+ knavesss!{END}
+
+<audio_12B0>Sealeye?:<nl>
+ Of thisss worrrld, you have the
+ mossst wonderrrful of fatesss!
+<pause>
+<audio_12B1>Sealeye?:<nl>
+ I ssshall grrrant you deathsss
+ mossst gruesssome! You ssshall
+ drrrown in yourrr own blood!{END}
+
+<color_0002>Go back?<color_0000>{END}
+
+<Cless>:<nl>
+ Uh, whoops... <panic>
+<pause>
+<Cless>:<nl>
+ I still haven't rescued everyone
+ yet...
+<pause>
+<Cless>:<nl>
+ Can't leave without them!{END}
+
+<audio_12A5><Cless>:<nl>
+ Whoa! What happened!?
+<pause>
+<audio_12A6><Klarth>:<nl>
+ One possibility is that we were
+ called here by the resonation of
+ Dhaos' power of time manipulation
+ and the Sword of Time...{END}
+
+Grim Reaper:<nl>
+ You have done well to realize my
+ existence.
+<pause>
+Grim Reaper:<nl>
+ You have earned the opportunity to
+ purchase something most
+ astounding. How about it?{END}
+
+Grim Reaper:<nl>
+ What is your offer?
+<pause>
+<speed_0000>1. 765 gald<nl>
+2. 7650 gald<nl>
+3. 76500 gald<nl>
+4. 765000 gald<speed_FFFF>{END}
+
+Grim Reaper:<nl>
+ No shame in backing out...
+<pause>
+Grim Reaper:<nl>
+ Return to me should you have
+ second thoughts.{END}
+
+Grim Reaper:<nl>
+ Come, if you want to buy
+ something.{END}
+
+Grim Reaper:<nl>
+ You can buy anything in the world
+ with money, so they say...
+<pause>
+Grim Reaper:<nl>
+ But without money, you can buy
+ nothing.{END}
+
+<color_0002>Everyone gained <num5_C0006104> experience
+points.<wait>{END}
+
+<color_0002><num2_C0005108> leveled up.<wait>{END}
+
+<color_0002><num2_C0005108> leveled up.
+<pause>
+<num2_C0005108> learned a new arte.<wait>{END}
+

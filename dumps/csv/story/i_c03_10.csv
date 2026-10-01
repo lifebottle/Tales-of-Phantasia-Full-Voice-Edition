@@ -1,0 +1,558 @@
+Japanese	English
+"<Arche>
+「<Cless>、行くよ〜<heart>」{END}"	"<Arche>
+ Here we go, <Cless>! <heart>{END}"
+"<Arche>
+「やったじゃん<star>！」
+<pause>
+<Arche>
+「<num5_C000512A>回目で成功だね<heart>」{END}"	"<Arche>
+ Yay! We did it<star>!
+<pause>
+<Arche>
+ Took only <num5_C000512A> tries <heart>{END}"
+"<num5_C000512A>回目失敗
+<pause>
+<Arche>
+「だめだったね<panic>」<wait>{END}"	"<color_0002>Failure #<num5_C000512A>.<color_0000>
+<pause>
+<Arche>
+ Aww, boo!
+ We gotta be more careful! <panic><wait>{END}"
+"<Arche>
+「もう一回やる？」{END}"	"<Arche>
+ Wanna give it another go?{END}"
+"<Klarth>
+「誰かがこのスイッチの上にのっ
+　ていたら扉が開くんだろう？」
+<pause>
+<Klarth>
+「私がここでのっているから先に
+　行ってはどうだ？」<wait>{END}"	"<Klarth>
+ Another switch-operated door.
+ Except there aren't any convenient
+ statues lying around this time.
+<pause>
+<Klarth>
+ So, someone needs stay behind
+ for now and lend their weight.
+ I don't mind doing it, but it's
+ your decision, <Cless>.<wait>{END}"
+"<color_0002>誰にのっていてもらいますか？
+<speed_0000>１。<Klarth>
+２。<Mint>
+３。<Arche><color_0000><speed_FFFF>{END}"	"<speed_0000><color_0002>Who will stay behind?
+1. <Klarth>
+2. <Mint>
+3. <Arche><color_0000><speed_FFFF>{END}"
+"<Cless>
+「あっ！<sweat>」{END}"	"<Cless>
+ Whoa!<sweat>{END}"
+ダオスの城{END}	Dhaos' Castle{END}
+『逆』{END}	“Reverse”{END}
+『上下右左下上』{END}	“UP DOWN RIGHT LEFT DOWN UP”{END}
+"<Cless>
+「合わせ鏡で、手鏡と鏡がお互い
+　を映し出してる・・・」{END}"	"<Cless>
+ When two mirrors face each other,
+ they will reflect each other
+ infinitely...{END}"
+"<Cless>
+「合わせ鏡で、手鏡と鏡がお互い
+　を映し出してる・・・」{END}"	"<Cless>
+ When two mirrors face each other,
+ they will reflect each other
+ infinitely...{END}"
+"<Cless>
+「合わせ鏡で、手鏡と鏡がお互い
+　を映し出してる・・・」{END}"	"<Cless>
+ When two mirrors face each other,
+ they will reflect each other
+ infinitely...{END}"
+"<Cless>
+「手鏡が光ってる・・・」
+<pause>
+<Cless>
+「鏡の中から敵が！！」{END}"	"<Cless>
+ The hand mirror we found is
+ starting to glow...
+<pause>
+<Cless>
+ ...!?
+ The monster in the mirror is--!!{END}"
+"<Cless>
+「もう一回やってみよう」{END}"	"<Cless>
+ Let's try it again, <Arche>.{END}"
+"<audio_15AF><Cless>
+「これは、モーリア坑道の石盤と
+　同じ文字？」
+<pause>
+<audio_15B0><Cless>
+「<Arche>、読める？」{END}"	"<audio_15AF><Cless>
+ Isn't this the same language
+ written on the stone tablet at the
+ bottom of the Moria Mine?
+<pause>
+<audio_15B0><Cless>
+ <Arche>, would you
+ translate it?{END}"
+"<audio_15B1><Arche>
+「左右対称のスイッチを、下の方
+　から同時に押せ、だってさ」
+<pause>
+<audio_15B2><Cless>
+「えっ？」<wait>{END}"	"<audio_15B1><Arche>
+ Umm, I think it says:
+ “Press the corresponding switches
+ simultaneously.”
+<pause>
+<audio_15B2><Cless>
+ Hmm...<wait>{END}"
+"<unk1><audio_15B3><Arche>
+<Cless>、あたしと一緒にやろ<heart>」{END}"	"<unk1><audio_15B3><Arche>
+ Come on, <Cless>!
+ We can do this! <heart>{END}"
+"<Cless>
+「黄金の鍵を使おう」{END}"	"<Cless>
+ Stick the Golden Key in the keyhole,
+ and...{END}"
+"<Cless>
+「鍵がかかってる・・・」{END}"	"<Cless>
+ It's locked...{END}"
+"<Mint>
+「これは・・・」
+<pause>
+<Mint>
+「四方八門封印術の紋章ですね」
+<pause>
+<Cless>
+「なんだって？」
+<pause>
+<Mint>
+「つまりこれは、四人が四つの方
+　角に向いて念じることを鍵とし
+　た封印のことです」{END}"	"<Mint>
+ There's a magic crest here...
+<pause>
+<Mint>
+ ...for a quadrilateral gate-sealing
+ spell.
+<pause>
+<Cless>
+ Come again?
+<pause>
+<Mint>
+ In other words, this is a sealed
+ door that can be only be opened by
+ the prayers of four people
+ arranged at four opposing points.{END}"
+"<Klarth>
+「四方八門封印術の紋章か！？」
+<pause>
+<Cless>
+「・・・それ、なんですか？」
+<pause>
+<Klarth>
+「これは四人が四つの方角に向い
+　て念じることを鍵とした封印な
+　んだ」{END}"	"<Klarth>
+ A crest for a quadrilateral
+ gate-sealing spell!?
+<pause>
+<Cless>
+ ...A what!?
+<pause>
+<Klarth>
+ Basically, this is a sealed door that
+ can only be opened by the prayers
+ of four people arranged in four
+ opposing directions.{END}"
+『合わせ鏡で道は開かれん』{END}	"“The way will be revealed only
+before facing mirrors.”{END}"
+<color_0002><item_7601>を手に入れました。<color_0000>{END}	<color_0002>Acquired <item_7601>.<color_0000>{END}
+<color_0002><item_CB00>を手に入れました。<color_0000>{END}	<color_0002>Acquired a <item_CB00>.<color_0000>{END}
+<color_0002><item_CD00>を手に入れました。<color_0000>{END}	<color_0002>Acquired a Mechanical <item_CB00>.<color_0000>{END}
+<color_0002><item_0300>を手に入れました。<color_0000>{END}	<color_0002>Acquired <item_0300>.<color_0000>{END}
+"<Cless>
+「この花瓶の花、薬草だ」
+<pause>
+<color_0002><item_8000>と<item_7F00>を手に入れました。<color_0000>{END}"	"<Cless>
+ Some medicinal herbs are growing
+ in this thing.
+<pause>
+<color_0002>Acquired some <item_8000> and some
+<item_7F00>.<color_0000>{END}"
+<color_0002><item_CD00>を手に入れました。<color_0000>{END}	<color_0002>Acquired a Mechanical <item_CB00>.<color_0000>{END}
+<color_0002><item_CB00>を手に入れました。<color_0000>{END}	<color_0002>Acquired a <item_CB00>.<color_0000>{END}
+"<Cless>
+「こんな所に、隠しスイッチが」
+<pause>
+<color_0002>押しますか？<color_0000>{END}"	"<Cless>
+ There's a hidden switch here.
+<pause>
+<color_0002>Push it?<color_0000>{END}"
+"<Cless>
+「こんな所に隠しスイッチが」
+<pause>
+<color_0002>押しますか？<color_0000>{END}"	"<Cless>
+ There's a hidden switch here.
+<pause>
+<color_0002>Push it?<color_0000>{END}"
+"<Cless>
+「あれ？」
+<pause>
+<Cless>
+「一人足りないような・・・」{END}"	"<Cless>
+ Umm...
+<pause>
+<Cless>
+ We shouldn't leave anyone behind...{END}"
+"<Cless>
+「なんだ、この鏡は？」{END}"	"<Cless>
+ What's the deal with this mirror!?{END}"
+"<audio_15B4><Cless>
+「この下って確か・・・」
+<pause>
+<audio_15B5><Mint>
+「そうです！」
+<pause>
+<audio_15B6><Mint>
+「<Arche>さんなら」
+<pause>
+<audio_15B7><Cless>
+「お〜い、<Arche>〜〜」
+<pause>
+<audio_15B8><Cless>
+「聞こえるかぁ〜」
+<pause>
+<audio_15B9><Arche>
+「上から呼ぶの、だ〜れ？」
+<pause>
+<audio_15BA><Cless>
+「ホウキで昇ってこいよ！！」{END}"	"<audio_15B4><Cless>
+ She should be right below us...
+<pause>
+<audio_15B5><Mint>
+ Oh, so that's it!
+<pause>
+<audio_15B6><Mint>
+ Since <Arche>'s the only
+ one who can fly...
+<pause>
+<audio_15B7><Cless>
+ Heyyy, <Arche>!
+ Up here!
+<pause>
+<audio_15B8><Cless>
+ ...You can hear me, can't you!?
+<pause>
+<audio_15B9><Arche>
+ What!?
+ Speak up, would ya!?
+<pause>
+<audio_15BA><Cless>
+ Hop on your broom and fly up
+ through the hole in the ceiling!!{END}"
+"<audio_15BB><Cless>
+「でっかい穴だなぁ<sweat>」
+<pause>
+<audio_15BC><Cless>
+「下の階からの吹きぬけになって
+　るみたいだ」{END}"	"<audio_15BB><Cless>
+ That's one big hole...<sweat>
+<pause>
+<audio_15BC><Cless>
+ I can feel a draft coming up
+ through it from the floor below.{END}"
+"トレジャーキーパー
+「ただでこの宝をやるわけにはい
+　かないなぁ」
+<pause>
+トレジャーキーパー
+「貴様の魂と引き換えだ！！」{END}"	"Treasure Keeper
+ I ain't givin' you this treasure for
+ free, y'know.
+<pause>
+Treasure Keeper
+ The price?
+ Your souls!!{END}"
+"<audio_0E9A><Cless>
+「ダオス、ついに見つけたぞ！」
+<pause>
+<audio_0E9B><Cless>
+「覚悟しろ！！」
+<pause>
+<audio_0E9C><Cless>
+「ここで、全ての決着をつけてや
+　る！！」
+<pause>
+<audio_0E9D>ダオス
+「・・・・・・」
+<pause>
+<audio_0E9E><Cless>
+「どうした、怖じ気づいたか！」
+<pause>
+<audio_0E9F>ダオス
+「なぜ私に剣を向ける？」
+<pause>
+<audio_0EA0>ダオス
+「私には、お前達と戦う理由はな
+　い」
+<pause>
+<audio_0EA1><Cless>
+「お前にはなくても、僕達にはあ
+　るんだ！！」{END}"	"<audio_0E9A><Cless>
+ We've finally found you, Dhaos!
+<pause>
+<audio_0E9B><Cless>
+ Prepare yourself!!!
+<pause>
+<audio_0E9C><Cless>
+ We've come here to settle things!!!
+<pause>
+<audio_0E9D>Dhaos
+ ......
+<pause>
+<audio_0E9E><Cless>
+ What's wrong?
+ Lost your nerve!?
+<pause>
+<audio_0E9F>Dhaos
+ For what reason do you point your
+ sword at me?
+<pause>
+<audio_0EA0>Dhaos
+ You are not my enemy.
+ I have no grounds upon which
+ to fight with you.
+<pause>
+<audio_0EA1><Cless>
+ You may not, but we have plenty!!{END}"
+"<audio_0EA2>ダオス
+「笑止！」
+<pause>
+<audio_0EA3>ダオス
+「しょせんお前達もミッドガルズ
+　の手先というわけか」
+<pause>
+<audio_0EA4>ダオス
+「降りかかる火の粉は振り払わね
+　ばなるまい」
+<pause>
+<audio_0EA5><Cless>
+「ダオス、覚悟！！」{END}"	"<audio_0EA2>Dhaos
+ Hmph!
+ How absurd!
+<pause>
+<audio_0EA3>Dhaos
+ So you're actually just pawns of
+ Midgard sent here to die, I take it?
+<pause>
+<audio_0EA4>Dhaos
+ Well, then. Even when insignificant
+ specks of dust gather, one must
+ still brush them off. Have at you!
+<pause>
+<audio_0EA5><Cless>
+ En garde!!{END}"
+"<audio_0EA6><Cless>
+「逃げられた・・・」
+<pause>
+<audio_0EA7><Cless>
+「くぅっ・・・」
+<pause>
+<audio_0EA8><Mint>
+「<Cless>さん・・・」
+<pause>
+<audio_0EA9><Mint>
+「どうすればいいの？」{END}"	"<audio_0EA6><Cless>
+ He fled...
+<pause>
+<audio_0EA7><Cless>
+ Dammit...
+<pause>
+<audio_0EA8><Mint>
+ <Cless>...
+<pause>
+<audio_0EA9><Mint>
+ What do we do now?{END}"
+"<audio_0EAA><Klarth>
+「・・・・・・」
+<pause>
+<audio_0EAB><Klarth>
+「いつまでもここにいても仕方が
+　ない、いったん戻ろう」{END}"	"<audio_0EAA><Klarth>
+ ......
+<pause>
+<audio_0EAB><Klarth>
+ Well, idling around here sure isn't
+ it. Let's move out and report to
+ Lundgrom.{END}"
+"ダオスガード
+「ダオス様には、指一本触れさせ
+　はせんぞ！！！」{END}"	"Dhaos' Guard
+ HEEheeheeheehee!!!
+ The only way you'll get
+ to Lord Dhaos is over our
+ dead bodies!!{END}"
+"<Arche>
+「あん、何やってるのよ〜」
+<pause>
+<Arche>
+「同時にボタンを押さなきゃだめ
+　だよ」{END}"	"<Arche>
+ No no no!
+ What're ya doin'!?
+<pause>
+<Arche>
+ Pay more attention to me!
+ We have to activate these switch
+ things at the same time!{END}"
+"<Arche>
+「誰かと替わるの？」<wait>{END}"	"<Arche>
+ Oh, I just knew you couldn't leave
+ without little 'ol me <heart><wait>{END}"
+"<Mint>
+「誰かと替わりますか？」<wait>{END}"	"<Mint>
+ Do you need someone to tend to
+ your wounds?<wait>{END}"
+"<Klarth>
+「誰かと替わるのか？」<wait>{END}"	"<Klarth>
+ Giving someone else switch duty?<wait>{END}"
+"<speed_0000>１。<Klarth>
+２。<Mint>
+３。<Arche>
+４。誰もスイッチにのせない<speed_FFFF>{END}"	"<speed_0000><color_0002>Who will stay behind?
+1. <Klarth>
+2. <Mint>
+3. <Arche>
+4. Nobody<speed_FFFF><color_0000>{END}"
+"<Cless>
+「これは、呪文書だ！」<wait>{END}"	"<Cless>
+ This is a spell book!<wait>{END}"
+<color_0002><Arche>は<var_B900>を覚えました。<color_0000>{END}	<color_0002><Arche> learned <var_B900>.<color_0000>{END}
+"<Cless>
+「でも僕が持っていてもしょうが
+　ないな、戻しておこう」{END}"	"<Cless>
+ But I don't have any use for it.
+ I'll put it back.{END}"
+"<Cless>
+「これは、呪文書だ！」<wait>{END}"	"<Cless>
+ This is a spell book!<wait>{END}"
+<color_0002><Arche>は<var_C400>を覚えました。<color_0000>{END}	<color_0002><Arche> learned <var_C400>.<color_0000>{END}
+"<Cless>
+「でも僕が持っていてもしょうが
+　ないな、戻しておこう」{END}"	"<Cless>
+ But I don't have any use for it.
+ I'll put it back.{END}"
+"<speed_0002>
+　　　歴史に名を残す大戦
+
+　　　〜ヴァルハラ戦役〜{END}"	"<speed_0002>The great battle known
+through the ages...
+
+
+
+　　　--The Valhalla War--{END}"
+"
+本来重要な立場にいたはずの人物
+
+　エドワード＝Ｄ＝モリスン{END}"	"
+Edward D. Morrison was the one
+who originally held the decisive
+
+　position in this conflict...{END}"
+"<Klarth>
+「この扉には四方八門封印術の紋
+　章が刻まれている」
+<pause>
+<Klarth>
+「これは四人が四つの方角に向い
+　て念じることを鍵とした封印の
+　ことだ」{END}"	"<Klarth>
+ A crest for a quadrilateral
+ gate-sealing spell has been
+ engraved in this door.
+<pause>
+<Klarth>
+ It can only be defeated by the
+ prayers of four people arranged in
+ four opposing directions.{END}"
+"<Klarth>
+「四人で念じて扉を開けるんだ」{END}"	"<Klarth>
+ Now let's split up and try to break
+ this seal...{END}"
+"<Klarth>
+「開いたぞ！」{END}"	"<Klarth>
+ It worked!{END}"
+<color_0002>同時にスイッチを踏むと<Cless>が喜びます。もじゃもじゃが出たら失敗です。<wait>{END}	"<color_0002>You must activate the switches
+simultaneously with <Arche>.
+Make one mistake and you'll have to
+start all over again.<wait>{END}"
+<color_0002>１つ目のスイッチは<Arche>が普通に歩くのでタイミングを見はからって、スイッチを押しましょう。<wait>{END}	"<color_0002><Arche> will walk normally to her
+first switch. Concentrate on the
+timing of activating yours at the
+same time.<wait>{END}"
+<color_0002>２つ目のスイッチは１つ目のスイッチを押してからすぐに上に歩けばＯＫです。<wait>{END}	"<color_0002>Activation of the second switch can
+be properly timed by simply walking
+forth after activating the first.<wait>{END}"
+"<color_0002>３つ目と４つ目のスイッチは
+<Arche>のフェイントに気を
+つけましょう。<wait>{END}"	"<color_0002>On each of the third and fourth
+switches, be wary of a bluff by
+<Arche>.<wait>{END}"
+<color_0002><Arche>の動きをよく見て、覚えましょう。<wait>{END}	"<color_0002>Keep a close eye on <Arche>'s
+movements and act accordingly.<wait>{END}"
+<color_0002><Arche>がスイッチを踏んだのを確認してから<Cless>もスイッチを踏むと良いでしょう。<wait>{END}	"<color_0002>Your timing does not have to be
+exact--you have a split second of
+time to activate your switch after
+<Arche> activates hers.<wait>{END}"
+"<Klarth>
+「もう、見ちゃおれん！」
+<pause>
+<Klarth>
+「もういい！私達がやる！」
+<pause>
+<Klarth>
+「行くぞ、<Mint>！」
+<pause>
+<Mint>
+「はい！」{END}"	"<Klarth>
+ Oh, for the love of...
+ I'd rather stab myself in the eyes
+ than see any more of this!
+<pause>
+<Klarth>
+ Just watching you
+ two is humiliating!
+ Step aside!
+<pause>
+<Klarth>
+ <Mint>! Give me a hand!
+ We'll do this instead!
+<pause>
+<Mint>
+ Okay!{END}"
+"<Klarth>
+「さあ、行くぞ」
+<pause>
+<Cless>
+「・・・・・・<sweat>」
+<pause>
+<Arche>
+「あたし達、だめだめじゃん」
+<pause>
+<Cless>
+（<Arche><panic>）{END}"	"<Klarth>
+ Okay. Urge to kill: subsiding.
+ Let's go.
+<pause>
+<Cless>
+ ......<sweat>
+<pause>
+<Arche>
+ I guess that goes to show how
+ compatible we are...
+<pause>
+<Cless>
+ (<Arche> <panic>){END}"

@@ -1,0 +1,964 @@
+Japanese	English
+ミッドガルズ城{END}	Midgard Castle{END}
+"<audio_0E98><Cless>
+「よし！！」
+<pause>
+<audio_0E99><Cless>
+「ダオスの城にのりこもう！！」{END}"	"<audio_0E98><Cless>
+ Finally!!!
+<pause>
+<audio_0E99><Cless>
+ Time to infiltrate Dhaos' castle!!{END}"
+"<Cless>
+「今重要な会議をしているから、
+　入らない方がいい」{END}"	"<Cless>
+ They're holding an important
+ meeting. We'd better not disturb
+ them right now.{END}"
+"<unk1><Klarth>
+おい<Cless>、この部屋から出ない方がいいぞ」{END}"	"<unk1><Klarth>
+ Hey, <Cless>!
+ Where are you going?
+ They could be here any minute.{END}"
+"<audio_0D68>魔術師
+「ライゼン様、ダオスから最後通
+　告があったというのは本当です
+　か？」
+<pause>
+<audio_0D69>魔術師
+「この研究をやめるなんていうこ
+　とになったら、私達はいったい
+　どうすれば・・・」
+<pause>
+<audio_0D6A>ライゼン
+「案ずるな」
+<pause>
+<audio_0D6B>ライゼン
+「我が国が奴の言いなりになるわ
+　けがなかろう」
+<pause>
+<audio_0D6C>ライゼン
+「お前達は研究に専念しておれば
+　よいのだ」{END}"	"<audio_0D68>Mage
+ Lord Leisen, is it true that you
+ received an ultimatum from Dhaos?
+<pause>
+<audio_0D69>Mage
+ If he told us to stop our research,
+ what should we--
+<pause>
+<audio_0D6A>Leisen
+ What are you so concerned about?
+<pause>
+<audio_0D6B>Leisen
+ Dhaos does not rule our country.
+<pause>
+<audio_0D6C>Leisen
+ Stay focused on your research
+ unless WE tell you to stop.{END}"
+"<audio_0D6D>ライゼン
+「おお、何をしておられる」
+<pause>
+<audio_0D6E>ライゼン
+「ささ、謁見の間へどうぞ」{END}"	"<audio_0D6D>Leisen
+ Oh, you are still here?
+<pause>
+<audio_0D6E>Leisen
+ His Majesty awaits on his throne.
+ This way...{END}"
+"<audio_15A8><Mint>
+「<Klarth>さん、会議は？」
+<pause>
+<audio_15A9><Klarth>
+「ああ、ちょうど終わったところ
+　だ」
+<pause>
+<audio_15AA><Cless>
+「どうでした？」
+<pause>
+<audio_15AB><Klarth>
+「危険とはいえ重要な任務だ」
+<pause>
+<audio_15AC><Klarth>
+「それをよそ者に任されたものだ
+　から、連中としてもおもしろく
+　ないようだな」
+<pause>
+<audio_15AD><Arche>
+「つまんないこと気にするなぁ」
+<pause>
+<audio_15AE><Klarth>
+「まあ、実力を見せつけてやれば
+　おとなしくなるさ」{END}"	"<audio_15A8><Mint>
+ Oh, hello <Klarth>.
+ Are you finished with the meeting?
+<pause>
+<audio_15A9><Klarth>
+ Yeah.
+ You came back just in time.
+<pause>
+<audio_15AA><Cless>
+ How'd it go?
+<pause>
+<audio_15AB><Klarth>
+ All I can disclose right now is that
+ we've got a task ahead of us that's
+ equal parts ugly and important.
+<pause>
+<audio_15AC><Klarth>
+ Not only that, but this lot's none
+ too happy that it's been entrusted
+ to foreigners.
+<pause>
+<audio_15AD><Arche>
+ Don't sweat the small stuff.
+ Just forget those bozos.
+<pause>
+<audio_15AE><Klarth>
+ Oh, they'll be quite dazzled once
+ they get a load of our fireworks.{END}"
+"<Mint>
+「何か物々しい雰囲気ですね」{END}"	"<Mint>
+ This room has a rather stuffy
+ atmosphere, doesn't it?{END}"
+"<Arche>
+「あーもう、待ちくたびれちゃっ
+　たよ・・・」{END}"	"<Arche>
+ Are they here yet?
+ Man, I'm ready to just
+ go fly off somewhere...{END}"
+"<audio_0D44><Klarth>
+「いったいいつまで待たせるつも
+　りなんだ？」{END}"	"<audio_0D44><Klarth>
+ Any day now...
+ Did they forget about us?{END}"
+"見張り
+「異常無し！」{END}"	"Guard
+ All is well!{END}"
+"ライゼン
+「あなた達はこの国の伝説となる
+　であろう」
+<pause>
+ライゼン
+「我々は残りの魔物共を根絶やし
+　にしていくつもりだ」
+<pause>
+ライゼン
+「これでこの世界にも平和が訪れ
+　る」{END}"	"Leisen
+ Henceforth, you shall be known as
+ the Heroes of Legend to this nation.
+<pause>
+Leisen
+ Leave the remaining monsters to
+ us. We shall eradicate every last
+ one still standing.
+<pause>
+Leisen
+ With this, everlasting peace shall be
+ brought unto this world.{END}"
+"ライゼン
+「我々の軍隊は今回の戦闘でかな
+　りの被害を受けた」
+<pause>
+ライゼン
+「後はあなた達だけが頼りですぞ」
+<pause>
+ライゼン
+「我々はできる限りあなた達の手
+　助けする所存だ」{END}"	"Leisen
+ Our military has taken substantial
+ losses in this battle.
+<pause>
+Leisen
+ What happens now is up to you,
+ and you alone.
+<pause>
+Leisen
+ But fear not, we still intend to help
+ you in whatever way we can.{END}"
+"ライゼン
+「戦争は近い、警戒しなくては」{END}"	"Leisen
+ War is approaching, and we must
+ be vigilant.{END}"
+"衛兵
+「ここから先は王族のみしか入れ
+　ません」{END}"	"Guard
+ Only royalty may proceed beyond
+ this point.{END}"
+"衛兵
+「陛下の御前である」
+<pause>
+衛兵
+「そそうのないように」{END}"	"Guard
+ You are in the presence of His
+ Majesty.
+<pause>
+Guard
+ Be on your best behavior.{END}"
+"国王
+「何と礼を述べればよいか」
+<pause>
+国王
+「本当に感謝しています」{END}"	"King
+ We must express our gratitude.
+<pause>
+King
+ We are truly thankful.{END}"
+"国王
+「空中部隊か・・・」
+<pause>
+国王
+「さすがにダオスもなかなかやり
+　おるわ」
+<pause>
+国王
+「しかし感心している場合ではな
+　かった」
+<pause>
+国王
+「どうしたらよいか・・・」{END}"	"King
+ Dhaos has countered our victory
+ with an aerial force...
+<pause>
+King
+ A clever move indeed, but this is no
+ time to admire our enemy.
+<pause>
+King
+ If we hadn't been so short-sighted,
+ we could have prepared for this.
+<pause>
+King
+ I'm at a loss as to what we should
+ do now...{END}"
+"国王
+「期待しておりますぞ」{END}"	"King
+ I await good news.{END}"
+"武器屋の主人
+「わしらは戦火を避けるために城
+　に避難してきたんじゃ」
+<pause>
+武器屋の主人
+「一応商品も持ってきたが、何か
+　買うかね？」{END}"	"Weapon Shop Owner
+ We shop owners have taken refuge
+ in the castle to avoid becoming
+ collateral damage.
+<pause>
+Weapon Shop Owner
+ I brought some inventory
+ along just in case.
+ Need anything?{END}"
+"武器屋の主人
+「こんな状況だからこそ商売をし
+　なくてはならんのじゃ」
+<pause>
+武器屋の主人
+「どうもありがとう」{END}"	"Weapon Shop Owner
+ It's a nightmare trying to make a
+ living in this situation.
+<pause>
+Weapon Shop Owner
+ Your patronage is greatly
+ appreciated.{END}"
+"薬屋の主人
+「薬、たくさん持ってきたよ」
+<pause>
+薬屋の主人
+「買うかい？」{END}"	"Pharmacy Owner
+ I lugged every last bottle of
+ medicine I had over here.
+<pause>
+Pharmacy Owner
+ Wanna buy some?{END}"
+"薬屋の主人
+「どうもありがとう」{END}"	"Pharmacy Owner
+ Thanks a lot.{END}"
+"道具屋の店員
+「ああ、これからこの町はどうな
+　るの？」
+<pause>
+道具屋の店員
+「一応商品を持ってきたけど、何
+　か買う？」{END}"	"Item Shop Clerk
+ Oh, what's going to happen to our
+ city now? This is the end for us,
+ isn't it?
+<pause>
+Item Shop Clerk
+ Well, I hope not. I loaded up a
+ bunch of our goods to bring here.
+ Anything have your eye?{END}"
+"道具屋の店員
+「ありがとう」
+<pause>
+道具屋の店員
+「でも、全てが無駄になってしま
+　うかも・・・」{END}"	"Item Shop Clerk
+ Thanks...
+<pause>
+Item Shop Clerk
+ Even though it could be all over for
+ us...{END}"
+"食料品店の女主人
+「ここで食べ物を買っても仕方な
+　いけどね・・・」
+<pause>
+食料品店の女主人
+「なんか買う？」{END}"	"Grocery Store Owner
+ Buy some of my food if you want,
+ even though there isn't much
+ point...
+<pause>
+Grocery Store Owner
+ ...unless you're having a
+ going-away picnic. So, what'll it be?{END}"
+"食料品店の女主人
+「どうもありがとう」{END}"	"Grocery Store Owner
+ Pessimistic I may be, but thanks
+ very much.{END}"
+"<audio_0D45><Klarth>
+「お、来たぞ」{END}"	"<audio_0D45><Klarth>
+ ...Seems someone remembered us
+ after all. How touching.{END}"
+"<audio_0D46>？？？
+「待たせて申し訳ない」
+<pause>
+<audio_0D47>？？？
+「私はこの国の騎士団長でライゼ
+　ンという者です」
+<pause>
+<audio_0D48>ライゼン
+「あなた達のことはモリスン殿か
+　ら聞いております」
+<pause>
+<audio_0D49>ライゼン
+「まだお若いのに一騎当千の勇士
+　と聞きおよんでおりますぞ」<wait>{END}"	"<audio_0D46>???
+ I apologize profusely for the
+ inexcusable wait.
+<pause>
+<audio_0D47>???
+ I am Leisen, commander of this
+ country's knights.
+<pause>
+<audio_0D48>Leisen
+ Sir Morrison here has told me all
+ about you.
+<pause>
+<audio_0D49>Leisen
+ He said that, despite your age, you
+ are heroes worth a thousand
+ knights.<wait>{END}"
+"<audio_0D4A><Cless>
+「いえ、若輩ですが、戦列の端に
+　加えていただければ幸いです」<wait>{END}"	"<audio_0D4A><Cless>
+ N-No way! <panic>
+ We're not that special.
+ We just want to aid you
+ on the front line.<wait>{END}"
+"<audio_0D4B>モリスン
+「ありがとう、やっぱり来てくれ
+　たんだね」
+<pause>
+<audio_0D4C><Cless>
+「ええ、力を合わせてダオスの野
+　望を阻止しましょう」<wait>{END}"	"<audio_0D4B>Morrison
+ Thank you for coming.
+ I trusted you'd keep your word.
+<pause>
+<audio_0D4C><Cless>
+ Yes, let's join forces and stop
+ Dhaos' twisted ambition once and
+ for all.<wait>{END}"
+"<audio_0D4D><Arche>
+「ヤボウ？」{END}"	"<audio_0D4D><Arche>
+ Hold it, mister!
+ Dhaos' “ambition”?{END}"
+"<audio_0D4E><Arche>
+「そういえば、ダオスの野望って
+　何なの？」<wait>{END}"	"<audio_0D4E><Arche>
+ I can't believe I never
+ asked this before.
+ But what is it, anyway?<wait>{END}"
+"<audio_0D4F>ライゼン
+「何を言っておるのかね」
+<pause>
+<audio_0D50>ライゼン
+「ダオスはこの世界を滅ぼそうと
+　しておるのだぞ！」
+<pause>
+<audio_0D51><Arche>
+「ホントに？」<wait>{END}"	"<audio_0D4F>Leisen
+ Excuse me, lady?
+ Have you been locked away
+ in a dungeon all alone?
+<pause>
+<audio_0D50>Leisen
+ Dhaos is trying to destroy the
+ world!
+<pause>
+<audio_0D51><Arche>
+ Oh, REALLY?<wait>{END}"
+"<unk1><audio_0D52><Mint>
+<Arche>さん・・・？」<wait>{END}"	"<unk1><audio_0D52><Mint>
+ Um, <Arche>...?<wait>{END}"
+"<audio_0D53><Cless>
+「何か、気になることでもあるの
+　か？」{END}"	"<audio_0D53><Cless>
+ Is...there something wrong?{END}"
+"<audio_0D54><Arche>
+「世界を滅ぼすために？」
+<pause>
+<audio_0D55>ライゼン
+「その通りだ！」<wait>{END}"	"<audio_0D54><Arche>
+ Damn right there is!
+ What kind of lame excuse is
+ “to destroy the world”? That's all?
+ He's only doing it because he can?
+<pause>
+<audio_0D55>Leisen
+ That's right!<wait>{END}"
+"<audio_0D56><Arche>
+「・・・・・・」
+<pause>
+{END}"	"<audio_0D56><Arche>
+ ...
+<pause>
+{END}"
+"<audio_0D57><Arche>
+「ま、いっか」<wait>{END}"	"<audio_0D57><Arche>
+ Yeah well, whatever...<wait>{END}"
+"<audio_0D58><Klarth>
+「申し訳ない」
+<pause>
+<audio_0D59><Klarth>
+「何か考えすぎていたようだ」
+<pause>
+<audio_0D5A>モリスン
+「と、とりあえず、改めて礼を言
+　わせてもらいたい」
+<pause>
+<audio_0D5B>モリスン
+「来る戦いにそなたらが加勢して
+　くれること、何よりも心強く思
+　う所だ」
+<pause>
+<audio_0D5C><Klarth>
+「それで開戦は、いつ頃に？」
+<pause>
+<audio_0D5D>ライゼン
+「そのことについては陛下の前で
+　お話しいたそう」
+<pause>
+<audio_0D5E>ライゼン
+「すでに謁見の間で、お待ちにな
+　られておいでです」
+<pause>
+<audio_0D5F>ライゼン
+「後から来て下され」{END}"	"<audio_0D58><Klarth>
+ I apologize on her behalf.
+<pause>
+<audio_0D59><Klarth>
+ She seems to be thinking too hard
+ about this.
+<pause>
+<audio_0D5A>Morrison
+ A-Anyway, I'd like to express my
+ gratitude once again for keeping
+ your word.
+<pause>
+<audio_0D5B>Morrison
+ It is reassuring to have your
+ assistance in the coming war.
+<pause>
+<audio_0D5C><Klarth>
+ When is it going to break out,
+ anyway?
+<pause>
+<audio_0D5D>Leisen
+ We will be discussing that before
+ His Majesty very shortly.
+<pause>
+<audio_0D5E>Leisen
+ He should already be anticipating
+ our audience in the throne room.
+<pause>
+<audio_0D5F>Leisen
+ Please go there soon.{END}"
+"<audio_0D60>モリスン
+「私もついさっき入った情報など
+　陛下にご報告せねばならないこ
+　とがいくつかあるんだ」
+<pause>
+<audio_0D61>モリスン
+「それでは」{END}"	"<audio_0D60>Morrison
+ Having just obtained some
+ information and other tidings, I
+ must report them to His Majesty
+ right away.
+<pause>
+<audio_0D61>Morrison
+ Be seeing you.{END}"
+"<audio_0D62><Klarth>
+「それじゃあ謁見の間に行くとす
+　るか」<wait>{END}"	"<audio_0D62><Klarth>
+ Well, I assume we're supposed to
+ follow them to the throne room.<wait>{END}"
+"<audio_0D63><Cless>
+「謁見の間ってどこですか？」
+<pause>
+<audio_0D64><Klarth>
+「えっ、えーと、それは・・・」
+<pause>
+<audio_0D65><Klarth>
+「わからん」{END}"	"<audio_0D63><Cless>
+ Do you know where it is?
+<pause>
+<audio_0D64><Klarth>
+ Uh, ummm, well...
+<pause>
+<audio_0D65><Klarth>
+ Beats me.{END}"
+"<audio_0D66><Arche>
+「まぁテキトーに行けばいいんじゃ
+　ない」
+<pause>
+<audio_0D67><Cless>
+「そうだな」{END}"	"<audio_0D66><Arche>
+ Well, why don't we just wander
+ around for a while? I'm sure we'll
+ bump into it sooner or later.
+<pause>
+<audio_0D67><Cless>
+ I guess so...{END}"
+"<audio_0D6F>ミッドガルズ国王
+「その方らが話にあった者達か」
+<pause>
+<audio_0D70>モリスン
+「はい」
+<pause>
+<audio_0D71>モリスン
+「アルヴァニスタの王子を救った
+　のも彼らです」
+<pause>
+<audio_0D72>モリスン
+「いずれも剣術、魔術に長けた者
+　達ばかりでございます」
+<pause>
+<audio_0D73>国王
+「それは心強いな」
+<pause>
+<audio_0D74>ライゼン
+「はっ」<wait>{END}"	"<audio_0D6F>King
+ Edward, are these the individuals
+ you spoke of?
+<pause>
+<audio_0D70>Morrison
+ Yes, Your Majesty.
+<pause>
+<audio_0D71>Morrison
+ They are the ones who freed
+ Prince Laird of Alvanista from
+ Dhaos' influence.
+<pause>
+<audio_0D72>Morrison
+ They excel at not only
+ swordsmanship, but magic
+ as well.
+<pause>
+<audio_0D73>King
+ That is reassuring.
+<pause>
+<audio_0D74>Leisen
+ Indeed, Sire.<wait>{END}"
+"<audio_0D75>国王
+「我が王国はエルフとの交流も少
+　なく、こと魔術に関してはうと
+　い」
+<pause>
+<audio_0D76>国王
+「アルヴァニスタから魔術部隊が
+　来てはいるが、いかんせん人数
+　が少ない」
+<pause>
+<audio_0D77>国王
+「そなたらのような者達に戦列に
+　加わってもらえるのはありがた
+　いことだ」
+<pause>
+<audio_0D78>ライゼン
+「ヴァルハラ平原に魔物の軍隊が
+　結集しているとの情報も入って
+　おります」
+<pause>
+<audio_0D79>国王
+「戦争は近い」
+<pause>
+<audio_0D7A>ライゼン
+「なるべくこの都で待機していて
+　下され」
+<pause>
+<audio_0D7B>国王
+「そうだ・・・」
+<pause>
+<audio_0D7C>国王
+「我が国では戦争の切り札となる
+　研究をしているのだが、御存じ
+　かな？」<wait>{END}"	"<audio_0D75>King
+ Our country has scarce little
+ contact with the elves, so we are
+ severely lacking in magical power.
+<pause>
+<audio_0D76>King
+ A mage unit came from Alvanista,
+ but it was so small its members
+ could offer little assistance.
+<pause>
+<audio_0D77>King
+ We are pleased that people such as
+ yourselves would join us in our
+ struggle against evil.
+<pause>
+<audio_0D78>Leisen
+ We have intelligence that an army
+ of monsters has mobilized in the
+ Valhalla Mountains.
+<pause>
+<audio_0D79>King
+ War approaches.
+<pause>
+<audio_0D7A>Leisen
+ We request that the lot of you stay
+ in the city and await orders.
+<pause>
+<audio_0D7B>King
+ Ah, yes.
+ Before that...
+<pause>
+<audio_0D7C>King
+ I wonder--are you familiar
+ with our nation's research?
+ It will be our trump card
+ in the war.<wait>{END}"
+"<audio_0D7D>ライゼン
+「それならば、私がご案内いたし
+　ましょうぞ」
+<pause>
+<audio_0D7E>ライゼン
+「ミッドガルズが誇る魔科学研究
+　所へ」
+<pause>
+<audio_0D7F><Klarth>
+「魔科学？」{END}"	"<audio_0D7D>Leisen
+ Allow me, Sire.
+<pause>
+<audio_0D7E>Leisen
+ Come, I will show you Midgard's
+ pride: the magitechnology research
+ center.
+<pause>
+<audio_0D7F><Klarth>
+ Magi...technology?{END}"
+"<audio_0DFB>ライゼン
+「まずは、この大陸図を見ていた
+　だきたい」{END}"	"<audio_0DFB>Leisen
+ First, I'm going to present our
+ strategy using this map of our
+ continent.{END}"
+"<audio_0E04>ライゼン
+「そこで、少人数による特殊部隊
+　を何隊か編成し敵軍をかくらん
+　させる作戦をとろうと思う」<wait>{END}"	"<audio_0E04>Leisen
+ I believe forming several small
+ special forces units to disrupt the
+ enemy force is best.<wait>{END}"
+"<audio_0E05>ツーサム
+「敵の足止めをするということで
+　すか？」
+<pause>
+<audio_0E06>ライゼン
+「さよう」
+<pause>
+<audio_0E07>ライゼン
+「非常に危険ではあるが、この作
+　戦がうまくいけば我が軍の勝利
+　は確実なものとなるのだ」
+<pause>
+<audio_0E08>ライゼン
+「これより名を呼ばれた者はその
+　特殊部隊の隊長についてもらう」{END}"	"<audio_0E05>Twosam
+ You mean we're going to slow the
+ enemy down?
+<pause>
+<audio_0E06>Leisen
+ Precisely.
+<pause>
+<audio_0E07>Leisen
+ The risk is great, but success in
+ this operation shall bring certain
+ victory.
+<pause>
+<audio_0E08>Leisen
+ The following persons are to
+ command each of the special
+ forces units:{END}"
+"<audio_0E09>ライゼン
+「第一特殊部隊隊長＝ワンズ！
+　第ニ特殊部隊隊長＝ツーサム！
+　第三特殊部隊隊長＝スリーソン<wait>{END}"	"<audio_0E09>Leisen
+ Ones! Twosam! Threeson! And...<wait>{END}"
+"<audio_0E0A>ライゼン
+「第四特殊部隊隊長＝<Klarth>」{END}"	"<audio_0E0A>Leisen
+ ...<Klarth>!{END}"
+"<audio_0E0B>スリーソン
+「ライゼン殿！」
+<pause>
+<audio_0E0C>スリーソン
+「傭兵風情にこのような重要な作
+　戦を任せてよろしいのですか？」{END}"	"<audio_0E0B>Threeson
+ Sir Leisen!
+<pause>
+<audio_0E0C>Threeson
+ Are you certain we should leave
+ such a critical strategy in the hands
+ of mercenaries?{END}"
+"<audio_0E0D>ライゼン
+「慎め」
+<pause>
+<audio_0E0E>ライゼン
+「これは私が責任を持って決めた
+　ことだ」
+<pause>
+<audio_0E0F>スリーソン
+「はっ・・・」<wait>{END}"	"<audio_0E0D>Leisen
+ Restrain yourself.
+<pause>
+<audio_0E0E>Leisen
+ This decision is mine to make.
+ I will personally take responsibility
+ for any related complications.
+<pause>
+<audio_0E0F>Threeson
+ Understood, sir...<wait>{END}"
+"<audio_0E10>ライゼン
+「以上、呼ばれた者以外には退出
+　を命ずる」
+<pause>
+<audio_0E11>ライゼン
+「この作戦については極秘とし、
+　主力部隊の作戦については追っ
+　て説明する」<wait>{END}"	"<audio_0E10>Leisen
+ Anyone whose name I did not call
+ is commanded to take their leave.
+<pause>
+<audio_0E11>Leisen
+ The secrecy of this strategy is of
+ chief importance, and will be
+ revealed to the main forces in due
+ time.<wait>{END}"
+"<audio_0E12><Klarth>
+「お前達は町に行って装備を整え
+　てくるといい」
+<pause>
+<audio_0E13><Klarth>
+「しばらくかかりそうだ」{END}"	"<audio_0E12><Klarth>
+ I'm getting the vibe that this is
+ going to take more than a few
+ minutes.
+<pause>
+<audio_0E13><Klarth>
+ You guys should take advantage of
+ this time to go into town and ready
+ our equipment for tomorrow.{END}"
+"<audio_0E2E>ミッドガルズ国王
+「大役を見事に果たした誉れ高き
+　勇者達を、戦神の名の元に今こ
+　こに挙げよう」{END}"	"<audio_0E2E>King
+ In the name of the god of war,
+ let us honor the great heroes who
+ have performed this important
+ task with such valor.{END}"
+"<unk1><audio_0E30>国王
+第四特殊部隊隊長<Klarth>＝Ｆ＝レスター」
+<pause>
+<audio_17C0><Klarth>
+はっ！」{END}"	"<unk1><audio_0E30>King
+ Commander <Klarth> F. Lester.
+<pause>
+<audio_17C0><Klarth>
+ Sire!{END}"
+"<audio_0E33>国王
+「そなたの行いに報いるだけの、
+　十分な褒賞を与えようぞ」{END}"	"<audio_0E33>King
+ To recognize your deeds, we
+ present to you an appropriate
+ award.{END}"
+"<color_0002><num5_C0006024>ガルド手に入れました。<color_0000>
+<pause>
+<audio_0E32><Klarth>
+「ありがとうございます」{END}"	"<color_0002>Obtained <num5_C0006024> gald.<color_0000>
+<pause>
+<audio_0E32><Klarth>
+ Thank you, Your Majesty.{END}"
+"<audio_0E2F>国王
+「第一特殊部隊隊長ワンズ」
+<pause>
+<audio_0E31>ワンズ
+「はっ！」{END}"	"<audio_0E2F>King
+ Commander Ones.
+<pause>
+<audio_0E31>Ones
+ Sire!{END}"
+"<audio_0E33>国王
+「そなたの行いに報いるだけの、
+　十分な褒賞を与えようぞ」{END}"	"<audio_0E33>King
+ To recognize your deeds, we
+ present to you an appropriate
+ award.{END}"
+"<audio_0E34>ワンズ
+「ありがたくちょうだいします」{END}"	"<audio_0E34>Ones
+ I accept with utmost respect and
+ gratitude, my lord.{END}"
+"<audio_0E35>ライゼン
+「みんな、よくやってくれた」
+<pause>
+<audio_0E36>ライゼン
+「これで戦争に勝利したも同然」
+<pause>
+<audio_0E37>兵士
+「陛下ーーー！！！」{END}"	"<audio_0E35>Leisen
+ Well done, men.
+<pause>
+<audio_0E36>Leisen
+ With our victory in this battle, we
+ have essentially won the war.
+<pause>
+<audio_0E37>Soldier
+ YOUR MAJESTYYYYYYYYY!!!{END}"
+"<audio_0E38>ライゼン
+「なにごとだ、騒々しい！！」
+<pause>
+<audio_0E39>兵士
+「た、たいへんです！！」
+<pause>
+<audio_0E3A>兵士
+「敵が、敵が攻めてきます！！」
+<pause>
+<audio_0E3B>ライゼン
+「何！？」
+<pause>
+<audio_0E3C>ライゼン
+「そんなばかな！」
+<pause>
+<audio_0E3D>ライゼン
+「すでに平原は我々の手に」
+<pause>
+<audio_0E3E>兵士
+「そ、それが空から・・・」
+<pause>
+<audio_0E3F>ライゼン
+「空戦部隊か！！」<wait>{END}"	"<audio_0E38>Leisen
+ What is the meaning of this
+ intrusion!?
+<pause>
+<audio_0E39>Soldier
+ I-It's an emergency!!!
+<pause>
+<audio_0E3A>Soldier
+ We're...we're under attack!!!
+<pause>
+<audio_0E3B>Leisen
+ What!?
+<pause>
+<audio_0E3C>Leisen
+ That cannot be!
+<pause>
+<audio_0E3D>Leisen
+ We have taken the plains!
+<pause>
+<audio_0E3E>Soldier
+ F-From the sky...
+<pause>
+<audio_0E3F>Leisen
+ An aerial force!?<wait>{END}"
+"<audio_0E40>ライゼン
+「すぐに投石器、大砲部隊を投入
+　するのだ、急げ！！」
+<pause>
+<audio_0E41>兵士
+「はっ！」{END}"	"<audio_0E40>Leisen
+ Organize the catapults and artillery
+ units, on the double!!!
+<pause>
+<audio_0E41>Soldier
+ Sir!{END}"
+"<audio_0E42>ライゼン
+「陛下は安全な場所へ」
+<pause>
+<audio_0E43>国王
+「いや、わしもここに残る」
+<pause>
+<audio_0E44>国王
+「民をおいてわしだけ逃げること
+　などできるか」
+<pause>
+<audio_0E45>ライゼン
+「<speed_0010>・・・・・・」
+<pause>
+<speed_FFFF><audio_0E46>ライゼン
+「わかりました」
+<pause>
+<audio_0E47>ライゼン
+「よい機会です」
+<pause>
+<audio_0E48>ライゼン
+「魔科学兵器の力、ダオスに見せ
+　つけてやりましょう」{END}"	"<audio_0E42>Leisen
+ My lord, you must find shelter at
+ once.
+<pause>
+<audio_0E43>King
+ No, I shall remain here as well.
+<pause>
+<audio_0E44>King
+ I cannot run away like a coward
+ while leaving my subjects in
+ danger.
+<pause>
+<audio_0E45>Leisen
+ <speed_0010>......
+<pause>
+<speed_FFFF><audio_0E46>Leisen
+ I understand.
+<pause>
+<audio_0E47>Leisen
+ Luck is on our side...
+ This is quite the opportunity.
+<pause>
+<audio_0E48>Leisen
+ The time is ripe to show Dhaos the
+ might of the Mana Cannon!{END}"
+"<audio_0E49><Klarth>
+「まずいぞ・・・」
+<pause>
+<audio_0E4A><Klarth>
+「私達も加勢しよう！！」
+<pause>
+<audio_0E4B><Cless>
+「でも空からじゃあ・・・」
+<pause>
+<audio_0E4C><Klarth>
+「何もしないわけにはいかないだ
+　ろう」{END}"	"<audio_0E49><Klarth>
+ What a predicament...
+<pause>
+<audio_0E4A><Klarth>
+ Come on, let's help them out!
+<pause>
+<audio_0E4B><Cless>
+ But they're coming from the sky...
+<pause>
+<audio_0E4C><Klarth>
+ I'm sure we'll figure something out.{END}"

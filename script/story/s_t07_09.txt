@@ -1,0 +1,991 @@
+<audio_104C>Announcer:<nl>
+ “A challenger has come forth!!!”<wait>{END}
+
+Announcer:<nl>
+ “He calls himself <Cless>!”<wait>{END}
+
+Announcer:<nl>
+ “This handsome young man is a
+ hero journeying to defeat Dhaos!”
+<pause>
+Announcer:<nl>
+ “He's blown all of our minds with
+ the unprecedented skill he's shown
+ off here in the past!”
+<pause>
+Announcer:<nl>
+ “Does he still have what it takes!?”{END}
+
+<audio_104E>Announcer:<nl>
+ “He hails from...uh, Totus?”
+<pause>
+<audio_104F>Announcer:<nl>
+ “That's the old name for...uh,
+ ummm, Miguel!”
+<pause>
+<audio_1050>Announcer:<nl>
+ “He's schooled in the Alvein Style!”
+<pause>
+<audio_1051>Announcer:<nl>
+ “And they all say he's a hero on an
+ epic journey to school Dhaos!”{END}
+
+<audio_1052><Arche>:<nl>
+ <Cless>, give 'em hell! <heart>
+<pause>
+<audio_1053><Chester>:<nl>
+ Come on, dude!
+ Beat them into next week!{END}
+
+<audio_1054>Announcer:<nl>
+ “Now let the battles begin!”
+<pause>
+<audio_1055>Announcer:<nl>
+ “Here's the first fight!”{END}
+
+<audio_1066>Announcer:<nl>
+ “Ohhh!”
+<pause>
+{END}
+
+<unk4><audio_1067>Announcer:<nl>
+ “Looks like <Cless> is down for
+ the count!!!”{END}
+
+<audio_1056><Cless>:<nl>
+ Okay, who's next!?{END}
+
+<audio_1058><Cless>:<nl>
+ Yahoo!{END}
+
+<audio_105A><Cless>:<nl>
+ Oh-kay!{END}
+
+<audio_105C><Cless>:<nl>
+ You still have a ways to go!{END}
+
+<audio_105E><Cless>:<nl>
+ Don't be so careless next time!{END}
+
+<audio_1062><Cless>:<nl>
+ Wow, that was pretty tough!{END}
+
+<audio_1064><Cless>:<nl>
+ I'll fight even harder next time!{END}
+
+<audio_1068><Cless>:<nl>
+ Perfect!{END}
+
+<audio_1069>Announcer:<nl>
+ “He did it!”
+<pause>
+<audio_106A>Announcer:<nl>
+ “Eight consecutive wins!
+ A perfect winning streak!”
+<pause>
+<audio_106B>Announcer:<nl>
+ “Congratulations, <Cless>!”
+<pause>
+Announcer:<nl>
+ “But it's not over yet!”
+<pause>
+<audio_106C>Announcer:<nl>
+ “Your final match is against a truly
+ formidable monster; a real
+ creature of carnage!”<wait>{END}
+
+Announcer:<nl>
+ “Are you man enough to take it
+ on!?”{END}
+
+Announcer:<nl>
+ “You're absolutely sure of this!?
+ Here's your chance to reconsider!”
+<pause>
+Announcer:<nl>
+ “Will you take it on!?”{END}
+
+Announcer:<nl>
+ “You're absolutely sure!?
+ If you're having any second
+ thoughts, now's your chance
+ to back down!”
+<pause>
+Announcer:<nl>
+ “You'll really take it on!?”{END}
+
+Announcer:<nl>
+ “A wise decision.
+ Life's not something you should
+ throw away so easily.”<wait>{END}
+
+<unk4>Announcer:<nl>
+ “Ladies and gentlemen, let's hear it
+ for <Cless>!!!”{END}
+
+<audio_1057>Announcer:<nl>
+ “Well, let's keep going!
+ Come on out, number two!”{END}
+
+<audio_1059>Announcer:<nl>
+ “Are you ready?
+ It's time for the third one!”{END}
+
+<audio_105B>Announcer:<nl>
+ “It's half-time!
+ Number four, you're up next!”{END}
+
+<audio_105D>Announcer:<nl>
+ “Yes, yes, YES!!!
+ <Cless> is on a roll!
+ On to number five!”{END}
+
+<audio_105F>Announcer:<nl>
+ “<Cless> Alvein, ladies
+ and gentlemen!
+ He is without beer!”<wait>{END}
+
+<audio_1060><Cless>:<nl>
+ Uh, I hope he means “peer”...{END}
+
+<audio_1061>Announcer:<nl>
+ “Hey, don't sweat the hard stuff!
+ Having said that, here comes
+ number six!”{END}
+
+<audio_1063>Announcer:<nl>
+ “What a surprise!
+ Someone's finally gotten this far!
+ At last, the seventh!”{END}
+
+<audio_1065>Announcer:<nl>
+ “This is it! The last one!
+ The great...NUMBER EIGHT!!!
+ Everyone's counting on you! GO!{END}
+
+Announcer:<nl>
+ “This is absolutely astounding!”
+<pause>
+Announcer:<nl>
+ “Let's take a quick time-out to
+ applaud his valor and allow him to
+ recover his strength!”{END}
+
+Maid:<nl>
+ This Elixir and Panacea Bottle ought
+ to perk you up!{END}
+
+<color_0002><Cless> has fully recovered!<color_0000>
+<pause>
+Announcer:<nl>
+ “Now, then!!!”
+<pause>
+Announcer:<nl>
+ “COME OOOOOOON, MUUUUSIC!!!”{END}
+
+Announcer:<nl>
+ “A clean sweep!”
+<pause>
+Announcer:<nl>
+ “Someone finally did it!”
+<pause>
+Announcer:<nl>
+ “With this, the name of another
+ hero will go down in our country's
+ history!!!”{END}
+
+<Cless>:<nl>
+ You're embarrassing me...{END}
+
+<audio_106D>???:<nl>
+ We have awaited your arrival,
+ <Cless>!!!
+<pause>
+<audio_106E><Cless>:<nl>
+ Wh-Who are you!?{END}
+
+<unk1><audio_106F>???:<nl>
+ By our master's orders...
+<pause>
+<audio_1070>???:<nl>
+ We shall take your life!
+<pause>
+<audio_1071><Cless>:<nl>
+ What!?
+<pause>
+<audio_1072><Cless>:<nl>
+ (Wait...<nl>
+ Ninja in Euclid...<nl>
+ That must mean...!)
+<pause>
+<audio_1073><Cless>:<nl>
+ Y-You're <Suzu><'s/'> parents, aren't
+ you!?
+<pause>
+<audio_1074><Suzu><'s/'> Mother, Okiyo:<nl>
+ Are you prepared!?
+<pause>
+<audio_1075><Cless>:<nl>
+ W-Wait!
+<pause>
+<audio_1076><Cless>:<nl>
+ You're just being controlled!{END}
+
+<audio_1077>???:<nl>
+ Y-You are correct...
+<pause>
+<audio_1078>???:<nl>
+ You must stop--no, kill us!
+ Please!{END}
+
+<audio_1079><Cless>:<nl>
+ (W-What!?
+ I'm not hearing things
+ again, am I!?)
+<pause>
+<audio_107A><Suzu><'s/'> Father, Dozo:<nl>
+ We need not answer to you!!{END}
+
+<Mint>:<nl>
+ <audio_174F>Oh no!
+ <Cless>!!!
+<pause>
+<Arche>:<nl>
+ <audio_1750>Hold on!
+ We'll be right there!
+<pause>
+<Chester>:<nl>
+ <audio_1751><Cless>...
+<pause>
+<Klarth>:<nl>
+ <audio_1752><Cless>!!{END}
+
+<audio_1753>Dozo:<nl>
+ Hm hm hm!
+ Time to finish this!
+<pause>
+<audio_1754>Dozo:<nl>
+ ...I'll send you to the darkest
+ depths of the abyss!{END}
+
+<audio_1755>Okiyo:<nl>
+ Who are you!?
+<pause>
+<Suzu>:<nl>
+ <audio_1756>Mother, Father!
+ Please cease this
+ dishonorable behavior!
+<pause>
+<audio_1757>Dozo:<nl>
+ Mother? Father?
+ What?
+<pause>
+<audio_1758>Dozo:<nl>
+ I have never seen you before in
+ my life.
+<pause>
+<audio_1759>Dozo:<nl>
+ But if you get in our way...
+<pause>
+<audio_175A>Dozo:<nl>
+ We shall cut you down!!!
+<pause>
+<Suzu>:<nl>
+ <audio_175B>......{END}
+
+<audio_175C>Dozo:<nl>
+ “<Suzu>...”
+<pause>
+<audio_175D>Dozo:<nl>
+ “Cut our bodies down...”
+<pause>
+<audio_175E>Okiyo:<nl>
+ “Though our bodies are being
+ manipulated, their hands have been
+ stained by unlawful bloodshed...”
+<pause>
+<audio_175F>Dozo:<nl>
+ “Only by the hands of one of our
+ own can we be freed from this
+ dishonor!”{END}
+
+<Suzu>:<nl>
+ <audio_1760>“But... Mother... Father.”{END}
+
+<audio_1761>Dozo:<nl>
+ “Do it!
+ A true shinobi must possess
+ a heart of steel!”
+<pause>
+<audio_1762>Okiyo:<nl>
+ “Now, <Suzu>!”{END}
+
+<audio_1763>Dozo:<nl>
+ Come on, you little brat!
+<pause>
+<Suzu>:<nl>
+ <audio_1764>Mother<speed_0010>...<speed_FFFF>Father<speed_0010>...<speed_FFFF>
+<pause>
+<Suzu>:<nl>
+ <audio_1765>......
+<pause>
+<Suzu>:<nl>
+ <audio_1766>Mother! Father!
+ Prepare yourselves!<wait>{END}
+
+<Suzu>:<nl>
+ <audio_1767>Igaguri Style ninja replication arte!{END}
+
+<audio_1768>Dozo:<nl>
+ I commend you...<nl>
+ However...
+<pause>
+<audio_1769>Dozo:<nl>
+ TAKE THIS!!{END}
+
+<audio_176A>Dozo:<nl>
+ What!?
+ How!?{END}
+
+<audio_176B>Dozo:<nl>
+ <Suzu>...{END}
+
+<Suzu>:<nl>
+ <audio_176C>Mother, Father!!{END}
+
+<Suzu>:<nl>
+ <audio_176D>Mother, Father...
+<pause>
+<Suzu>:<nl>
+ <audio_176E>I am finally able to see you, but...
+<pause>
+<Suzu>:<nl>
+ <audio_176F>I am sorry...<nl>
+ I am sorry...
+<pause>
+<audio_1770>Dozo:<nl>
+ Do not apologize...
+<pause>
+<audio_1771>Dozo:<nl>
+ You did well...
+<pause>
+<audio_1772>Dozo:<nl>
+ You have followed our clan's
+ principles admirably...
+<pause>
+<audio_1773>Dozo:<nl>
+ W-With this...ugh...
+<pause>
+<Suzu>:<nl>
+ <audio_1774>Father, hold on...
+<pause>
+<audio_1775>Dozo:<nl>
+ With this, we can go to Hell without
+ regret...
+<pause>
+<audio_1776>Dozo:<nl>
+ R-Right, Okiyo...?
+<pause>
+<audio_1777>Okiyo:<nl>
+ Yes...<nl>
+ Goodbye, <Suzu>...<wait>{END}
+
+<unk1>Okiyo:<nl>
+ <audio_1778>Apologize to Young Master
+ <Cless> for us, as well...{END}
+
+<Suzu>:<nl>
+ <audio_1779>Mother, Father...{END}
+
+<unk1><Suzu>:<nl>
+ <audio_177A><Cless>, are you okay?<wait>{END}
+
+<Cless>:<nl>
+ <audio_177B>Yeah...
+<pause>
+<Cless>:<nl>
+ <audio_177C>D-Don't worry about me...
+<pause>
+<Cless>:<nl>
+ <audio_177D>......
+<pause>
+<Cless>:<nl>
+ <audio_177E>Please forgive me...
+<pause>
+<Cless>:<nl>
+ <audio_177F>If I was stronger, your parents
+ would have...
+<pause>
+<Suzu>:<nl>
+ <audio_1780>Their deaths were in accordance
+ with the Way of the Ninja.
+<pause>
+<Suzu>:<nl>
+ <audio_1781>A true ninja...must possess a heart
+ of steel.
+<pause>
+<Cless>:<nl>
+ <audio_1782>But...
+<pause>
+<Suzu>:<nl>
+ <audio_1783>...My mission has been
+ accomplished.
+<pause>
+<Suzu>:<nl>
+ <audio_1784>I must return to the village.
+<pause>
+<Suzu>:<nl>
+ <audio_1785>I wish that you, too, would revisit
+ the Ninja Village, if time avails you.<wait>{END}
+
+<unk1><Suzu>:<nl>
+ <audio_1786>Thank you for all of your
+ assistance.
+<wait>
+{END}
+
+<Suzu>:<nl>
+ <audio_1787>Please accept my gratitude.
+<pause>
+<Suzu>:<nl>
+ <audio_1788>Now, if you will excuse me.{END}
+
+<audio_107B><Cless>:<nl>
+ I...I got them...?{END}
+
+<audio_107C><Cless>:<nl>
+ They disappeared!?
+<pause>
+<audio_107D>Dozo:<nl>
+ Naive fool!!{END}
+
+<audio_107E>Okiyo:<nl>
+ We are master ninja!
+ We are invincible!
+<pause>
+<audio_107F>Dozo:<nl>
+ We will not be done in by the likes
+ of you!!!
+<pause>
+<audio_1080><Cless>:<nl>
+ Urk...<nl>
+ What the hell's going on here!?
+<pause>
+<audio_1081>???:<nl>
+ Please, wait!{END}
+
+<audio_1082><Cless>:<nl>
+ <Suzu>!
+ What happened!?{END}
+
+<audio_1083>Okiyo:<nl>
+ “<Suzu>...”{END}
+
+<audio_1084><Suzu>:<nl>
+ Mother, Father!
+ Please cease this dishonorable
+ behavior!{END}
+
+<audio_1085>Dozo:<nl>
+ “<Suzu>...”
+<pause>
+<audio_1086>Dozo:<nl>
+ “C-Cut our bodies down!!!”{END}
+
+<audio_1087>???:<nl>
+ “H-Hold your tongue!”
+<pause>
+<audio_1088>???:<nl>
+ “Was your brainwashing
+ incomplete”!?{END}
+
+<audio_1089><Suzu>:<nl>
+ <speed_0010>Father<speed_FFFF>...<speed_0010>I<speed_FFFF>...<speed_0010>cannot...{END}
+
+<audio_108A>Okiyo:<nl>
+ Grugh...
+<pause>
+<audio_108B>Dozo:<nl>
+ GURRRRAAAAAGHHHHHHH!!!{END}
+
+<audio_108C>???:<nl>
+ “Wh-What's...h-happening...<nl>
+ Th-This body...won't do what I tell
+ it to anymore...”
+<pause>
+<audio_108D>???:<nl>
+ “Gi-giheheheheeeeee!!!”{END}
+
+<audio_108E><Suzu>:<nl>
+ Mother, Father!!!
+<pause>
+<audio_108F><Cless>:<nl>
+ Whaaa...
+<pause>
+<audio_1090>???:<nl>
+ Th-This can't be...{END}
+
+<audio_1091><Suzu>:<nl>
+ MOTHER, FATHER!!!
+<pause>
+<audio_1092><Suzu>:<nl>
+ Why did...
+<pause>
+<audio_1093><Suzu>:<nl>
+ Why did you...
+<pause>
+<audio_1094>Dozo:<nl>
+ This...this is how it should be...
+<pause>
+<audio_1095>Dozo:<nl>
+ W-We must atone for our crimes
+ with our own hands...<wait>{END}
+
+<unk1><audio_1096>Dozo:<nl>
+ You...need not stain your hands,
+ <Suzu>...
+<pause>
+<audio_1097>Okiyo:<nl>
+ We have not been good parents to
+ you...
+<pause>
+<audio_1098>Okiyo:<nl>
+ I am sorry...
+<pause>
+<audio_1099>Okiyo:<nl>
+ But...finally seeing your tears...
+<pause>
+<audio_109A>Okiyo:<nl>
+ ...is a relief...
+<pause>
+<audio_109B>Dozo:<nl>
+ With this, we...
+<pause>
+<audio_109C>Dozo:<nl>
+ ...can go without shame...
+<pause>
+<audio_109D>Dozo:<nl>
+ to...Hell...{END}
+
+<unk3><audio_109E><Suzu>:<nl>
+ (Mother, Father...)
+<pause>
+<audio_109F><Suzu>:<nl>
+ (Your <Suzu> shall not cry
+ anymore.)
+<pause>
+<audio_10A0><Suzu>:<nl>
+ (These are the last tears she will
+ ever shed.)
+<pause>
+<audio_10A1><Suzu>:<nl>
+ (Your <Suzu> shall become a true
+ ninja.){END}
+
+<unk1><audio_10A2><Cless>:<nl>
+ <Suzu>, I don't know what to
+ say...
+<pause>
+<audio_10A3><Cless>:<nl>
+ If I could've recovered sooner, I
+ might've been able to...
+<pause>
+<audio_10A4><Suzu>:<nl>
+ You need not apologize.<wait>{END}
+
+<audio_10A5><Suzu>:<nl>
+ You have saved the souls of my
+ parents.
+<pause>
+<audio_10A6><Cless>:<nl>
+ But I couldn't save their lives...<wait>{END}
+
+<audio_10A7><Suzu>:<nl>
+ Their deaths were in accordance
+ with the Way of the Ninja.
+<pause>
+<audio_10A8><Suzu>:<nl>
+ A true ninja...
+<pause>
+<audio_10A9><Suzu>:<nl>
+ A true ninja...must possess a heart
+ of steel.
+<pause>
+<audio_10AA><Suzu>:<nl>
+ ...My mission has been
+ accomplished.
+<pause>
+<audio_10AB><Suzu>:<nl>
+ I must return to the village...
+<pause>
+<audio_10AC><Suzu>:<nl>
+ I wish that you, too, would revisit
+ the Ninja Village, if time avails you.<wait>{END}
+
+<unk1><audio_10AD><Suzu>:<nl>
+ Thank you for all of your
+ assistance.
+<pause>
+{END}
+
+<audio_10AE><Suzu>:<nl>
+ Please accept my gratitude.
+<pause>
+<audio_10AF><Suzu>:<nl>
+ Now, if you will excuse me.{END}
+
+<audio_10B0>Announcer:<nl>
+ “That was...quite an episode!”
+<pause>
+<audio_10B1>Announcer:<nl>
+ “The tournament committee has
+ informed us that they have
+ disqualified this match!”
+<pause>
+<audio_10B2>Announcer:<nl>
+ “P-Please understand!”{END}
+
+<unk1><audio_10B3><Klarth>:<nl>
+ Well, that was a bolt out of the
+ blue...
+<pause>
+<audio_10B4><Chester>:<nl>
+ There was no avoiding it.
+ Some stuff just can't be helped.
+<pause>
+<audio_10B5><Chester>:<nl>
+ You did everything you could, man.
+<pause>
+<audio_10B6><Cless>:<nl>
+ Yeah...
+<pause>
+<audio_10B7><Cless>:<nl>
+ But what happened to <Suzu><'s/'>
+ parents...was my fault...
+<pause>
+<audio_10B8><Mint>:<nl>
+ Don't blame yourself, <Cless>...<wait>{END}
+
+<audio_10B9><Arche>:<nl>
+ Well, why don't we do what little
+ <Suzu> asked and go back to her
+ place?
+<pause>
+<audio_10BA><Arche>:<nl>
+ That way we can apologize to her.{END}
+
+<color_0002><Cless> has earned the title
+“<var_8B01>.”<color_0000>{END}
+
+Spectator:<nl>
+ I can't stop watching!
+ It's just too captivating!{END}
+
+Spectator:<nl>
+ POW! Right in the kisser.
+ There's no way that didn't hurt!{END}
+
+Spectator:<nl>
+ Stomach's growling...{END}
+
+Spectator:<nl>
+ That's enough blood for one day.
+ Let's get home...{END}
+
+Spectator:<nl>
+ Got any tea?{END}
+
+Spectator:<nl>
+ Nobody really knows when a fight
+ is going to start.
+<pause>
+Spectator:<nl>
+ There's no set schedule, as the
+ tournament begins only as soon as
+ someone signs up to challenge it.{END}
+
+Spectator:<nl>
+ Those ripped, muscular, macho
+ men...
+<pause>
+Spectator:<nl>
+ So <speed_0010>S.E.X.Y.<speed_FFFF> <heart>{END}
+
+Spectator:<nl>
+ Few can win eight fights in a row.
+<pause>
+Spectator:<nl>
+ The monsters just get too tough
+ for most people.{END}
+
+Spectator:<nl>
+ Even monsters have been signing
+ up as challengers.
+<pause>
+Spectator:<nl>
+ I guess not all of them act on the
+ orders of Dhaos.{END}
+
+Spectator:<nl>
+ A fascinating article appeared in
+ yesterday's newspaper.
+<pause>
+Spectator:<nl>
+ The headline was “Entrance to
+ Daemonium found in Moria Mine!”.{END}
+
+Spectator:<nl>
+ A fascinating article appeared in
+ yesterday's newspaper.
+<pause>
+Spectator:<nl>
+ The headline was “Entrance to
+ Daemonium found in Moria Mine!”.
+<pause>
+<Cless>:<nl>
+ Really?
+<pause>
+Spectator:<nl>
+ Yes, indeed.
+ Strange stuff, eh?
+<pause>
+<Klarth>:<nl>
+ Daemonium, huh...
+<pause>
+{END}
+
+<Cless>:<nl>
+ Maybe we should go take a look.
+<pause>
+<Klarth>:<nl>
+ You read my mind.{END}
+
+Spectator:<nl>
+ A fascinating article appeared in
+ yesterday's newspaper about an
+ ancient document.
+<pause>
+Spectator:<nl>
+ According to the interpreter, it
+ mentioned...
+<pause>
+Spectator:<nl>
+ ...that there's a tunnel housing
+ some yet undiscovered dwarven
+ ruins in the Moria Mine.{END}
+
+Spectator:<nl>
+ Hey, you look like a swordsman.
+ You gonna try the tournament too?{END}
+
+Spectator:<nl>
+ Juice, please!
+<pause>
+Spectator:<nl>
+ Oh, you're not the refreshment
+ seller?{END}
+
+Spectator:<nl>
+ Move it!
+<pause>
+Spectator:<nl>
+ I can't see!{END}
+
+Spectator:<nl>
+ As dangerous as the opponents are,
+ it seems a loss won't cost your life.
+<pause>
+Spectator:<nl>
+ At least, no one's died YET, you
+ see...{END}
+
+Spectator:<nl>
+ Bloody hell!
+ If I was a little beefier, I'd be out
+ there doin' some clobberin'!{END}
+
+<Cless>:<nl>
+ You again...
+<pause>
+Lilith:<nl>
+ Until you realize your true power,
+ I'm not going anywhere!
+<pause>
+<Cless>:<nl>
+ What “true power”?
+<pause>
+Lilith:<nl>
+ Come on!!{END}
+
+Girl:<nl>
+ Hi there.
+ I'm Lilith <heart>
+<pause>
+Announcer:<nl>
+ “Whoa!
+ Someone has intruded on the main
+ event!”
+<pause>
+Announcer:<nl>
+ “Oooh, and this intruder is a young
+ girl!”
+<pause>
+Announcer:<nl>
+ “It took her only three seconds
+ to flatten the Galf Beast.
+ Simply incredible!!!”
+<pause>
+<Cless>:<nl>
+ Umm... Don't you think this place is a bit
+ dangerous for a young lady like you?
+<pause>
+Lilith:<nl>
+ Ha!
+ Just what my big
+ brother would say.
+<pause>
+Lilith:<nl>
+ But there's no reason to worry!
+ The pitiful little freaks of nature in
+ this coliseum can't hold a candle to
+ me.<wait>{END}
+
+<unk1><Cless>:<nl>
+ These creatures are pitiful to you?
+<pause>
+Lilith:<nl>
+ You've shown the crowd what
+ you're made of up until now.<wait>{END}
+
+<Cless>:<nl>
+ I guess...
+<pause>
+Lilith:<nl>
+ So there's only one person worthy
+ enough for me to take on: the
+ champion--YOU!
+<pause>
+<Cless>:<nl>
+ Huh!?<wait>{END}
+
+<Arche>:<nl>
+ Hey, waiiit!{END}
+
+<Arche>:<nl>
+ Is this really fair!?
+ Can someone just randomly
+ drop in like this!?<wait>{END}
+
+Lilith:<nl>
+ I have my reasons!
+<pause>
+<Arche>:<nl>
+ But you're so puny!
+<pause>
+Lilith:<nl>
+ Come down here and say that to
+ my face!!{END}
+
+Lilith:<nl>
+ ANYWAY!!!
+<pause>
+Lilith:<nl>
+ Let's do this!<wait>{END}
+
+<Cless>:<nl>
+ A-Are you serious about this...?
+<pause>
+Announcer:<nl>
+ “The tournament judges have
+ agreed to allow this
+ spur-of-the-moment challenge.”
+<pause>
+Lilith:<nl>
+ The fight is on!
+ Don't hold back just because I'm
+ younger than you!!<wait>{END}
+
+<Cless>:<nl>
+ Wah!{END}
+
+<unk4>Announcer:<nl>
+ “He did it!
+ Victory goes to <Cless> Alvein!!!”{END}
+
+<unk1>Lilith:<nl>
+ I lost...
+<pause>
+Lilith:<nl>
+ I knew you wouldn't disappoint me.
+<pause>
+<Cless>:<nl>
+ ......{END}
+
+Lilith:<nl>
+ Please take this.
+<pause>
+Lilith:<nl>
+ I really think you'll be able to
+ master it.
+<pause>
+<Cless>:<nl>
+ ......
+<pause>
+<Cless>:<nl>
+ A sword?
+<pause>
+Lilith:<nl>
+ It's my brother's favorite one.
+<pause>
+Lilith:<nl>
+ But, I'll let you have it.
+ I'm sure it'll be helpful!{END}
+
+<Cless>:<nl>
+ Are you sure about this?
+<pause>
+<Cless>:<nl>
+ It looks really important...
+<pause>
+Lilith:<nl>
+ No worries.
+ My brother would be glad to see it
+ in the hands of someone such as
+ you.
+<pause>
+<Cless>:<nl>
+ If that's the case, I'll accept it.
+<pause>
+<Cless>:<nl>
+ Thank you...<wait>{END}
+
+<unk4>Announcer:<nl>
+ <Cless> Alvein has won this
+ incredible match!!!
+<pause>
+Announcer:<nl>
+ Everyone give a big round of
+ applause for our magnificent
+ champion and cute challenger!!<wait>{END}
+
+Lilith:<nl>
+ Well then...<nl>
+ Places to go, thugs to thrash,
+ fish to fry... See ya!{END}
+
+<unk1>Lilith:<nl>
+ I won!
+<pause>
+Lilith:<nl>
+ Is that all you've got...?
+<pause>
+Lilith:<nl>
+ Feh, I expected more...
+<pause>
+<Cless>:<nl>
+ U-Ugh...<wait>{END}
+
+<unk4>Announcer:<nl>
+ “Ohhhh!
+ Alas, <Cless> Alvein has lost!!!”{END}
+

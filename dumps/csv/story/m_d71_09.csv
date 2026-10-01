@@ -1,0 +1,167 @@
+Japanese	English
+精霊の洞窟{END}	Cave of Spirits{END}
+"<color_0002>スイッチがあります。
+<pause>
+押しますか？<color_0000>{END}"	<color_0002>Turn the dial?<color_0000>{END}
+"『封印を解かんと欲するならば、
+　キーワードとなる言葉を』
+<pause>
+<speed_0000>１。オ　２。キ　３。ス　４。ヨ{END}"	"“If thou dost desire to repeal the
+seal, speaketh the keyword.”
+<pause>
+<speed_0000>1. G
+2. D
+3. B
+4. Y{END}"
+<speed_0000>１。ア　２。ク　３。タ　４。チ{END}	"<speed_0000>1. A
+2. E
+3. I
+4. O{END}"
+<speed_0000>１。イ　２。カ　３。リ　４。ル{END}	"<speed_0000>1. M
+2. F
+3. E
+4. L{END}"
+<speed_0000>１。ダ　２。ド　３。ラ　４。ン{END}	"<speed_0000>1. I
+2. L
+3. T
+4. N{END}"
+『扉は開かれん・・・』{END}	“The door is open...”{END}
+『違う！』{END}	“Incorrect!”{END}
+『意味はあるが、違う！』{END}	"“Thou hast provided some meaning,
+but are still incorrect!”{END}"
+"クレイアイドル
+「あ〜、いた〜」{END}"	"Gnomelette
+ Ohhh...
+ There you are...{END}"
+"<audio_0B7C><Cless>
+「ここは？」{END}"	"<audio_0B7C><Cless>
+ What is this place?{END}"
+"<audio_0B7D><var_D100>
+「誰だ〜、ボクのなわばりに入る
+　のは〜！！」{END}"	"<audio_0B7D>Gnome
+ Check it, brah, some dudes are
+ homin' in on our turf!{END}"
+"<audio_0B7E><var_D100>
+「まいったよ〜ん」
+<pause>
+<audio_0B7F><Klarth>
+「よし、では契約を結ぼう」
+<pause>
+<audio_0B80><var_D100>
+「ルビーの指輪がいいのら〜」{END}"	"<audio_0B7E>Gnome
+ Totally bogus dudes...
+ We got rocked to the max.
+<pause>
+<audio_0B7F><Klarth>
+ Yyyyyeah.
+ Now, can we seal the pact?
+<pause>
+<audio_0B80>Gnome
+ Hey, that's some nice
+ schwag you got there.
+ That ruby ring is SICK, brah!{END}"
+"<audio_0B81><Klarth>
+「我、今、地の精に願い奉る」
+<pause>
+<audio_0B82><Klarth>
+「指輪の盟約のもと、我に精霊を
+　従わせたまえ・・・」
+<pause>
+<audio_0B83><Klarth>
+「我が名は<Klarth>・・・」{END}"	"<audio_0B81><Klarth>
+ Here and now, I offer my request
+ to the Spirit of Earth.
+<pause>
+<audio_0B82><Klarth>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<audio_0B83><Klarth>
+ My name is <Klarth>...{END}"
+<color_0002><Klarth>は<var_D100>を召喚できるようになりました。<color_0000>{END}	<color_0002><Klarth> can now summon Gnome.<color_0000>{END}
+"クレイアイドル
+「迷子〜、迷子〜」{END}"	"Gnomelette
+ I'm lost, dudes! Lost!{END}"
+"クレイアイドル
+「ボク〜、迷子なんだ〜」
+<pause>
+クレイアイドル
+「みんなの所へ連れてってよ〜」
+<pause>
+<color_0002>連れて行きますか？<color_0000>{END}"	"Gnomelette
+ I'm a total lamer, dudes.
+ I have, like, NO idea where I am.
+<pause>
+Gnomelette
+ Help a brah out?
+<pause>
+<color_0002>Bring it with you?<color_0000>{END}"
+"クレイアイドル
+「連れてってよ〜」{END}"	"Gnomelette
+ Schwuh? That's like, totally
+ not cool, dudes.{END}"
+"クレイアイドル
+「ありがと〜」{END}"	"Gnomelette
+ Righteous, dudes.{END}"
+"クレイアイドル
+「一人〜足りない〜」
+<pause>
+クレイアイドル
+「お前〜知らないか〜？」<wait>{END}"	"Gnomelette
+ We're TOTALLY missin' someone,
+ dudes.
+<pause>
+Gnomelette
+ Hey, have you scoped a little dude
+ all by his lonesome?<wait>{END}"
+"クレイアイドル
+「何だ〜？」
+<pause>
+クレイアイドル
+「やる気か〜？」
+<pause>
+<color_0002>戦いますか？<color_0000>{END}"	"Gnomelette
+ ...Dude, you serious?
+<pause>
+Gnomelette
+ You wanna get all aggro with us?
+ Why you bein' such a hater?
+<pause>
+<color_0002>Fight with it?<color_0000>{END}"
+"クレイアイドル
+「つまんない〜」{END}"	"Gnomelette
+ Totally weaksauce, dudes.{END}"
+"クレイアイドル
+「ムダムダムダムダァ〜」{END}"	"Gnomelette
+ You dudes are total nutters.
+ You can't do jack to us, man!{END}"
+"クレイアイドル
+「あれ〜？」
+<pause>
+クレイアイドル
+「何で警報がなるの〜？」{END}"	"Gnomelette
+ Schwuh?
+<pause>
+Gnomelette
+ Why's the alarm goin' all spazz on
+ us?{END}"
+"<Cless>
+「これは・・・」
+<pause>
+<Cless>
+「呪文書だ！！」<wait>{END}"	"<Cless>
+ This...
+<pause>
+<Cless>
+ This is a spell book!<wait>{END}"
+<color_0002><Arche>は<var_C300>を覚えました。<color_0000>{END}	<color_0002><Arche> learned <var_C300>.<color_0000>{END}
+"<Cless>
+「でも僕が持っていてもしょうが
+　ないな・・・」
+<pause>
+<Cless>
+「戻しておこう・・・」{END}"	"<Cless>
+ But I don't have any use for it...
+<pause>
+<Cless>
+ I'll put it back...{END}"

@@ -1,0 +1,529 @@
+Ymir Forest: Lake of Reflection{END}
+
+<audio_0F39><Cless>:<nl>
+ Let's hurry!!{END}
+
+Whitespire Forest{END}
+
+<audio_15E1><Cless>:<nl>
+ <Arche>!!!
+<pause>
+<audio_15E2><Cless>:<nl>
+ Why aren't you with <Mint>!?
+<pause>
+<audio_15E3><Arche>:<nl>
+ What?<wait>{END}
+
+<audio_15E4><Arche>:<nl>
+ Well, um, like, I--
+<pause>
+<audio_15E5><Klarth>:<nl>
+ We've got no time!
+ Let's hurry!{END}
+
+<Arche>:<nl>
+ Should we go back to the guys?{END}
+
+<Arche>:<nl>
+ All righty, then.{END}
+
+<Arche>:<nl>
+ Ah, well then I guess I'll keep
+ looking around!{END}
+
+Guard:<nl>
+ The King of Alvanista recently did away
+ with the law requiring an entry
+ permit for humans.
+<pause>
+Guard:<nl>
+ As a result, more and more of
+ them have been coming and going
+ these days.
+<pause>
+Guard:<nl>
+ However, tight regulation
+ remains for half-elves.
+ Half-elves may not enter
+ under any circumstance!{END}
+
+Guard:<nl>
+ Half-elves are absolutely forbidden
+ from entering the elven village.
+<pause>
+Guard:<nl>
+ You'd best get going before the
+ elves spot and capture that girl.{END}
+
+Guard:<nl>
+ Well, you guys all seem to be
+ human.
+<pause>
+Guard:<nl>
+ Careful on your way through here.
+ The lizards that infest this place
+ aren't very friendly.{END}
+
+<color_0002>You can't carry any more.<color_0000>{END}
+
+<color_0002>Acquired some Caterpillar Fungus.<color_0000>{END}
+
+<audio_0C75><Klarth>:<nl>
+ Hmm?<wait>{END}
+
+<audio_0C76><Mint>:<nl>
+ Is something the matter?
+<pause>
+<audio_0C77><Klarth>:<nl>
+ Could've sworn I just saw the
+ shadow of that tree behind us
+ move...
+<pause>
+<audio_0C78><Cless>:<nl>
+ You sure it's not just your
+ imagination?
+<pause>
+<audio_0C79><Mint>:<nl>
+ Or perhaps just the animals of the
+ forest?
+<pause>
+<audio_0C7A><Klarth>:<nl>
+ Yeah...<nl>
+ Probably nothing.{END}
+
+<Arche>:<nl>
+ Yay, you're finally back!
+<pause>
+<Arche>:<nl>
+ Little 'ol me was about to zonk out
+ from boredom.{END}
+
+<unk1><audio_1162><Klarth>:<nl>
+ Well...
+<pause>
+<audio_1163><Klarth>:<nl>
+ Origin's supposed to be somewhere
+ in the depths of these forests,
+ but...
+<pause>
+<audio_1164><Klarth>:<nl>
+ Unfortunately, there's no way the
+ elves will let us go through their
+ village with <Arche> in tow...
+<pause>
+<audio_1165><Cless>:<nl>
+ But we can't just leave her here all
+ alone...
+<pause>
+<audio_1166><Arche>:<nl>
+ I'm sure it'll be a little boring, but
+ don't you worry! I'll be a good girl
+ and wait 'til you get back, 'kay?
+<pause>
+<audio_1167><Klarth>:<nl>
+ Are you absolutely sure we can
+ trust you to stay put this time?
+<pause>
+<audio_1168><Arche>:<nl>
+ Uh-huh...{END}
+
+<Klarth>:<nl>
+ Hold it.
+ Half-elves aren't permitted
+ to go in any further.
+<pause>
+<Cless>:<nl>
+ But we can't just leave <Arche>
+ to stand around here for hours...
+<pause>
+<Arche>:<nl>
+ Don't beat yourself up over it.
+ I'll just wait right here 'til you
+ guys get back, 'kay?
+<pause>
+<Klarth>:<nl>
+ If you say so.
+ Sorry it has to be like this.{END}
+
+<audio_0C6B>Guard:<nl>
+ What are YOU doing here?
+<pause>
+<audio_0C6C>Guard:<nl>
+ This is elven territory!
+ No humans or half-elves may pass!
+<pause>
+<audio_0C6D>Guard:<nl>
+ Now get out of here!<wait>{END}
+
+<audio_0C71><Cless>:<nl>
+ Wait, sir.
+ We have permission.
+<pause>
+<audio_0C72><Cless>:<nl>
+ See this crest...?
+<pause>
+<audio_0C73>Guard:<nl>
+ That's the royal family's!
+<pause>
+<audio_0C74>Guard:<nl>
+ All right, then.
+ Come on through!{END}
+
+<audio_0C6E><Cless>:<nl>
+ You won't let us in no matter
+ what?<wait>{END}
+
+<audio_0C6F>Guard:<nl>
+ No matter what!{END}
+
+<audio_0C70>Guard:<nl>
+ Stubborn, aren't you!?{END}
+
+<Cless>:<nl>
+ <Mint>'s in danger!
+ We have to find her!{END}
+
+<Mint>:<nl>
+ We should be back soon.{END}
+
+<audio_0F02><Klarth>:<nl>
+ It's this forest, isn't it?
+<pause>
+<audio_0F03><Klarth>:<nl>
+ I mean, the one where the
+ unicorn's thought to be?
+<pause>
+<audio_0F04><Mint>:<nl>
+ Yes...<nl>
+ That is what I feel...{END}
+
+<unk1><audio_0F05><Cless>:<nl>
+ Is...<Mint> okay?
+<pause>
+<audio_0F06><Klarth>:<nl>
+ Seems to me that she's pretty deep
+ in thought about something...
+<pause>
+<audio_0F07><Klarth>:<nl>
+ Perhaps she's worried about how
+ the unicorn only meets women, and
+ pure maidens at that...
+<pause>
+<audio_0F08><Klarth>:<nl>
+ Hmph, for a messenger of the
+ gods, this horse is certainly a bit on
+ the cheeky side...<wait>{END}
+
+<unk1><audio_0F09><Mint>:<nl>
+ Please, <Klarth>!
+ A unicorn is not a horse!
+<pause>
+<audio_0F0A><Klarth>:<nl>
+ So it's a pointy spirit horse, then.
+<pause>
+<audio_0F0B><Cless>:<nl>
+ Anyway, this forest seems
+ peaceful. How about you and
+ <Arche> go search together?<wait>{END}
+
+<audio_0F0C><Arche>:<nl>
+ Wh-Wh-Wh-Wh-Wh-Wh-WHA!? <panic><nl>
+ M-M-M-M-Me too!? <panic>
+<pause>
+<audio_0F0D><Arche>:<nl>
+ I dunno...{END}
+
+<audio_0F0E><Arche>:<nl>
+ F-Fine!
+ You guys always give
+ me that creepy look...
+<pause>
+<audio_0F0F><Arche>:<nl>
+ Let's do this, <Mint>...{END}
+
+<unk1><audio_0F10><Arche>:<nl>
+ H-Hey, wh-why don't we split up here? <panic><nl>
+I-I'll go look somewhere else, s-so you keep on going ahead <panic>
+<pause>
+<audio_0F11><Mint>:<nl>
+ Wh-What's the matter, <Arche>?<wait>{END}
+
+<unk1><audio_0F12><Mint>:<nl>
+ Ah, please don't go...
+<pause>
+<audio_0F13><Mint>:<nl>
+ ...Is something bothering her?
+ I truly hope she's okay.{END}
+
+<audio_0F14><Mint>:<nl>
+ Oh my! The unicorn...<nl>
+ ...It's really here...<wait>{END}
+
+<audio_0F15><Mint>:<nl>
+ I must maintain my composure...<nl>
+ Oh, please don't let it be startled...{END}
+
+<audio_0F16><Mint>:<nl>
+ Um...{END}
+
+<audio_0F17>Unicorn:<nl>
+ My lovely young lady...
+<pause>
+<audio_0F18>Unicorn:<nl>
+ Why do you visit me?<wait>{END}
+
+<audio_0F19><Mint>:<nl>
+ Thank goodness...<nl>
+ I'm so glad that you can speak
+ human language.{END}
+
+<audio_0F1A><Mint>:<nl>
+ I...I'm sorry to bother you, but
+ would you please listen to my
+ story?
+<pause>
+<audio_0F1B><Mint>:<nl>
+ It involves the future of all living
+ things in this world.<wait>{END}
+
+<unk1><audio_0F1C><Mint>:<nl>
+ Oh, um, I apologize for
+ not introducing myself.
+ I am a cleric called
+ <Mint> Adnade.
+<pause>
+<audio_0F1D><Mint>:<nl>
+ Up until now...{END}
+
+<audio_0F1E><Klarth>:<nl>
+ ......
+<pause>
+<audio_0F1F><Cless>:<nl>
+ ......
+<pause>
+<audio_0F20><Klarth>:<nl>
+ Hoo...<nl>
+ Seems like they're not going
+ to be back for a while...
+<pause>
+<audio_0F21><Cless>:<nl>
+ Yeah...
+<pause>
+<audio_0F22><Klarth>:<nl>
+ When they do, why don't we leave
+ them here and go for our own
+ stroll through the place?
+ Then we'll be even-steven.
+<pause>
+<audio_0F23><Cless>:<nl>
+ Sounds like an idea.{END}
+
+<audio_0F24><Klarth>:<nl>
+ By the way...
+<pause>
+<audio_0F25><Cless>:<nl>
+ ...?
+<pause>
+{END}
+
+<unk1><audio_0F26><Klarth>:<nl>
+ What do you think
+ of <Mint>, <Cless>?<wait>{END}
+
+<audio_0F27><Cless>:<nl>
+ Huh...?
+<pause>
+<audio_0F28><Cless>:<nl>
+ What are you asking?<wait>{END}
+
+<audio_0F29><Klarth>:<nl>
+ I mean...
+<pause>
+<audio_0F2A><Klarth>:<nl>
+ ......<wait>{END}
+
+<audio_0F2B><Klarth>:<nl>
+ Good lord...<nl>
+ Never mind!<wait>{END}
+
+<audio_0F2C><Cless>:<nl>
+ You're making me nervous...<wait>{END}
+
+<audio_0F2D><Klarth>:<nl>
+ ......{END}
+
+<audio_0F2E><Cless>:<nl>
+ What was that about?
+<pause>
+<audio_0F2F><Klarth>:<nl>
+ A sinister presence has entered the
+ forest...<wait>{END}
+
+<audio_0F30><Cless>:<nl>
+ Huh!?{END}
+
+<audio_0F31><Mint>:<nl>
+ ......
+<pause>
+<audio_0F32><Mint>:<nl>
+ And that is how matters currently
+ stand.{END}
+
+<audio_0F33><Mint>:<nl>
+ Do you believe me?{END}
+
+<audio_0F34><Mint>:<nl>
+ I know I didn't explain everything
+ well, but that's truly how it is...
+<pause>
+<audio_0F35><Mint>:<nl>
+ I beg of you: please believe me.{END}
+
+<audio_0F36>Unicorn:<nl>
+ Above you!!<wait>{END}
+
+<audio_0F37>???:<nl>
+ DHAOS, Dhaos...MASTER Dhaos!
+<pause>
+<audio_0F38>???:<nl>
+ WE have COME for your SOULS!!!
+ Our master DEMANDS it!!{END}
+
+<audio_0F3A><Cless>:<nl>
+ <Mint>!!{END}
+
+<audio_0F3B><Cless>:<nl>
+ <Mint>, are you all right!?
+<pause>
+<audio_0F3C><Mint>:<nl>
+ I'm okay...
+<pause>
+<audio_0F3D><Mint>:<nl>
+ But, the unicorn...{END}
+
+<audio_0F3E><Arche>:<nl>
+ You guys all right!?
+<pause>
+<audio_0F3F><Arche>:<nl>
+ What the heck went down here!?{END}
+
+<audio_0F40><Mint>:<nl>
+ Steady now...{END}
+
+<audio_0F41>Unicorn:<nl>
+ I trust in your story, just as I
+ trust in you.
+<pause>
+<audio_0F42><Mint>:<nl>
+ *gasp*!
+<pause>
+<audio_0F43>Unicorn:<nl>
+ Your heart is pure and unclouded,
+ young lady.
+<pause>
+<audio_0F44>Unicorn:<nl>
+ Do not weep, for I must alter my
+ form to aid you...{END}
+
+<color_0002>Acquired the <item_E000>.<color_0000><wait>{END}
+
+<audio_0F45><Klarth>:<nl>
+ If the unicorn truly embodies
+ clerical artes...
+<pause>
+<audio_0F46><Klarth>:<nl>
+ ...then this horn will make reviving
+ Yggdrasill a snap!<wait>{END}
+
+<audio_0F47><Mint>:<nl>
+ Yes.
+<pause>
+<audio_0F48><Mint>:<nl>
+ The horn is overflowing with the
+ sacred power of clerical artes.
+<pause>
+<audio_0F49><Cless>:<nl>
+ Then we need to take it to the
+ Forest of Spirits, fast!
+<pause>
+<audio_0F4A><Cless>:<nl>
+ But before we go...{END}
+
+<unk1><audio_15E6><Cless>:<nl>
+ Explain yourself, <Arche>!
+ What were you doing over there!?
+ <Mint> could have been killed!<wait>{END}
+
+<unk1><audio_0F4B><Cless>:<nl>
+ Explain yourself, <Arche>!
+ Where in the world were you!?
+ <Mint> was in grave danger!<wait>{END}
+
+<audio_0F4C><Arche>:<nl>
+ Eh, ah, um... <panic>
+<pause>
+<audio_0F4D><Arche>:<nl>
+ I-I was...
+<pause>
+<audio_0F4E><Arche>:<nl>
+ See, after hearing all those rumors
+ about the unicorn, I like, figured
+ there was no way it would
+ approach us with me around... <panic>
+<pause>
+<audio_0F4F><Cless>:<nl>
+ Huhhh?<wait>{END}
+
+<audio_0F50><Arche>:<nl>
+ I-I, like, um, had a boyfriend way
+ back, y'know? <panic>
+<pause>
+<audio_0F51><Arche>:<nl>
+ And, um...
+<pause>
+<audio_0F52><Cless>:<nl>
+ Yeah???<wait>{END}
+
+<audio_0F53><Arche>:<nl>
+ L-Leave me alone!
+<pause>
+<audio_0F54><Arche>:<nl>
+ Look! It's as I said!
+ There's no way the unicorn would
+ have come out if I was with her!
+ That's just how it is!
+<pause>
+<audio_0F55><Arche>:<nl>
+ Now, the important thing is that
+ we hurry to the Forest of Spirits!!!
+ I'll even let you use Quick-jump
+ again if you'll forgive me!
+<pause>
+<color_0002>What will you do?<nl>
+<speed_0000>1. Quick-jump there<nl>
+2. Walk there<speed_FFFF>{END}
+
+<Cless>:<nl>
+ Should we leave the forest for a
+ while?{END}
+
+<Cless>:<nl>
+ Wait, where'd <Arche> go?
+ I thought she was with you.
+<pause>
+<Mint>:<nl>
+ Ah, I have to find her...{END}
+
+<color_0002><speed_0001><Mint> has earned the title
+“Pure Maiden.”<color_0000>{END}
+
+<audio_1349><Suzu>:<nl>
+ Do you wish to visit the Ninja
+ Village?{END}
+
+<audio_134A><Suzu>:<nl>
+ Then let us go.{END}
+
+<Suzu>:<nl>
+ I see...{END}
+

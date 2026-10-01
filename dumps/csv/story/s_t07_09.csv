@@ -1,0 +1,1551 @@
+Japanese	English
+"<audio_104C>司会
+『挑戦者が現れました！！』<wait>{END}"	"<audio_104C>Announcer
+ “A challenger has come forth!!!”<wait>{END}"
+"司会
+『挑戦者の名は<Cless>！』<wait>{END}"	"Announcer
+ “He calls himself <Cless>!”<wait>{END}"
+"司会
+『ダオスを倒すために旅を続ける
+　若き英雄です！』
+<pause>
+司会
+『前回の戦いでは非常にすばらし
+　い戦いぶりを披露してくれまし
+　た』
+<pause>
+司会
+『今回はどんな戦いを見せてくれ
+　るのでしょうか！？』{END}"	"Announcer
+ “This handsome young man is a
+ hero journeying to defeat Dhaos!”
+<pause>
+Announcer
+ “He's blown all of our minds with
+ the unprecedented skill he's shown
+ off here in the past!”
+<pause>
+Announcer
+ “Does he still have what it takes!?”{END}"
+"<audio_104E>司会
+『出身地は・・・えっとトーティ
+　ス？』
+<pause>
+<audio_104F>司会
+『ずいぶん古い地名だなぁ、あ、
+　え〜ミゲールの町です！』
+<pause>
+<audio_1050>司会
+『彼の流派はアルベイン流！』
+<pause>
+<audio_1051>司会
+『あのダオスを倒すために旅をし
+　ているという勇者です！！』{END}"	"<audio_104E>Announcer
+ “He hails from...uh, Totus?”
+<pause>
+<audio_104F>Announcer
+ “That's the old name for...uh,
+ ummm, Miguel!”
+<pause>
+<audio_1050>Announcer
+ “He's schooled in the Alvein Style!”
+<pause>
+<audio_1051>Announcer
+ “And they all say he's a hero on an
+ epic journey to school Dhaos!”{END}"
+"<audio_1052><Arche>
+「<Cless>、がんばれぇ<heart>」
+<pause>
+<audio_1053><Chester>
+「負けるんじゃねぇぞー！」{END}"	"<audio_1052><Arche>
+ <Cless>, give 'em hell! <heart>
+<pause>
+<audio_1053><Chester>
+ Come on, dude!
+ Beat them into next week!{END}"
+"<audio_1054>司会
+『では戦闘を開始します！』
+<pause>
+<audio_1055>司会
+『まず一匹目だぁ！！』{END}"	"<audio_1054>Announcer
+ “Now let the battles begin!”
+<pause>
+<audio_1055>Announcer
+ “Here's the first fight!”{END}"
+"<audio_1066>司会
+『あーっと！』
+<pause>
+{END}"	"<audio_1066>Announcer
+ “Ohhh!”
+<pause>
+{END}"
+"<unk4><audio_1067>司会
+<Cless>、ここでついに
+力尽きたー！！』{END}"	"<unk4><audio_1067>Announcer
+ “Looks like <Cless> is down for
+ the count!!!”{END}"
+"<audio_1056><Cless>
+「よしっ、次っ！！」{END}"	"<audio_1056><Cless>
+ Okay, who's next!?{END}"
+"<audio_1058><Cless>
+「よっしゃあぁ！！」{END}"	"<audio_1058><Cless>
+ Yahoo!{END}"
+"<audio_105A><Cless>
+「ＯＫ！」{END}"	"<audio_105A><Cless>
+ Oh-kay!{END}"
+"<audio_105C><Cless>
+「まだまだこれからだ！」{END}"	"<audio_105C><Cless>
+ You still have a ways to go!{END}"
+"<audio_105E><Cless>
+「油断しちゃだめだ！」{END}"	"<audio_105E><Cless>
+ Don't be so careless next time!{END}"
+"<audio_1062><Cless>
+「なかなか手強かった！」{END}"	"<audio_1062><Cless>
+ Wow, that was pretty tough!{END}"
+"<audio_1064><Cless>
+「もうひとがんばりだ！」{END}"	"<audio_1064><Cless>
+ I'll fight even harder next time!{END}"
+"<audio_1068><Cless>
+「完璧だぜ！！」{END}"	"<audio_1068><Cless>
+ Perfect!{END}"
+"<audio_1069>司会
+『やりました！』
+<pause>
+<audio_106A>司会
+『ついに八連勝達成！！』
+<pause>
+<audio_106B>司会
+『おめでとう、<Cless>！』
+<pause>
+<audio_106C>司会
+『ついに八連勝を達成したわけだ
+　が、最後にもう一匹、強い魔物
+　がいる』<wait>{END}"	"<audio_1069>Announcer
+ “He did it!”
+<pause>
+<audio_106A>Announcer
+ “Eight consecutive wins!
+ A perfect winning streak!”
+<pause>
+<audio_106B>Announcer
+ “Congratulations, <Cless>!”
+<pause>
+Announcer
+ “But it's not over yet!”
+<pause>
+<audio_106C>Announcer
+ “Your final match is against a truly
+ formidable monster; a real
+ creature of carnage!”<wait>{END}"
+"司会
+『挑戦するか！？』{END}"	"Announcer
+ “Are you man enough to take it
+ on!?”{END}"
+"司会
+『本当にやめるのか！？』
+<pause>
+司会
+『考え直すなら今のうちだぞ！』
+<pause>
+司会
+『挑戦するか！？』{END}"	"Announcer
+ “You're absolutely sure of this!?
+ Here's your chance to reconsider!”
+<pause>
+Announcer
+ “Will you take it on!?”{END}"
+"司会
+『本当にいいのか！？』
+<pause>
+司会
+『引き返すなら今のうちだぞ！』
+<pause>
+司会
+『挑戦するか！？』{END}"	"Announcer
+ “You're absolutely sure!?
+ If you're having any second
+ thoughts, now's your chance
+ to back down!”
+<pause>
+Announcer
+ “You'll really take it on!?”{END}"
+"司会
+『そうか、命は粗末にするもので
+　はないからな』<wait>{END}"	"Announcer
+ “A wise decision.
+ Life's not something you should
+ throw away so easily.”<wait>{END}"
+"<unk4>司会
+みなさん、<Cless>に惜しみない拍手を！！』{END}"	"<unk4>Announcer
+ “Ladies and gentlemen, let's hear it
+ for <Cless>!!!”{END}"
+"<audio_1057>司会
+『さあ行こう！
+　続いて二匹目だぁ！！』{END}"	"<audio_1057>Announcer
+ “Well, let's keep going!
+ Come on out, number two!”{END}"
+"<audio_1059>司会
+『さあ行くぞ、準備はいいか？
+　続いて三匹目だぁ！！』{END}"	"<audio_1059>Announcer
+ “Are you ready?
+ It's time for the third one!”{END}"
+"<audio_105B>司会
+『さあコイツで半分だ！
+　それじゃあ四匹目だぁ！！』{END}"	"<audio_105B>Announcer
+ “It's half-time!
+ Number four, you're up next!”{END}"
+"<audio_105D>司会
+『イエス、イエス、イエースッ！
+　最高にグレートだぜぇ！
+　勢いに乗って五匹目だぁ！』{END}"	"<audio_105D>Announcer
+ “Yes, yes, YES!!!
+ <Cless> is on a roll!
+ On to number five!”{END}"
+"<audio_105F>司会
+『グレート、<Cless>！
+　こいつはラベルが違うぜ！』<wait>{END}"	"<audio_105F>Announcer
+ “<Cless> Alvein, ladies
+ and gentlemen!
+ He is without beer!”<wait>{END}"
+"<audio_1060><Cless>
+「それって、レベルじゃ・・・」{END}"	"<audio_1060><Cless>
+ Uh, I hope he means “peer”...{END}"
+"<audio_1061>司会
+『細かいことは気にするなよ！
+　ほら、そんなこと言ってると
+　六匹目が出てくるぜぃ！』{END}"	"<audio_1061>Announcer
+ “Hey, don't sweat the hard stuff!
+ Having said that, here comes
+ number six!”{END}"
+"<audio_1063>司会
+『驚いたねぇ！ついにここまで
+　勝ちあがったぞ！
+　いよいよ七匹目だ！！』{END}"	"<audio_1063>Announcer
+ “What a surprise!
+ Someone's finally gotten this far!
+ At last, the seventh!”{END}"
+"<audio_1065>司会
+『さあコイツでラストだ！
+　みんなが勝利を待ってるぜ！
+　トドメの八匹目だぁっ！』{END}"	"<audio_1065>Announcer
+ “This is it! The last one!
+ The great...NUMBER EIGHT!!!
+ Everyone's counting on you! GO!{END}"
+"司会
+『よーし、気に入った！！』
+<pause>
+司会
+『その勇気をたたえ、体力を回復
+　してやろう！！』{END}"	"Announcer
+ “This is absolutely astounding!”
+<pause>
+Announcer
+ “Let's take a quick time-out to
+ applaud his valor and allow him to
+ recover his strength!”{END}"
+"メイド
+「エリクシールとパナシーアボト
+　ルです」{END}"	"Maid
+ This Elixir and Panacea Bottle ought
+ to perk you up!{END}"
+"<color_0002><Cless>は完全回復した！<color_0000>
+<pause>
+司会
+『ではいくぞ！！』
+<pause>
+司会
+『カモーン、ミュージック！！』{END}"	"<color_0002><Cless> has fully recovered!<color_0000>
+<pause>
+Announcer
+ “Now, then!!!”
+<pause>
+Announcer
+ “COME OOOOOOON, MUUUUSIC!!!”{END}"
+"司会
+『やりました！』
+<pause>
+司会
+『ついにやりました！！』
+<pause>
+司会
+『これでまたこの国の歴史に一人
+　の勇者の名が残ることになりま
+　した！！』{END}"	"Announcer
+ “A clean sweep!”
+<pause>
+Announcer
+ “Someone finally did it!”
+<pause>
+Announcer
+ “With this, the name of another
+ hero will go down in our country's
+ history!!!”{END}"
+"<Cless>
+「おおげさだなぁ・・・」{END}"	"<Cless>
+ You're embarrassing me...{END}"
+"<audio_106D>？？？
+『貴様が来るのを待っていたぞ、
+　<Cless>！！』
+<pause>
+<audio_106E><Cless>
+「だ、誰だ！？」{END}"	"<audio_106D>???
+ We have awaited your arrival,
+ <Cless>!!!
+<pause>
+<audio_106E><Cless>
+ Wh-Who are you!?{END}"
+"<unk1><audio_106F>？？？
+我が主の命により・・・」
+<pause>
+<audio_1070>？？？
+貴様の命、もらい受ける！」
+<pause>
+<audio_1071><Cless>
+何！？」
+<pause>
+<audio_1072><Cless>
+あっ、ユークリッドで出没する忍者って・・・」
+<pause>
+<audio_1073><Cless>
+まさか、<Suzu>ちゃんの
+御両親！？」
+<pause>
+<audio_1074><Suzu>の母・おきよ
+覚悟はできたか！？」
+<pause>
+<audio_1075><Cless>
+ま、待ってくれ！」
+<pause>
+<audio_1076><Cless>
+あなた達は操られている
+だけだ！！」{END}"	"<unk1><audio_106F>???
+ By our master's orders...
+<pause>
+<audio_1070>???
+ We shall take your life!
+<pause>
+<audio_1071><Cless>
+ What!?
+<pause>
+<audio_1072><Cless>
+ (Wait...
+ Ninja in Euclid...
+ That must mean...!)
+<pause>
+<audio_1073><Cless>
+ Y-You're <Suzu><'s/'> parents, aren't
+ you!?
+<pause>
+<audio_1074><Suzu><'s/'> Mother, Okiyo
+ Are you prepared!?
+<pause>
+<audio_1075><Cless>
+ W-Wait!
+<pause>
+<audio_1076><Cless>
+ You're just being controlled!{END}"
+"<audio_1077>？？？
+「そ、その通りだ・・・」
+<pause>
+<audio_1078>？？？
+「私達を止めて・・・いや、
+　殺してくれ！」{END}"	"<audio_1077>???
+ Y-You are correct...
+<pause>
+<audio_1078>???
+ You must stop--no, kill us!
+ Please!{END}"
+"<audio_1079><Cless>
+（な、何だ、今のは！？）
+<pause>
+<audio_107A><Suzu>の父・銅蔵
+「問答無用！！」{END}"	"<audio_1079><Cless>
+ (W-What!?
+ I'm not hearing things
+ again, am I!?)
+<pause>
+<audio_107A><Suzu><'s/'> Father, Dozo
+ We need not answer to you!!{END}"
+"<Mint>
+<audio_174F>「<Cless>さん！！」
+<pause>
+<Arche>
+<audio_1750>「待ってて、すぐ行くからね！」
+<pause>
+<Chester>
+<audio_1751>「<Cless>・・・」
+<pause>
+<Klarth>
+<audio_1752>「<Cless>！！」{END}"	"<Mint>
+ <audio_174F>Oh no!
+ <Cless>!!!
+<pause>
+<Arche>
+ <audio_1750>Hold on!
+ We'll be right there!
+<pause>
+<Chester>
+ <audio_1751><Cless>...
+<pause>
+<Klarth>
+ <audio_1752><Cless>!!{END}"
+"銅蔵
+<audio_1753>「ふっふっふ、とどめだ」
+<pause>
+銅蔵
+<audio_1754>「・・・闇に滅せよ！！」{END}"	"<audio_1753>Dozo
+ Hm hm hm!
+ Time to finish this!
+<pause>
+<audio_1754>Dozo
+ ...I'll send you to the darkest
+ depths of the abyss!{END}"
+"おきよ
+<audio_1755>「貴様、何者！？」
+<pause>
+<Suzu>
+<audio_1756>「父上、母上、これ以上人を殺め
+　るのはやめて下さい！」
+<pause>
+銅蔵
+<audio_1757>「父上、母上だとぉ？」
+<pause>
+銅蔵
+<audio_1758>「貴様など知らぬわ」
+<pause>
+銅蔵
+<audio_1759>「我々の邪魔をするというのなら
+　ば・・・」
+<pause>
+銅蔵
+<audio_175A>「斬る！！」
+<pause>
+<Suzu>
+<audio_175B>「・・・・・・」{END}"	"<audio_1755>Okiyo
+ Who are you!?
+<pause>
+<Suzu>
+ <audio_1756>Mother, Father!
+ Please cease this
+ dishonorable behavior!
+<pause>
+<audio_1757>Dozo
+ Mother? Father?
+ What?
+<pause>
+<audio_1758>Dozo
+ I have never seen you before in
+ my life.
+<pause>
+<audio_1759>Dozo
+ But if you get in our way...
+<pause>
+<audio_175A>Dozo
+ We shall cut you down!!!
+<pause>
+<Suzu>
+ <audio_175B>......{END}"
+"銅蔵
+<audio_175C>『<Suzu>・・・』
+<pause>
+銅蔵
+<audio_175D>『私達を斬るのだ・・・』
+<pause>
+おきよ
+<audio_175E>『あやつられたとはいえ、我らは
+　多くの者を手にかけた・・・』
+<pause>
+銅蔵
+<audio_175F>『一族の罪は一族の手で断たねば
+　ならない！』{END}"	"<audio_175C>Dozo
+ “<Suzu>...”
+<pause>
+<audio_175D>Dozo
+ “Cut our bodies down...”
+<pause>
+<audio_175E>Okiyo
+ “Though our bodies are being
+ manipulated, their hands have been
+ stained by unlawful bloodshed...”
+<pause>
+<audio_175F>Dozo
+ “Only by the hands of one of our
+ own can we be freed from this
+ dishonor!”{END}"
+"<Suzu>
+<audio_1760>『でも・・・父上・・・母上』{END}"	"<Suzu>
+ <audio_1760>“But... Mother... Father.”{END}"
+"銅蔵
+<audio_1761>『斬るのだ！忍者は非情でなくて
+　は務まらない！』
+<pause>
+おきよ
+<audio_1762>『さあ、<Suzu>、早く！』{END}"	"<audio_1761>Dozo
+ “Do it!
+ A true shinobi must possess
+ a heart of steel!”
+<pause>
+<audio_1762>Okiyo
+ “Now, <Suzu>!”{END}"
+"銅蔵
+<audio_1763>「ゆくぞ！こわっぱ！」
+<pause>
+<Suzu>
+<audio_1764>「父上<speed_0010>・・・<speed_FFFF>母上<speed_0010>・・・<speed_FFFF>」
+<pause>
+<Suzu>
+<audio_1765>「・・・・・・」
+<pause>
+<Suzu>
+<audio_1766>「父上！母上！お覚悟！」<wait>{END}"	"<audio_1763>Dozo
+ Come on, you little brat!
+<pause>
+<Suzu>
+ <audio_1764>Mother<speed_0010>...<speed_FFFF>Father<speed_0010>...<speed_FFFF>
+<pause>
+<Suzu>
+ <audio_1765>......
+<pause>
+<Suzu>
+ <audio_1766>Mother! Father!
+ Prepare yourselves!<wait>{END}"
+"<Suzu>
+<audio_1767>「伊賀栗流忍法分身之術！！」{END}"	"<Suzu>
+ <audio_1767>Igaguri Style ninja replication arte!{END}"
+"銅蔵
+<audio_1768>「なかなかやるな・・・だが」
+<pause>
+銅蔵
+<audio_1769>「そこだ！！」{END}"	"<audio_1768>Dozo
+ I commend you...
+ However...
+<pause>
+<audio_1769>Dozo
+ TAKE THIS!!{END}"
+"銅蔵
+<audio_176A>「何！？」{END}"	"<audio_176A>Dozo
+ What!?
+ How!?{END}"
+"銅蔵
+<audio_176B>「<Suzu>・・・」{END}"	"<audio_176B>Dozo
+ <Suzu>...{END}"
+"<Suzu>
+<audio_176C>「父上、母上！！」{END}"	"<Suzu>
+ <audio_176C>Mother, Father!!{END}"
+"<Suzu>
+<audio_176D>「父上、母上・・・」
+<pause>
+<Suzu>
+<audio_176E>「やっと会えたのに・・・」
+<pause>
+<Suzu>
+<audio_176F>「ごめんなさい・・・ごめんなさ
+　い・・・」
+<pause>
+銅蔵
+<audio_1770>「よいのだ、<Suzu>」
+<pause>
+銅蔵
+<audio_1771>「よくぞ・・・」
+<pause>
+銅蔵
+<audio_1772>「よくぞ、よくぞ一族の掟を貫き
+　通した・・・」
+<pause>
+銅蔵
+<audio_1773>「こ、これで・・・くっ・・・」
+<pause>
+<Suzu>
+<audio_1774>「父上、しっかり・・・」
+<pause>
+銅蔵
+<audio_1775>「これで、安心して、地獄に行け
+　るな・・・」
+<pause>
+銅蔵
+<audio_1776>「な、なあ、おきよ・・・」
+<pause>
+おきよ
+<audio_1777>「ああ、<Suzu>や・・・」<wait>{END}"	"<Suzu>
+ <audio_176D>Mother, Father...
+<pause>
+<Suzu>
+ <audio_176E>I am finally able to see you, but...
+<pause>
+<Suzu>
+ <audio_176F>I am sorry...
+ I am sorry...
+<pause>
+<audio_1770>Dozo
+ Do not apologize...
+<pause>
+<audio_1771>Dozo
+ You did well...
+<pause>
+<audio_1772>Dozo
+ You have followed our clan's
+ principles admirably...
+<pause>
+<audio_1773>Dozo
+ W-With this...ugh...
+<pause>
+<Suzu>
+ <audio_1774>Father, hold on...
+<pause>
+<audio_1775>Dozo
+ With this, we can go to Hell without
+ regret...
+<pause>
+<audio_1776>Dozo
+ R-Right, Okiyo...?
+<pause>
+<audio_1777>Okiyo
+ Yes...
+ Goodbye, <Suzu>...<wait>{END}"
+"<unk1>おきよ
+<audio_1778><Cless>殿にも、おわびをしておいておくれ・・・」{END}"	"<unk1>Okiyo
+ <audio_1778>Apologize to Young Master
+ <Cless> for us, as well...{END}"
+"<Suzu>
+<audio_1779>「父上、母上・・・」{END}"	"<Suzu>
+ <audio_1779>Mother, Father...{END}"
+"<unk1><Suzu>
+<audio_177A><Cless>さん、大丈夫ですか？」<wait>{END}"	"<unk1><Suzu>
+ <audio_177A><Cless>, are you okay?<wait>{END}"
+"<Cless>
+<audio_177B>「ああ・・・」
+<pause>
+<Cless>
+<audio_177C>「だ、大丈夫・・・」
+<pause>
+<Cless>
+<audio_177D>「・・・・・・」
+<pause>
+<Cless>
+<audio_177E>「<Suzu>ちゃん、すまない・・・」
+<pause>
+<Cless>
+<audio_177F>「僕にもっと力があれば・・・」
+<pause>
+<Suzu>
+<audio_1780>「これも忍の掟・・・」
+<pause>
+<Suzu>
+<audio_1781>「忍者は、非情でなければ務まら
+　ないのです・・・」
+<pause>
+<Cless>
+<audio_1782>「<Suzu>ちゃん・・・」
+<pause>
+<Suzu>
+<audio_1783>「・・・目的は果たしました」
+<pause>
+<Suzu>
+<audio_1784>「私は里に帰らなければなりませ
+　ん」
+<pause>
+<Suzu>
+<audio_1785>「よろしければ、また、忍者の里
+　に来て下さい」<wait>{END}"	"<Cless>
+ <audio_177B>Yeah...
+<pause>
+<Cless>
+ <audio_177C>D-Don't worry about me...
+<pause>
+<Cless>
+ <audio_177D>......
+<pause>
+<Cless>
+ <audio_177E>Please forgive me...
+<pause>
+<Cless>
+ <audio_177F>If I was stronger, your parents
+ would have...
+<pause>
+<Suzu>
+ <audio_1780>Their deaths were in accordance
+ with the Way of the Ninja.
+<pause>
+<Suzu>
+ <audio_1781>A true ninja...must possess a heart
+ of steel.
+<pause>
+<Cless>
+ <audio_1782>But...
+<pause>
+<Suzu>
+ <audio_1783>...My mission has been
+ accomplished.
+<pause>
+<Suzu>
+ <audio_1784>I must return to the village.
+<pause>
+<Suzu>
+ <audio_1785>I wish that you, too, would revisit
+ the Ninja Village, if time avails you.<wait>{END}"
+"<unk1><Suzu>
+<audio_1786><Cless>さん達には色々協力していただきました」<wait>{END}"	"<unk1><Suzu>
+ <audio_1786>Thank you for all of your
+ assistance.
+<wait>
+{END}"
+"<Suzu>
+<audio_1787>「そのお礼をさせて下さい」
+<pause>
+<Suzu>
+<audio_1788>「では、失礼いたします」{END}"	"<Suzu>
+ <audio_1787>Please accept my gratitude.
+<pause>
+<Suzu>
+ <audio_1788>Now, if you will excuse me.{END}"
+"<audio_107B><Cless>
+「や、やったか・・・？」{END}"	"<audio_107B><Cless>
+ I...I got them...?{END}"
+"<audio_107C><Cless>
+「何！？」
+<pause>
+<audio_107D>銅蔵
+「甘いわ！！」{END}"	"<audio_107C><Cless>
+ They disappeared!?
+<pause>
+<audio_107D>Dozo
+ Naive fool!!{END}"
+"<audio_107E>おきよ
+「我ら、忍者マスターは無敵！」
+<pause>
+<audio_107F>銅蔵
+「貴様ごときにやられるものでは
+　ないわ！！」
+<pause>
+<audio_1080><Cless>
+「くっ・・・なんてことだ！」
+<pause>
+<audio_1081>？？？
+「待って下さい！」{END}"	"<audio_107E>Okiyo
+ We are master ninja!
+ We are invincible!
+<pause>
+<audio_107F>Dozo
+ We will not be done in by the likes
+ of you!!!
+<pause>
+<audio_1080><Cless>
+ Urk...
+ What the hell's going on here!?
+<pause>
+<audio_1081>???
+ Please, wait!{END}"
+"<audio_1082><Cless>
+「<Suzu>ちゃん！」{END}"	"<audio_1082><Cless>
+ <Suzu>!
+ What happened!?{END}"
+"<audio_1083>おきよ
+『<Suzu>・・・』{END}"	"<audio_1083>Okiyo
+ “<Suzu>...”{END}"
+"<audio_1084><Suzu>
+「父上、母上、もう人を殺めるの
+　はやめて下さい！！」{END}"	"<audio_1084><Suzu>
+ Mother, Father!
+ Please cease this dishonorable
+ behavior!{END}"
+"<audio_1085>銅蔵
+『<Suzu>・・・』
+<pause>
+<audio_1086>銅蔵
+『わ、私達を斬るのだ！！』{END}"	"<audio_1085>Dozo
+ “<Suzu>...”
+<pause>
+<audio_1086>Dozo
+ “C-Cut our bodies down!!!”{END}"
+"<audio_1087>？？？
+『だ、黙れ！！』
+<pause>
+<audio_1088>？？？
+『完全に洗脳できなかったか！』{END}"	"<audio_1087>???
+ “H-Hold your tongue!”
+<pause>
+<audio_1088>???
+ “Was your brainwashing
+ incomplete”!?{END}"
+"<audio_1089><Suzu>
+「<speed_0010>父上<speed_FFFF>・・・<speed_0010>私には<speed_FFFF>・・・<speed_0010>できま
+　せん<speed_FFFF>・・・」{END}"	"<audio_1089><Suzu>
+ <speed_0010>Father<speed_FFFF>...<speed_0010>I<speed_FFFF>...<speed_0010>cannot...{END}"
+"<audio_108A>おきよ
+「う・・・」
+<pause>
+<audio_108B>銅蔵
+「うおおおおおおぉぉぉ！！！」{END}"	"<audio_108A>Okiyo
+ Grugh...
+<pause>
+<audio_108B>Dozo
+ GURRRRAAAAAGHHHHHHH!!!{END}"
+"<audio_108C>？？？
+『な、か、体がいうことをきかな
+　い・・・』
+<pause>
+<audio_108D>？？？
+『ギ、ギヒヒヒヒイィィ！！』{END}"	"<audio_108C>???
+ “Wh-What's...h-happening...
+ Th-This body...won't do what I tell
+ it to anymore...”
+<pause>
+<audio_108D>???
+ “Gi-giheheheheeeeee!!!”{END}"
+"<audio_108E><Suzu>
+「父上、母上！！」
+<pause>
+<audio_108F><Cless>
+「そ、そんな・・・」
+<pause>
+<audio_1090>？？？
+『こ、こんなばかな・・・』{END}"	"<audio_108E><Suzu>
+ Mother, Father!!!
+<pause>
+<audio_108F><Cless>
+ Whaaa...
+<pause>
+<audio_1090>???
+ Th-This can't be...{END}"
+"<audio_1091><Suzu>
+「父上ー、母上ー！！」
+<pause>
+<audio_1092><Suzu>
+「こんな・・・」
+<pause>
+<audio_1093><Suzu>
+「こんなことって・・・」
+<pause>
+<audio_1094>銅蔵
+「よ、よいのだ・・・」
+<pause>
+<audio_1095>銅蔵
+「わ、我らの罪は我らの手で償わ
+　なければならぬ・・・」<wait>{END}"	"<audio_1091><Suzu>
+ MOTHER, FATHER!!!
+<pause>
+<audio_1092><Suzu>
+ Why did...
+<pause>
+<audio_1093><Suzu>
+ Why did you...
+<pause>
+<audio_1094>Dozo
+ This...this is how it should be...
+<pause>
+<audio_1095>Dozo
+ W-We must atone for our crimes
+ with our own hands...<wait>{END}"
+"<unk1><audio_1096>銅蔵
+<Suzu>の・・・手を汚す必要はない・・・」
+<pause>
+<audio_1097>おきよ
+今まで親らしいことをしてやれなくて・・・」
+<pause>
+<audio_1098>おきよ
+ごめんなさい・・・」
+<pause>
+<audio_1099>おきよ
+でも・・・最期にあなたの涙を見て・・・」
+<pause>
+<audio_109A>おきよ
+安心したわ・・・」
+<pause>
+<audio_109B>銅蔵
+これで我らも・・・」
+<pause>
+<audio_109C>銅蔵
+心・・・おきなく・・・」
+<pause>
+<audio_109D>銅蔵
+地獄に・・・行ける・・・」{END}"	"<unk1><audio_1096>Dozo
+ You...need not stain your hands,
+ <Suzu>...
+<pause>
+<audio_1097>Okiyo
+ We have not been good parents to
+ you...
+<pause>
+<audio_1098>Okiyo
+ I am sorry...
+<pause>
+<audio_1099>Okiyo
+ But...finally seeing your tears...
+<pause>
+<audio_109A>Okiyo
+ ...is a relief...
+<pause>
+<audio_109B>Dozo
+ With this, we...
+<pause>
+<audio_109C>Dozo
+ ...can go without shame...
+<pause>
+<audio_109D>Dozo
+ to...Hell...{END}"
+"<unk3><audio_109E><Suzu>
+父上、母上・・・）
+<pause>
+<audio_109F><Suzu>
+<Suzu>は、もう泣きません）
+<pause>
+<audio_10A0><Suzu>
+この涙が最後の涙・・・）
+<pause>
+<audio_10A1><Suzu>
+<Suzu>は立派な忍者になります）{END}"	"<unk3><audio_109E><Suzu>
+ (Mother, Father...)
+<pause>
+<audio_109F><Suzu>
+ (Your <Suzu> shall not cry
+ anymore.)
+<pause>
+<audio_10A0><Suzu>
+ (These are the last tears she will
+ ever shed.)
+<pause>
+<audio_10A1><Suzu>
+ (Your <Suzu> shall become a true
+ ninja.){END}"
+"<unk1><audio_10A2><Cless>
+<Suzu>ちゃん、何て言ったらいいか・・・」
+<pause>
+<audio_10A3><Cless>
+僕は、取り返しのつかないことをしてしまった・・・」
+<pause>
+<audio_10A4><Suzu>
+<Cless>さんが謝る必要はありません」<wait>{END}"	"<unk1><audio_10A2><Cless>
+ <Suzu>, I don't know what to
+ say...
+<pause>
+<audio_10A3><Cless>
+ If I could've recovered sooner, I
+ might've been able to...
+<pause>
+<audio_10A4><Suzu>
+ You need not apologize.<wait>{END}"
+"<audio_10A5><Suzu>
+「あなたは両親の心を救ってくれ
+　た恩人なのです」
+<pause>
+<audio_10A6><Cless>
+「でも、僕は御両親の命を救うこ
+　とはできなかった・・・」<wait>{END}"	"<audio_10A5><Suzu>
+ You have saved the souls of my
+ parents.
+<pause>
+<audio_10A6><Cless>
+ But I couldn't save their lives...<wait>{END}"
+"<audio_10A7><Suzu>
+「これも忍者の掟」
+<pause>
+<audio_10A8><Suzu>
+「忍者は・・・」
+<pause>
+<audio_10A9><Suzu>
+「忍者は・・・非情でなければ務
+　まらないのです」
+<pause>
+<audio_10AA><Suzu>
+「・・・目的は果たしました」
+<pause>
+<audio_10AB><Suzu>
+「里に帰らなければ・・・」
+<pause>
+<audio_10AC><Suzu>
+「よろしければ、また、忍者の里
+　に来て下さい」<wait>{END}"	"<audio_10A7><Suzu>
+ Their deaths were in accordance
+ with the Way of the Ninja.
+<pause>
+<audio_10A8><Suzu>
+ A true ninja...
+<pause>
+<audio_10A9><Suzu>
+ A true ninja...must possess a heart
+ of steel.
+<pause>
+<audio_10AA><Suzu>
+ ...My mission has been
+ accomplished.
+<pause>
+<audio_10AB><Suzu>
+ I must return to the village...
+<pause>
+<audio_10AC><Suzu>
+ I wish that you, too, would revisit
+ the Ninja Village, if time avails you.<wait>{END}"
+"<unk1><audio_10AD><Suzu>
+<Cless>さん達には色々協力していただきました」
+<pause>
+{END}"	"<unk1><audio_10AD><Suzu>
+ Thank you for all of your
+ assistance.
+<pause>
+{END}"
+"<audio_10AE><Suzu>
+「そのお礼をさせて下さい」
+<pause>
+<audio_10AF><Suzu>
+「では、失礼いたします」{END}"	"<audio_10AE><Suzu>
+ Please accept my gratitude.
+<pause>
+<audio_10AF><Suzu>
+ Now, if you will excuse me.{END}"
+"<audio_10B0>司会
+『ハ・・・ハプニングが起こりま
+　した！』
+<pause>
+<audio_10B1>司会
+『大会運営委員会はこの挑戦は無
+　効という決定を下しました！』
+<pause>
+<audio_10B2>司会
+『ど、どうか御了承下さい！』{END}"	"<audio_10B0>Announcer
+ “That was...quite an episode!”
+<pause>
+<audio_10B1>Announcer
+ “The tournament committee has
+ informed us that they have
+ disqualified this match!”
+<pause>
+<audio_10B2>Announcer
+ “P-Please understand!”{END}"
+"<unk1><audio_10B3><Klarth>
+何か、とんでもないことになったな」
+<pause>
+<audio_10B4><Chester>
+しょうがないって」
+<pause>
+<audio_10B5><Chester>
+<Cless>は<Cless>なりに、やれることをやったんだから」
+<pause>
+<audio_10B6><Cless>
+ああ・・・」
+<pause>
+<audio_10B7><Cless>
+だけど、僕のせいですずちゃんの御両親は・・・」
+<pause>
+<audio_10B8><Mint>
+<Cless>さん、そう自分を責めないで・・・」<wait>{END}"	"<unk1><audio_10B3><Klarth>
+ Well, that was a bolt out of the
+ blue...
+<pause>
+<audio_10B4><Chester>
+ There was no avoiding it.
+ Some stuff just can't be helped.
+<pause>
+<audio_10B5><Chester>
+ You did everything you could, man.
+<pause>
+<audio_10B6><Cless>
+ Yeah...
+<pause>
+<audio_10B7><Cless>
+ But what happened to <Suzu><'s/'>
+ parents...was my fault...
+<pause>
+<audio_10B8><Mint>
+ Don't blame yourself, <Cless>...<wait>{END}"
+"<audio_10B9><Arche>
+「じゃあ、もう一度忍者の里に行
+　こうよ」
+<pause>
+<audio_10BA><Arche>
+「<Suzu>ちゃんに謝りに」{END}"	"<audio_10B9><Arche>
+ Well, why don't we do what little
+ <Suzu> asked and go back to her
+ place?
+<pause>
+<audio_10BA><Arche>
+ That way we can apologize to her.{END}"
+<color_0002><Cless>は『<var_8B01>』の称号を得ました。<color_0000>{END}	"<color_0002><Cless> has earned the title
+“<var_8B01>.”<color_0000>{END}"
+"観客
+「見るのは大好き」{END}"	"Spectator
+ I can't stop watching!
+ It's just too captivating!{END}"
+"観客
+「なんか、すごく痛そうね」{END}"	"Spectator
+ POW! Right in the kisser.
+ There's no way that didn't hurt!{END}"
+"観客
+「腹減ったなぁ・・・」{END}"	"Spectator
+ Stomach's growling...{END}"
+"観客
+「帰ろうかなぁ・・・」{END}"	"Spectator
+ That's enough blood for one day.
+ Let's get home...{END}"
+"観客
+「茶でも飲むか？」{END}"	"Spectator
+ Got any tea?{END}"
+"観客
+「この大会って飛び入りみたいな
+　ものだから、いつ試合が始まる
+　かわかんないのよ」{END}"	"Spectator
+ Nobody really knows when a fight
+ is going to start.
+<pause>
+Spectator
+ There's no set schedule, as the
+ tournament begins only as soon as
+ someone signs up to challenge it.{END}"
+"観客
+「マッチョな人って・・・」
+<pause>
+観客
+「<speed_0010>ス・テ・キ・<heart>」{END}"	"Spectator
+ Those ripped, muscular, macho
+ men...
+<pause>
+Spectator
+ So <speed_0010>S.E.X.Y.<speed_FFFF> <heart>{END}"
+"観客
+「八連勝する人ってほとんどいな
+　いんだよ」
+<pause>
+観客
+「難易度高すぎるよな」{END}"	"Spectator
+ Few can win eight fights in a row.
+<pause>
+Spectator
+ The monsters just get too tough
+ for most people.{END}"
+"観客
+「挑戦者の中には魔物の姿も見え
+　るわ」
+<pause>
+観客
+「魔物全部がダオスに操られてい
+　るわけではないようね」{END}"	"Spectator
+ Even monsters have been signing
+ up as challengers.
+<pause>
+Spectator
+ I guess not all of them act on the
+ orders of Dhaos.{END}"
+"観客
+「昨日の新聞におもしろい記事が
+　載っていたわ」
+<pause>
+観客
+「何でもモーリア坑道で魔界へ通
+　じる洞窟が発見されたとか」{END}"	"Spectator
+ A fascinating article appeared in
+ yesterday's newspaper.
+<pause>
+Spectator
+ The headline was “Entrance to
+ Daemonium found in Moria Mine!”.{END}"
+"観客
+「昨日の新聞におもしろい記事が
+　載っていたわ」
+<pause>
+観客
+「何でもモーリア坑道で魔界へ通
+　じる洞窟が発見されたとか」
+<pause>
+<Cless>
+「本当ですか？」
+<pause>
+観客
+「ええ」
+<pause>
+<Klarth>
+「魔界に通じる洞窟か・・・」
+<pause>
+{END}"	"Spectator
+ A fascinating article appeared in
+ yesterday's newspaper.
+<pause>
+Spectator
+ The headline was “Entrance to
+ Daemonium found in Moria Mine!”.
+<pause>
+<Cless>
+ Really?
+<pause>
+Spectator
+ Yes, indeed.
+ Strange stuff, eh?
+<pause>
+<Klarth>
+ Daemonium, huh...
+<pause>
+{END}"
+"<Cless>
+「行ってみるのもいいかもしれま
+　せんね」
+<pause>
+<Klarth>
+「ああ、そうだな」{END}"	"<Cless>
+ Maybe we should go take a look.
+<pause>
+<Klarth>
+ You read my mind.{END}"
+"観客
+「昨日の新聞におもしろい記事が
+　載っていたわ」
+<pause>
+観客
+「何でも古〜い古文書によると」
+<pause>
+観客
+「モーリア坑道には現在発見され
+　ている坑道の他にドワーフ族の
+　住居跡があるっていう話よ」{END}"	"Spectator
+ A fascinating article appeared in
+ yesterday's newspaper about an
+ ancient document.
+<pause>
+Spectator
+ According to the interpreter, it
+ mentioned...
+<pause>
+Spectator
+ ...that there's a tunnel housing
+ some yet undiscovered dwarven
+ ruins in the Moria Mine.{END}"
+"観客
+「お前も大会に出てみたら？」{END}"	"Spectator
+ Hey, you look like a swordsman.
+ You gonna try the tournament too?{END}"
+"観客
+「ジュースちょうだい」
+<pause>
+観客
+「あれっ売子じゃないの？」{END}"	"Spectator
+ Juice, please!
+<pause>
+Spectator
+ Oh, you're not the refreshment
+ seller?{END}"
+"観客
+「そこどいてよ！」
+<pause>
+観客
+「見えないよ！」{END}"	"Spectator
+ Move it!
+<pause>
+Spectator
+ I can't see!{END}"
+"観客
+「魔物と戦うって言っても、命ま
+　で取ろうっていうわけじゃない
+　みたいだよ」
+<pause>
+観客
+「まだ死人が出てないからね」{END}"	"Spectator
+ As dangerous as the opponents are,
+ it seems a loss won't cost your life.
+<pause>
+Spectator
+ At least, no one's died YET, you
+ see...{END}"
+"観客
+「ちくしょう！体の調子さえよけ
+　りゃぁ、俺が出るのに！」{END}"	"Spectator
+ Bloody hell!
+ If I was a little beefier, I'd be out
+ there doin' some clobberin'!{END}"
+"<Cless>
+「また君か・・・」
+<pause>
+リリス
+「あなたの本当の力を知るまでは
+　何度でも挑戦します！」
+<pause>
+<Cless>
+「本当の力？」
+<pause>
+リリス
+「行きます！！」{END}"	"<Cless>
+ You again...
+<pause>
+Lilith
+ Until you realize your true power,
+ I'm not going anywhere!
+<pause>
+<Cless>
+ What “true power”?
+<pause>
+Lilith
+ Come on!!{END}"
+"女の子
+「わたしはリリス、よろしくね<heart>」
+<pause>
+司会
+『おお〜っと、メインイベントに
+　乱入者です』
+<pause>
+司会
+『しかも乱入者は年端もいかない
+　女の子です』
+<pause>
+司会
+『なんと、あのガルフビーストを
+　三秒で倒してしまいました』
+<pause>
+<Cless>
+「こんな所に来たらあぶないじゃ
+　ないか」
+<pause>
+リリス
+「お兄ちゃんと同じこと言うんで
+　すね」
+<pause>
+リリス
+「大丈夫です、私にくらべたらて
+　んで弱いから」<wait>{END}"	"Girl
+ Hi there.
+ I'm Lilith <heart>
+<pause>
+Announcer
+ “Whoa!
+ Someone has intruded on the main
+ event!”
+<pause>
+Announcer
+ “Oooh, and this intruder is a young
+ girl!”
+<pause>
+Announcer
+ “It took her only three seconds
+ to flatten the Galf Beast.
+ Simply incredible!!!”
+<pause>
+<Cless>
+ Umm... Don't you think this place is a bit
+ dangerous for a young lady like you?
+<pause>
+Lilith
+ Ha!
+ Just what my big
+ brother would say.
+<pause>
+Lilith
+ But there's no reason to worry!
+ The pitiful little freaks of nature in
+ this coliseum can't hold a candle to
+ me.<wait>{END}"
+"<unk1><Cless>
+弱いって・・・」
+<pause>
+リリス
+<Cless>さん、あなたの強さは今までの試合で見せてもらいました・・・」<wait>{END}"	"<unk1><Cless>
+ These creatures are pitiful to you?
+<pause>
+Lilith
+ You've shown the crowd what
+ you're made of up until now.<wait>{END}"
+"<Cless>
+「はぁ・・・」
+<pause>
+リリス
+「この闘技場で最強のあなたに、
+　挑戦させて下さい！」
+<pause>
+<Cless>
+「えぇっ！？」<wait>{END}"	"<Cless>
+ I guess...
+<pause>
+Lilith
+ So there's only one person worthy
+ enough for me to take on: the
+ champion--YOU!
+<pause>
+<Cless>
+ Huh!?<wait>{END}"
+"<Arche>
+「ちょっと、ちょっとーっ！」{END}"	"<Arche>
+ Hey, waiiit!{END}"
+"<Arche>
+「こういう時って、普通もっと別
+　の誰かが出てくるモンじゃない
+　の！？」<wait>{END}"	"<Arche>
+ Is this really fair!?
+ Can someone just randomly
+ drop in like this!?<wait>{END}"
+"リリス
+「いろいろと事情があるんです！」
+<pause>
+<Arche>
+「なんで、こんなちんちくりんな
+　のさ！」
+<pause>
+リリス
+「ちんちくりんじゃないもん！！」{END}"	"Lilith
+ I have my reasons!
+<pause>
+<Arche>
+ But you're so puny!
+<pause>
+Lilith
+ Come down here and say that to
+ my face!!{END}"
+"リリス
+「とにかく！！」
+<pause>
+リリス
+「この挑戦、受けてもらいます！」<wait>{END}"	"Lilith
+ ANYWAY!!!
+<pause>
+Lilith
+ Let's do this!<wait>{END}"
+"<Cless>
+「そ、そんなこと言われても心の
+　準備が・・・」
+<pause>
+司会
+『今入った報告によりますと大会
+　運営委員会はこの飛び入り参加
+　を認めるとのことです』
+<pause>
+リリス
+「ということなので、行きます！」<wait>{END}"	"<Cless>
+ A-Are you serious about this...?
+<pause>
+Announcer
+ “The tournament judges have
+ agreed to allow this
+ spur-of-the-moment challenge.”
+<pause>
+Lilith
+ The fight is on!
+ Don't hold back just because I'm
+ younger than you!!<wait>{END}"
+"クレス
+「わーっ！」{END}"	"<Cless>
+ Wah!{END}"
+"<unk4>司会
+やりました、<Cless>＝アルベインの勝利ーー！！』{END}"	"<unk4>Announcer
+ “He did it!
+ Victory goes to <Cless> Alvein!!!”{END}"
+"<unk1>リリス
+私の負けです・・・」
+<pause>
+リリス
+やっぱり<Cless>さんは私の見込んだ通りの人でした」
+<pause>
+<Cless>
+・・・・・・」{END}"	"<unk1>Lilith
+ I lost...
+<pause>
+Lilith
+ I knew you wouldn't disappoint me.
+<pause>
+<Cless>
+ ......{END}"
+"リリス
+「これを受け取って下さい」
+<pause>
+リリス
+「きっとあなたなら使いこなせる
+　と思います」
+<pause>
+<Cless>
+「・・・・・・」
+<pause>
+<Cless>
+「これは？」
+<pause>
+リリス
+「これは私の兄のとても大切な剣
+　なんです」
+<pause>
+リリス
+「でも、あなたの助けになるなら
+　さしあげます」{END}"	"Lilith
+ Please take this.
+<pause>
+Lilith
+ I really think you'll be able to
+ master it.
+<pause>
+<Cless>
+ ......
+<pause>
+<Cless>
+ A sword?
+<pause>
+Lilith
+ It's my brother's favorite one.
+<pause>
+Lilith
+ But, I'll let you have it.
+ I'm sure it'll be helpful!{END}"
+"<Cless>
+「いいのかい？」
+<pause>
+<Cless>
+「そんな大事な物を・・・」
+<pause>
+リリス
+「ええ、兄も喜びます」
+<pause>
+<Cless>
+「わかった、大切に使わせてもら
+　うよ」
+<pause>
+<Cless>
+「ありがとう・・・」<wait>{END}"	"<Cless>
+ Are you sure about this?
+<pause>
+<Cless>
+ It looks really important...
+<pause>
+Lilith
+ No worries.
+ My brother would be glad to see it
+ in the hands of someone such as
+ you.
+<pause>
+<Cless>
+ If that's the case, I'll accept it.
+<pause>
+<Cless>
+ Thank you...<wait>{END}"
+"<unk4>司会
+この試合も、見事、
+<Cless>＝アルベインが
+勝利をおさめました！！』
+<pause>
+司会
+若きチャンピオンとかわいらしい挑戦者に、みなさんの盛大な拍手を！！』<wait>{END}"	"<unk4>Announcer
+ <Cless> Alvein has won this
+ incredible match!!!
+<pause>
+Announcer
+ Everyone give a big round of
+ applause for our magnificent
+ champion and cute challenger!!<wait>{END}"
+"リリス
+「それじゃ、さよなら」{END}"	"Lilith
+ Well then...
+ Places to go, thugs to thrash,
+ fish to fry... See ya!{END}"
+"<unk1>リリス
+私の勝ちですね」
+<pause>
+リリス
+<Cless>さんもその程度だったんですね・・・」
+<pause>
+リリス
+少し残念です・・・」
+<pause>
+<Cless>
+し、しどい・・・」<wait>{END}"	"<unk1>Lilith
+ I won!
+<pause>
+Lilith
+ Is that all you've got...?
+<pause>
+Lilith
+ Feh, I expected more...
+<pause>
+<Cless>
+ U-Ugh...<wait>{END}"
+"<unk4>司会
+おおーっと、<Cless>＝アルベイン無念の敗北ーっ！！』{END}"	"<unk4>Announcer
+ “Ohhhh!
+ Alas, <Cless> Alvein has lost!!!”{END}"

@@ -1,0 +1,769 @@
+Japanese	English
+水鏡ユミルの森{END}	Ymir Forest: Lake of Reflection{END}
+"<audio_0F39><Cless>
+「急ごう！！」{END}"	"<audio_0F39><Cless>
+ Let's hurry!!{END}"
+白樺の森{END}	Whitespire Forest{END}
+"<audio_15E1><Cless>
+「<Arche>！！」
+<pause>
+<audio_15E2><Cless>
+「<Mint>はどうした！？」
+<pause>
+<audio_15E3><Arche>
+「えっ？」<wait>{END}"	"<audio_15E1><Cless>
+ <Arche>!!!
+<pause>
+<audio_15E2><Cless>
+ Why aren't you with <Mint>!?
+<pause>
+<audio_15E3><Arche>
+ What?<wait>{END}"
+"<audio_15E4><Arche>
+「いや、その・・・」
+<pause>
+<audio_15E5><Klarth>
+「とにかく急ごう！」{END}"	"<audio_15E4><Arche>
+ Well, um, like, I--
+<pause>
+<audio_15E5><Klarth>
+ We've got no time!
+ Let's hurry!{END}"
+"<Arche>
+「帰るの？」{END}"	"<Arche>
+ Should we go back to the guys?{END}"
+"<Arche>
+「帰ろ」{END}"	"<Arche>
+ All righty, then.{END}"
+"<Arche>
+「あっ、あたしは別な所を調べて
+　みるから！」{END}"	"<Arche>
+ Ah, well then I guess I'll keep
+ looking around!{END}"
+"衛兵
+「最近は人間の行き来も増えてき
+　てね」
+<pause>
+衛兵
+「アルヴァニスタ王もハーフエル
+　フ以外の種族の出入りは無許可
+　で行えるようにしたんだ」
+<pause>
+衛兵
+「ハーフエルフ以外はね」{END}"	"Guard
+ The King of Alvanista recently did away
+ with the law requiring an entry
+ permit for humans.
+<pause>
+Guard
+ As a result, more and more of
+ them have been coming and going
+ these days.
+<pause>
+Guard
+ However, tight regulation
+ remains for half-elves.
+ Half-elves may not enter
+ under any circumstance!{END}"
+"衛兵
+「エルフの里には、ハーフエルフ
+　は絶対に入れないんだってさ」
+<pause>
+衛兵
+「捕まる前に、早く立ち去った方
+　がいいよ」{END}"	"Guard
+ Half-elves are absolutely forbidden
+ from entering the elven village.
+<pause>
+Guard
+ You'd best get going before the
+ elves spot and capture that girl.{END}"
+"衛兵
+「あんたらは人間のようだな」
+<pause>
+衛兵
+「森に住むトカゲには気をつけた
+　ほうがいいぞ」{END}"	"Guard
+ Well, you guys all seem to be
+ human.
+<pause>
+Guard
+ Careful on your way through here.
+ The lizards that infest this place
+ aren't very friendly.{END}"
+<color_0002>アイテムがいっぱいでこれ以上持てません。<color_0000>{END}	<color_0002>You can't carry any more.<color_0000>{END}
+<color_0002>冬虫夏草（<item_4E00>）を手に入れました。<color_0000>{END}	<color_0002>Acquired some Caterpillar Fungus.<color_0000>{END}
+"<audio_0C75><Klarth>
+「ん？」<wait>{END}"	"<audio_0C75><Klarth>
+ Hmm?<wait>{END}"
+"<audio_0C76><Mint>
+「どうしました？」
+<pause>
+<audio_0C77><Klarth>
+「今、そこの木かげで何か動いた
+　ような・・・」
+<pause>
+<audio_0C78><Cless>
+「気のせいじゃないですか？」
+<pause>
+<audio_0C79><Mint>
+「森の動物達でしょうか？」
+<pause>
+<audio_0C7A><Klarth>
+「ああ、そうかもな」{END}"	"<audio_0C76><Mint>
+ Is something the matter?
+<pause>
+<audio_0C77><Klarth>
+ Could've sworn I just saw the
+ shadow of that tree behind us
+ move...
+<pause>
+<audio_0C78><Cless>
+ You sure it's not just your
+ imagination?
+<pause>
+<audio_0C79><Mint>
+ Or perhaps just the animals of the
+ forest?
+<pause>
+<audio_0C7A><Klarth>
+ Yeah...
+ Probably nothing.{END}"
+"<Arche>
+「この森から出るんだね？」
+<pause>
+<Arche>
+「あ〜あ、退屈だった」{END}"	"<Arche>
+ Yay, you're finally back!
+<pause>
+<Arche>
+ Little 'ol me was about to zonk out
+ from boredom.{END}"
+"<unk1><audio_1162><Klarth>
+まずいな・・・」
+<pause>
+<audio_1163><Klarth>
+<var_D800>がいる場所は、この森の奥なんだが・・・」
+<pause>
+<audio_1164><Klarth>
+<Arche>を連れて行くわけにはいかないしな・・・」
+<pause>
+<audio_1165><Cless>
+かと言って一人置いていくわけにも・・・」
+<pause>
+<audio_1166><Arche>
+いいよ、あたし待ってる」
+<pause>
+<audio_1167><Klarth>
+今度こそ本当だろうな？」
+<pause>
+<audio_1168><Arche>
+たぶん・・・」{END}"	"<unk1><audio_1162><Klarth>
+ Well...
+<pause>
+<audio_1163><Klarth>
+ Origin's supposed to be somewhere
+ in the depths of these forests,
+ but...
+<pause>
+<audio_1164><Klarth>
+ Unfortunately, there's no way the
+ elves will let us go through their
+ village with <Arche> in tow...
+<pause>
+<audio_1165><Cless>
+ But we can't just leave her here all
+ alone...
+<pause>
+<audio_1166><Arche>
+ I'm sure it'll be a little boring, but
+ don't you worry! I'll be a good girl
+ and wait 'til you get back, 'kay?
+<pause>
+<audio_1167><Klarth>
+ Are you absolutely sure we can
+ trust you to stay put this time?
+<pause>
+<audio_1168><Arche>
+ Uh-huh...{END}"
+"<Klarth>
+「そうだ、この先はハーフエルフ
+　は入れないんだ」
+<pause>
+<Cless>
+「でも<Arche>を置いていく
+　わけには・・・」
+<pause>
+<Arche>
+「いいよ、あたし待ってるから」
+<pause>
+<Klarth>
+「そうか、すまんな」{END}"	"<Klarth>
+ Hold it.
+ Half-elves aren't permitted
+ to go in any further.
+<pause>
+<Cless>
+ But we can't just leave <Arche>
+ to stand around here for hours...
+<pause>
+<Arche>
+ Don't beat yourself up over it.
+ I'll just wait right here 'til you
+ guys get back, 'kay?
+<pause>
+<Klarth>
+ If you say so.
+ Sorry it has to be like this.{END}"
+"<audio_0C6B>衛兵
+「何だ、お前達は？」
+<pause>
+<audio_0C6C>衛兵
+「ここから先はエルフ族しか入れ
+　ない地域だ」
+<pause>
+<audio_0C6D>衛兵
+「早々に立ち去るがよい」<wait>{END}"	"<audio_0C6B>Guard
+ What are YOU doing here?
+<pause>
+<audio_0C6C>Guard
+ This is elven territory!
+ No humans or half-elves may pass!
+<pause>
+<audio_0C6D>Guard
+ Now get out of here!<wait>{END}"
+"<audio_0C71><Cless>
+「許可はもらってあるよ」
+<pause>
+<audio_0C72><Cless>
+「この<item_3900>を見てくれ」
+<pause>
+<audio_0C73>衛兵
+「たしかにそれはアルヴァニスタ
+　王国の紋章」
+<pause>
+<audio_0C74>衛兵
+「うむ、通ってよし！」{END}"	"<audio_0C71><Cless>
+ Wait, sir.
+ We have permission.
+<pause>
+<audio_0C72><Cless>
+ See this crest...?
+<pause>
+<audio_0C73>Guard
+ That's the royal family's!
+<pause>
+<audio_0C74>Guard
+ All right, then.
+ Come on through!{END}"
+"<audio_0C6E><Cless>
+「どうしてもだめ？」<wait>{END}"	"<audio_0C6E><Cless>
+ You won't let us in no matter
+ what?<wait>{END}"
+"<audio_0C6F>衛兵
+「だめだ！」{END}"	"<audio_0C6F>Guard
+ No matter what!{END}"
+"<audio_0C70>衛兵
+「しつこい！」{END}"	"<audio_0C70>Guard
+ Stubborn, aren't you!?{END}"
+"<Cless>
+「<Mint>達を助けよう！」{END}"	"<Cless>
+ <Mint>'s in danger!
+ We have to find her!{END}"
+"<Mint>
+「行ってきます」{END}"	"<Mint>
+ We should be back soon.{END}"
+"<audio_0F02><Klarth>
+「この森か？」
+<pause>
+<audio_0F03><Klarth>
+「ユニコーンがいるという森は？」
+<pause>
+<audio_0F04><Mint>
+「はい、おそらく・・・」{END}"	"<audio_0F02><Klarth>
+ It's this forest, isn't it?
+<pause>
+<audio_0F03><Klarth>
+ I mean, the one where the
+ unicorn's thought to be?
+<pause>
+<audio_0F04><Mint>
+ Yes...
+ That is what I feel...{END}"
+"<unk1><audio_0F05><Cless>
+<Mint>、どうしたの？」
+<pause>
+<audio_0F06><Klarth>
+まぁ、<Mint>に何か考えがあるんだろうが・・・」
+<pause>
+<audio_0F07><Klarth>
+女性しか、しかも清らかな乙女にしか会わないとは・・・」
+<pause>
+<audio_0F08><Klarth>
+いくら神の使いとはいえ、わがままな馬だな・・・」<wait>{END}"	"<unk1><audio_0F05><Cless>
+ Is...<Mint> okay?
+<pause>
+<audio_0F06><Klarth>
+ Seems to me that she's pretty deep
+ in thought about something...
+<pause>
+<audio_0F07><Klarth>
+ Perhaps she's worried about how
+ the unicorn only meets women, and
+ pure maidens at that...
+<pause>
+<audio_0F08><Klarth>
+ Hmph, for a messenger of the
+ gods, this horse is certainly a bit on
+ the cheeky side...<wait>{END}"
+"<unk1><audio_0F09><Mint>
+馬ではなくて、ユニコーンですよ」
+<pause>
+<audio_0F0A><Klarth>
+別にどちらでも構わないような気がするがなぁ・・・」
+<pause>
+<audio_0F0B><Cless>
+とにかくこの森は安全そうだから、<Arche>とニ人で行っておいでよ」<wait>{END}"	"<unk1><audio_0F09><Mint>
+ Please, <Klarth>!
+ A unicorn is not a horse!
+<pause>
+<audio_0F0A><Klarth>
+ So it's a pointy spirit horse, then.
+<pause>
+<audio_0F0B><Cless>
+ Anyway, this forest seems
+ peaceful. How about you and
+ <Arche> go search together?<wait>{END}"
+"<audio_0F0C><Arche>
+「あ、あたしも？<panic>」
+<pause>
+<audio_0F0D><Arche>
+「私はちょっと・・・」{END}"	"<audio_0F0C><Arche>
+ Wh-Wh-Wh-Wh-Wh-Wh-WHA!? <panic><nl>
+ M-M-M-M-Me too!? <panic>
+<pause>
+<audio_0F0D><Arche>
+ I dunno...{END}"
+"<audio_0F0E><Arche>
+「わ、わかったわよぉ」
+<pause>
+<audio_0F0F><Arche>
+「<Mint>、行こ・・・」{END}"	"<audio_0F0E><Arche>
+ F-Fine!
+ You guys always give
+ me that creepy look...
+<pause>
+<audio_0F0F><Arche>
+ Let's do this, <Mint>...{END}"
+"<unk1><audio_0F10><Arche>
+あ、あたしはあっちに行ってみるから、<Mint>はそっちをね<panic>」
+<pause>
+<audio_0F11><Mint>
+ど、どうしました？
+<Arche>さん？」<wait>{END}"	"<unk1><audio_0F10><Arche>
+ H-Hey, wh-why don't we split up here? <panic><nl>
+I-I'll go look somewhere else, s-so you keep on going ahead <panic>
+<pause>
+<audio_0F11><Mint>
+ Wh-What's the matter, <Arche>?<wait>{END}"
+"<unk1><audio_0F12><Mint>
+あ、待って下さい・・・」
+<pause>
+<audio_0F13><Mint>
+・・・<Arche>さん、本当にどうしたのかしら？」{END}"	"<unk1><audio_0F12><Mint>
+ Ah, please don't go...
+<pause>
+<audio_0F13><Mint>
+ ...Is something bothering her?
+ I truly hope she's okay.{END}"
+"<audio_0F14><Mint>
+「あっ！　ユニコーン・・・
+　・・・本当に・・・」<wait>{END}"	"<audio_0F14><Mint>
+ Oh my! The unicorn...
+ ...It's really here...<wait>{END}"
+"<audio_0F15><Mint>
+「驚いて逃げたりしないかしら」{END}"	"<audio_0F15><Mint>
+ I must maintain my composure...
+ Oh, please don't let it be startled...{END}"
+"<audio_0F16><Mint>
+「あの・・・」{END}"	"<audio_0F16><Mint>
+ Um...{END}"
+"<audio_0F17>ユニコーン
+「私に何か御用ですか？」
+<pause>
+<audio_0F18>ユニコーン
+「かわいらしいお嬢さん」<wait>{END}"	"<audio_0F17>Unicorn
+ My lovely young lady...
+<pause>
+<audio_0F18>Unicorn
+ Why do you visit me?<wait>{END}"
+"<audio_0F19><Mint>
+「よかった・・・人間の言葉がわ
+　かるのですね」{END}"	"<audio_0F19><Mint>
+ Thank goodness...
+ I'm so glad that you can speak
+ human language.{END}"
+"<audio_0F1A><Mint>
+「あの・・・私の話を聞いていた
+　だけますか？」
+<pause>
+<audio_0F1B><Mint>
+「この世界の人々や、動物達の命
+　に関わる大切なことなのです」<wait>{END}"	"<audio_0F1A><Mint>
+ I...I'm sorry to bother you, but
+ would you please listen to my
+ story?
+<pause>
+<audio_0F1B><Mint>
+ It involves the future of all living
+ things in this world.<wait>{END}"
+"<unk1><audio_0F1C><Mint>
+私、法術師の<Mint>＝アドネードと申します」
+<pause>
+<audio_0F1D><Mint>
+実は・・・」{END}"	"<unk1><audio_0F1C><Mint>
+ Oh, um, I apologize for
+ not introducing myself.
+ I am a cleric called
+ <Mint> Adnade.
+<pause>
+<audio_0F1D><Mint>
+ Up until now...{END}"
+"<audio_0F1E><Klarth>
+「・・・・・・」
+<pause>
+<audio_0F1F><Cless>
+「・・・・・・」
+<pause>
+<audio_0F20><Klarth>
+「ひまだな・・・」
+<pause>
+<audio_0F21><Cless>
+「ええ・・・」
+<pause>
+<audio_0F22><Klarth>
+「ニ人が戻ってきたら、私達も森
+　の中を散歩してみようか」
+<pause>
+<audio_0F23><Cless>
+「そうですね」{END}"	"<audio_0F1E><Klarth>
+ ......
+<pause>
+<audio_0F1F><Cless>
+ ......
+<pause>
+<audio_0F20><Klarth>
+ Hoo...
+ Seems like they're not going
+ to be back for a while...
+<pause>
+<audio_0F21><Cless>
+ Yeah...
+<pause>
+<audio_0F22><Klarth>
+ When they do, why don't we leave
+ them here and go for our own
+ stroll through the place?
+ Then we'll be even-steven.
+<pause>
+<audio_0F23><Cless>
+ Sounds like an idea.{END}"
+"<audio_0F24><Klarth>
+「ところで・・・」
+<pause>
+<audio_0F25><Cless>
+「・・・？」
+<pause>
+{END}"	"<audio_0F24><Klarth>
+ By the way...
+<pause>
+<audio_0F25><Cless>
+ ...?
+<pause>
+{END}"
+"<unk1><audio_0F26><Klarth>
+<Cless>は<Mint>のことを
+どう思っているんだ？」<wait>{END}"	"<unk1><audio_0F26><Klarth>
+ What do you think
+ of <Mint>, <Cless>?<wait>{END}"
+"<audio_0F27><Cless>
+「どうって・・・」
+<pause>
+<audio_0F28><Cless>
+「どういう意味ですか？」<wait>{END}"	"<audio_0F27><Cless>
+ Huh...?
+<pause>
+<audio_0F28><Cless>
+ What are you asking?<wait>{END}"
+"<audio_0F29><Klarth>
+「つまりだなぁ・・・」
+<pause>
+<audio_0F2A><Klarth>
+「・・・・・・」<wait>{END}"	"<audio_0F29><Klarth>
+ I mean...
+<pause>
+<audio_0F2A><Klarth>
+ ......<wait>{END}"
+"<audio_0F2B><Klarth>
+「いや、やめておこう」<wait>{END}"	"<audio_0F2B><Klarth>
+ Good lord...
+ Never mind!<wait>{END}"
+"<audio_0F2C><Cless>
+「気になるなぁ・・・」<wait>{END}"	"<audio_0F2C><Cless>
+ You're making me nervous...<wait>{END}"
+"<audio_0F2D><Klarth>
+「・・・・・・」{END}"	"<audio_0F2D><Klarth>
+ ......{END}"
+"<audio_0F2E><Cless>
+「どうしました？」
+<pause>
+<audio_0F2F><Klarth>
+「森の中に邪悪な気配が・・・」<wait>{END}"	"<audio_0F2E><Cless>
+ What was that about?
+<pause>
+<audio_0F2F><Klarth>
+ A sinister presence has entered the
+ forest...<wait>{END}"
+"<audio_0F30><Cless>
+「えっ！？」{END}"	"<audio_0F30><Cless>
+ Huh!?{END}"
+"<audio_0F31><Mint>
+「・・・・・・」
+<pause>
+<audio_0F32><Mint>
+「私達の事情は、今お話しした通
+　りです」{END}"	"<audio_0F31><Mint>
+ ......
+<pause>
+<audio_0F32><Mint>
+ And that is how matters currently
+ stand.{END}"
+"<audio_0F33><Mint>
+「信じていただけませんか？」{END}"	"<audio_0F33><Mint>
+ Do you believe me?{END}"
+"<audio_0F34><Mint>
+「私にはこれ以上うまく説明でき
+　ませんが・・・」
+<pause>
+<audio_0F35><Mint>
+「お願いします、信じて下さい」{END}"	"<audio_0F34><Mint>
+ I know I didn't explain everything
+ well, but that's truly how it is...
+<pause>
+<audio_0F35><Mint>
+ I beg of you: please believe me.{END}"
+"<audio_0F36>ユニコーン
+「危ない！！」<wait>{END}"	"<audio_0F36>Unicorn
+ Above you!!<wait>{END}"
+"<audio_0F37>？？？
+「我ガ主人ノ名ハ、だおす！」
+<pause>
+<audio_0F38>？？？
+「主命ニヨリ、貴様ノ魂ヲモライ
+　受ケニ来タ！！」{END}"	"<audio_0F37>???
+ DHAOS, Dhaos...MASTER Dhaos!
+<pause>
+<audio_0F38>???
+ WE have COME for your SOULS!!!
+ Our master DEMANDS it!!{END}"
+"<audio_0F3A><Cless>
+「<Mint>！！」{END}"	"<audio_0F3A><Cless>
+ <Mint>!!{END}"
+"<audio_0F3B><Cless>
+「<Mint>、大丈夫か！？」
+<pause>
+<audio_0F3C><Mint>
+「私は大丈夫・・・」
+<pause>
+<audio_0F3D><Mint>
+「それより・・・」{END}"	"<audio_0F3B><Cless>
+ <Mint>, are you all right!?
+<pause>
+<audio_0F3C><Mint>
+ I'm okay...
+<pause>
+<audio_0F3D><Mint>
+ But, the unicorn...{END}"
+"<audio_0F3E><Arche>
+「みんな大丈夫！？」
+<pause>
+<audio_0F3F><Arche>
+「いったい何があったの？」{END}"	"<audio_0F3E><Arche>
+ You guys all right!?
+<pause>
+<audio_0F3F><Arche>
+ What the heck went down here!?{END}"
+"<audio_0F40><Mint>
+「しっかり・・・」{END}"	"<audio_0F40><Mint>
+ Steady now...{END}"
+"<audio_0F41>ユニコーン
+「さきほどの話、信じていますよ」
+<pause>
+<audio_0F42><Mint>
+「えっ？」
+<pause>
+<audio_0F43>ユニコーン
+「お嬢さんの心の中には一点の曇
+　りもない・・・」
+<pause>
+<audio_0F44>ユニコーン
+「私は姿を変えて、お嬢さんの力
+　となりましょう・・・」{END}"	"<audio_0F41>Unicorn
+ I trust in your story, just as I
+ trust in you.
+<pause>
+<audio_0F42><Mint>
+ *gasp*!
+<pause>
+<audio_0F43>Unicorn
+ Your heart is pure and unclouded,
+ young lady.
+<pause>
+<audio_0F44>Unicorn
+ Do not weep, for I must alter my
+ form to aid you...{END}"
+<color_0002><item_E000>を手に入れました。<color_0000><wait>{END}	<color_0002>Acquired the <item_E000>.<color_0000><wait>{END}
+"<audio_0F45><Klarth>
+「ユニコーンは法術の象徴」
+<pause>
+<audio_0F46><Klarth>
+「それがあれば、ユグドラシルが
+　復活できるな！」<wait>{END}"	"<audio_0F45><Klarth>
+ If the unicorn truly embodies
+ clerical artes...
+<pause>
+<audio_0F46><Klarth>
+ ...then this horn will make reviving
+ Yggdrasill a snap!<wait>{END}"
+"<audio_0F47><Mint>
+「はい」
+<pause>
+<audio_0F48><Mint>
+「<item_E000>から、法術の
+　聖なる力を感じます」
+<pause>
+<audio_0F49><Cless>
+「よし、それじゃあ精霊の森に行
+　こう！」
+<pause>
+<audio_0F4A><Cless>
+「ところで・・・」{END}"	"<audio_0F47><Mint>
+ Yes.
+<pause>
+<audio_0F48><Mint>
+ The horn is overflowing with the
+ sacred power of clerical artes.
+<pause>
+<audio_0F49><Cless>
+ Then we need to take it to the
+ Forest of Spirits, fast!
+<pause>
+<audio_0F4A><Cless>
+ But before we go...{END}"
+"<unk1><audio_15E6><Cless>
+<Arche>、何であんな所にいたんだ？」<wait>{END}"	"<unk1><audio_15E6><Cless>
+ Explain yourself, <Arche>!
+ What were you doing over there!?
+ <Mint> could have been killed!<wait>{END}"
+"<unk1><audio_0F4B><Cless>
+<Arche>、どこに行っていたんだ？」<wait>{END}"	"<unk1><audio_0F4B><Cless>
+ Explain yourself, <Arche>!
+ Where in the world were you!?
+ <Mint> was in grave danger!<wait>{END}"
+"<audio_0F4C><Arche>
+「え、あ、あの<panic>・・・」
+<pause>
+<audio_0F4D><Arche>
+「あ、あたしじゃ・・・」
+<pause>
+<audio_0F4E><Arche>
+「ユニコーンは会ってくれないだ
+　ろうなぁ、なんて<panic>・・・」
+<pause>
+<audio_0F4F><Cless>
+「はぁ？」<wait>{END}"	"<audio_0F4C><Arche>
+ Eh, ah, um... <panic>
+<pause>
+<audio_0F4D><Arche>
+ I-I was...
+<pause>
+<audio_0F4E><Arche>
+ See, after hearing all those rumors
+ about the unicorn, I like, figured
+ there was no way it would
+ approach us with me around... <panic>
+<pause>
+<audio_0F4F><Cless>
+ Huhhh?<wait>{END}"
+"<audio_0F50><Arche>
+「む、昔、彼氏がいて<panic>」
+<pause>
+<audio_0F51><Arche>
+「その・・・」
+<pause>
+<audio_0F52><Cless>
+「？？？？？」<wait>{END}"	"<audio_0F50><Arche>
+ I-I, like, um, had a boyfriend way
+ back, y'know? <panic>
+<pause>
+<audio_0F51><Arche>
+ And, um...
+<pause>
+<audio_0F52><Cless>
+ Yeah???<wait>{END}"
+"<audio_0F53><Arche>
+「う、うるさいなぁ！」
+<pause>
+<audio_0F54><Arche>
+「とにかくあたしじゃユニコーン
+　に会えないってことなの！！」
+<pause>
+<audio_0F55><Arche>
+「早く精霊の森に行こうよ！！」
+<pause>
+<color_0002>どうしますか？
+<speed_0000>１。パッと行く
+２。歩いて行く<speed_FFFF>{END}"	"<audio_0F53><Arche>
+ L-Leave me alone!
+<pause>
+<audio_0F54><Arche>
+ Look! It's as I said!
+ There's no way the unicorn would
+ have come out if I was with her!
+ That's just how it is!
+<pause>
+<audio_0F55><Arche>
+ Now, the important thing is that
+ we hurry to the Forest of Spirits!!!
+ I'll even let you use Quick-jump
+ again if you'll forgive me!
+<pause>
+<color_0002>What will you do?
+<speed_0000>1. Quick-jump there
+2. Walk there<speed_FFFF>{END}"
+"<Cless>
+「一度この森から出るのかい？」{END}"	"<Cless>
+ Should we leave the forest for a
+ while?{END}"
+"<Cless>
+「<Arche>は？」
+<pause>
+<Mint>
+「あ、探さないと・・・」{END}"	"<Cless>
+ Wait, where'd <Arche> go?
+ I thought she was with you.
+<pause>
+<Mint>
+ Ah, I have to find her...{END}"
+<color_0002><speed_0001><Mint>は『<var_9B01>』の称号を得ました。<color_0000>{END}	"<color_0002><speed_0001><Mint> has earned the title
+“Pure Maiden.”<color_0000>{END}"
+"<audio_1349><Suzu>
+「忍者の里へ行きますか？」{END}"	"<audio_1349><Suzu>
+ Do you wish to visit the Ninja
+ Village?{END}"
+"<audio_134A><Suzu>
+「では、行きますよ」{END}"	"<audio_134A><Suzu>
+ Then let us go.{END}"
+"<Suzu>
+「そうですか・・・」{END}"	"<Suzu>
+ I see...{END}"

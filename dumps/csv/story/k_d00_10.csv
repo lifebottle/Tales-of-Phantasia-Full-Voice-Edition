@@ -1,0 +1,947 @@
+Japanese	English
+<var_D700>の洞窟{END}	Volt's Cave{END}
+炎の塔{END}	Tower of Flames{END}
+"炎の護り手
+「我らは炎の塔を守護する者」
+<pause>
+炎の護り手
+「お前達の力・・・」
+<pause>
+炎の護り手
+「試させてもらう・・・」{END}"	"Guardian of the Flame
+ We are the guardians of
+ the Tower of Flames.
+<pause>
+Guardian of the Flame
+ Show us...
+<pause>
+Guardian of the Flame
+ ...your strength...{END}"
+"<Cless>
+「これは・・・」
+<pause>
+<Cless>
+「呪文書だ！！」<wait>{END}"	"<Cless>
+ This...
+<pause>
+<Cless>
+ This is a spell book!<wait>{END}"
+<color_0002><Arche>は<var_BA00>を覚えました。<color_0000>{END}	<color_0002><Arche> learned <var_BA00>.<color_0000>{END}
+"<Cless>
+「でも僕が持っていてもしょうが
+　ないな・・・」
+<pause>
+<Cless>
+「戻しておこう・・・」{END}"	"<Cless>
+ But I don't have any use for it...
+<pause>
+<Cless>
+ I'll put it back...{END}"
+"<Cless>
+「完全に固定されて動かないや」{END}"	"<Cless>
+ I can't move it at all.
+ It's like it's been glued to
+ the ground or something...{END}"
+"『昇り階段のある部屋の、右側に
+　隠し通路あり』{END}"	"“On the right side of a room with a
+staircase leading upwards is a
+hidden passage.”{END}"
+"<color_0002>レバーがあります。
+切り替えますか？<color_0000>{END}"	<color_0002>Turn the dial?<color_0000>{END}
+"<Cless>
+「このレバー、壊れてる・・・」{END}"	"<Cless>
+ This dial's broken...{END}"
+"<color_0002>レバーがあります。
+倒しますか？<color_0000>{END}"	<color_0002>Pull the lever?<color_0000>{END}
+"『魔力による転換は氷は炎へ、
+　その逆もしかり・・・』
+<pause>
+『命を守る鍵となろう』{END}"	"“With magic, ice will become fire,
+and fire, ice...”
+<pause>
+“This is the key to protecting one's
+life.”{END}"
+"<Cless>
+「固く閉ざされている・・・」{END}"	"<Cless>
+ It's closed tight...{END}"
+『見張り在中』{END}	“Guards on Patrol”{END}
+"『この階に秘密の・・・』
+<pause>
+<Cless>
+「すり減っていて読めないな」{END}"	"“The secret of this room...”
+<pause>
+<Cless>
+ The rest is too worn to read.{END}"
+"『風は無、地は源
+　水は破滅、火は力』{END}"	"“Wind is Nothingness,
+Earth is Creation,
+Water is Destruction,
+Fire is Power.”{END}"
+『非常口』{END}	“Emergency Exit”{END}
+"<Cless>
+「あれ？」
+<pause>
+<Cless>
+「見えない壁がある・・・」{END}"	"<Cless>
+ What the?
+<pause>
+<Cless>
+ An invisible wall...?{END}"
+"<audio_1128><Cless>
+「こいつが<var_D700>なのか？」
+<pause>
+<audio_1129><var_D700>
+「<volt1><volt2><volt3><volt4><volt3><volt2><volt4><volt1><volt3><volt3><volt1><volt4><volt2>」<wait>{END}"	"<audio_1128><Cless>
+ Is this thing Volt?
+<pause>
+<audio_1129>Volt
+ <volt1><volt2><volt3><volt4><volt3><volt2><volt4><volt1><volt3><volt3><volt1><volt4><volt2><wait>{END}"
+"<audio_112A><Klarth>
+「な、なにを言っているんだ、こ
+　いつは？」
+<pause>
+{END}"	"<audio_112A><Klarth>
+ I-I have no idea what it just said!
+<pause>
+{END}"
+"<audio_112B><var_D700>
+「<volt1><volt3><volt3><volt4><volt3><volt1><volt4><volt2><volt4><volt3><volt1><volt4><volt3><volt2>
+　<volt2><volt4><volt2><volt3><volt1><volt3>！！！」{END}"	"<audio_112B>Volt
+ <volt1><volt3><volt3><volt4><volt3><volt1><volt4><volt2><volt4><volt3><volt1><volt4><volt3><volt2><volt2>
+ <volt4><volt2><volt3><volt1><volt3>!!!{END}"
+"<audio_112C><Klarth>
+「ふう、何とかおとなしくなった
+　みたいだな・・・」
+<pause>
+<audio_112D><Klarth>
+「では、契約を結ぶぞ・・・」
+<pause>
+<audio_112E><Klarth>
+「私の言っていることがわかって
+　いるのかな？」
+<pause>
+<audio_112F><var_D700>
+「<volt4><volt2><volt1><volt3><volt1><volt3><volt4><volt3><volt3><volt2><volt2><volt1><volt4><volt3>
+　<volt2><volt1><volt4><volt4><volt3>・・・」
+<pause>
+<audio_1130><Klarth>
+「ま、まあいい・・・」
+<pause>
+<audio_1131><Cless>
+「でも、どの契約の指輪を使うん
+　でしょうね？」
+<pause>
+<audio_1132><Klarth>
+「そういえばそうだな・・・」
+<pause>
+<audio_1133><Klarth>
+「よし、全部並べてみよう」{END}"	"<audio_112C><Klarth>
+ Whew...
+ Looks like that cooled it off...
+<pause>
+<audio_112D><Klarth>
+ Now, Volt!
+ Let's seal the pact.
+ If we can, that is...
+<pause>
+<audio_112E><Klarth>
+ You ARE at least able to understand
+ ME, right?
+<pause>
+<audio_112F>Volt
+ <volt4><volt2><volt1><volt3><volt1><volt3><volt4><volt3><volt3><volt2><volt2><volt1><volt4><volt3><volt2>
+ <volt1><volt4><volt4><volt3>
+<pause>
+<audio_1130><Klarth>
+ I'll...just assume that's spirit
+ gibberish for “yes.”
+<pause>
+<audio_1131><Cless>
+ What about the pact ring?
+ Do you know which one it likes?
+<pause>
+<audio_1132><Klarth>
+ Indeed, that's a problem...
+<pause>
+<audio_1133><Klarth>
+ I guess I'll just line up all the
+ rings, do the ritual, and check
+ for a reaction. <speed_0010>..................<speed_FFFF>
+ And done. Here goes nothing...{END}"
+"<audio_1134><Klarth>
+「我、今、雷の精に願い奉る」
+<pause>
+<audio_1135><Klarth>
+「指輪の盟約のもと、我に精霊を
+　従わせたまえ・・・」
+<pause>
+<audio_1136><Klarth>
+「我が名は<Klarth>・・・」
+<pause>
+<audio_1137><Cless>
+「あっ、サードニックスの指輪が
+　光りだした・・・」{END}"	"<audio_1134><Klarth>
+ Here and now, I offer my request
+ to the Spirit of Lightning.
+<pause>
+<audio_1135><Klarth>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<audio_1136><Klarth>
+ My name is <Klarth>...
+<pause>
+<audio_1137><Cless>
+ Ah!
+ The Sardonyx ring is glowing...{END}"
+<color_0002><Klarth>は<var_D700>を召喚できるようになりました。<color_0000>{END}	<color_0002><Klarth> can now summon Volt.<color_0000>{END}
+"？？？
+「我が名は、フラムベルク・・・」<wait>{END}"	"???
+ My name is Flamberg...<wait>{END}"
+"フラムベルク
+「炎の剣を持ち去るというのか？」<wait>{END}"	"Flamberg
+ You think you can just plunder the
+ Blade of Flame and be off?<wait>{END}"
+"フラムベルク
+「あれには、オーディーン様の魂
+　が宿っておられる・・・」<wait>{END}"	"Flamberg
+ The soul of Lord Odin sleeps within
+ it...<wait>{END}"
+"フラムベルク
+「決して、渡すわけにはいかぬ！」<wait>{END}"	"Flamberg
+ I shall not surrender it to thieves
+ such as yourselves!<wait>{END}"
+"<audio_114B>フラムベルク
+「ぬぅ・・・」
+<pause>
+<audio_114C>フラムベルク
+「お、お前達なら我が命、預けて
+　もいいだろう」
+<pause>
+<audio_114D>フラムベルク
+「さあ、受け取るがいい・・・」
+<pause>
+<audio_114E>フラムベルク
+「炎の剣を！！」{END}"	"<audio_114B>Flamberg
+ Nugh...
+<pause>
+<audio_114C>Flamberg
+ V-Very well...
+ I deem you worthy to take
+ ownership of my life...
+<pause>
+<audio_114D>Flamberg
+ Now, wield it...
+<pause>
+<audio_114E>Flamberg
+ ...the Blade of Flame!!{END}"
+<color_0002><item_BC00>を手に入れました。<color_0000>{END}	<color_0002>Acquired the <item_BC00>.<color_0000>{END}
+"<audio_114F><Cless>
+「な、何だ？」
+<pause>
+<audio_1150><Cless>
+「頭に直接話しかけて・・・」{END}"	"<audio_114F><Cless>
+ Wh-What?
+<pause>
+<audio_1150><Cless>
+ Something's speaking to me in my
+ head...{END}"
+"<audio_1151>フラムベルク
+『ははは、強い、強い気を感じる
+　ぞ！！』
+<pause>
+<audio_1152>フラムベルク
+『そなたの体の中にある、秘めた
+　る力を引き出してやろうではな
+　いか！！』{END}"	"<audio_1151>Flamberg
+ “Hahahah, I sense a strong, strong
+ will!!!”
+<pause>
+<audio_1152>Flamberg
+ “A mighty power lies hidden within
+ you! I suppose you'd like me to
+ draw it out!”{END}"
+"<audio_1153><Cless>
+「あ、頭に何かが注ぎこまれてい
+　るようだ・・・」<wait>{END}"	"<audio_1153><Cless>
+ It feels as if something is rushing
+ into my head...<wait>{END}"
+<color_0002><Cless>は<var_8900>を覚えました。<color_0000>{END}	"<color_0002><Cless> learned
+<var_8900>.<color_0000>{END}"
+"<unk1><audio_1138><Cless>
+<Arche>、あれを取ってきてくれないか？」<wait>{END}"	"<unk1><audio_1138><Cless>
+ Hey, <Arche>?
+ Would you hop on your broom
+ and get those, please?<wait>{END}"
+"<audio_1139><Arche>
+「言うと思ったよ・・・」
+<pause>
+<audio_113A><Arche>
+「じゃ、ちょっと行ってくるね<heart>」{END}"	"<audio_1139><Arche>
+ Ehehe, I just knew you'd ask that...
+<pause>
+<audio_113A><Arche>
+ So just hang on for a sec <heart>{END}"
+"<unk1><audio_113B><Chester>
+<Arche>〜、ネコババ
+するなよ〜」<wait>{END}"	"<unk1><audio_113B><Chester>
+ <Arche>, don't you dare fly off with them!<wait>{END}"
+"<audio_113C><Arche>
+「うっさいなぁ！」
+<pause>
+<audio_113D><Arche>
+「するわけないでしょ！！」{END}"	"<audio_113C><Arche>
+ Piss off, jerk!
+<pause>
+<audio_113D><Arche>
+ I don't do that kinda stuff!!{END}"
+"<audio_113E><Arche>
+「はい、<Cless>！！」
+<pause>
+<audio_113F><Cless>
+「そんなに怒らなくても・・・」
+<pause>
+<audio_1140><Arche>
+「ふ〜んだ！<Chester>なんて
+　大っっっっきらい！！」
+<pause>
+<audio_1141><Chester>
+「けっ！」
+<pause>
+<audio_1142><Chester>
+「誰が好きになってくれなんて言っ
+　た！？」
+<pause>
+<audio_1143><Klarth>
+「おいおい、こんな所でケンカは
+　やめないか」
+<pause>
+<audio_1144><Chester>
+「はいはい・・・」{END}"	"<audio_113E><Arche>
+ HERE!!!
+<pause>
+<audio_113F><Cless>
+ You shouldn't be like that...
+<pause>
+<audio_1140><Arche>
+ Hmmmph!
+ But I hate <Chester>!
+ HATE HIM!
+<pause>
+<audio_1141><Chester>
+ Feh!
+<pause>
+<audio_1142><Chester>
+ Who said you have to like me!?
+ I sure as hell didn't!
+<pause>
+<audio_1143><Klarth>
+ Now, children, this is no place for
+ bickering.
+<pause>
+<audio_1144><Chester>
+ Yeah, yeah...{END}"
+"<audio_1145><Cless>
+「どうした、<Arche>？」
+<pause>
+<audio_1146><Arche>
+「何でもないよ！！」{END}"	"<audio_1145><Cless>
+ Is something bothering you,
+ <Arche>?
+<pause>
+<audio_1146><Arche>
+ Nope, not at all.
+ I'm just peachy!!{END}"
+<color_0002><item_6301>と<item_0C01>を手に入れました。<color_0000>{END}	"<color_0002>Acquired an <item_6301> and a Star
+<item_0801>.<color_0000>{END}"
+"<Cless>
+「扉が半分しか開かないぞ」
+<pause>
+<Cless>
+「パワーが足りないんだ」{END}"	"<Cless>
+ The door only opened halfway.
+<pause>
+<Cless>
+ It's probably not receiving enough
+ power.{END}"
+"<audio_1642>？？？
+「忍の掟を忘れたのですか？」
+<pause>
+<audio_1643>？？？
+「忍の里へ帰りましょう」
+<pause>
+<audio_1644>？？？
+「今戻れば、頭領のお許しを得ら
+　れるように、わたしが取計らい
+　ます」
+<pause>
+<audio_1645>忍者
+「黙れ！！」
+<pause>
+<audio_1646>忍者
+「おまえこそ、ダオス様の崇高な
+　理想がわからぬのか！」
+<pause>
+<audio_1647>？？？
+「あなた方はだまされています！」
+<pause>
+<audio_1648>忍者
+「邪魔だてすると言うなら死ん
+　でもらう・・・」{END}"	"<audio_1642>???
+ Have you forgotten the Way of the
+ Ninja?
+<pause>
+<audio_1643>???
+ Return with me to the Ninja
+ Village.
+<pause>
+<audio_1644>???
+ If you come at once, I shall see to
+ it that the chief forgives you.
+<pause>
+<audio_1645>Ninja
+ <var_E700>!
+<pause>
+<audio_1646>Ninja
+ Do you not comprehend the
+ supremacy of Lord Dhaos!?
+<pause>
+<audio_1647>???
+ You are being deceived!
+<pause>
+<audio_1648>Ninja
+ If you stand in our way, we shall
+ grant you a most ignoble death...{END}"
+"<audio_1649>？？？
+「・・・仕方がありません」{END}"	"<audio_1649>???
+ ...You leave me no choice.{END}"
+"<audio_164A>？？？
+「私は忍の掟に従い、務めを果た
+　します」
+<pause>
+<audio_164B>？？？
+「お覚悟を・・・」{END}"	"<audio_164A>???
+ I shall perform my duty in
+ accordance with the Way of the
+ Shinobi.
+<pause>
+<audio_164B>???
+ Prepare yourselves...{END}"
+"<audio_164C>忍者
+「速すぎる・・・」{END}"	"<audio_164C>Ninja
+ Too fast...{END}"
+"<audio_164D>忍者
+「無念・・・」{END}"	"<audio_164D>Ninja
+ Curses...{END}"
+"<audio_164E><Cless>
+「君は・・・」<wait>{END}"	"<audio_164E><Cless>
+ Who are--<wait>{END}"
+"<audio_164F><Cless>
+「あっ、ちょ、ちょっと待ってよ」
+<pause>
+<audio_1650><Cless>
+「・・・・・・」
+<pause>
+<audio_1651><Cless>
+「行っちゃったよ・・・」{END}"	"<audio_164F><Cless>
+ Hey, w-wait up!
+<pause>
+<audio_1650><Cless>
+ ......
+<pause>
+<audio_1651><Cless>
+ She took off...{END}"
+"<audio_1652>？？？
+「きゃあぁ<panic>」
+<pause>
+<audio_1653><Cless>
+「なんだ？」{END}"	"<audio_1652>???
+ Eee-yaaaah! <panic>
+<pause>
+<audio_1653><Cless>
+ What was that?{END}"
+"<audio_1654><Cless>
+「どうしたんだ？」
+<pause>
+<audio_1655><Mint>
+「しびれているようです！」
+<pause>
+<audio_1656><Arche>
+「しびれてるみたいじゃん」
+<pause>
+<audio_1657><Klarth>
+「ああ、しびれてるな」
+<pause>
+<audio_1658><Chester>
+「うん、しびれてるぞ」
+<pause>
+<audio_1659>？？？
+「うご、け、ま、せん・・・」<wait>{END}"	"<audio_1654><Cless>
+ What happened?
+<pause>
+<audio_1655><Mint>
+ The poor thing!
+ She's being hurt!
+<pause>
+<audio_1656><Arche>
+ Hey, guys.
+ You smell something burning?
+<pause>
+<audio_1657><Klarth>
+ That involuntary fidgeting looks
+ even worse than a seizure.
+ She'll feel that in the morning.
+<pause>
+<audio_1658><Chester>
+ Man, that's gotta hurt.
+<pause>
+<audio_1659>???
+ I...can...not...move...<wait>{END}"
+"<unk1><audio_165A><Cless>
+助けなきゃ・・・」
+<pause>
+<audio_165B><Mint>
+<Cless>さん、助けてあげて下さい」
+<pause>
+<audio_165C><Arche>
+<Cless>、助けてあげよ」
+<pause>
+<audio_165D><Klarth>
+<Cless>、助けるんだ」
+<pause>
+<audio_165E><Chester>
+<Cless>、助けようぜ」
+<pause>
+<audio_165F><Cless>
+ちょ、ちょっと、なんでみんな僕に言うんだよ<panic>」
+<pause>
+<audio_1660>？？？
+キャ・ア・ア・ア・ア！」
+<pause>
+<audio_1661><Cless>
+ふぅ、仕方がない・・・」{END}"	"<unk1><audio_165A><Cless>
+ She needs our help...
+<pause>
+<audio_165B><Mint>
+ <Cless>, please save her!
+<pause>
+<audio_165C><Arche>
+ Yeah, do your whole “knight in
+ shining armor” bit.
+<pause>
+<audio_165D><Klarth>
+ Be a man and save the poor girl.
+<pause>
+<audio_165E><Chester>
+ Dude, help her out!
+<pause>
+<audio_165F><Cless>
+ W-Wait, why are you all making
+ me do it!? <panic>
+<pause>
+<audio_1660>???
+ Eeeeee-YAHHHHH!
+<pause>
+<audio_1661><Cless>
+ ...Guess it's now or never.{END}"
+"<audio_1662><Cless>
+「うっ、うわぁぁぁぁぁ！」
+<pause>
+<audio_1663><Cless>
+「シ・ビ・レ・ル・・・」{END}"	"<audio_1662><Cless>
+ A-aaaaaagh-g-g-g-g-g!!!
+<pause>
+<audio_1663><Cless>
+ I-I-I...g-g-g-g-g-g-g-g...{END}"
+"<unk1><audio_1664><Arche>
+ねぇ、大丈夫？」
+<pause>
+<audio_1665>？？？
+・・・・・・」
+<pause>
+<audio_1666>？？？
+はい、なんとか・・・」
+<pause>
+<audio_1667><Mint>
+<Cless>さん、大丈夫ですか？」
+<pause>
+<audio_1668><Cless>
+ああ・・・」
+<pause>
+<audio_1669><Cless>
+でも、まだビリビリするよ」
+<pause>
+<audio_166A><Klarth>
+電気でしびれたんだな」
+<pause>
+<audio_166B>？？？
+みなさん、申し訳ございませんでした」
+<pause>
+<audio_166C><Chester>
+こんなところで何してたんだ？」
+<pause>
+<audio_166D><Klarth>
+小さな子が一人で来る場所じゃないぞ」<wait>{END}"	"<unk1><audio_1664><Arche>
+ Man, that didn't look fun.
+ You okay?
+<pause>
+<audio_1665>???
+ ......
+<pause>
+<audio_1666>???
+ Yes, somehow...
+<pause>
+<audio_1667><Mint>
+ <Cless>, are you hurt?
+<pause>
+<audio_1668><Cless>
+ Not really...
+<pause>
+<audio_1669><Cless>
+ Just can't feel my fingers right
+ now, is all...
+<pause>
+<audio_166A><Klarth>
+ High voltage tends to do that to a
+ person.
+<pause>
+<audio_166B>???
+ I am very sorry, everyone.
+<pause>
+<audio_166C><Chester>
+ So what are you doin' way out
+ here, anyway?
+<pause>
+<audio_166D><Klarth>
+ With a powerful spirit around, this
+ isn't exactly an ideal place for a
+ young child to get herself lost in.<wait>{END}"
+"<audio_166E>？？？
+「そ、それは・・・<panic>」
+<pause>
+<audio_166F><Arche>
+「ねえ、この子の服って変わって
+　るよね」
+<pause>
+<audio_1670>？？？
+「し、失礼します」{END}"	"<audio_166E>???
+ U-Umm-- <panic>
+<pause>
+<audio_166F><Arche>
+ Hey, check out her clothes!
+ Don't see that style every day,
+ huh?
+<pause>
+<audio_1670>???
+ P-Pardon me...
+ I must go.{END}"
+"<audio_1671><Arche>
+「どうしたのかなぁ？」
+<pause>
+<audio_1672><Chester>
+「さあな、急ぎなんだろう」
+<pause>
+<audio_1673><Cless>
+「とにかく僕達も先に進もう」{END}"	"<audio_1671><Arche>
+ What's up with her?
+<pause>
+<audio_1672><Chester>
+ Who knows?
+ She bolted right the
+ hell out of here.
+<pause>
+<audio_1673><Cless>
+ I say we should follow her
+ example and be on our way too.{END}"
+"<audio_1674>？？？
+「これしきの敵に遅れを取るなん
+　て・・・」
+<pause>
+<audio_1675>忍者
+「さぁどうする、我らに従うか、
+　あるいは死か・・・」{END}"	"<audio_1674>???
+ To get caught into such a simple
+ trap as this...
+<pause>
+<audio_1675>Ninja
+ Now what will you do?
+ Obey us, or perhaps...choose death?{END}"
+"<unk1><audio_1676><Cless>
+助けなきゃ・・・」
+<pause>
+<audio_1677><Mint>
+<Cless>さん、助けてあげましょう」
+<pause>
+<audio_1678><Arche>
+<Cless>、助けてあげよ」
+<pause>
+<audio_1679><Klarth>
+<Cless>、助けるんだ」
+<pause>
+<audio_167A><Chester>
+<Cless>、助けようぜ」<wait>{END}"	"<unk1><audio_1676><Cless>
+ We have to save her...
+<pause>
+<audio_1677><Mint>
+ Please, <Cless>!
+ Save her!
+<pause>
+<audio_1678><Arche>
+ Helping girls out is like, your job,
+ isn't it?
+<pause>
+<audio_1679><Klarth>
+ At the very least, etiquette
+ demands you help her, <Cless>.
+<pause>
+<audio_167A><Chester>
+ C'mon man, you're the best at that
+ hero stuff.<wait>{END}"
+"<audio_167B><Cless>
+「おいおい、また僕ひとりなんじゃ
+　ないだろうな<panic>」
+<pause>
+<audio_167C>？？？
+「くっ、こんな所で・・・」
+<pause>
+<audio_167D><Cless>
+「ふぅ、仕方がない・・・」{END}"	"<audio_167B><Cless>
+ Hey, hey!
+ Why are you making me
+ do this alone again!? <panic>
+<pause>
+<audio_167C>???
+ No...
+ Not in a place like this...
+<pause>
+<audio_167D><Cless>
+ Sigh...
+ Time for round two...{END}"
+"<unk1><audio_167E><Mint>
+<Cless>さん、がんばって下さい」
+<pause>
+<audio_167F><Arche>
+<Cless>、逃げるなぁ〜」
+<pause>
+<audio_1680><Klarth>
+<Cless>、手を抜くなよ」
+<pause>
+<audio_1681><Chester>
+<Cless>、逃げるなんて情けないぜ」{END}"	"<unk1><audio_167E><Mint>
+ Please do your best, <Cless>!
+<pause>
+<audio_167F><Arche>
+ Don't run away!
+ Knock 'em on their butts!
+<pause>
+<audio_1680><Klarth>
+ What's this about!?
+ You went against Dhaos twice!
+<pause>
+<audio_1681><Chester>
+ Come on, man!
+ You can handle those turkeys!{END}"
+"<audio_1682><Cless>
+「ふう、なんとか勝ったぞ」{END}"	"<audio_1682><Cless>
+ *huff* *huff*
+ Those guys were tough...{END}"
+"<audio_1683>？？？
+「罪もない人々への殺生の数々、
+　許せません！」{END}"	"<audio_1683>???
+ I shall not forgive those who snuff
+ out the lives of innocents time and
+ time again!{END}"
+"<audio_1684>？？？
+「大丈夫ですか？」
+<pause>
+<audio_1685><Cless>
+「な、なんか、ひどい目にあった
+　けど・・・」<wait>{END}"	"<audio_1684>???
+ Are you all right?
+<pause>
+<audio_1685><Cless>
+ Th-They were pretty rough, but...<wait>{END}"
+"<audio_1686><Cless>
+「なんとか生きてるみたいだ」
+<pause>
+<audio_1687>？？？
+「そうですか、良かった」{END}"	"<audio_1686><Cless>
+ ...I'm still alive, somehow.
+<pause>
+<audio_1687>???
+ I see.
+ That is good to hear.{END}"
+"<audio_1688><Cless>
+「こんな所で何してたんだい？」
+<pause>
+<audio_1689>？？？
+「・・・・・・」
+<pause>
+<audio_168A><Cless>
+「・・・・・・」
+<pause>
+<audio_168B>？？？
+「・・・・・・」
+<pause>
+<audio_168C><Cless>
+「言いたくないなら、事情は聞か
+　ないけどさ<panic>」
+<pause>
+<audio_168D><Cless>
+「それじゃ名前くらいなら教えて
+　くれるかな？」
+<pause>
+<audio_168E>？？？
+「・・・・・・」<wait>{END}"	"<audio_1688><Cless>
+ Anyway, what are you doing here?
+<pause>
+<audio_1689>???
+ ......
+<pause>
+<audio_168A><Cless>
+ ......
+<pause>
+<audio_168B>???
+ ......
+<pause>
+<audio_168C><Cless>
+ If it's a secret, that's fine... <panic>
+<pause>
+<audio_168D><Cless>
+ ...but could you at least tell us your
+ name?
+<pause>
+<audio_168E>???
+ ......<wait>{END}"
+"<unk1><audio_168F>？？？
+<Suzu>・・・」
+<pause>
+<audio_1690><Cless>
+<Suzu>ちゃんか、それじゃ<Suzu>
+ちゃん、僕達と一緒に行くか
+い？」
+<pause>
+<audio_1691><Suzu>
+い、いえ・・・」
+<pause>
+<audio_1692><Suzu>
+助けていただいて、ありがとうございました」
+<pause>
+<audio_1693><Suzu>
+し、失礼します」{END}"	"<unk1><audio_168F>???
+ <Suzu>...
+<pause>
+<audio_1690><Cless>
+ Nice to meet you, <Suzu>.
+ Would you like to come with us?
+<pause>
+<audio_1691><Suzu>
+ I-I must decline...
+<pause>
+<audio_1692><Suzu>
+ I thank you for saving me, but...
+<pause>
+<audio_1693><Suzu>
+ I-I must be on my way.{END}"
+"<audio_1694><Cless>
+「どうしたんだろう？」
+<pause>
+<audio_1695><Arche>
+「何も言ってくれなきゃ、わから
+　ないじゃん」
+<pause>
+<audio_1696><Chester>
+「誰かさんと違って、おしゃべり
+　じゃないんだろう」
+<pause>
+<audio_1697><Arche>
+「誰かさんて誰よ！？」
+<pause>
+<audio_1698><Chester>
+「さぁてね、誰だろうね」
+<pause>
+<audio_1699><Mint>
+「何か事情があるのでしょうか」<wait>{END}"	"<audio_1694><Cless>
+ I wonder what the hurry is.
+<pause>
+<audio_1695><Arche>
+ She kept her mouth zipped like last
+ time, so I guess we'll never know.
+<pause>
+<audio_1696><Chester>
+ I know someone who should follow
+ her example.
+<pause>
+<audio_1697><Arche>
+ And just who might that
+ “someone” be!?
+<pause>
+<audio_1698><Chester>
+ Gee, I wonder...
+<pause>
+<audio_1699><Mint>
+ Perhaps <Suzu>'s reasons are
+ none of our business.<wait>{END}"
+"<audio_169A><Klarth>
+「わからんが、<var_D700>を探すの
+　が先だな」
+<pause>
+<audio_169B><Cless>
+「そうですね」{END}"	"<audio_169A><Klarth>
+ We can speculate about
+ her, or we can find Volt.
+ I think the latter's more important.
+<pause>
+<audio_169B><Cless>
+ I agree.{END}"
+"<audio_169C><Klarth>
+「わからんが、私達にはあの子に
+　関っている時間はないんだ」
+<pause>
+<audio_169D><Cless>
+「・・・・・・」{END}"	"<audio_169C><Klarth>
+ They don't matter, in any case.
+ We don't have time to babysit her.
+<pause>
+<audio_169D><Cless>
+ ......{END}"
+"忍者
+「気に入ってもらえたかしら？」{END}"	"Ninja
+ May I interest you in something?{END}"
+"忍者
+「わたしは修業中の忍者です」
+<pause>
+忍者
+「ここでの修行で会得した忍術を
+　あなたにも教えてあげましょう
+　か？」{END}"	"Ninja
+ I am a ninja in the midst of my
+ training.
+<pause>
+Ninja
+ Would you like me to teach you the
+ ninja arte I have learned while in
+ this place?{END}"
+"忍者
+「ただし<num5_C000511A>００００ガルドよ」
+<pause>
+<speed_0000><color_0002><0Evar001A5110102709C000C0>ガルド払いますか？<color_0000><speed_FFFF>{END}"	"Ninja
+ It's <num5_C000511A>0000 gald, though.
+<pause>
+<speed_0000><color_0002>Pay <0Evar001A5110102709C000C0> gald?<color_0000><speed_FFFF>{END}"
+"<color_0002><Suzu>は<0Dvar008010001A510CC000C0>を覚えました。
+<pause>
+<color_0000>忍者
+「ありがとう」{END}"	"<color_0002><Suzu> learned <0Dvar008010001A510CC000C0>.
+<pause>
+<color_0000>Ninja
+ Thank you.{END}"
+"忍者
+「お金が足りないみたいね」{END}"	"Ninja
+ You do not have enough money.{END}"
+"忍者
+「買ってよ」{END}"	"Ninja
+ Buy it.{END}"
+"忍者
+「お役に立てなくて残念だわ」{END}"	"Ninja
+ A shame I could not serve you.{END}"

@@ -1,0 +1,687 @@
+Japanese	English
+『終わりより、始まる』{END}	"“Before the end, comes the
+beginning.”{END}"
+"<audio_12B2><Cless>
+「これは・・・」
+<pause>
+<audio_12B3><Cless>
+「このフロアの見取図が描いてあ
+　る」
+<pause>
+<audio_12B4><Cless>
+「この図によると・・・」
+<pause>
+<audio_12B5><Cless>
+「下へ降りる階段のある部屋に、
+　隠し通路があるようだ！」{END}"	"<audio_12B2><Cless>
+ Weird...
+<pause>
+<audio_12B3><Cless>
+ Someone scrawled a map of this
+ floor here.
+<pause>
+<audio_12B4><Cless>
+ According to this map...
+<pause>
+<audio_12B5><Cless>
+ There's a hidden passage in the room with stairs to the lower floor!{END}"
+"<color_0002>レバーがあります。
+<pause>
+切り替えますか？<color_0000>{END}"	<color_0002>Flip the lever?<color_0000>{END}
+"<audio_12B6><Cless>
+「ダオス！！」
+<pause>
+<audio_12B7><Cless>
+「今度こそ、本当に決着をつけて
+　やる！！」
+<pause>
+<audio_12B8>ダオス
+「ふふふ・・・」
+<pause>
+<audio_12B9>ダオス
+「ここまで来るとは、たいしたも
+　のだな」
+<pause>
+<audio_12BA>ダオス
+「貴様らの暴挙に敬意を表して、
+　伝説の勇者とでも呼ばせてもら
+　おうか」
+<pause>
+<audio_12BB><Chester>
+「ふざけるな！！」
+<pause>
+<audio_12BC><Chester>
+「お前が今までやってきたことを
+　後悔させてやるぜ！！」
+<pause>
+<audio_12BD><Mint>
+「待って下さい！」{END}"	"<audio_12B6><Cless>
+ Dhaos!!!
+<pause>
+<audio_12B7><Cless>
+ This is it!
+ We're going to settle
+ this once and for all!!!
+<pause>
+<audio_12B8>Dhaos
+ Hmhmhm...
+<pause>
+<audio_12B9>Dhaos
+ I must say, I'm quite impressed
+ you managed to get this far.
+<pause>
+<audio_12BA>Dhaos
+ For such reckless valor, what
+ is an appropriate title?
+ Perhaps “Heroes of Legend”?
+<pause>
+<audio_12BB><Chester>
+ Don't mess with us!
+<pause>
+<audio_12BC><Chester>
+ We're going to make you wish
+ you'd never been born!!!
+<pause>
+<audio_12BD><Mint>
+ Wait, please!{END}"
+"<audio_12BE><Klarth>
+「<Mint>、近づくな！！」
+<pause>
+<audio_12BF>ダオス
+「何だ？」
+<pause>
+<audio_12C0>ダオス
+「この期におよんで命乞いか？」
+<pause>
+<audio_12C1><Mint>
+「あなたに、聞きたいことがあり
+　ます」
+<pause>
+<audio_12C2><Mint>
+「前にあなたは、私達とは戦う理
+　由がないと言いました・・・」
+<pause>
+<audio_12C3><Mint>
+「なぜ、ですか？」{END}"	"<audio_12BE><Klarth>
+ <Mint>!
+ Keep away from him!!!
+<pause>
+<audio_12BF>Dhaos
+ What?
+<pause>
+<audio_12C0>Dhaos
+ Pleading for your life, after all
+ you've done?
+<pause>
+<audio_12C1><Mint>
+ I need to ask you a question.
+<pause>
+<audio_12C2><Mint>
+ You once said that you had no
+ grounds upon which to fight with
+ us.
+<pause>
+<audio_12C3><Mint>
+ I want to know why.{END}"
+"<audio_12C4>ダオス
+「お前達が、魔科学に関わる者で
+　はないからだ」
+<pause>
+<audio_12C5><Mint>
+「なぜ、魔科学はいけないのです
+　か？」
+<pause>
+<audio_12C6>ダオス
+「魔科学はマナの力をことごとく
+　使い果たしてしまうからだ！！」
+<pause>
+<audio_12C7>ダオス
+「私は、魔科学を使う人間を抹殺
+　しなければならない！」
+<pause>
+<audio_12C8><Klarth>
+「なぜ、そうまでして魔科学を否
+　定する？」
+<pause>
+<audio_12C9><Klarth>
+「たしかに魔科学の力はすさまじ
+　いものだ・・・」
+<pause>
+<audio_12CA><Klarth>
+「だが、人間も愚かではない！」
+<pause>
+<audio_12CB><Klarth>
+「もう、世界樹が枯れるようなこ
+　とはしない！」
+<pause>
+<audio_12CC>ダオス
+「本当にそう思うのか？」
+<pause>
+<audio_12CD>ダオス
+「私がミッドガルズを滅ぼさねば
+　今のユグドラシルはなかったの
+　だぞ」
+<pause>
+<audio_12CE><Cless>
+「そうまでして、なぜユグドラシ
+　ルを守る！？」
+<pause>
+<audio_12CF><Cless>
+「お前の望みは何なんだ？」
+<pause>
+<audio_12D0>ダオス
+「私にはマナが必要なのだ」
+<pause>
+<audio_12D1>ダオス
+「だが、その理由を貴様らに話し
+　たところで理解できまい」
+<pause>
+<audio_12D2><Chester>
+「わかりたくもねえ！」
+<pause>
+<audio_12D3><Chester>
+「いまさら、言い訳なんか聞かね
+　えぜ！」<wait>{END}"	"<audio_12C4>Dhaos
+ None of you were involved with
+ magitechnology.
+<pause>
+<audio_12C5><Mint>
+ Why do you dislike magitechnology?
+<pause>
+<audio_12C6>Dhaos
+ It devours mana!!!
+<pause>
+<audio_12C7>Dhaos
+ I cannot allow that to happen!
+ Those who use magitechnology
+ must be exterminated!
+<pause>
+<audio_12C8><Klarth>
+ *Everyone* who uses it?
+ That's a little extreme.
+<pause>
+<audio_12C9><Klarth>
+ Magitechnology has frightening
+ potential. I'll give you that.
+<pause>
+<audio_12CA><Klarth>
+ But it's not as if us humans are so
+ foolish that we can't learn from
+ our mistakes!
+<pause>
+<audio_12CB><Klarth>
+ The World Tree will live on!
+<pause>
+<audio_12CC>Dhaos
+ Do you really believe that?
+<pause>
+<audio_12CD>Dhaos
+ Know the truth: If I had not
+ destroyed Midgard, Yggdrasill would
+ have already withered away.
+<pause>
+<audio_12CE><Cless>
+ So all this was to protect
+ Yggdrasill?
+<pause>
+<audio_12CF><Cless>
+ But why?
+ What's in it for you?
+<pause>
+<audio_12D0>Dhaos
+ Mana.
+ I require it for my cause.
+<pause>
+<audio_12D1>Dhaos
+ Hmph... Any further explanation is
+ useless. It's beyond your
+ comprehension.
+<pause>
+<audio_12D2><Chester>
+ For all I care, you can shove your
+ “cause” up your ass!
+<pause>
+<audio_12D3><Chester>
+ The only thing I've come here to
+ “comprehend” is your bloody,
+ smashed-in prettyboy face!<wait>{END}"
+"<audio_12D4>ダオス
+「ははははは！」
+<pause>
+<audio_12D5>ダオス
+「なぜ私が、弁解せねばならぬの
+　だ？」
+<pause>
+<audio_12D6><Cless>
+「なにぃ！！」
+<pause>
+<audio_12D7>ダオス
+「貴様らこそ、私に対する非礼を
+　わびよ！」
+<pause>
+<audio_12D8><Chester>
+「ふざけやがって・・・」
+<pause>
+<audio_12D9><Cless>
+「たとえ・・・どんな理由があっ
+　ても・・・」
+<pause>
+<audio_12DA><Cless>
+「人間を虫けらみたいに殺すお前
+　は、絶対に許せない！！」
+<pause>
+<audio_12DB>ダオス
+「何とでも言うがいい！！」
+<pause>
+<audio_12DC>ダオス
+「私の邪魔をするというのであれ
+　ば、滅ぼすのみ！」
+<pause>
+<audio_12DD><Cless>
+「行くぞ！！」{END}"	"<audio_12D4>Dhaos
+ Hahahahahah!
+<pause>
+<audio_12D5>Dhaos
+ Tell me: Why must I justify myself
+ to you?
+<pause>
+<audio_12D6><Cless>
+ You--!!!
+<pause>
+<audio_12D7>Dhaos
+ It is YOU who should make amends
+ to ME!
+<pause>
+<audio_12D8><Chester>
+ He's playing with us...
+<pause>
+<audio_12D9><Cless>
+ No matter the reason...
+<pause>
+<audio_12DA><Cless>
+ ...I WILL NEVER forgive someone
+ for killing countless people as
+ though they were insects!!!
+<pause>
+<audio_12DB>Dhaos
+ Enough talk!!!
+<pause>
+<audio_12DC>Dhaos
+ Those who stand in my way must
+ be purged!
+<pause>
+<audio_12DD><Cless>
+ Just shut up already!
+ I've had enough!!{END}"
+"<audio_12DE><Cless>
+「や、やったのか？」
+<pause>
+<audio_12DF><Klarth>
+「いや、まだだ！」{END}"	"<audio_12DE><Cless>
+ D-Did we get him?
+<pause>
+<audio_12DF><Klarth>
+ No!
+ He's still breathing!{END}"
+"<audio_12E0>ダオス
+「ふ、ふはははは・・・」<wait>{END}"	"<audio_12E0>Dhaos
+ Mwahahahahah...<wait>{END}"
+"ダオス
+「下等な生命体がここまでやると
+　は思わなんだぞ」<wait>{END}"	"Dhaos
+ Astounding that lower life forms
+ could push me this far.<wait>{END}"
+"ダオス
+「我も全身全霊を賭して、戦おう
+　ではないか！！」<wait>{END}"	"Dhaos
+ So be it!
+ I shall risk both my body
+ and soul on this battle!<wait>{END}"
+"<audio_12E3><Cless>
+「て、手加減していたっていうの
+　か！？」<wait>{END}"	"<audio_12E3><Cless>
+ Y-You're saying you went easy on
+ us!?<wait>{END}"
+"ダオス
+「我が力をさえぎる邪魔な障壁は
+　消させてもらおう」<wait>{END}"	"Dhaos
+ The troublesome barrier
+ obstructing my true power shall be
+ cast aside!<wait>{END}"
+"<audio_12E5><Mint>
+「ああっ」
+<pause>
+<audio_12E6><Cless>
+「ゆ、床が！？」<wait>{END}"	"<audio_12E5><Mint>
+ Ahhh!
+<pause>
+<audio_12E6><Cless>
+ Where'd the floor--!?<wait>{END}"
+"ダオス
+「ふっ・・・はっはっは」<wait>{END}"	"Dhaos
+ Mwah...hah hah hah!<wait>{END}"
+"ダオス
+「私の邪魔はさせぬ！！」<wait>{END}"	"Dhaos
+ I will not let you interfere!!<wait>{END}"
+"ダオス
+「私を待ち望んでいる民のために
+　も・・・」<wait>{END}"	"Dhaos
+ My desire--this burden I bear--is
+ for the sake of my people...<wait>{END}"
+"ダオス
+「絶対に邪魔はさせぬぞぉ！！」<wait>{END}"	"Dhaos
+ YOU SHALL NOT STAND IN MY WAY!!<wait>{END}"
+"ダオス
+「我が星、母なる星デリス・カー
+　ラーンよ！」<wait>{END}"	"Dhaos
+ O Derris-Kharlan, beloved
+ motherworld!<wait>{END}"
+"ダオス
+「我の力を解放したまえ！！」<wait>{END}"	"Dhaos
+ Release my power!!<wait>{END}"
+<speed_0000><color_0002>隊列を変更しますか？{END}	<speed_0000><color_0002>Change party formation?{END}
+"<audio_12ED><Cless>
+「ど、どうだっ！」
+<pause>
+<audio_12EE>ダオス
+「う、うう・・・」<wait>{END}"	"<audio_12ED><Cless>
+ D-Did we...!?
+<pause>
+<audio_12EE>Dhaos
+ U-Ugh...<wait>{END}"
+"<audio_12EF>ダオス
+「だめだ！」
+<pause>
+<audio_12F0>ダオス
+「あきらめられぬ！
+　あきらめることなどできぬ！」
+<pause>
+<audio_12F1>ダオス
+「大いなる実りを手に入れるまで
+　は！」
+<pause>
+<audio_12F2>ダオス
+「おお、神よ！」
+<pause>
+<audio_12F3>ダオス
+「デリス・カーラーンの母なる神
+　よ！」
+<pause>
+<audio_12F4>ダオス
+「我に力を！」
+<pause>
+<audio_12F5>ダオス
+「我に力を！！！」{END}"	"<audio_12EF>Dhaos
+ No!
+<pause>
+<audio_12F0>Dhaos
+ I shall not give in to something so
+ meager!
+<pause>
+<audio_12F1>Dhaos
+ I cannot give in until I obtain a
+ Great Seed!
+<pause>
+<audio_12F2>Dhaos
+ O Divine One!
+<pause>
+<audio_12F3>Dhaos
+ O Divine One of mother
+ Derris-Kharlan!
+<pause>
+<audio_12F4>Dhaos
+ Grant me strength!
+<pause>
+<audio_12F5>Dhaos
+ GRANT ME STRENGTH!!!{END}"
+"<audio_12F6><Cless>
+「な、何だ・・・」
+<pause>
+<audio_12F7><Klarth>
+「気をつけろ！」
+<pause>
+<audio_12F8><Klarth>
+「様子がおかしいぞ！」<wait>{END}"	"<audio_12F6><Cless>
+ Wh-What the...
+<pause>
+<audio_12F7><Klarth>
+ Be careful!
+<pause>
+<audio_12F8><Klarth>
+ He could pull anything!<wait>{END}"
+"<audio_12F9><Chester>
+「なんだこいつはっ！」
+<pause>
+<audio_12FA><Arche>
+「す、すごすぎるよ、この魔力！」
+<pause>
+<audio_12FB>ダオス
+「私の願い・・・」
+<pause>
+<audio_12FC>ダオス
+「民の祈り・・・」
+<pause>
+<audio_12FD>ダオス
+「私は・・・」
+<pause>
+<audio_12FE>ダオス
+「私はまだ闘える！」<wait>{END}"	"<audio_12F9><Chester>
+ What the hell is he doing!?
+<pause>
+<audio_12FA><Arche>
+ Th-This magic...!
+ It's way too strong!
+<pause>
+<audio_12FB>Dhaos
+ For my desire...
+<pause>
+<audio_12FC>Dhaos
+ For the prayers of my people...
+<pause>
+<audio_12FD>Dhaos
+ I...
+<pause>
+<audio_12FE>Dhaos
+ I will fight on!<wait>{END}"
+<speed_0000><color_0002>隊列を変更しますか？{END}	<speed_0000><color_0002>Change party formation?{END}
+"<audio_12FF><speed_0004><Cless>
+「今度こそ、やったか？」<wait>{END}"	"<audio_12FF><Cless>
+ Did we...finally get him?<wait>{END}"
+"<audio_1300><speed_0004><Cless>
+「ま、まだ立つのか！？」
+<pause>
+<audio_1301><Klarth>
+「待て、様子が変だぞ！」<wait>{END}"	"<audio_1300><Cless>
+ H-He can still stand!?
+<pause>
+<audio_1301><Klarth>
+ Hold on!
+ Something isn't right!<wait>{END}"
+"<unk1><audio_1302><speed_0004><Cless>
+だめだ、<Mint>！危ない！」
+<pause>
+<audio_1303><Mint>
+いいえ・・・この人は・・・」
+<pause>
+<audio_1304><Mint>
+この人は・・・もう・・・」<wait>{END}"	"<unk1><audio_1302><Cless>
+ What are you doing, <Mint>!?
+ Stay back!
+<pause>
+<audio_1303><Mint>
+ No... He...
+<pause>
+<audio_1304><Mint>
+ ...he...will soon...<wait>{END}"
+"<audio_1305><speed_0004>ダオス
+「く<speed_0010>、<speed_0004>わ<speed_0010>、<speed_0004>私は<speed_0010>、<speed_0004>死ぬのか・・・」<wait>{END}"	"<audio_1305>Dhaos
+ Ugh<speed_0010>...<speed_0004>am<speed_0010>...<speed_0004>am<speed_0010>...<speed_0004>I<speed_0010>...<speed_0004>dying...?<wait>{END}"
+"<speed_0004>ダオス
+「我が１０億の民の未来はこれで
+　閉ざされた・・・」<wait>{END}"	"Dhaos
+ So the fate of my people is
+ sealed...<wait>{END}"
+"<audio_1307><Mint>
+「・・・教えて下さい」
+<pause>
+<audio_1308><Mint>
+「あなたが、何のために戦ってい
+　たのか・・・」
+<pause>
+<audio_1309>ダオス
+「今さら・・・意味のないことだ」
+<pause>
+<audio_130A><Mint>
+「それでも・・・」
+<pause>
+<audio_130B><Mint>
+「真実が知りたいのです・・・」
+<pause>
+<audio_130C>ダオス
+「・・・・・・」
+<pause>
+<audio_130D>ダオス
+「いいだろう・・・」
+<pause>
+<audio_130E>ダオス
+「話してやろう・・・」
+<pause>
+<audio_130F>ダオス
+「私が<speed_0020>、<speed_0004>何を<speed_0020>、<speed_0004>求めていたのかを」<wait>{END}"	"<audio_1307><Mint>
+ ...Please... Won't you tell us...
+<pause>
+<audio_1308><Mint>
+ ...what you fought so fearlessly
+ for...?
+<pause>
+<audio_1309>Dhaos
+ It...is meaningless now.
+<pause>
+<audio_130A><Mint>
+ Even so...
+<pause>
+<audio_130B><Mint>
+ I wish to know the truth...
+<pause>
+<audio_130C>Dhaos
+ ......
+<pause>
+<audio_130D>Dhaos
+ Very well...
+<pause>
+<audio_130E>Dhaos
+ With my last breath...I shall tell
+ you...
+<pause>
+<audio_130F>Dhaos
+ ...what...it...was...I...sought...<wait>{END}"
+"<audio_12AF>ＳＥＡＬＥＹＥ？
+「来たか、下劣なる者達よ」{END}"	"<audio_12AF>Sealeye?
+ Ssso you have come, lowly
+ knavesss!{END}"
+"<audio_12B0>ＳＥＡＬＥＹＥ？
+「貴様達にはこの世で最も華麗な
+　運命」
+<pause>
+<audio_12B1>ＳＥＡＬＥＹＥ？
+「血まみれの死を与えよう！」{END}"	"<audio_12B0>Sealeye?
+ Of thisss worrrld, you have the
+ mossst wonderrrful of fatesss!
+<pause>
+<audio_12B1>Sealeye?
+ I ssshall grrrant you deathsss
+ mossst gruesssome! You ssshall
+ drrrown in yourrr own blood!{END}"
+<color_0002>帰りますか？<color_0000>{END}	<color_0002>Go back?<color_0000>{END}
+"<Cless>
+「あれ？」
+<pause>
+<Cless>
+「人数が足りない・・・」
+<pause>
+<Cless>
+「助けに行かないと」{END}"	"<Cless>
+ Uh, whoops... <panic>
+<pause>
+<Cless>
+ I still haven't rescued everyone
+ yet...
+<pause>
+<Cless>
+ Can't leave without them!{END}"
+"<audio_12A5><Cless>
+「いったいどうなってるんだ？」
+<pause>
+<audio_12A6><Klarth>
+「ダオスの時間を操る力に、
+　時間の剣が共鳴して、呼び
+　寄せられたのかもな・・・」{END}"	"<audio_12A5><Cless>
+ Whoa! What happened!?
+<pause>
+<audio_12A6><Klarth>
+ One possibility is that we were
+ called here by the resonation of
+ Dhaos' power of time manipulation
+ and the Sword of Time...{END}"
+"死神
+「よく私の存在に気がついたな」
+<pause>
+死神
+「お前達に良い物を売ってやろう
+　か？」{END}"	"Grim Reaper
+ You have done well to realize my
+ existence.
+<pause>
+Grim Reaper
+ You have earned the opportunity to
+ purchase something most
+ astounding. How about it?{END}"
+"死神
+「いくら払うのだ？」
+<pause>
+<speed_0000>１。７６５ガルド
+２。７６５０ガルド
+３。７６５００ガルド
+４。７６５０００ガルド<speed_FFFF>{END}"	"Grim Reaper
+ What is your offer?
+<pause>
+<speed_0000>1. 765 gald
+2. 7650 gald
+3. 76500 gald
+4. 765000 gald<speed_FFFF>{END}"
+"死神
+「やめるも良し・・・」
+<pause>
+死神
+「気が変わったなら、再び来るが
+　いい」{END}"	"Grim Reaper
+ No shame in backing out...
+<pause>
+Grim Reaper
+ Return to me should you have
+ second thoughts.{END}"
+"死神
+「買いたくなったら来るがいい」{END}"	"Grim Reaper
+ Come, if you want to buy
+ something.{END}"
+"死神
+「この世には金で買えない物はな
+　いと言う・・・」
+<pause>
+死神
+「つまり、金がなければ買えない
+　ということだな」{END}"	"Grim Reaper
+ You can buy anything in the world
+ with money, so they say...
+<pause>
+Grim Reaper
+ But without money, you can buy
+ nothing.{END}"
+<color_0002>全員<num5_C0006104>の経験値を得ました。<wait>{END}	"<color_0002>Everyone gained <num5_C0006104> experience
+points.<wait>{END}"
+<color_0002><num2_C0005108>のレベルが上がりました。<wait>{END}	<color_0002><num2_C0005108> leveled up.<wait>{END}
+"<color_0002><num2_C0005108>のレベルが上がりました。
+<pause>
+<num2_C0005108>は新しい特技を覚えました。<wait>{END}"	"<color_0002><num2_C0005108> leveled up.
+<pause>
+<num2_C0005108> learned a new arte.<wait>{END}"

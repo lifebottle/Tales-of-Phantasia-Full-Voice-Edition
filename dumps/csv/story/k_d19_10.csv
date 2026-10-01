@@ -1,0 +1,713 @@
+Japanese	English
+モーリア坑道地下<num5_C00040A0>階{END}	Moria Mine (B<num5_C00040A0>F){END}
+"　　　〜モーリア坑道跡〜
+　アルヴァニスタ王の許可無き者
+　入るべからず。{END}"	"　　　--Moria Mine--<nl>
+Entry without the permission of
+the King of Alvanista is expressly
+forbidden.{END}"
+"<color_0002>レバーがあります。
+<pause>
+切り替えますか？<color_0000>{END}"	<color_0002>Flip the lever?<color_0000>{END}
+"『右の通路に地下三階への階段が
+　あります』{END}"	"“The stairs past the corridor on the
+right lead to the third floor down.”{END}"
+"<Cless>
+「あれ？」
+<pause>
+<Cless>
+「何かこのたいまつ、レバーみた
+　いだ」
+<pause>
+<color_0002>たいまつを動かしますか？<color_0000>{END}"	"<Cless>
+ Huh?
+<pause>
+<Cless>
+ Now that I get a closer look, this
+ might be some kind of lever.
+<pause>
+<color_0002>Try pulling on the torch like a lever?<color_0000>{END}"
+"<Cless>
+「やめておこう」{END}"	"<Cless>
+ Nah, that's just silly...{END}"
+"<Cless>
+「なんで、ここだけ火が灯ってな
+　いんだろう？」{END}"	"<Cless>
+ This one isn't lit like the others.{END}"
+『上上下下左右左右』{END}	"“UP UP DOWN DOWN LEFT RIGHT LEFT
+RIGHT”{END}"
+"<Cless>
+「火を灯すと魔法陣がでる仕掛け
+　だったんだ」{END}"	"<Cless>
+ So lighting this one triggers a magic
+ circle, huh. This place is just full of
+ weird stuff...{END}"
+"<Cless>
+「ここのたいまつだけ火が灯って
+　ない・・・」
+<pause>
+<Cless>
+「上の階のスイッチだったたいま
+　つとは違うみたいだ・・・」{END}"	"<Cless>
+ This torch isn't lit.
+<pause>
+<Cless>
+ Don't think it's a lever like that last
+ one, though...{END}"
+『欲すれば遠ざかるのだ』{END}	"“If thou wouldst claim the prize,
+keep thy distance.”{END}"
+"<Cless>
+「素手でこの壁を崩すのは無理だ
+　な・・・」{END}"	"<Cless>
+ Last time I checked, I didn't have
+ fists of steel.{END}"
+"<color_0002>スイッチがあります。
+<pause>
+押しますか？<color_0000>{END}"	<color_0002>Flip the switch?<color_0000>{END}
+"<Cless>
+「って、そんなことあるかい！！」{END}"	"<Cless>
+ ...Game over, my ass!!{END}"
+"<Klarth>
+「アルヴァニスタ王の許可はも　
+　らった」
+<pause>
+<Klarth>
+「許可証もある」
+<pause>
+見張り
+「許可証〜？」
+<pause>
+見張り
+「どれ、見せてみろ」
+<pause>
+見張り
+「ふむ、確かにアルヴァニスタ国
+　の許可証だが・・・」
+<pause>
+見張り
+「しかしずいぶん古い型の許可証
+　だなぁ・・・」
+<pause>
+見張り
+「年代ものだぞ、こりゃ」
+<pause>
+見張り
+「まあいい、通っていいぞ」{END}"	"<Klarth>
+ That would be us.
+<pause>
+<Klarth>
+ We've obtained a permit signed by
+ the King of Alvanista himself.
+<pause>
+Sentry
+ Ho, a permit?
+<pause>
+Sentry
+ Let's see it, then.
+<pause>
+<Klarth>
+ Here.
+<pause>
+Sentry
+ Hmm... Yes, interesting...
+<pause>
+Sentry
+ This thing looks incredibly
+ old-fashioned.
+<pause>
+Sentry
+ Really, it's got to be an antique.
+<pause>
+Sentry
+ Well, whatever.
+ There's no expiration date,
+ and it still looks legit.
+ Go on through.{END}"
+"<Klarth>
+「アルヴァニスタ王の許可はも　
+　らった」
+<pause>
+<Klarth>
+「許可証もある」
+<pause>
+見張り
+「あ、これは失礼しました」
+<pause>
+見張り
+「どうぞお通り下さい」
+<pause>
+見張り
+「そういえば、この地下には四大
+　精霊をまつる祭壇があるんだっ
+　てさ」
+<pause>
+見張り
+「調査隊の人が言っていたよ」{END}"	"<Klarth>
+ That would be us.
+<pause>
+<Klarth>
+ We've obtained a permit signed by
+ the King of Alvanista himself.
+<pause>
+Sentry
+ Oh, pardon me.
+<pause>
+Sentry
+ Please come on through.
+<pause>
+Sentry
+ Oh, hold on.
+ I just remembered something you
+ might find interesting.
+<pause>
+Sentry
+ A surveyor said something about an
+ altar to the Four Great Spirits at
+ the bottom of this place.{END}"
+"見張り
+「帰りたまえ」{END}"	"Sentry
+ Turn back.{END}"
+"見張り
+「君、許可なく入ってはいかん」<wait>{END}"	"Sentry
+ Halt!
+ Authorized personnel only.<wait>{END}"
+"見張り
+「数年前に、ドワーフ族の遺跡が
+　見つかったんだ」
+<pause>
+見張り
+「その入口は地下九階にあるぞ」{END}"	"Sentry
+ Several years ago, some dwarven
+ ruins were discovered in the
+ deeper levels of the mine.
+<pause>
+Sentry
+ There's a tunnel leading to them on
+ ninth floor down.{END}"
+"見張り
+「たいていの冒険者は地下五階で
+　つまるらしいぞ」{END}"	"Sentry
+ Most adventurers give up and
+ complain about being outwitted by
+ a puzzle on the fifth floor down.{END}"
+"<Cless>
+「だめだ、全く動かない！」{END}"	"<Cless>
+ Urrrrrghhh...!!!
+ Forget it! It won't budge!{END}"
+"冒険者
+「くそ、隠し通路があると思うん
+　だが、見つからない！」{END}"	"Adventurer
+ I know there's a hidden passage in
+ here somewhere, but I can't find
+ the blasted thing!{END}"
+"冒険者
+「へえ〜、こういう仕組みだった
+　のか・・・」{END}"	"Adventurer
+ Man, you've got to be kidding.
+ That was it? Gee, why didn't I think
+ of that before...{END}"
+"冒険者
+「う〜ん、この部屋は何かありそ
+　うなんだけどなぁ・・・」{END}"	"Adventurer
+ Hmmmmm... Something tells me
+ there's treasure in this room, but it
+ eludes me...{END}"
+"冒険者
+「扉の奥の部屋にあるボタンは見
+　つけたか？」
+<pause>
+冒険者
+「あれさえ押せれば下に行けると
+　思うんだが・・・」{END}"	"Adventurer
+ You notice the button in the room
+ through that door?
+<pause>
+Adventurer
+ Betcha it's the key to the next level
+ down, but I can't reach it.{END}"
+"<audio_150B><Cless>
+「あんな所にスイッチがある」
+<pause>
+<audio_150C><Mint>
+「でも、手が届きませんよ」<wait>{END}"	"<audio_150B><Cless>
+ A button on the wall, eh?
+<pause>
+<audio_150C><Mint>
+ But I don't think any of us have
+ arms long enough to reach it from
+ here.<wait>{END}"
+"<audio_150D><Klarth>
+「何か道具はないのか？」<wait>{END}"	"<audio_150D><Klarth>
+ And thank goodness for that.
+ Don't we have anything else?
+ Like a tool, or something?<wait>{END}"
+"<audio_150E><Cless>
+「道具といっても・・・」<wait>{END}"	"<audio_150E><Cless>
+ Such as...?
+ A ten-foot pole?<wait>{END}"
+"<audio_150F><Klarth>
+「何かあるだろう」<wait>{END}"	"<audio_150F><Klarth>
+ Don't be so negative.
+ Now let me see...<wait>{END}"
+"<audio_1510><Cless>
+「ちょっと、いきなり袋をあさら
+　ないで下さいよ」
+<pause>
+{END}"	"<audio_1510><Cless>
+ Hey! Who gave you a license to go
+ fishing through my stuff!?
+<pause>
+{END}"
+"<audio_1511><Klarth>
+「うわっ！！」
+<pause>
+{END}"	"<audio_1511><Klarth>
+ WHUH-HO!!!
+<pause>
+{END}"
+"<audio_1512><Klarth>
+「あぶないじゃないか！」<wait>{END}"	"<audio_1512><Klarth>
+ I would truly appreciate you taking
+ more care when organizing our
+ tools, thank you very much.<wait>{END}"
+"<audio_1513><Arche>
+「そうだ、それがあるじゃん」<wait>{END}"	"<audio_1513><Arche>
+ Ohhh yeah!
+ I totally forgot about that!<wait>{END}"
+"<audio_1514><Mint>
+「そうですね、それでなんとかな
+　ると思います」
+<pause>
+<audio_1515><Cless>
+「そうか！！」
+<pause>
+<audio_1516><Cless>
+「早速試してみよう！」{END}"	"<audio_1514><Mint>
+ Yes. It may be just the thing.
+<pause>
+<audio_1515><Cless>
+ Ah! That's right!!!
+<pause>
+<audio_1516><Cless>
+ Come on, let's give it a shot!{END}"
+"<audio_1517><Cless>
+「役立ちそうな道具は持ってない
+　ような・・・」
+<pause>
+<audio_1518><Klarth>
+「ならば、仕方ないな」
+<pause>
+<audio_1519><Klarth>
+「何か遠隔操作できそうな道具を
+　探してこよう」<wait>{END}"	"<audio_1517><Cless>
+ <Arche> has that broom of
+ hers, but it looks like it'll
+ only reach about halfway,
+ if that...
+<pause>
+<audio_1518><Klarth>
+ Not many options besides turning
+ around, I suppose.
+<pause>
+<audio_1519><Klarth>
+ Maybe we missed something that'll
+ let us press it from here.<wait>{END}"
+"<audio_151A><Mint>
+「何のあてもなくモーリア坑道に
+　来てしまいましたが・・・」
+<pause>
+<audio_151B><Mint>
+「よかったのでしょうか？」
+<pause>
+<audio_151C><Arche>
+「あたしも、そう思うな」
+<pause>
+<audio_151D><Arche>
+「モーリア坑道の探索はここら辺
+　で切り上げて、他の所に行って
+　みない？」<wait>{END}"	"<audio_151A><Mint>
+ Come to think, we really don't have
+ much information about this place.
+<pause>
+<audio_151B><Mint>
+ Perhaps we should leave for now
+ and return once we've prepared
+ ourselves better.
+<pause>
+<audio_151C><Arche>
+ Hey, we're totally on the same
+ page, <Mint>!
+<pause>
+<audio_151D><Arche>
+ Let's blow this popsicle stand and
+ go somewhere else for now.<wait>{END}"
+"<audio_151E><Cless>
+「他の所って？」<wait>{END}"	"<audio_151E><Cless>
+ “Somewhere else”?<wait>{END}"
+"<audio_151F><Arche>
+「そうねぇ・・・」
+<pause>
+<audio_1520><Arche>
+「こんなジメジメした暗い場所は
+　もうイヤだからぁ・・・」
+<pause>
+<audio_1521><Arche>
+「・・・・・・」<wait>{END}"	"<audio_151F><Arche>
+ Uh-huh!
+<pause>
+<audio_1520><Arche>
+ 'Cause dark places like this just
+ kinda gimme the creeps, y'know?
+<pause>
+<audio_1521><Arche>
+ ......<wait>{END}"
+"<audio_1522><Arche>
+「オリビの辺りで日光浴なんてど
+　う？」<wait>{END}"	"<audio_1522><Arche>
+ Hey, I got it!
+ Let's go laze in the
+ sun around Ollie!<wait>{END}"
+"<audio_1523><Cless>
+「オリビ？」
+<pause>
+<audio_1524><Cless>
+「オリビってどこだよ？」
+<pause>
+<audio_1525><Arche>
+「オリーブヴィレッジに決まって
+　るじゃん」
+<pause>
+<audio_1526><Arche>
+「モーリア坑道を出て南に行った
+　所にある船着き場から船が出て
+　るよ」<wait>{END}"	"<audio_1523><Cless>
+ Ollie?
+<pause>
+<audio_1524><Cless>
+ Who's that?
+ A friend of yours?
+<pause>
+<audio_1525><Arche>
+ No no, you silly goose.
+ I mean Olive Village!
+<pause>
+<audio_1526><Arche>
+ We can hitch a ride there from the
+ port just south of this gloomy
+ dump.<wait>{END}"
+"<audio_1527><Klarth>
+「おいおい、私達は遊んでいるわけ
+　ではないんだぞ」
+<pause>
+<audio_1528><Arche>
+「でも、ここで行き詰っててもしょ
+　うがないじゃん」<wait>{END}"	"<audio_1527><Klarth>
+ Hey, are you out of your mind!?
+ We don't have time for that!
+<pause>
+<audio_1528><Arche>
+ But we have time to loaf around
+ here? Can't you see we've hit a
+ dead end?<wait>{END}"
+"<audio_1529><Klarth>
+「それは、そうだが・・・」
+<pause>
+<audio_152A><Mint>
+「私もモーリア坑道の探索は切り
+　上げた方が良いと思います」
+<pause>
+<audio_152B><Klarth>
+「わかったよ」
+<pause>
+{END}"	"<audio_1529><Klarth>
+ That MIGHT be true, but--
+<pause>
+<audio_152A><Mint>
+ I agree with <Arche>.
+ Putting this search on hold for now
+ would be for the best.
+<pause>
+<audio_152B><Klarth>
+ Fine, you've said your piece.
+<pause>
+{END}"
+"<unk1><audio_152C><Klarth>
+<Cless>、二人はこう言ってるが、どうする？」<wait>{END}"	"<unk1><audio_152C><Klarth>
+ Well, <Cless>, we know
+ how those two feel.
+ What do you think?<wait>{END}"
+"<audio_152D><Klarth>
+「私はもう少しここの探索をした
+　かったが・・・」
+<pause>
+<audio_152E><Klarth>
+「<Cless>の判断に任せるよ」
+<pause>
+<audio_152F><Cless>
+「う〜ん、どうしよう・・・」{END}"	"<audio_152D><Klarth>
+ Unlike them, I'd prefer to continue
+ searching around a little more to
+ make sure we haven't overlooked
+ anything, but...
+<pause>
+<audio_152E><Klarth>
+ You're the one in charge here.
+<pause>
+<audio_152F><Cless>
+ Well, let's see...{END}"
+"<unk1><audio_179B><Mint>
+<Cless>さん、どうしました？」<wait>{END}"	"<unk1><audio_179B><Mint>
+ Oh, did you get an
+ idea, <Cless>?<wait>{END}"
+"<audio_179C><Cless>
+「えっ、いや別に・・・」
+<pause>
+<audio_179D><Arche>
+「あのスイッチを押せる道具がな
+　きゃダメじゃん」<wait>{END}"	"<audio_179C><Cless>
+ Not exactly...
+<pause>
+<audio_179D><Arche>
+ Then why did we come back here?
+ We're stuck 'til we find something
+ to plunk that button with!<wait>{END}"
+"<audio_179E><Klarth>
+「残念だがその通りだな」<wait>{END}"	"<audio_179E><Klarth>
+ As loathe as I am to admit it, she's
+ right.<wait>{END}"
+"<audio_179F><Cless>
+「そっ、そうだね<panic>」<wait>{END}"	"<audio_179F><Cless>
+ Y-Yeah, I know <panic><wait>{END}"
+"<audio_17A0><Cless>
+「空でも飛べなきゃ押せないね」
+<pause>
+{END}"	"<audio_17A0><Cless>
+ If only we had something that
+ could fly through the air.
+<pause>
+{END}"
+"<audio_17A1><Cless>
+「あれ？」
+<pause>
+<audio_17A2><Cless>
+「空？」<wait>{END}"	"<audio_17A1><Cless>
+ Wait.
+<pause>
+<audio_17A2><Cless>
+ Something that can fly...<wait>{END}"
+"<audio_17A3><Cless>
+「飛ぶ？」<wait>{END}"	"<audio_17A3><Cless>
+ ...through the air?<wait>{END}"
+"<audio_17A4><Arche>
+「ゲゲ・・・」
+<pause>
+{END}"	"<audio_17A4><Arche>
+ Um, um...
+<pause>
+{END}"
+"<audio_17A5><Arche>
+「ま、まさか、またあたしが？」
+<pause>
+{END}"	"<audio_17A5><Arche>
+ Y-You're giving me that creepy
+ look again!
+<pause>
+{END}"
+"<audio_17A6><Cless>
+「・・・・・・」
+<pause>
+<audio_17A7><Klarth>
+「なるほど」
+<pause>
+{END}"	"<audio_17A6><Cless>
+ ......
+<pause>
+<audio_17A7><Klarth>
+ Aha, yes indeed.
+<pause>
+{END}"
+"<audio_17A8><Arche>
+「はいはい・・・」
+<pause>
+<audio_17A9><Arche>
+「わかりましたよぉ」
+<pause>
+<audio_17AA><Arche>
+「あたしが押してくればいいんで
+　しょ」
+<pause>
+<audio_17AB><Cless>
+「頼むよ<Arche>」
+<pause>
+<audio_17AC><Arche>
+「じゃあ、行ってくるね<heart>」{END}"	"<audio_17A8><Arche>
+ Okay, fine!
+ You win.
+<pause>
+<audio_17A9><Arche>
+ I just gotta zoom over there and
+ punch it...
+<pause>
+<audio_17AA><Arche>
+ ...and everything'll be all hunky
+ dory, yeah?
+<pause>
+<audio_17AB><Cless>
+ We're counting
+ on you, <Arche>!
+<pause>
+<audio_17AC><Arche>
+ Time for lift-off, then <heart>{END}"
+"<audio_17AD><Arche>
+「ポチッとな」
+<pause>
+<audio_17AE><Arche>
+「・・・・・・」
+<pause>
+<audio_17AF><Arche>
+「あれ〜？」
+<pause>
+<audio_17B0><Arche>
+「これって、ただのボタンじゃな
+　いみたい・・・」{END}"	"<audio_17AD><Arche>
+ A little jab, and...
+<pause>
+<audio_17AE><Arche>
+ ......
+<pause>
+<audio_17AF><Arche>
+ What the?
+ It didn't budge an inch!
+<pause>
+<audio_17B0><Arche>
+ Who made this piece of crap!?{END}"
+"<audio_17B1><Arche>
+「ただいまっと<heart>」
+<pause>
+<audio_17B2><Cless>
+「変なこと頼んで悪かったな」<wait>{END}"	"<audio_17B1><Arche>
+ I'm baaack <heart>
+<pause>
+<audio_17B2><Cless>
+ Sorry for asking you to do
+ something that didn't work.<wait>{END}"
+"<audio_17B3><Arche>
+「貸し一つだからね」
+<pause>
+<audio_17B4><Cless>
+「マーボーカレーをおごるよ」<wait>{END}"	"<audio_17B3><Arche>
+ Oh, you owe me big time, big boy.
+<pause>
+<audio_17B4><Cless>
+ How about I take you out for some
+ Mabo Curry the next time we're in
+ town?<wait>{END}"
+"<audio_17B5><Arche>
+「えぇ〜、あたしあれキラ〜イ」<wait>{END}"	"<audio_17B5><Arche>
+ Ewww! BARRRRF!<wait>{END}"
+"<audio_17B6><Arche>
+「ハチミツパフェがいいなぁ〜」
+<pause>
+<audio_17B7><Klarth>
+「わかったわかった、私がダブル
+　でおごってやるよ」
+<pause>
+{END}"	"<audio_17B6><Arche>
+ Take me out for a honey parfait
+ instead, would you? <heart>
+<pause>
+<audio_17B7><Klarth>
+ Hey, I'll treat you to a double if it'll
+ get you to stop whining.
+<pause>
+{END}"
+"<audio_17B8><Arche>
+「えっ、ほんと<heart>？」
+<pause>
+<audio_17B9><Klarth>
+「ああ、モーリア坑道の探索が終
+　わったらな」<wait>{END}"	"<audio_17B8><Arche>
+ Oh, I'll hold you to that, then <heart>
+<pause>
+<audio_17B9><Klarth>
+ Sheh...
+ Time to pack up and go, I guess.<wait>{END}"
+"<audio_17BA><Arche>
+「よっし、それじゃサクサク行き
+　ましょうか」<wait>{END}"	"<audio_17BA><Arche>
+ Yay, it's settled!
+ Time to go get nice and
+ crispy after all!<wait>{END}"
+"<audio_17BB><Cless>
+「でも、あのスイッチをどうにか
+　しなければなりませんね」
+<pause>
+<audio_17BC><Klarth>
+「そうだな・・・」
+<pause>
+<audio_17BD><Arche>
+「やっぱり、ここはやめてオリビ
+　行こ<heart>」
+<pause>
+<audio_17BE><Klarth>
+「パフェは無しだぞ」
+<pause>
+<audio_17BF><Arche>
+「ぶぅ〜」{END}"	"<audio_17BB><Cless>
+ But we still have to do something
+ about this button!
+<pause>
+<audio_17BC><Klarth>
+ Yes indeed...
+<pause>
+<audio_17BD><Arche>
+ Come on guys, give it up already!
+ Ollie! Ollie! Onto Ollie! <heart>
+<pause>
+<audio_17BE><Klarth>
+ You realize the condition of you
+ getting that parfait is not talking,
+ correct?
+<pause>
+<audio_17BF><Arche>
+ Aww, booooo...{END}"
+"見張り
+「数年前に、ドワーフ族の遺跡が
+　見つかったんだ」
+<pause>
+<Cless>
+「本当ですか？」
+<pause>
+見張り
+「ああ、その入口は地下九階にあ
+　るぞ」
+<pause>
+<Klarth>
+「ドワーフ族の遺跡か・・・」
+<pause>
+{END}"	"Sentry
+ Several years ago, ruins of a
+ dwarven civilization were
+ excavated.
+<pause>
+<Cless>
+ Whoa, really?
+ Where at?
+<pause>
+Sentry
+ Tunnel's on the ninth floor down.
+<pause>
+<Klarth>
+ Ooh, dwarven ruins...
+<pause>
+{END}"
+"<Cless>
+「行ってみましょう」
+<pause>
+<Klarth>
+「ああ、そうだな」{END}"	"<Cless>
+ This could be pretty neat.
+ How about we take a look?
+<pause>
+<Klarth>
+ No objections here!{END}"

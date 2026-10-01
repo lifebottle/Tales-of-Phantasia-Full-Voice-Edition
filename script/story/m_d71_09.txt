@@ -1,0 +1,135 @@
+Cave of Spirits{END}
+
+<color_0002>Turn the dial?<color_0000>{END}
+
+“If thou dost desire to repeal the
+seal, speaketh the keyword.”
+<pause>
+<speed_0000>1. G<nl>
+2. D<nl>
+3. B<nl>
+4. Y{END}
+
+<speed_0000>1. A<nl>
+2. E<nl>
+3. I<nl>
+4. O{END}
+
+<speed_0000>1. M<nl>
+2. F<nl>
+3. E<nl>
+4. L{END}
+
+<speed_0000>1. I<nl>
+2. L<nl>
+3. T<nl>
+4. N{END}
+
+“The door is open...”{END}
+
+“Incorrect!”{END}
+
+“Thou hast provided some meaning,
+but are still incorrect!”{END}
+
+Gnomelette:<nl>
+ Ohhh...<nl>
+ There you are...{END}
+
+<audio_0B7C><Cless>:<nl>
+ What is this place?{END}
+
+<audio_0B7D>Gnome:<nl>
+ Check it, brah, some dudes are
+ homin' in on our turf!{END}
+
+<audio_0B7E>Gnome:<nl>
+ Totally bogus dudes...<nl>
+ We got rocked to the max.
+<pause>
+<audio_0B7F><Klarth>:<nl>
+ Yyyyyeah.
+ Now, can we seal the pact?
+<pause>
+<audio_0B80>Gnome:<nl>
+ Hey, that's some nice
+ schwag you got there.
+ That ruby ring is SICK, brah!{END}
+
+<audio_0B81><Klarth>:<nl>
+ Here and now, I offer my request
+ to the Spirit of Earth.
+<pause>
+<audio_0B82><Klarth>:<nl>
+ By covenant of the ring, may this
+ spirit obey me...
+<pause>
+<audio_0B83><Klarth>:<nl>
+ My name is <Klarth>...{END}
+
+<color_0002><Klarth> can now summon Gnome.<color_0000>{END}
+
+Gnomelette:<nl>
+ I'm lost, dudes! Lost!{END}
+
+Gnomelette:<nl>
+ I'm a total lamer, dudes.
+ I have, like, NO idea where I am.
+<pause>
+Gnomelette:<nl>
+ Help a brah out?
+<pause>
+<color_0002>Bring it with you?<color_0000>{END}
+
+Gnomelette:<nl>
+ Schwuh? That's like, totally
+ not cool, dudes.{END}
+
+Gnomelette:<nl>
+ Righteous, dudes.{END}
+
+Gnomelette:<nl>
+ We're TOTALLY missin' someone,
+ dudes.
+<pause>
+Gnomelette:<nl>
+ Hey, have you scoped a little dude
+ all by his lonesome?<wait>{END}
+
+Gnomelette:<nl>
+ ...Dude, you serious?
+<pause>
+Gnomelette:<nl>
+ You wanna get all aggro with us?
+ Why you bein' such a hater?
+<pause>
+<color_0002>Fight with it?<color_0000>{END}
+
+Gnomelette:<nl>
+ Totally weaksauce, dudes.{END}
+
+Gnomelette:<nl>
+ You dudes are total nutters.
+ You can't do jack to us, man!{END}
+
+Gnomelette:<nl>
+ Schwuh?
+<pause>
+Gnomelette:<nl>
+ Why's the alarm goin' all spazz on
+ us?{END}
+
+<Cless>:<nl>
+ This...
+<pause>
+<Cless>:<nl>
+ This is a spell book!<wait>{END}
+
+<color_0002><Arche> learned <var_C300>.<color_0000>{END}
+
+<Cless>:<nl>
+ But I don't have any use for it...
+<pause>
+<Cless>:<nl>
+ I'll put it back...{END}
+

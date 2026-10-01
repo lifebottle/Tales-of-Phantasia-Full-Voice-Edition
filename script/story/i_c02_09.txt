@@ -1,0 +1,351 @@
+<audio_06DF><Cless>:<nl>
+ Her voice is coming from this hole!
+<pause>
+<audio_06E0>???:<nl>
+ Your hand...
+<pause>
+<audio_06E1><Cless>:<nl>
+ Who<speed_0010>...<speed_FFFF>are you?
+<pause>
+<audio_06E2>???:<nl>
+ Your hand...
+<pause>
+<audio_06E3>???:<nl>
+ ...please, put it through the hole...
+<pause>
+<audio_06E4>???:<nl>
+ I want...to help you...
+<pause>
+<color_0002>Put your hand in the hole?<color_0000>{END}
+
+<audio_06E5><Cless>:<nl>
+ ......
+<pause>
+<audio_06E6><Cless>:<nl>
+ An...earring?
+<pause>
+<audio_06E7>???:<nl>
+ Hold it against the wall...
+<pause>
+<audio_125C>???:<nl>
+ Afterward, I beg you to save the
+ girl held captive in the cell nearby...
+<pause>
+<audio_06E9>???:<nl>
+ Together, I'm sure you will be able
+ to escape this place...
+<pause>
+<audio_06EA><Cless>:<nl>
+ W-Wait a minute!
+<pause>
+<audio_06EB><Cless>:<nl>
+ Who are you...?
+<pause>
+<audio_06EC>???:<nl>
+ <speed_0010>...<speed_FFFF>Please<speed_0020>...
+<pause>
+<speed_FFFF><audio_06ED><Cless>:<nl>
+ ......
+<pause>
+<audio_06EE><Cless>:<nl>
+ I guess all I can do is give what
+ she said a try...{END}
+
+<audio_06EF><Cless>:<nl>
+ I can get out now...
+<pause>
+<audio_06F0><Cless>:<nl>
+ I'd better give that person my
+ thanks...{END}
+
+???:<nl>
+ Put your hand through the hole...
+<pause>
+???:<nl>
+ Please...{END}
+
+<Cless>:<nl>
+ Hmm, it's too small to crawl
+ through...{END}
+
+<color_0002>Forced the cell door open with the
+<num3_C000511E>.<color_0000>{END}
+
+<Cless>:<nl>
+ Can't bend the bars with my bare
+ hands...{END}
+
+<Cless>:<nl>
+ Umm...
+<pause>
+<Cless>:<nl>
+ Looks like a dead end...{END}
+
+<audio_070E><Mint>:<nl>
+ I think this connects to the
+ waterway.
+<pause>
+<audio_070F><Mint>:<nl>
+ Do we have any way of getting
+ past these bars?{END}
+
+<Cless>:<nl>
+ <audio_16FC>YAH!!<wait>{END}
+
+<color_0002>Forced the bars open with the
+<item_C500>.<color_0000>
+<pause>
+<color_0002>The shaft of the axe splintered
+from the impact. The remains have
+been discarded.<wait>{END}
+
+<audio_16FD><Cless>:<nl>
+ Now we can get out of here.
+<pause>
+<audio_16FE><Mint>:<nl>
+ Well done, Mr. Alvein!<wait>{END}
+
+<color_0002><Cless> rearmed himself
+with the <item_A100>.<wait>{END}
+
+<Cless>:<nl>
+ An ordinary sword is too light to
+ break the bars.
+<pause>
+<Cless>:<nl>
+ Maybe there's something heavier I
+ can use to smash them with...{END}
+
+<Cless>:<nl>
+ We should be able to get out
+ through the underground
+ waterway from here...{END}
+
+<Cless>:<nl>
+ I'll be spotted if I go any further...{END}
+
+<Cless>:<nl>
+ (It's best she doesn't see that
+ horrifying sight.){END}
+
+<Cless>:<nl>
+ (She doesn't know that her
+ mother's been stabbed to death.)
+<pause>
+<Cless>:<nl>
+ (If she finds out now, her heart
+ will be crushed...){END}
+
+<audio_06F1><Cless>:<nl>
+ Oh my god...
+<pause>
+<audio_06F2><Cless>:<nl>
+ Then what was that warm hand I
+ felt...?{END}
+
+<audio_06F3><Cless>:<nl>
+ Are you all right?
+<pause>
+<audio_06F4><Cless>:<nl>
+ Have you been hurt?
+<pause>
+<audio_06F5>???:<nl>
+ ...!
+<pause>
+<audio_06F6><Cless>:<nl>
+ Don't be afraid.
+ I have come to help you.
+<pause>
+<audio_06F7><Cless>:<nl>
+ My name is <Cless> Alvein.
+ What's yours?<wait>{END}
+
+<audio_06F8>???:<nl>
+ I am <Mint>...
+<pause>
+<audio_06F9>???:<nl>
+ ...<Mint> Adnade.
+<pause>
+<audio_06FA><Mint>:<nl>
+ Um...
+<pause>
+<audio_06FB><Mint>:<nl>
+ Thank you very much for saving
+ me, Mr. Alvein.
+<pause>
+<audio_06FC><Cless>:<nl>
+ Well, they captured me too.
+ I broke out of my cell just
+ a few moments ago.
+<pause>
+<audio_06FD><Cless>:<nl>
+ We should escape from this place
+ together.
+<pause>
+<audio_06FE><Mint>:<nl>
+ Um--
+<pause>
+<audio_06FF><Cless>:<nl>
+ We can't stay here any longer.
+ They're going to find us.
+<pause>
+<audio_0700><Mint>:<nl>
+ Um<speed_0010>...<speed_FFFF>please wait.
+<pause>
+<audio_0701><Mint>:<nl>
+ I beg you...<nl>
+ We must save my mother
+ before we go!
+<pause>
+<audio_0702><Mint>:<nl>
+ She should be in one of the cells on
+ the other side.<wait>{END}
+
+<audio_0703><Cless>:<nl>
+ Huh?{END}
+
+<audio_0704><Cless>:<nl>
+ ......
+<pause>
+<audio_0705><Cless>:<nl>
+ That's where I was locked up, but I
+ didn't see anyone else on my way
+ out.
+<pause>
+<audio_0706><Cless>:<nl>
+ We've got no more time!
+ Come on, hurry!!!
+<pause>
+<audio_0707><Mint>:<nl>
+ B-But...
+<pause>
+<audio_0708><Mint>:<nl>
+ I'm sure I heard my mother's
+ voice!
+<pause>
+<audio_0709><Mint>:<nl>
+ She told me to be strong<speed_0010>...<speed_FFFF>
+<pause>
+<audio_070A><Mint>:<nl>
+ I-I'm certain it was Mother<speed_0010>...<speed_FFFF>{END}
+
+<audio_070B><Cless>:<nl>
+ Forgive me, <Mint>, but we
+ can't dawdle anymore.
+ We'll be caught if we debate
+ this any longer...
+<pause>
+<audio_070C><Mint>:<nl>
+ ......<wait>{END}
+
+<audio_070D><Mint>:<nl>
+ I understand...{END}
+
+<Cless>:<nl>
+ <audio_16F9>She was run through with this
+ sword...
+<pause>
+<Cless>:<nl>
+ <audio_16FA>How awful...
+<pause>
+<color_0002>You can pull out the sword.
+Pull it?<color_0000>{END}
+
+<Cless>:<nl>
+ <audio_16FB>I'm so sorry...<nl>
+ Please rest in peace.<wait>{END}
+
+<color_0002>Acquired a <item_A100>.<color_0000>{END}
+
+<Cless>:<nl>
+ I-I just can't...{END}
+
+<audio_06D7>Guard:<nl>
+ Get in there!{END}
+
+<audio_06D8>Guard:<nl>
+ Move it!!{END}
+
+<audio_06D9>Guard:<nl>
+ If you don't want me to slit your
+ miserable little throat, then you'll
+ do as we say!{END}
+
+<audio_06DA><Cless>:<nl>
+ Dammit!{END}
+
+<audio_06CB>Soldier:<nl>
+ Sir! We have returned with
+ the son of Miguel Alvein,
+ as ordered!{END}
+
+<audio_06CC>???:<nl>
+ Splendid.{END}
+
+<audio_06CD>???:<nl>
+ Hmph, so it was in the hands of a
+ little brat like this...
+<pause>
+<audio_06CE><Cless>:<nl>
+ You're the one who attacked the
+ village, aren't you!?
+<pause>
+<audio_06CF>???:<nl>
+ So what if I was?
+ What could you hope to
+ do about it, Pipsqueak?
+<pause>
+<audio_06D0><Cless>:<nl>
+ Ugh!{END}
+
+<audio_06D1><Cless>:<nl>
+ G-Give that back!!!
+<pause>
+<audio_06D2>???:<nl>
+ Ha!
+ This pendant is mine now...
+<pause>
+<audio_06D3>???:<nl>
+ You!
+ Disarm this runt and throw
+ him in the dungeon.{END}
+
+<audio_06D4>???:<nl>
+ Hmhm...
+<pause>
+<audio_06D5>???:<nl>
+ Only one thing left, and finally...{END}
+
+<audio_06D6><Cless>:<nl>
+ (Wh-What's with his reflection!?){END}
+
+???:<nl>
+ <audio_06DB><speed_0020>Can you...<speed_FFFF>hear my<speed_0020>...<speed_FFFF>voice?{END}
+
+<audio_06DC><Cless>:<nl>
+ Huh?
+<pause>
+<audio_06DD><Cless>:<nl>
+ Did I just hear...
+<pause>
+<audio_06DE><Cless>:<nl>
+ ...a woman's voice?{END}
+
+<Cless>:<nl>
+ How horrible...{END}
+
+<Cless>:<nl>
+ These are the robes of a cleric!
+<pause>
+<Cless>:<nl>
+ Who could do such a thing!?{END}
+
+<unk1><Cless>:<nl>
+ Uhh...<nl>
+ On second thought, I'm probably
+ going to need this...
+<pause>
+<color_0002>Picked the <num3_C000511E> back up.{END}
+
+<color_0002>Acquired a <item_C500>.{END}
+

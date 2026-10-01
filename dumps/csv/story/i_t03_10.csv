@@ -1,0 +1,1611 @@
+Japanese	English
+常闇の町　アーリィ{END}	Early, The Twilit Town{END}
+宿屋『ナイトドリーム』{END}	Inn “Night Dream”{END}
+武具屋『午前三時』{END}	Equipment Shop “3:00 A.M.”{END}
+道具屋『うしみつどき』{END}	Item Shop “Midnight”{END}
+喫茶『寝坊』{END}	Tea House “Noonwalker”{END}
+"<audio_11DE>宿主
+「いらっしゃい、お泊まりでしょ
+　うか？」
+<pause>
+<audio_11DF>宿主
+「一晩<num1_00000078>ガルドになります」{END}"	"<audio_11DE>Innkeeper
+ Welcome to the Night Dream Inn.
+ Will you be staying with us tonight?
+<pause>
+<audio_11DF>Innkeeper
+ One night is <num1_00000078> gald.{END}"
+"<audio_11E0>宿主
+「チェックアウトは明朝の九時に
+　なります」
+<pause>
+<audio_11E1>宿主
+「ごゆっくり」{END}"	"<audio_11E0>Innkeeper
+ Checkout is at 9:00 A.M. tomorrow
+ morning.
+<pause>
+<audio_11E1>Innkeeper
+ Good night.{END}"
+"宿主
+「すみませんが、お金が足りませ
+　んね」{END}"	"Innkeeper
+ I'm sorry, but you don't have
+ enough money.{END}"
+"宿主
+「また来て下さい、旅の方」{END}"	"Innkeeper
+ Come again, traveler.{END}"
+"店主
+「いらっしゃい」{END}"	"Shopkeeper
+ Welcome to 3:00 A.M.{END}"
+"店主
+「どうも」{END}"	"Shopkeeper
+ Thanks.{END}"
+"店主
+「いらっしゃい、薬も扱っていま
+　す」{END}"	"Shopkeeper
+ Hello.
+ I sell medicines as well.{END}"
+"店主
+「ありがとうございます」{END}"	"Shopkeeper
+ Thank you.{END}"
+"店主
+「喫茶『寝坊』へようこそ」
+<pause>
+店主
+「食料も扱ってるよ」{END}"	"Shopkeeper
+ Welcome to the “Noonwalker” tea
+ house.
+<pause>
+Shopkeeper
+ It don't matter if it's day or
+ night--we serve great tea, coffee,
+ and meals!{END}"
+"店主
+「ありがとう、また来て下さい」{END}"	"Shopkeeper
+ Thanks.
+ Please come again.{END}"
+"料理人
+「ハヤシライス作ってるかい？」{END}"	"Chef
+ Have you made Hayashi Rice yet?{END}"
+"料理人
+「私は『すばらしき味の世界』の
+　住人」
+<pause>
+料理人
+「この味を、より多くの人に伝え
+　たい！」
+<pause>
+料理人
+「君も、私の世界に触れてみない
+　か？」{END}"	"Chef
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef
+ Come, don't you wish to taste the
+ flavors of my world?{END}"
+"料理人
+「この料理を伝授しよう！」<wait>{END}"	"Chef
+ I'll teach you this dish!<wait>{END}"
+"<color_0002>ハヤシライスを料理できるようにな
+りました。<color_0000>{END}"	<color_0002>Learned the recipe for Hayashi Rice.<color_0000>{END}
+"料理人
+「おお、なんということだ！」{END}"	"Chef
+ What!?
+ How can you reject this taste!?{END}"
+"メイド
+「あなたもコーヒーいかが？」
+<pause>
+メイド
+「暖まるわよ」{END}"	"Maid
+ Would you like some coffee?
+<pause>
+Maid
+ It'll warm you right up!{END}"
+"調査員
+「私達はアルヴァニスタの調査隊
+　です」
+<pause>
+調査員
+「この闇の原因を究明するために
+　派遣されました」{END}"	"Investigator
+ I'm part of an investigation team
+ dispatched from Alvanista.
+<pause>
+Investigator
+ We hope to find out something
+ about this gloomy sky.{END}"
+"町の人
+「この闇は数年前に現れました」
+<pause>
+町の人
+「ダオスが現れたのと同じ時期な
+　ので、やはり、奴の仕業なのか
+　もしれません」{END}"	"Citizen
+ The sky's been like this
+ for several years now.
+ Not a moment of sunshine since.
+<pause>
+Citizen
+ Maybe it's just a coincidence, but I
+ remember Dhaos showing up
+ around the same time it all started.{END}"
+"町の人
+「この町はもともと鉱山夫の休憩
+　所だったんだ」
+<pause>
+町の人
+「人口も結構いたんだけど、闇に
+　覆われてからはすっかりさびれ
+　てしまったよ」{END}"	"Citizen
+ This town used to be a stopover
+ for miners, and had a bustling
+ population.
+<pause>
+Citizen
+ When everyone realized the sky
+ went dark for good, many became
+ depressed and left.{END}"
+"剣士
+「ここから北西の洞穴はもともと
+　鉱山の穴だったんだ」
+<pause>
+剣士
+「でも、ダオスが現れた時に山が
+　一つ破壊されてね」
+<pause>
+剣士
+「鉱山も無くなってしまった」{END}"	"Swordsman
+ The cave to the northwest used to
+ be part of a much larger mine.
+<pause>
+Swordsman
+ But when Dhaos appeared, he blew
+ up the whole confounded mountain,
+ mine and all.{END}"
+"調査員
+「いや〜、暖まるねぇ」
+<pause>
+調査員
+「ここの店のコーヒーはまた格別
+　うまい！」<wait>{END}"	"Investigator
+ Mmm...
+ So warm...
+<pause>
+Investigator
+ Nothing like a swig of this shop's
+ amazing coffee after a hard day
+ of slaving in this brutal cold!<wait>{END}"
+"調査員
+「こんなに暗くちゃ仕事がはかど
+　らないよ・・・」{END}"	"Investigator
+ The cold isn't the real problem,
+ though. The darkness makes it
+ almost impossible to get anything
+ done...{END}"
+"調査員
+「あれ？」
+<pause>
+{END}"	"Investigator
+ Oh, excuse me, sir...
+<pause>
+{END}"
+"<unk1>調査員
+もしや、君は<Cless>君じゃないかな？」<wait>{END}"	"<unk1>Investigator
+ You're <Cless> Alvein, correct?<wait>{END}"
+"調査員
+「アルヴァニスタ王国から連絡を
+　受けているよ」
+<pause>
+調査員
+「ダオスの居場所を探していると
+　か」
+<pause>
+<Cless>
+「ええ、何か手がかりはありませ
+　んか？」
+<pause>
+調査員
+「いや〜、我々調査隊もここの闇
+　地帯が怪しいと思っているのだ
+　が・・・」
+<pause>
+調査員
+「何も手がかりが出てこないんだ
+　よ」
+<pause>
+<Cless>
+「そうですか・・・」
+<pause>
+調査員
+「すまんね」
+<pause>
+調査員
+「そうそう、俺が倒した魔物から
+　この紋章を手に入れたんだが、
+　何かの役に立つかなぁ？」
+<pause>
+調査員
+「まあ持っていってくれ」
+<pause>
+<Cless>
+「あ、ありがとうございます」<wait>{END}"	"Investigator
+ I'm from the investigation team.
+ The King of Alvanista sent me an order to
+ keep an eye out for you.
+<pause>
+Investigator
+ It's my understanding that you're
+ currently seeking Dhaos'
+ whereabouts.
+<pause>
+<Cless>
+ Yes.
+ Have you picked up on any leads?
+<pause>
+Investigator
+ 'Fraid not. The sky conditions here
+ are naturally suspect, and while
+ our team's been scrambling to find
+ evidence linking them to Dhaos...
+<pause>
+Investigator
+ ...the investigation itself has been
+ nothing more than a wild goose
+ chase.
+<pause>
+<Cless>
+ All that work for nothing...
+<pause>
+Investigator
+ Yeah.
+ Wish I had better news to deliver.
+<pause>
+Investigator
+ Oh, wait!
+ A monster I defeated left an
+ emblem behind. Whatever it's
+ good for, I don't know.
+<pause>
+Investigator
+ Here, you can have it.
+ Perhaps you'll find a purpose for it.
+<pause>
+<Cless>
+ Th-Thank you.<wait>{END}"
+<color_0002><item_7401>を手に入れました。<color_0000>{END}	<color_0002>Acquired <item_7401>.<color_0000>{END}
+"町の人
+「う〜、さぶ〜、温泉にでも入り
+　たいな〜」
+<pause>
+町の人
+「忍者の里には冷え性に効く温泉
+　があるんだとよ」
+<pause>
+町の人
+「金欠病と恋の病に効く温泉って
+　ないのかなぁ」{END}"	"Citizen
+ Brrrr!!!
+ This icy weather is giving me goose
+ bumps! I just wanna go for a dip
+ in a hot spring...
+<pause>
+Citizen
+ Supposedly, the Ninja Village has
+ one to help with poor circulation.
+<pause>
+Citizen
+ Say, it'd be pretty cool if there
+ were also ones that could help with
+ poverty, love sickness, and all the
+ world's other problems.{END}"
+"町の人
+「う〜、さぶ〜、温泉にでも入り
+　たいな〜」
+<pause>
+町の人
+「忍者の里には冷え性に効く温泉
+　があるんだとよ」
+<pause>
+町の人
+「一度入りたいねぇ〜」
+<pause>
+<Cless>
+「忍者の里って・・・」
+<pause>
+町の人
+「たしか、トレントの森の奥にあ
+　るっていう話だけど」{END}"	"Citizen
+ Brrrr!!!
+ This icy weather is giving me goose
+ bumps! I just wanna go for a dip
+ in a hot spring...
+<pause>
+Citizen
+ Supposedly, the Ninja Village has
+ one to help with poor circulation.
+<pause>
+Citizen
+ It's my dream to get a chance to
+ take a dip and relax in it.
+<pause>
+<Cless>
+ Excuse me, but what's this about a
+ Ninja Village...?
+<pause>
+Citizen
+ The rumors say it's a place hidden
+ away in Treant Forest...{END}"
+"見張り
+「寒いなぁ〜、こんな時に見張り
+　なんてついてないぜ」
+<pause>
+見張り
+「気温がマイナス２０度を越える
+　とスターダストっていう虫がど
+　こからか飛んでくるそうだ」
+<pause>
+見張り
+「冬なのにだよ？」
+<pause>
+見張り
+「不思議だよな」{END}"	"Sentry
+ I'm freezing my helm off!
+ Sometimes I regret taking this
+ job...
+<pause>
+Sentry
+ But there's something interesting
+ about all this...
+<pause>
+Sentry
+ There's a local legend about a bug
+ known as Stardust that starts
+ flying around when the temp-
+ erature dips a bit below zero.
+<pause>
+Sentry
+ A bug that shows itself
+ only in the most frigid
+ days of Winter, huh?
+ That's really something else.{END}"
+"見張り
+「ここら辺は魔物が多くてね」{END}"	"Sentry
+ There sure are lot of monsters
+ around here.{END}"
+"女剣士
+「ちっ、もう修行なんてやってら
+　んないわよ！！」{END}"	"Swordswoman
+ Tsk, this training is just too much
+ for me!!{END}"
+"女剣士
+「あなた、剣士？」
+<pause>
+女剣士
+「この奥義書買わない？」
+<pause>
+<Cless>
+「え、奥義書！？」
+<pause>
+女剣士
+「修行の旅に出てみたんだけど、
+　もう嫌になっちゃったのよ」
+<pause>
+女剣士
+「だから田舎に帰るの」
+<pause>
+女剣士
+「どう？」
+<pause>
+女剣士
+「５００００ガルドでいいわ」
+<pause>
+<color_0002>買いますか？<color_0000>{END}"	"Swordswoman
+ Excuse me, sir.
+ You look like a swordsman.
+<pause>
+Swordswoman
+ Are you interested in arcane arte
+ books?
+<pause>
+<Cless>
+ Did you say arcane arte books!?
+<pause>
+Swordswoman
+ I cast everything in my life aside
+ and journeyed to this forsaken
+ land to train myself, only to find
+ I'm just not cut out for this.
+<pause>
+Swordswoman
+ I figured I'd try to sell this one so
+ I can afford the return trip and
+ living expenses while I try to find
+ employment.
+<pause>
+Swordswoman
+ I think 50000 gald should be
+ enough.
+<pause>
+Swordswoman
+ Will you help me out?
+<pause>
+<color_0002>Buy it?<color_0000>{END}"
+"女剣士
+「ちぇ、これが売れないと帰れな
+　いのよ・・・」{END}"	"Swordswoman
+ Tsk, if I don't sell this, I'm going to
+ be stranded here...{END}"
+"女剣士
+「お金が足りないよ」{END}"	"Swordswoman
+ I'm sorry, but I won't be able to
+ get by with this much.{END}"
+"<color_0002><Cless>は<var_A200>を覚えました。<color_0000>
+<pause>
+女剣士
+「ありがとう、これで田舎に帰れ
+　るよ」{END}"	"<color_0002><Cless> learned
+<var_A200>.<color_0000>
+<pause>
+Swordswoman
+ Thank you SO much! I really
+ appreciate this! If I had anything
+ else of worth, I'd give it to you.
+ Now, I must prepare my return.{END}"
+"女の子
+「雪の精霊の使いスターダストは
+　ね・・・」
+<pause>
+女の子
+「たった一日しか生きていられな
+　いの・・・」
+<pause>
+女の子
+「はかなさと美しさを兼ね備えた
+　最高の生き物よね」
+<pause>
+女の子
+「精霊っていっても、本当の精霊
+　じゃないわよ」
+<pause>
+女の子
+「ものすごい寒い日の朝、空中に
+　キラキラした星みたいなのが漂
+　うのよ」
+<pause>
+女の子
+「それがスターダストって呼ばれ
+　てるの」{END}"	"Girl
+ Stardust, envoy of the Spirit of
+ Snow...
+<pause>
+Girl
+ ...is a sublime creature that is both
+ beautiful and ephemeral, living only
+ for a single day.
+<pause>
+Girl
+ Some think of it as a spirit as well,
+ but it really isn't.
+<pause>
+Girl
+ On the coldest of mornings, you'll
+ catch a phenomenal sight of
+ something floating in the sky that
+ glitters like the stars.
+<pause>
+Girl
+ That's something is Stardust.{END}"
+"町の人
+「あの<var_D800>は伝説の精霊なん
+　かじゃない」
+<pause>
+町の人
+「伝説を伝説と納得したらおしま
+　いだよ」
+<pause>
+町の人
+「やっぱり夢、ユメ、ＤＲＥＡＭ
+　だよ」
+<pause>
+町の人
+「夢を持たなきゃ！」{END}"	"Citizen
+ I refuse to believe the spirit, Origin,
+ is a mere legend.
+<pause>
+Citizen
+ If a man just accepts that
+ something is a legend, then
+ that's it!
+ There's no LIFE to a legend!
+<pause>
+Citizen
+ You can stuff your legends!
+ What we need are DREAMS!
+ D-R-E-A-M-S!
+<pause>
+Citizen
+ A man's gotta have dreams or he'd
+ be DEAD!{END}"
+"店員
+「いらっしゃい」
+<pause>
+店員
+「闇の精霊をこの大陸で見たって
+　いう人がいたわ」
+<pause>
+店員
+「ホントかしら？」{END}"	"Assistant
+ Good day.
+<pause>
+Assistant
+ A traveler told me he saw the
+ Spirit of Darkness somewhere on
+ this island.
+<pause>
+Assistant
+ Is it true?
+ Or was he just trying to impress
+ me...?{END}"
+"頑固職人
+「若いの、元気か？」{END}"	"Stubborn Craftsman
+ How are you, young'un?{END}"
+"頑固職人
+「おい、若いの」
+<pause>
+頑固職人
+「俺の質問に答えていかねぇか？」{END}"	"Stubborn Craftsman
+ Hey, young'un.
+<pause>
+Stubborn Craftsman
+ Answer my questions, would 'ya?{END}"
+"頑固職人
+「あばよ」{END}"	"Stubborn Craftsman
+ See 'ya.{END}"
+"頑固職人
+「おめぇは、防具に必要なものは
+　何だと思う？」
+<pause>
+<color_0002>１。安さ
+２。品質
+３。華やかさ
+４。寒くないかどうか<color_0000>{END}"	"Stubborn Craftsman
+ What do you believe is the most
+ important aspect of armor?
+<pause>
+<color_0002>1. Price.
+2. Quality.
+3. Appearance.
+4. WARMTH!!<color_0000>{END}"
+"頑固職人
+「自分が作ったモノに、満足がい
+　かなかったらどうする？」
+<pause>
+<color_0002>１。それでも売る
+２。値下げして売る
+３。たたきこわす
+４。次はもっと努力する<color_0000>{END}"	"Stubborn Craftsman
+ If you weren't satisfied with
+ something you created, what would
+ you do?
+<pause>
+<color_0002>1. Sell it like normal.
+2. Sell it at a discount.
+3. Scrap it.
+4. Vow to try harder next time.<color_0000>{END}"
+"頑固職人
+「お前にとって、武器とは何だ？」
+<pause>
+<color_0002>１。相手を倒すもの
+２。自分を守るもの
+３。力を示すもの
+４。できれば使いたくないもの<color_0000>{END}"	"Stubborn Craftsman
+ What do you have a weapon for?
+<pause>
+<color_0002>1. To defeat my opponents.
+2. To protect myself.
+3. To show off my power.
+4. To snazz up my walls.<color_0000>{END}"
+"頑固職人
+「若いの、俺と気が合うな」
+<pause>
+頑固職人
+「持ってけ」<wait>{END}"	"Stubborn Craftsman
+ You know, young'un, I think we can
+ really relate to each other.
+<pause>
+Stubborn Craftsman
+ Take this.<wait>{END}"
+<color_0002><item_8501>を手に入れました。<color_0000>{END}	<color_0002>Acquired a <item_8501>.<color_0000>{END}
+"頑固職人
+「・・・そうかい」{END}"	"Stubborn Craftsman
+ Hmph...
+ I see.{END}"
+"娘さん
+「うちの父さん、武器職人なんだ
+　けど、本当は武器が好きじゃな
+　いみたい」
+<pause>
+娘さん
+「飾り物を作りたいらしいのよね」{END}"	"Young Lady
+ My father makes lots of fancy
+ weapons, but he loathes violence.
+<pause>
+Young Lady
+ He seems to prefer thinking of his
+ creations as art more than
+ anything else.{END}"
+"<unk1><audio_1286>？？？
+<Cless>殿、<Cless>殿はおられますかー！？」{END}"	"<unk1><audio_1286>???
+ Sir <Cless>?
+ Sir <Cless>, are you here!?{END}"
+"<audio_1287><Cless>
+「あなたは？」
+<pause>
+<audio_1288>隊員
+「私はアルヴァニスタ調査隊情報
+　部の者です」
+<pause>
+<audio_1289>隊員
+「実は鉱山跡で巨大な城を見たと
+　いう人がいたのです」
+<pause>
+<audio_128A><Cless>
+「巨大な城？」
+<pause>
+<audio_128B>隊員
+「はい、鉱山跡は途中で山の中腹
+　に出るのですが、そこから巨大
+　な城が見えたと・・・」
+<pause>
+<audio_128C><Klarth>
+「なるほど、怪しいな」
+<pause>
+<audio_128D><Cless>
+「よし、行ってみよう」
+<pause>
+<audio_128E>隊員
+「鉱山跡はこの町から<color_0002>北西の方角<color_0000>
+　にあります」
+<pause>
+<audio_128F>隊員
+「では、私はこれで失礼します」{END}"	"<audio_1287><Cless>
+ Who are you?
+<pause>
+<audio_1288>Team Member
+ I'm one of the investigators from
+ Alvanista.
+<pause>
+<audio_1289>Team Member
+ We can't confirm this, but we've
+ received word of someone sighting
+ a giant castle from the ruins of the
+ old northwestern mine.
+<pause>
+<audio_128A><Cless>
+ Really?
+<pause>
+<audio_128B>Team Member
+ The claimant said he got about
+ halfway up the mountain, and
+ there it was in plain view: a huge
+ castle.
+<pause>
+<audio_128C><Klarth>
+ I'll be damned if that's not
+ suspicious.
+<pause>
+<audio_128D><Cless>
+ I agree.
+ We need to see this for ourselves.
+<pause>
+<audio_128E>Team Member
+ Remember, it's <color_0002>northwest<color_0000> of this
+ town.
+<pause>
+<audio_128F>Team Member
+ Good luck.
+ I must return to the rest of the
+ team.{END}"
+"<audio_11E2><Klarth>
+「うう、寒い寒い・・・」
+<pause>
+<audio_11E3><Klarth>
+「ストーブ、ストーブ・・・」{END}"	"<audio_11E2><Klarth>
+ Brrrr...
+<pause>
+<audio_11E3><Klarth>
+ Hearth, hearth...come to <Klarth>...{END}"
+"<audio_11E4><Cless>
+「どうしたの、<Mint>？」{END}"	"<audio_11E4><Cless>
+ You okay, <Mint>?{END}"
+"<audio_11E5><Mint>
+「<Cless>さん・・・」
+<pause>
+<audio_11E6><Cless>
+「えっ、なに？」
+<pause>
+{END}"	"<audio_11E5><Mint>
+ <Cless>...
+<pause>
+<audio_11E6><Cless>
+ Huh?
+ What's up?
+<pause>
+{END}"
+"<unk1><audio_11E7><Mint>
+<Cless>さん、あの、実は・・・お話ししたいことが・・・あります」<wait>{END}"	"<unk1><audio_11E7><Mint>
+ Um, actually...there's something...I
+ wanted to talk to you about.<wait>{END}"
+"<audio_11E8><Mint>
+「宿屋の裏で待っています・・・」
+<pause>
+<audio_11E9><Mint>
+「あとで・・・来ていただけます
+　か？」
+<pause>
+<audio_11EA><Cless>
+「え、あ、はぁ・・・」{END}"	"<audio_11E8><Mint>
+ Not right here, but at the side of
+ the inn...
+<pause>
+<audio_11E9><Mint>
+ Would you...come out there later?
+ I'll wait.
+<pause>
+<audio_11EA><Cless>
+ Um, er, sure thing...{END}"
+"<unk1><audio_11EB><Arche>
+あれ、<Mint>はどうしたの？」<wait>{END}"	"<unk1><audio_11EB><Arche>
+ Huh?
+ Where'd <Mint> go?<wait>{END}"
+"<audio_11EC><Cless>
+「えっ・・・」
+<pause>
+<audio_11ED><Cless>
+「散歩かな<panic>」
+<pause>
+<audio_11EE><Arche>
+「散歩？？」
+<pause>
+<audio_11EF><Cless>
+「そっ、そう！」
+<pause>
+<audio_11F0><Cless>
+「散歩だってさ<panic>」
+<pause>
+<audio_11F1><Arche>
+「よりによって、何で散歩しなきゃ
+　なんないの？」
+<pause>
+<audio_11F2><Chester>
+「人の勝手だろう」
+<pause>
+<audio_11F3><Arche>
+「ふつーはお風呂なんじゃない？」
+<pause>
+<audio_11F4><Arche>
+「こ〜んな寒いのよ」
+<pause>
+<audio_11F5><Arche>
+「それなのに、なぁ〜んで散歩な
+　のさ？」
+<pause>
+<audio_11F6><Chester>
+「それじゃお前はそうしたら
+　いいじゃねぇか？」
+<pause>
+<audio_11F7><Arche>
+「だってぇ・・・一人じゃつまん
+　ないじゃん」
+<pause>
+<audio_11F8><Chester>
+「・・・・・・」
+<pause>
+<audio_11F9><Klarth>
+「とにかく、今は暖まろう・・・」
+<pause>
+<audio_11FA><Klarth>
+「何もこんな寒い場所で・・・」
+<pause>
+<audio_11FB><Klarth>
+「うう、ますます冷えてきた」{END}"	"<audio_11EC><Cless>
+ Um...
+<pause>
+<audio_11ED><Cless>
+ I think she said she was going for
+ a walk or something <panic>
+<pause>
+<audio_11EE><Arche>
+ A *walk*?
+<pause>
+<audio_11EF><Cless>
+ Th-That's right!
+<pause>
+<audio_11F0><Cless>
+ Sh-She went for a little walk <panic>
+<pause>
+<audio_11F1><Arche>
+ Seriously, why would she want to
+ do that in this kinda weather!?
+<pause>
+<audio_11F2><Chester>
+ Maybe she just felt like it.
+<pause>
+<audio_11F3><Arche>
+ What about a nice bath instead?
+<pause>
+<audio_11F4><Arche>
+ I mean, really!
+<pause>
+<audio_11F5><Arche>
+ It would make way more sense if
+ she wanted to do something warm!
+<pause>
+<audio_11F6><Chester>
+ What do you care?
+ If she wants to go for a walk, it's
+ not going to hurt anything.
+<pause>
+<audio_11F7><Arche>
+ I'm just sayin'...
+ Anyway, it's no fun to take a walk
+ by yourself.
+<pause>
+<audio_11F8><Chester>
+ ......
+<pause>
+<audio_11F9><Klarth>
+ Instead of worrying about
+ <Mint>, let's get cozy, all
+ right...?
+<pause>
+<audio_11FA><Klarth>
+ This place is mind-bogglingly cold...
+ Brrrr!
+<pause>
+<audio_11FB><Klarth>
+ I swear my hat's gonna freeze to
+ my head at this rate.{END}"
+"<audio_11FC><Klarth>
+「どうした<Cless>？」<wait>{END}"	"<audio_11FC><Klarth>
+ Something on your mind, <Cless>?<wait>{END}"
+"<audio_11FD><Cless>
+「えっ、いや、その・・・」
+<pause>
+<audio_11FE><Cless>
+「ちょ、ちょっと散歩に行ってく
+　る・・・」{END}"	"<audio_11FD><Cless>
+ Uh, well, don't mind me...
+<pause>
+<audio_11FE><Cless>
+ I-I feel like taking a little walk,
+ myself...{END}"
+"<audio_11FF><Arche>
+「じゃ、あたしも！！」<wait>{END}"	"<audio_11FF><Arche>
+ Ooh!!!
+ Then I'm going with!!<wait>{END}"
+"<audio_1200><Cless>
+「ひ、一人で行きたいんだ」{END}"	"<audio_1200><Cless>
+ Actually, umm... I-I want to go
+ alone...yeah...bye!{END}"
+"<audio_1201><Arche>
+「へ〜んなのぉ〜」
+<pause>
+{END}"	"<audio_1201><Arche>
+ WEIRDO!
+<pause>
+{END}"
+"<unk1><audio_1202><Klarth>
+こんな寒い時に
+<Cless>まで・・・」
+<pause>
+{END}"	"<unk1><audio_1202><Klarth>
+ It's quite miserable to be cold all
+ by oneself...
+<pause>
+{END}"
+"<audio_1203><Klarth>
+「若いというのは良いことだな」<wait>{END}"	"<audio_1203><Klarth>
+ It must be nice to be young...<wait>{END}"
+"<audio_1204><Arche>
+「オヤジくさいこと言わないでよ
+　ねぇ」
+<pause>
+<audio_1205><Klarth>
+「そうか？」
+<pause>
+<audio_1206><Arche>
+「まだ、二十代なんでしょ」
+<pause>
+<audio_1207><Klarth>
+「まあ、一応はな・・・」{END}"	"<audio_1204><Arche>
+ Stop grumbling like an old fart.
+ You're not that old.
+<pause>
+<audio_1205><Klarth>
+ Says the girl who calls me “old
+ man.”
+<pause>
+<audio_1206><Arche>
+ You're not even thirty yet, are
+ you?
+<pause>
+<audio_1207><Klarth>
+ Well, no, but I'm wise beyond my
+ years...{END}"
+"<audio_1208><Klarth>
+「さて、時間もあるし、何をしよ
+　うか・・・」{END}"	"<audio_1208><Klarth>
+ Hmm...
+ Still some time to kill...{END}"
+"<audio_1209><Arche>
+「どうしたの？」
+<pause>
+<audio_120A><Klarth>
+「何、ちょっとしたイタズラを思
+　いついたのさ」{END}"	"<audio_1209><Arche>
+ What's with that goofy look on
+ your face?
+<pause>
+<audio_120A><Klarth>
+ Oh, nothing.
+ Just came up with a little mischief
+ to entertain myself...{END}"
+"<audio_120B><Klarth>
+「<var_D800>よ、あなたは時間を越
+　えた世界を見せる力を持ってい
+　るのではなかったか？」
+<pause>
+<audio_120C><var_D800>
+「・・・確かにそうしたことも可
+　能だ」
+<pause>
+<audio_120D><var_D800>
+「だが、未来を見ることは許され
+　ぬ」
+<pause>
+<audio_120E><Klarth>
+「私が見たいのは過去の世界なん
+　だが・・・」
+<pause>
+<audio_120F><Klarth>
+「どうしても、気がかりなことが
+　あってな・・・」
+<pause>
+<audio_1210><var_D800>
+「・・・・・・」
+<pause>
+<audio_1211><var_D800>
+「・・・この私の、初めての主の
+　願いだ」
+<pause>
+<audio_1212><var_D800>
+「一度だけならば許そう」
+<pause>
+<audio_1213><Klarth>
+「一度だけか・・・」
+<pause>
+<audio_1214><Klarth>
+「ああ、それで構わない」{END}"	"<audio_120B><Klarth>
+ Origin, amongst your powers is the
+ ability to scry across time, correct?
+<pause>
+<audio_120C>Origin
+ ...That is certainly possible.
+<pause>
+<audio_120D>Origin
+ However, I will not
+ show you the future.
+ That is forbidden.
+<pause>
+<audio_120E><Klarth>
+ That's fine.
+ What I wish to see is in the past...
+<pause>
+<audio_120F><Klarth>
+ Something that's been troubling me
+ for some time...
+<pause>
+<audio_1210>Origin
+ ......
+<pause>
+<audio_1211>Origin
+ Since this is your first request as
+ my master...
+<pause>
+<audio_1212>Origin
+ ...I will allow it just this once.
+<pause>
+<audio_1213><Klarth>
+ I only get one shake at this, huh?
+<pause>
+<audio_1214><Klarth>
+ Oh well.
+ Fair enough.{END}"
+"<audio_1215><Arche>
+「なにしてんのさ？」{END}"	"<audio_1215><Arche>
+ Just...what are you doing?{END}"
+"<audio_1216><var_D800>
+「それでは、いつの時代、どの場
+　所を望むのだ？」{END}"	"<audio_1216>Origin
+ What is the time and place you
+ desire to see?{END}"
+"<audio_1217><Klarth>
+「・・・すまん、二人とも部屋か
+　ら出ていてくれないか？」
+<pause>
+<audio_1218><Arche>
+「え〜、何でぇ〜？」
+<pause>
+<audio_1219><Arche>
+「寒いじゃん！」<wait>{END}"	"<audio_1217><Klarth>
+ ...I'm sorry, but could you two step
+ out of the room?
+<pause>
+<audio_1218><Arche>
+ Huh!? Whaaat!?
+<pause>
+<audio_1219><Arche>
+ Do you want me to freeze to
+ death!?<wait>{END}"
+"<audio_121A><Klarth>
+「頼むよ・・・」
+<pause>
+<audio_121B><Klarth>
+「あとで、好きなものをごちそう
+　するから・・・」
+<pause>
+<audio_121C><Arche>
+「まったくもう、何なのよぉ！　
+　みんなして」{END}"	"<audio_121A><Klarth>
+ I beg you...
+<pause>
+<audio_121B><Klarth>
+ I'll treat you to whatever you want
+ later. Just...please go now.
+<pause>
+<audio_121C><Arche>
+ GAAAAH!!!
+ What's up with you guys!?
+ Did we move to crazytown!?{END}"
+"<audio_121D><var_D800>
+「それで、どうするのだ？」
+<pause>
+<audio_121E><Klarth>
+「・・・・・・」
+<pause>
+<audio_121F><var_D800>
+「は？」<wait>{END}"	"<audio_121D>Origin
+ Well then?
+<pause>
+<audio_121E><Klarth>
+ *whisper* *whisper*
+ ......
+<pause>
+<audio_121F>Origin
+ Hmm?<wait>{END}"
+"<audio_1220><Klarth>
+「・・・・・・」
+<pause>
+<audio_1221><var_D800>
+「・・・ふむ、わかった」
+<pause>
+<audio_1222><var_D800>
+「しかし、なぜそのような小さな
+　声なのだ？」
+<pause>
+<audio_1223><var_D800>
+「恥らう年でもあるまい」
+<pause>
+<audio_1224><var_D800>
+「では、いくぞ・・・」{END}"	"<audio_1220><Klarth>
+ *whisper* *whisper*
+ ......
+<pause>
+<audio_1221>Origin
+ ...Hmph. Understood.
+<pause>
+<audio_1222>Origin
+ But why do you whisper, as though
+ you had reason to be ashamed?
+<pause>
+<audio_1223>Origin
+ Surely you are beyond the age to
+ be embarrassed by such things.
+<pause>
+<audio_1224>Origin
+ Hmph, in any case, let it be done...{END}"
+"<unk1><audio_1234><Chester>
+おい、<Arche>」
+<pause>
+<audio_1235><Arche>
+な、なによ？」
+<pause>
+<audio_1236><Chester>
+おまえ、<Cless>が何してるか、のぞきにいくつもりだろ」
+<pause>
+<audio_1237><Chester>
+まったく・・・おまえは」{END}"	"<unk1><audio_1234><Chester>
+ So, <Arche>.
+<pause>
+<audio_1235><Arche>
+ Wh-Wh-Whaddya want!?
+<pause>
+<audio_1236><Chester>
+ Did I scare you?
+ I bet you're planning
+ to go spy on <Cless>.
+<pause>
+<audio_1237><Chester>
+ Could you be any more predictable?{END}"
+"<unk1><audio_1238><Arche>
+うっさいなあ！」
+<pause>
+<audio_1239><Arche>
+あたしがなにしようが、あんたに関係ないでしょうが」
+<pause>
+<audio_123A><Chester>
+<Cless>は俺の親友だからな！」
+<pause>
+<audio_123B><Chester>
+関係あるぜ！」{END}"	"<unk1><audio_1238><Arche>
+ Shove it!
+<pause>
+<audio_1239><Arche>
+ What I'm gonna do is none of your
+ business!
+<pause>
+<audio_123A><Chester>
+ Oh yeah?
+ Wanna make a bet!?
+<pause>
+<audio_123B><Chester>
+ <Cless> is my best friend!
+ Whatever concerns him, concerns
+ me!{END}"
+"<audio_123C><Arche>
+「ったく！」
+<pause>
+<audio_123D><Arche>
+「・・・・・・」
+<pause>
+<audio_123E><Arche>
+「あーあ、やんなっちゃう！
+　なんで、こうケンカばかりなん
+　だろ！」<wait>{END}"	"<audio_123C><Arche>
+ Ugh!
+<pause>
+<audio_123D><Arche>
+ ......
+<pause>
+<audio_123E><Arche>
+ Why do we keep getting into these
+ fights, anyway!?<wait>{END}"
+"<audio_123F><Chester>
+「おまえが売ってるんだろ」
+<pause>
+<audio_1240><Arche>
+「なに言ってんのよ！」
+<pause>
+<audio_1241><Arche>
+「いっつもからんでくるのはあん
+　たでしょうが！」
+<pause>
+<audio_1242><Arche>
+「あたしが嫌いなのはかまわない
+　けどさ・・・」
+<pause>
+<audio_1243><Arche>
+「いいかげんにしてほしいんだよ
+　ね・・・」
+<pause>
+<audio_1244><Chester>
+「だ、誰が、嫌いだって
+　言ったよ！」<wait>{END}"	"<audio_123F><Chester>
+ Because YOU keep picking 'em!
+<pause>
+<audio_1240><Arche>
+ Oh, c'mon!
+<pause>
+<audio_1241><Arche>
+ YOU'RE the one I only ever fight
+ with!
+<pause>
+<audio_1242><Arche>
+ ...Look, I don't care if you hate
+ me...
+<pause>
+<audio_1243><Arche>
+ But I want to put an end to this.
+ It's gone on for too long...
+<pause>
+<audio_1244><Chester>
+ Wh-Who said anything about hating
+ you!?<wait>{END}"
+"<audio_1245><Chester>
+「だいたい、お前を初めて見た時
+　から・・・」<wait>{END}"	"<audio_1245><Chester>
+ I mean, from the moment I first
+ laid eyes on you, I...<wait>{END}"
+"<audio_1246><Arche>
+「えっ・・・」
+<pause>
+<audio_1247><Arche>
+「みた<speed_0010>・・・<speed_FFFF>とき<speed_0010>・・・<speed_FFFF>から？」
+<pause>
+<audio_1248><Chester>
+「！！！」{END}"	"<audio_1246><Arche>
+ *gasp*...
+<pause>
+<audio_1247><Arche>
+ D-Do you m-mean<speed_0010>...<speed_FFFF>you
+ th-thought<speed_0010>...<speed_FFFF>I-I was--
+<pause>
+<audio_1248><Chester>
+ !!!{END}"
+"<audio_1249><Chester>
+「・・・何でもねぇよ」{END}"	"<audio_1249><Chester>
+ ...Don't say any more.{END}"
+"<audio_124A><Arche>
+「ふぅん・・・」
+<pause>
+<audio_124B><Arche>
+「・・・・・・」
+<pause>
+<audio_124C><Arche>
+「ね、<Chester>・・・」
+<pause>
+<audio_124D><Arche>
+「外行こ<heart>」
+<pause>
+<audio_124E><Chester>
+「いいよ、オレは・・・」
+<pause>
+<audio_124F><Arche>
+「来て、ほらほら」{END}"	"<audio_124A><Arche>
+ Hmmm...
+<pause>
+<audio_124B><Arche>
+ ......
+<pause>
+<audio_124C><Arche>
+ Hey, <Chester>...
+<pause>
+<audio_124D><Arche>
+ Let's go outside, too <heart>
+<pause>
+<audio_124E><Chester>
+ Nah, I'm fine...
+<pause>
+<audio_124F><Arche>
+ Then I'm just gonna have to drag
+ you out!{END}"
+"<audio_1250><Cless>
+「ごめん、待った？」
+<pause>
+<audio_1251><Mint>
+「ううん」
+<pause>
+<audio_1252><Cless>
+「一人で出てくるタイミングがな
+　かなかなくて・・・」{END}"	"<audio_1250><Cless>
+ Sorry, I hope I didn't keep you
+ waiting too long.
+<pause>
+<audio_1251><Mint>
+ It's okay.
+<pause>
+<audio_1252><Cless>
+ It's just they were making it hard
+ for me to leave sooner...{END}"
+"<audio_1253><Cless>
+「となり、いい？」
+<pause>
+<audio_1254><Mint>
+「ええ」{END}"	"<audio_1253><Cless>
+ ...Mind if I sit next to you?
+<pause>
+<audio_1254><Mint>
+ Not at all.{END}"
+"<audio_1255><Cless>
+「で・・・」
+<pause>
+<audio_1256><Cless>
+「話って、何？」
+<pause>
+<audio_1257><Mint>
+「これを・・・見て下さい」{END}"	"<audio_1255><Cless>
+ So...
+<pause>
+<audio_1256><Cless>
+ What did you want to talk about?
+<pause>
+<audio_1257><Mint>
+ I...found this.
+ Do you recognize it?{END}"
+"<audio_1258><Cless>
+「この<item_7B01>・・・」{END}"	"<audio_1258><Cless>
+ Isn't this the earring that I...{END}"
+"<audio_1259><Cless>
+「・・・・・・」
+<pause>
+<audio_125A><Cless>
+「これは、<item_3200>？」
+<pause>
+<audio_125B>？？？
+「それを壁にかざして・・・」
+<pause>
+<audio_125C>？？？
+「そして、牢屋に捕まっている
+　女の子を助けてあげて・・・」
+<pause>
+<audio_125D>？？？
+「あなたなら・・・
+　きっと、館から出られるわ」
+<pause>
+<audio_125E><Cless>
+「ちょ、ちょっと待って！」
+<pause>
+<audio_125F><Cless>
+「あなたは・・・」
+<pause>
+<audio_1260>？？？
+「・・・お願い・・・」
+<pause>
+<audio_1261><Cless>
+「・・・・・・」
+<pause>
+<audio_1262><Cless>
+「とにかく、<item_3200>をかざし
+　てみよう」{END}"	"<audio_1259><Cless>
+ ......
+<pause>
+<audio_125A><Cless>
+ An...earring?
+<pause>
+<audio_125B>???
+ Hold it against the wall...
+<pause>
+<audio_125C>???
+ Afterward, I beg you to save the
+ girl held captive in the cell nearby...
+<pause>
+<audio_125D>???
+ Together, I'm sure you will be able
+ to escape this place...
+<pause>
+<audio_125E><Cless>
+ W-Wait a minute!
+<pause>
+<audio_125F><Cless>
+ Who are you...?
+<pause>
+<audio_1260>???
+ <speed_0010>...<speed_FFFF>Please<speed_0020>...
+<pause>
+<audio_1261><speed_FFFF><Cless>
+ ......
+<pause>
+<audio_1262><Cless>
+ I guess all I can do is give what
+ she said a try...{END}"
+"<audio_1263><Mint>
+「ユニコーンの飾りがついたイヤ
+　リング、珍しいでしょう？」
+<pause>
+<audio_1264><Mint>
+「これは、法術師の
+　証しです・・・」
+<pause>
+<audio_1265><Mint>
+「私の母が、いつもつけていたも
+　のと同じ・・・」{END}"	"<audio_1263><Mint>
+ An earring in the image of the
+ unicorn is quite unique, don't you
+ think?
+<pause>
+<audio_1264><Mint>
+ This one proves the identity of a
+ true cleric...
+<pause>
+<audio_1265><Mint>
+ ...and is exactly like the one my
+ mother always wore.{END}"
+"<audio_1266><Mint>
+「母は、もう<speed_0010>・・・<speed_FFFF>いないんです
+　ね」<wait>{END}"	"<audio_1266><Mint>
+ My mother<speed_0010>...<speed_FFFF>is gone.<wait>{END}"
+"<audio_1267><Cless>
+「・・・・・・」
+<pause>
+<audio_1268><Cless>
+「ごめん<speed_0010>・・・」<wait>{END}"	"<audio_1267><Cless>
+ ......
+<pause>
+<audio_1268><Cless>
+ <Mint><speed_0010>...<speed_FFFF>I'm so sorry<speed_0010>...<speed_FFFF><wait>{END}"
+"<audio_1269><Mint>
+「謝らないで・・・」<wait>{END}"	"<audio_1269><Mint>
+ Please don't.
+ You have nothing to apologize for.<wait>{END}"
+"<unk1><audio_126A><Mint>
+あの時、もし・・・<Cless>さんが、母の死を隠してくれなかったとしたら・・・」<wait>{END}"	"<unk1><audio_126A><Mint>
+ Back then, if you hadn't kept my
+ mother's death a secret from me,
+ I...<wait>{END}"
+"<audio_126B><Mint>
+「私、きっと取り乱して<speed_0010>・・・」<wait>{END}"	"<audio_126B><Mint>
+ I wouldn't have been able to go
+ on<speed_0010>...<wait>{END}"
+"<audio_126C><Cless>
+「<Mint>・・・」
+<pause>
+<audio_126D><Mint>
+「本当に<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_126E><Mint>
+「ありがとう<speed_0010>・・・」{END}"	"<audio_126C><Cless>
+ I...
+<pause>
+<audio_126D><Mint>
+ Thank you<speed_0010>...
+<pause>
+<speed_FFFF><audio_126E><Mint>
+ ...so much<speed_0010>...{END}"
+"<audio_126F><Arche>
+「<Mint>・・・」
+<pause>
+<audio_1270><Chester>
+「おい、もう戻ろうぜ」
+<pause>
+<audio_1271><Chester>
+「また、雪も降ってきたし・・・」
+<pause>
+<audio_1272><Arche>
+「も、もうちょっと・・・」{END}"	"<audio_126F><Arche>
+ Poor <Mint>...
+<pause>
+<audio_1270><Chester>
+ Hey, don't you think we should go
+ back in now?
+<pause>
+<audio_1271><Chester>
+ The snow's starting to come down
+ again...
+<pause>
+<audio_1272><Arche>
+ B-But I'm not done yet...{END}"
+"<audio_11DB><Cless>
+「うう、寒い・・・」
+<pause>
+<audio_11DC><Klarth>
+「宿屋で一休みしよう」
+<pause>
+<audio_11DD><Chester>
+「同感だ・・・」{END}"	"<audio_11DB><Cless>
+ Brrr, it's freezing...
+<pause>
+<audio_11DC><Klarth>
+ Better not waste any time.
+ To the inn!
+<pause>
+<audio_11DD><Chester>
+ You can say that again...{END}"
+"<audio_1273><Suzu>
+（父上、母上・・・）
+<pause>
+<audio_1274><Suzu>
+（もうすぐ、ダオスとの決戦です）
+<pause>
+<audio_1275><Suzu>
+（・・・・・・）<wait>{END}"	"<audio_1273><Suzu>
+ (Mother, Father...)
+<pause>
+<audio_1274><Suzu>
+ (The decisive battle against Dhaos is
+ imminent.)
+<pause>
+<audio_1275><Suzu>
+ (......)<wait>{END}"
+"<unk3><audio_1276><Suzu>
+父上、母上・・・）
+<pause>
+<audio_1277><Suzu>
+今、<Suzu>は迷っています）<wait>{END}"	"<unk3><audio_1276><Suzu>
+ (Mother, Father...)
+<pause>
+<audio_1277><Suzu>
+ (I am confused right now.)<wait>{END}"
+"<unk3><audio_1278><Suzu>
+・・・父上、本当に忍者は非情でなければなりませんか？）
+<pause>
+<audio_1279><Suzu>
+<Cless>さん達と一緒にいると、なぜか、<Suzu>は不思議な気持ちになります）
+<pause>
+<audio_127A><Suzu>
+それは・・・）
+<pause>
+<audio_127B><Suzu>
+それは、<Suzu>の心の弱さでしょうか？）
+<pause>
+<audio_127C><Suzu>
+・・・母上、この気持ちは何なのでしょう）<wait>{END}"	"<unk3><audio_1278><Suzu>
+ (...Father, must a true ninja always
+ act with a heart of steel?)
+<pause>
+<audio_1279><Suzu>
+ (I feel different when I am with
+ <Cless> and the others.)
+<pause>
+<audio_127A><Suzu>
+ (Does that...)
+<pause>
+<audio_127B><Suzu>
+ (Does that signify weakness in my
+ heart?)
+<pause>
+<audio_127C><Suzu>
+ (...Mother, do you know these
+ feelings?)<wait>{END}"
+"<audio_127D><Suzu>
+（・・・・・・）
+<pause>
+<audio_127E><Suzu>
+（・・・私には）
+<pause>
+<audio_127F><Suzu>
+（・・・わかりません）
+<pause>
+<audio_1280><Suzu>
+（・・・・・・）<wait>{END}"	"<audio_127D><Suzu>
+ (......)
+<pause>
+<audio_127E><Suzu>
+ (...They are...)
+<pause>
+<audio_127F><Suzu>
+ (...unfamiliar to me.)
+<pause>
+<audio_1280><Suzu>
+ (......)<wait>{END}"
+"<unk3><audio_1281><Suzu>
+でも・・・）
+<pause>
+<audio_1282><Suzu>
+でも、せめて・・・最後の戦いは・・・）
+<pause>
+<audio_1283><Suzu>
+<Cless>さん達と心を重ねて戦いたい・・・）<wait>{END}"	"<unk3><audio_1281><Suzu>
+ (But...)
+<pause>
+<audio_1282><Suzu>
+ (But, even if it shows weakness as
+ a ninja...during the final battle, I...)
+<pause>
+<audio_1283><Suzu>
+ (...I would like to fight with my
+ heart fully united with those of
+ <Cless> and the others.)<wait>{END}"
+"<audio_1284><Suzu>
+（それで、この身倒るることにな
+　ろうとも・・・）
+<pause>
+<audio_1285><Suzu>
+（後悔はいたしません）{END}"	"<audio_1284><Suzu>
+ (That way, should this body fall...)
+<pause>
+<audio_1285><Suzu>
+ (...I will feel no shame.){END}"
+"<color_0002>法術師の<item_7B01>を手に入れました。
+<pause>
+<Mint>専用の装飾品として装備することができます。<color_0000>{END}"	"<color_0002>Acquired the Unicorn Earring.
+<pause>
+As it is meant for clerics, this
+accessory can only be worn by
+<Mint>.<color_0000>{END}"
+<color_0002><Klarth>は新たな称号を得ました。<color_0000>{END}	<color_0002><Klarth> has earned a new title.<color_0000>{END}

@@ -1,0 +1,393 @@
+Japanese	English
+<color_0002>真夜中ですが、休みますか？{END}	"<color_0002>It is now midnight.
+Set up camp here and rest for the
+remainder of the night?{END}"
+<day>日目{END}	Day <day>{END}
+１日目{END}	Day 1{END}
+ヴァルハラ平原{END}	Valhalla Plains{END}
+"<Cless>
+「今は作戦遂行中だ」
+<pause>
+<Cless>
+「ヴァルハラ平原から出ない方が
+　いい」{END}"	"<Cless>
+ The operation hasn't ended yet!
+<pause>
+<Cless>
+ They're depending on us!
+ If we leave now, we'll lose!{END}"
+"ライゼン
+「我々に残された時間は少ない」
+<pause>
+ライゼン
+「速やかに作戦を遂行せよ！」{END}"	"Leisen
+ We have little time to spare.
+<pause>
+Leisen
+ Execute the operation with all
+ haste!{END}"
+"兵士
+「ここで休むことができますが、
+　八時間のロスタイムになります」
+<pause>
+<color_0002>休みますか？<color_0000>{END}"	"Soldier
+ If you're tired, you can sleep in
+ this tent.
+<pause>
+<color_0002>Resting will cost you eight hours of
+time.
+<pause>
+<color_0002>Rest?<color_0000>{END}"
+"兵士
+「私はアイテムの補給部隊です」
+<pause>
+補給部隊
+「どのアイテムを補給しますか？」
+<pause>
+<color_0002><speed_0000>１。<item_7700>
+２。<item_7800>
+３。<item_8700>
+４。<item_8800><speed_FFFF>{END}"	"Soldier
+ I'm with the supply squad.
+<pause>
+Supply Unit
+ Need anything replenished?
+<pause>
+<color_0002>1. <item_7700>s
+2. <item_7800>s
+3. <item_8700>s
+4. <item_8800>s{END}"
+<color_0002><item_7700>がいっぱいになりました。<color_0000>{END}	<color_0002>Acquired a full supply of <item_7700>s.<color_0000>{END}
+<color_0002><item_7800>がいっぱいになりました。<color_0000>{END}	"<color_0002>Acquired a full supply of Orange
+Gels.<color_0000>{END}"
+<color_0002><item_8700>がいっぱいになりました。<color_0000><wait>{END}	"<color_0002>Acquired a full supply of Panacea
+Bottles.<color_0000>{END}"
+<color_0002><item_8800>がいっぱいになりました。<color_0000>{END}	"<color_0002>Acquired a full supply of Life
+Bottles.<color_0000>{END}"
+"<color_0000>補給部隊
+「いつでも補給できますから」{END}"	"<color_0000>Supply Unit
+ Come back anytime.{END}"
+"剣士
+「心頭滅却すれば寒さも忘れる」{END}"	"Swordsman
+ Focus your mind and you shall feel
+ warmth amidst the most brutal of
+ blizzards.{END}"
+"剣士
+「君、剣士か？」
+<pause>
+剣士
+「この奥義書を買わぬか？」
+<pause>
+<Cless>
+「え、奥義書！？」
+<pause>
+剣士
+「もらい物なのだが、どこぞの流
+　派の技など・・・」
+<pause>
+剣士
+「私は私の道を行くのみ！！」
+<pause>
+剣士
+「どうだ、５００００ガルドでよ
+　いが」
+<pause>
+<color_0002>買いますか？<color_0000>{END}"	"Swordsman
+ Fancy meeting another swordsman
+ in these plains...
+<pause>
+Swordsman
+ Could I interest you in this arcane
+ arte book?
+<pause>
+<Cless>
+ Oh!? Tell me more...
+<pause>
+Swordsman
+ It was a gift.
+ But an arte of a foreign
+ school, I need not.
+<pause>
+Swordsman
+ I only walk along my own path!!!
+<pause>
+Swordsman
+ Now, does 50000 gald sound fair to
+ you?
+<pause>
+<color_0002>Buy it?<color_0000>{END}"
+"剣士
+「剣の道は厳しい」
+<pause>
+剣士
+「商人の道もまた厳しい・・・」{END}"	"Swordsman
+ The Way of the Sword is difficult.
+<pause>
+Swordsman
+ The Way of the Merchant is also
+ difficult...{END}"
+"剣士
+「金が足りぬぞ！」{END}"	"<var_8201>
+ You are short of coin!{END}"
+"<color_0002><Cless>は<var_9E00>を覚えました。<color_0000>
+<pause>
+剣士
+「恩にきるぞ」{END}"	"<color_0002><Cless> learned
+<var_9E00>.<color_0000>
+<pause>
+Swordsman
+ You have my gratitude.{END}"
+"<audio_0E1A>ライゼン
+「作戦開始の前に国王陛下からの
+　激励の言葉を皆に伝える」
+<pause>
+<audio_0E1B>ライゼン
+「汝らは、ダオスとの戦いの先陣
+　として、この大戦の行く末を担
+　う勇者である」
+<pause>
+<audio_0E1C>ライゼン
+「各々が作戦の完遂のために精励
+　し、ミッドガルズの勝利に貢献
+　してほしい」
+<pause>
+<audio_0E1D>ライゼン
+「また、この作戦に一番活躍した
+　ものには十分な褒賞を与える」
+<pause>
+{END}"	"<audio_0E1A>Leisen
+ Before commencing the operation, I
+ have His Majesty's words of
+ encouragement to convey.
+<pause>
+<audio_0E1B>Leisen
+ “Thou art the vanguard in the
+ battle against Dhaos; the heroes
+ bearing the fate of this great war
+ on your shoulders.”
+<pause>
+<audio_0E1C>Leisen
+ He asks that each and every one of
+ you contribute to Midgard's victory
+ by accomplishing your missions
+ diligently.
+<pause>
+<audio_0E1D>Leisen
+ Furthermore, the one who puts
+ forth the greatest effort in this
+ mission shall be properly rewarded.
+<pause>
+{END}"
+"<audio_0E1E>スリーソン部隊長
+「褒賞？」
+<pause>
+{END}"	"<audio_0E1E>Commander Threeson
+ What kind of reward?
+<pause>
+{END}"
+"<audio_0E1F>ワンズ部隊隊長
+「何が出るかは戦い方しだいって
+　いうわけか」
+<pause>
+{END}"	"<audio_0E1F>Commander Ones
+ Sounds like it depends on how well
+ we fight whatever Dhaos throws
+ at us.
+<pause>
+{END}"
+"<audio_0E20>ライゼン
+「王国の興廃はこの一戦にあり、
+　諸君らの健闘を祈る」
+<pause>
+<audio_0E21>ライゼン
+「では、作戦を開始する！」{END}"	"<audio_0E20>Leisen
+ Good luck and godspeed in this
+ battle for our kingdom's destiny.
+<pause>
+<audio_0E21>Leisen
+ Now, commence the operation!{END}"
+"<color_0002>あなたの任務はヴァルハラ平原を探索し、敵の部隊を討伐することにあります。
+<pause>
+敵との遭遇は今までと違い、接触により戦闘に入ります。
+<pause>
+最終目的は敵部隊のボスを倒すことです。
+<pause>
+任務は速やかに行いましょう。<color_0000>{END}"	"<color_0002>Your mission is to search the
+Valhalla Plains and dispatch the
+enemy forces.
+<pause>
+Unlike previous encounters, battles
+here are not random. You will enter
+battle only when you make contact
+with a visible enemy unit.
+<pause>
+Your final objective is to locate and
+defeat the commander.
+<pause>
+Execute your mission with all haste.<color_0000>{END}"
+"<audio_0E22>？？？
+「ふははは！」
+<pause>
+<audio_0E23>？？？
+「よくここまで来ることができた
+　な」
+<pause>
+<audio_0E24>？？？
+「ほめてやろう」
+<pause>
+<audio_0E25>？？？
+「私がダオス陸軍部隊長イシュラ
+　ントだ」
+<pause>
+<audio_0E26>イシュラント
+「だが、残念ながら貴様らの進撃
+　もここまでだ！」
+<pause>
+<audio_0E27>イシュラント
+「ここが貴様らの墓場となるのだ
+　からな！！」{END}"	"<audio_0E22>???
+ Mwahahahah!
+<pause>
+<audio_0E23>???
+ You have done well to make it this
+ far.
+<pause>
+<audio_0E24>???
+ I praise you.
+<pause>
+<audio_0E25>???
+ I am Ishrantu, commander of
+ Dhaos' army.
+<pause>
+<audio_0E26>Ishrantu
+ I sincerely hope that your
+ extensive sojourn through these
+ plains has been pleasant...
+<pause>
+<audio_0E27>Ishrantu
+ ...as they shall become your
+ graveyard!{END}"
+"<audio_0E28><Cless>
+「よし、これでかなり敵を足止め
+　できるな」
+<pause>
+<audio_0E29><Klarth>
+「戻って報告だ」{END}"	"<audio_0E28><Cless>
+ We won!
+ The enemy should be stalled
+ for the time being.
+<pause>
+<audio_0E29><Klarth>
+ Yeah.
+ The King of Midgard awaits our report.{END}"
+"<Klarth>
+「大丈夫か！？」
+<pause>
+ワンズ部隊長
+「敵は手ごわい、気をつけろ！」
+<pause>
+？？？
+「フハハハハハ、ザコばかりよく
+　来るな」
+<pause>
+？？？
+「私がダオス陸軍部隊隊長イシュラ
+　ントだ」
+<pause>
+イシュラント
+「貴様らもまとめて片づけてくれ
+　るわ！！」{END}"	"<Klarth>
+ Are you all right!?
+<pause>
+Commander Ones
+ He's a tough one!
+ Don't put your guard down!
+<pause>
+???
+ Mwahahahahah, I'm impressed such
+ small fry could make it this far!
+<pause>
+???
+ I am Ishrantu, commander of
+ Dhaos' army.
+<pause>
+Ishrantu
+ Now that I'm finished with those
+ weaklings, I shall end your
+ meaningless resistance!!{END}"
+"<Cless>
+「みなさん、大丈夫ですか？」
+<pause>
+ワンズ部隊長
+「我々は大丈夫だ」
+<pause>
+ワンズ部隊長
+「よくやってくれた、礼を言うぞ」
+<pause>
+<Cless>
+「これで敵の動きに影響が出るは
+　ずですね」
+<pause>
+<Klarth>
+「ミッドガルズに戻って、国王に
+　御報告せねばなるまい」{END}"	"<Cless>
+ Are you all okay?
+<pause>
+Commander Ones
+ Thanks to your efforts, we're fine.
+<pause>
+Commander Ones
+ Your performance was splendid.
+ You have my utmost gratitude.
+<pause>
+<Cless>
+ This should disrupt the enemy's
+ advance for now...
+<pause>
+<Klarth>
+ Yeah.
+ Let's return to Midgard
+ and report to the King.{END}"
+"ワンズ部隊長
+「遅いぞ、敵のボスは我々が討ち
+　とった！」
+<pause>
+ワンズ部隊長
+「残念だがお前達の出る幕はもう
+　ない」
+<pause>
+<Klarth>
+「う〜ん、遅かったようだな」{END}"	"Commander Ones
+ You're too late.
+ We have already slain
+ the enemy commander!
+<pause>
+Commander Ones
+ Sorry, but we've pretty much
+ cleaned house here already.
+<pause>
+<Klarth>
+ Hmm...
+ So much for the reward.{END}"
+"見張りの兵士
+「こらこら、ここから先はダオス
+　の支配する危険な所だ」
+<pause>
+見張りの兵士
+「入ることは許さん」{END}"	"Watcher
+ The area ahead is under the
+ influence of Dhaos and is too
+ dangerous for civilians.
+<pause>
+Watcher
+ You may not pass.{END}"
+"<unk1>兵士
+申し訳ないが<Cless>殿、ミッドガルズにお戻り下さい」
+<pause>
+兵士
+陛下がお待ちになっているはずです」{END}"	"<unk1>Soldier
+ I am sorry, Sir <Cless>, but I
+ must insist you return to Midgard.
+<pause>
+Soldier
+ His Majesty awaits you.{END}"

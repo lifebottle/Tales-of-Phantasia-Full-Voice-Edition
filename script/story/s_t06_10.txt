@@ -1,0 +1,212 @@
+Village of Belladam{END}
+
+Villager:<nl>
+ What kind of person was Dhaos?
+<pause>
+Villager:<nl>
+ A rumor said he commanded a
+ fairly powerful army...{END}
+
+Villager:<nl>
+ What kind of person is Dhaos?
+<pause>
+Villager:<nl>
+ A rumor said he commands a fairly
+ powerful army...{END}
+
+Villager:<nl>
+ Another peaceful day
+ with perfect weather!
+ I love living here!{END}
+
+Child:<nl>
+ I'm not worried about monsters!
+<pause>
+Child:<nl>
+ I can beat them all up!!{END}
+
+Woman:<nl>
+ I can use a little magic, but it's
+ been a lot less potent lately...
+<pause>
+Woman:<nl>
+ I wonder why.{END}
+
+<Cless>:<nl>
+ Hey, this is the same bridge as the
+ one in Totus...{END}
+
+<audio_083F>Villager 1:<nl>
+ Hey, who're those two?
+<pause>
+<audio_0840>Villager 2:<nl>
+ Outsiders, it looks like.
+<pause>
+<audio_0841>Villager 3:<nl>
+ Yeah, they have to be...
+<pause>
+<audio_0842>Villager 1:<nl>
+ I wonder where they're from...{END}
+
+<audio_0843><Cless>:<nl>
+ Um, excuse us.
+<pause>
+<audio_0844><Cless>:<nl>
+ Where are--{END}
+
+<audio_0845><Cless>:<nl>
+ Um...
+<pause>
+<audio_0846>???:<nl>
+ Oh, visitors?
+<pause>
+<audio_0847>???:<nl>
+ How curious.
+<pause>
+<audio_0848>???:<nl>
+ I'm the chief of this village.
+<pause>
+<audio_0849>Village Chief:<nl>
+ Who are you two?
+ From where did you come?
+<pause>
+<audio_084A><Mint>:<nl>
+ We, um... Well...<wait>{END}
+
+<unk1><audio_084B><Cless>:<nl>
+ I'm <Cless>, of Totus.<wait>{END}
+
+<audio_084C><Cless>:<nl>
+ And this is <Mint>.{END}
+
+<audio_084D><Cless>:<nl>
+ You see, we were sent...well,
+ somewhere, by someone's clerical
+ artes.
+<pause>
+<audio_084E><Cless>:<nl>
+ We were knocked unconscious, and
+ when we came to, we found
+ ourselves in the nearby prairie.
+<pause>
+<audio_084F>Village Chief:<nl>
+ ......
+<pause>
+<audio_0850>Village Chief:<nl>
+ Totus?
+<pause>
+<audio_0851>Village Chief:<nl>
+ <speed_0010>......
+<pause>
+<speed_FFFF><audio_0852>Village Chief:<nl>
+ Never heard of it...<wait>{END}
+
+<audio_0853>Village Chief:<nl>
+ Have any of you heard of Totus?{END}
+
+<audio_0854><Cless>:<nl>
+ Huh?{END}
+
+<audio_0855>Village Chief:<nl>
+ Hmm...
+<pause>
+<audio_0856>Village Chief:<nl>
+ The look in your eyes doesn't tell
+ me a different story...
+<pause>
+<audio_0857>Village Chief:<nl>
+ But on the other hand, I don't
+ know of this “clerical arte”
+ business, either...
+<pause>
+<audio_0858>Village Chief:<nl>
+ What you described sounded
+ like magic, though.
+ Is that what you meant?{END}
+
+<audio_0859><Cless>:<nl>
+ Magic?
+<pause>
+<audio_085A><Cless>:<nl>
+ But that's impossible.
+ Magic is a power that
+ ceased to exist long ago...
+<pause>
+<audio_085B>Village Chief:<nl>
+ Magic...ceased to exist?
+<pause>
+<audio_085C>Village Chief:<nl>
+ You seem a bit addled, young man.
+<pause>
+<audio_085D>Village Chief:<nl>
+ It's getting late, anyway, and this is
+ hardly the place for a discussion.
+ Why don't we make ourselves
+ comfortable at my house?
+<pause>
+<audio_085E>Village Chief:<nl>
+ We'll continue our little chat there.{END}
+
+<audio_085F>Village Chief:<nl>
+ Come now, it's just a short walk
+ this way.{END}
+
+<audio_0860>Villager 1:<nl>
+ Hey, this sounds pretty interesting
+ for a change.
+<pause>
+<audio_0861>Villager 2:<nl>
+ Let's follow them!{END}
+
+???:<nl>
+ Oh, <Cless>!{END}
+
+<Cless>:<nl>
+ Mr. Lenios!
+<pause>
+<Mint>:<nl>
+ Good to see you again.
+<pause>
+<Klarth>:<nl>
+ Chief!
+ Long time no see!
+<pause>
+Lenios:<nl>
+ So, the news traveled fast.
+ You finally defeated Dhaos, did
+ you?
+<pause>
+<Cless>:<nl>
+ Yes, we sure did!
+<pause>
+Lenios:<nl>
+ Come to think, it's been a long time
+ since you wandered into our
+ village, hasn't it?
+<pause>
+Lenios:<nl>
+ If possible, I'd like to hear all about
+ your travels.
+<pause>
+{END}
+
+<Cless>:<nl>
+ What should we do?
+<pause>
+<Mint>:<nl>
+ Why not stay a while?
+ It's been so long, and it may be
+ that we'll never see him again.
+<pause>
+<Cless>:<nl>
+ When you put it that way...<nl>
+ Yes, let's.
+<pause>
+{END}
+
+Lenios:<nl>
+ Make yourselves at home then.
+<pause>
+Lenios:<nl>
+ My wife will also be delighted.{END}
+

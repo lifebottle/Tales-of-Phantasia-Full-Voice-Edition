@@ -1,0 +1,344 @@
+Japanese	English
+ベルアダムの村{END}	Village of Belladam{END}
+"村の人
+「ダオスって、どんな奴だったん
+　だろう？」
+<pause>
+村の人
+「かなり強力な軍隊を率いてるっ
+　ていう噂だったけど・・・」{END}"	"Villager
+ What kind of person was Dhaos?
+<pause>
+Villager
+ A rumor said he commanded a
+ fairly powerful army...{END}"
+"村の人
+「ダオスって、どんな奴なんだろ
+　う？」
+<pause>
+村の人
+「かなり強力な軍隊を率いてるっ
+　ていう噂だけど・・・」{END}"	"Villager
+ What kind of person is Dhaos?
+<pause>
+Villager
+ A rumor said he commands a fairly
+ powerful army...{END}"
+"村の人
+「いい天気だね、やっぱり平和が
+　一番だね！」{END}"	"Villager
+ Another peaceful day
+ with perfect weather!
+ I love living here!{END}"
+"子供
+「魔物なんてへっちゃらさ！」
+<pause>
+子供
+「ボクが倒してやる！！」{END}"	"Child
+ I'm not worried about monsters!
+<pause>
+Child
+ I can beat them all up!!{END}"
+"女の人
+「私も少し魔術が使えるんだけど
+　ね、最近どうも力が落ちてるよ
+　うな気がするの・・・」
+<pause>
+女の人
+「どうしてかしら？」{END}"	"Woman
+ I can use a little magic, but it's
+ been a lot less potent lately...
+<pause>
+Woman
+ I wonder why.{END}"
+"<Cless>
+「この橋が、あのトーティスの橋
+　だったなんて・・・」{END}"	"<Cless>
+ Hey, this is the same bridge as the
+ one in Totus...{END}"
+"<audio_083F>村人１
+「おい、ありゃ誰だ？」
+<pause>
+村人２
+<audio_0840>「よそ者だな」
+<pause>
+<audio_0841>村人３
+「本当だ・・・」
+<pause>
+<audio_0842>村人１
+「どこから来たんだ？」{END}"	"<audio_083F>Villager 1
+ Hey, who're those two?
+<pause>
+<audio_0840>Villager 2
+ Outsiders, it looks like.
+<pause>
+<audio_0841>Villager 3
+ Yeah, they have to be...
+<pause>
+<audio_0842>Villager 1
+ I wonder where they're from...{END}"
+"<audio_0843><Cless>
+「あの、すみません」
+<pause>
+<audio_0844><Cless>
+「ここは・・・」{END}"	"<audio_0843><Cless>
+ Um, excuse us.
+<pause>
+<audio_0844><Cless>
+ Where are--{END}"
+"<audio_0845><Cless>
+「あの・・・」
+<pause>
+<audio_0846>？？？
+「客人か？」
+<pause>
+<audio_0847>？？？
+「これは珍しいのぉ」
+<pause>
+<audio_0848>？？？
+「わしは、この村の長をやっとる
+　者じゃ」
+<pause>
+<audio_0849>村長
+「おぬしらは、どこから来たのか
+　の？」
+<pause>
+<audio_084A><Mint>
+「え、あの・・・その・・・」<wait>{END}"	"<audio_0845><Cless>
+ Um...
+<pause>
+<audio_0846>???
+ Oh, visitors?
+<pause>
+<audio_0847>???
+ How curious.
+<pause>
+<audio_0848>???
+ I'm the chief of this village.
+<pause>
+<audio_0849>Village Chief
+ Who are you two?
+ From where did you come?
+<pause>
+<audio_084A><Mint>
+ We, um... Well...<wait>{END}"
+"<unk1><audio_084B><Cless>
+僕はトーティス村の<Cless>といいます」<wait>{END}"	"<unk1><audio_084B><Cless>
+ I'm <Cless>, of Totus.<wait>{END}"
+"<audio_084C><Cless>
+「こちらは<Mint>」{END}"	"<audio_084C><Cless>
+ And this is <Mint>.{END}"
+"<audio_084D><Cless>
+「とある人の法術の力でとばされ
+　て・・・」
+<pause>
+<audio_084E><Cless>
+「気がついたら近くの草原にいた
+　んです」
+<pause>
+<audio_084F>村長
+「・・・・・・」
+<pause>
+<audio_0850>村長
+「トーティス？」
+<pause>
+<audio_0851>村長
+「<speed_0010>・・・・・・」
+<pause>
+<speed_FFFF><audio_0852>村長
+「知らんのぅ・・・」<wait>{END}"	"<audio_084D><Cless>
+ You see, we were sent...well,
+ somewhere, by someone's clerical
+ artes.
+<pause>
+<audio_084E><Cless>
+ We were knocked unconscious, and
+ when we came to, we found
+ ourselves in the nearby prairie.
+<pause>
+<audio_084F>Village Chief
+ ......
+<pause>
+<audio_0850>Village Chief
+ Totus?
+<pause>
+<audio_0851>Village Chief
+ <speed_0010>......
+<pause>
+<speed_FFFF><audio_0852>Village Chief
+ Never heard of it...<wait>{END}"
+"<audio_0853>村長
+「知っとる者はおるか？」{END}"	"<audio_0853>Village Chief
+ Have any of you heard of Totus?{END}"
+"<audio_0854><Cless>
+「ええっ？」{END}"	"<audio_0854><Cless>
+ Huh?{END}"
+"<audio_0855>村長
+「うーむ・・・」
+<pause>
+<audio_0856>村長
+「ウソをついてるようにも見えん
+　しのぅ・・・」
+<pause>
+<audio_0857>村長
+「だいたいホージュツなんて力も
+　知らんからのぅ・・・」
+<pause>
+<audio_0858>村長
+「魔術の間違いかの？」{END}"	"<audio_0855>Village Chief
+ Hmm...
+<pause>
+<audio_0856>Village Chief
+ The look in your eyes doesn't tell
+ me a different story...
+<pause>
+<audio_0857>Village Chief
+ But on the other hand, I don't
+ know of this “clerical arte”
+ business, either...
+<pause>
+<audio_0858>Village Chief
+ What you described sounded
+ like magic, though.
+ Is that what you meant?{END}"
+"<audio_0859><Cless>
+「魔術？」
+<pause>
+<audio_085A><Cless>
+「いえ、魔術ははるか昔に途絶え
+　た力で・・・」
+<pause>
+<audio_085B>村長
+「魔術が""途絶えた力""？」
+<pause>
+<audio_085C>村長
+「わけありのようだのぅ・・・」
+<pause>
+<audio_085D>村長
+「ここで立ち話もなんじゃから、
+　家へこんか？」
+<pause>
+<audio_085E>村長
+「中で話そうではないか」{END}"	"<audio_0859><Cless>
+ Magic?
+<pause>
+<audio_085A><Cless>
+ But that's impossible.
+ Magic is a power that
+ ceased to exist long ago...
+<pause>
+<audio_085B>Village Chief
+ Magic...ceased to exist?
+<pause>
+<audio_085C>Village Chief
+ You seem a bit addled, young man.
+<pause>
+<audio_085D>Village Chief
+ It's getting late, anyway, and this is
+ hardly the place for a discussion.
+ Why don't we make ourselves
+ comfortable at my house?
+<pause>
+<audio_085E>Village Chief
+ We'll continue our little chat there.{END}"
+"<audio_085F>村長
+「こっちじゃ、ついてきなされ」{END}"	"<audio_085F>Village Chief
+ Come now, it's just a short walk
+ this way.{END}"
+"<audio_0860>村人１
+「おい、何かおもしろそうだな」
+<pause>
+<audio_0861>村人２
+「行ってみようぜ」{END}"	"<audio_0860>Villager 1
+ Hey, this sounds pretty interesting
+ for a change.
+<pause>
+<audio_0861>Villager 2
+ Let's follow them!{END}"
+"？？？
+「おお、<Cless>か！」{END}"	"???
+ Oh, <Cless>!{END}"
+"<Cless>
+「レニオスさん！」
+<pause>
+<Mint>
+「お久しぶりです」
+<pause>
+<Klarth>
+「村長、しばらく！」
+<pause>
+レニオス
+「ついにダオスを倒したそうじゃ
+　な」
+<pause>
+<Cless>
+「はい」
+<pause>
+レニオス
+「どうじゃ、久しぶりに家に寄っ
+　ていかんか？」
+<pause>
+レニオス
+「旅の話でも聞かせてもらえんか
+　の」
+<pause>
+{END}"	"<Cless>
+ Mr. Lenios!
+<pause>
+<Mint>
+ Good to see you again.
+<pause>
+<Klarth>
+ Chief!
+ Long time no see!
+<pause>
+Lenios
+ So, the news traveled fast.
+ You finally defeated Dhaos, did
+ you?
+<pause>
+<Cless>
+ Yes, we sure did!
+<pause>
+Lenios
+ Come to think, it's been a long time
+ since you wandered into our
+ village, hasn't it?
+<pause>
+Lenios
+ If possible, I'd like to hear all about
+ your travels.
+<pause>
+{END}"
+"<Cless>
+「どうしようか？」
+<pause>
+<Mint>
+「せっかくですから寄っていきま
+　せんか？」
+<pause>
+<Cless>
+「うん、そうだね」
+<pause>
+{END}"	"<Cless>
+ What should we do?
+<pause>
+<Mint>
+ Why not stay a while?
+ It's been so long, and it may be
+ that we'll never see him again.
+<pause>
+<Cless>
+ When you put it that way...
+ Yes, let's.
+<pause>
+{END}"
+"レニオス
+「では、ついてまいれ」
+<pause>
+レニオス
+「ばあさんも喜ぶでな」{END}"	"Lenios
+ Make yourselves at home then.
+<pause>
+Lenios
+ My wife will also be delighted.{END}"

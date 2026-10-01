@@ -1,0 +1,192 @@
+訓練マップ{END}
+
+<audio_1616><Cless>
+「<Chester>・・・
+　少し休んだらどうだ」<wait>{END}
+
+<audio_1617><Chester>
+「<Cless>か・・・」<wait>{END}
+
+<unk1><audio_1618><Cless>
+<Arche>に言われた事、気にしてるのか？」{END}
+
+<audio_1619><Chester>
+「まあ、それもあるけどな」{END}
+
+<audio_161A><Chester>
+「何よりも、お前の事が気になる
+　んだよ」{END}
+
+<audio_161B><Cless>
+「・・・？」<wait>{END}
+
+<audio_161C><Chester>
+「お前と俺は、剣と弓の違いこそ
+　あれ共に修行をしてきた仲だ」<wait>{END}
+
+<audio_161D><Chester>
+「だが、俺とは違う時間の流れの
+　中でお前は強くなった」<wait>{END}
+
+<audio_161E><Chester>
+「なんだか・・・
+　焦っちまうんだよな・・・」{END}
+
+<audio_161F><Chester>
+「なあ、<Cless>・・・
+　トーティス村のみんなが夢に出
+　ることはあるか？」
+<pause>
+<audio_1620><Cless>
+「ああ・・・」<wait>{END}
+
+<audio_1621><Chester>
+「俺はここのところ毎晩さ」<wait>{END}
+
+<audio_1622><Chester>
+「村が襲われた時の事を考えると
+　眠れなくなるんだ」<wait>{END}
+
+<audio_1623><Chester>
+「こうして弓を射ってると、気持
+　ちが少しまぎれる・・・」{END}
+
+<unk1><audio_1624><Chester>
+<Cless>・・・知ってたか？」
+<pause>
+<audio_1625><Chester>
+アミィの奴、お前のことが好きだったんだぜ・・・」{END}
+
+この訓練によって<Chester>に経験値が加算されます。<wait>{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}
+
+<color_0002><Chester>は『<var_CA01>』の称号を得ました。<color_0000>{END}
+
+<audio_1626><Arche>
+「アンタ、何してんの？」
+<pause>
+<audio_1627><Chester>
+「別に」
+<pause>
+<audio_1628><Arche>
+「別にって・・・
+　こんな真夜中に・・・」{END}
+
+<audio_1629><Chester>
+「何をしようがオレの勝手だろ」
+<pause>
+<audio_162A><Arche>
+「・・・あたしが弱そうって言っ
+　たこと、気にしてたんだ」{END}
+
+<audio_162B><Chester>
+「そんなんじゃねぇよ」
+<pause>
+<audio_162C><Arche>
+「じゃあ、なんなのよ？」<wait>{END}
+
+<audio_162D><Chester>
+「なんでもないって言ってるだろ！
+　用がないんだったら、どっかへ
+　行けよ」{END}
+
+<audio_162E><Arche>
+「・・・・・・」
+<pause>
+<audio_162F><Arche>
+「・・・わかった・・・行く」{END}
+
+<audio_1630><Chester>
+「待てよ・・・」
+<pause>
+<audio_1631><Chester>
+「・・・ちょっと、強く言いすぎ
+　たよ・・・」{END}
+
+<audio_1632><Arche>
+「・・・あたし・・・」
+<pause>
+<audio_1633><Arche>
+「アンタに謝らないと・・・」{END}
+
+<audio_1634><Chester>
+「何か言ったか？」<wait>{END}
+
+<audio_1635><Arche>
+「なんでもない！」<wait>{END}
+
+<audio_1636><Arche>
+「言っとくけどね、風邪なんかひ
+　かないでよね！皆が迷惑するん
+　だから」
+<pause>
+<audio_1637><Chester>
+「そっちこそ、夜食を食いすぎて
+　腹こわすなよ！」<wait>{END}
+
+<audio_1638><Arche>
+「よ・け・い・な・お・世・話！」
+<pause>
+<audio_1639><Arche>
+「おやすみっ」{END}
+
+この訓練によって<Chester>に経験値が加算されます。{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}
+
+<audio_163A><Chester>
+「くそ・・・」{END}
+
+<audio_163B><Chester>
+「弱そうだぁ？」{END}
+
+<audio_163C><Chester>
+「ふざけんなよっ！」{END}
+
+<audio_163D><Chester>
+「あのバカ女！」{END}
+
+<audio_163E><Chester>
+「俺は足手まといになんかならな
+　い！」{END}
+
+<audio_163F><Chester>
+「なってたまるものかっ！」{END}
+
+<audio_1640><Chester>
+「今に見てろ・・・」{END}
+
+<audio_1641><Chester>
+「絶対に見返してやる！」{END}
+
+この訓練によって<Chester>に経験値が加算されます。
+<pause>
+{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！{END}
+
+<speed_0000><color_0002>ＬＥＶＥＬ　ＵＰ！
+ＮＥＷ　ＳＫＩＬＬ！{END}
+

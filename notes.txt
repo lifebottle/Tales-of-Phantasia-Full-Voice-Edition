@@ -1,0 +1,1685 @@
+USRDIR/talk - audio files for skits (260 vs. 258 in ToP PSX)
+USRDIR/nmap/map_d - dialogue files, seem to be the same format as ToP PSX
+skits seem to be in the same order
+the 2 new ones are the end and are re-recordings of 257 and 258
+
+type1 - offset and size for each sub-block
+type2 - offset and block type for each sub-block
+all dialogue blocks are type2
+
+in type2 the offsets are counted from AFTER the header
+while type1 they're just absolute offsets in the file
+
+ToPX: 623 map files (63 unique)
+ToP PSX: counting duplicates, there are 622 blocks (62 unique)
+
+each text block starts with two ints: number of strings and base address for pointers
+text pointers are 16-bit relative
+C0 usually precedes the pointers and they are usually followed by 01
+
+a_01_09 -> new block
+
+the name tag for Rhea changed from char_0007 to char_0008
+audio tags are added
+
+game/sys.d (02) - main font, 1bpp, 16x14, left and right halves swapped
+game/monster.d - monster book
+nmap/wo_tim, nmap/wo_tim2 - some graphical text
+nmap/montim{0-7}.acf - monster graphics
+
+NOTE: needs editing for different languages
+FUN_08880c08 - battle menu labels
+0x098251A2 - width and size for Item (RAM)
+e_01.decomp       --0x12A
+src posx, src posy, width, height
+each entry is 8 bytes
+
+0x112 - Artes
+0x11A - Strategy
+0x122 - Formation
+0x12A - Items
+0x132 - Debug
+0x13A - Order
+
+PSX:
+
+top_0002:
+0xB6B9F (RAM) - some minor strings
+0xBCD68 (RAM) - items
+0xBDBDC (RAM) - item descriptions
+0xC2070 (RAM) - more items
+0xC2B00 (RAM) - recipes
+0xC2BE4 (RAM) - recipe descriptions
+0xC31AA (RAM) - recipe messages
+0xC60C9 (RAM) - titles
+0xC6380 (RAM) - more recipes
+0xC647D (RAM) - title descriptions
+0xC7380 (RAM) - artes
+0xC7EF0 (RAM) - arte descriptions
+0xC9029 (RAM) - strategies
+0xC90C0 (RAM) - strategy descriptions
+0xC944C (RAM) - character names and misc menu text
+0xC9BA2 (RAM) - more misc menu text
+0xCA770 (RAM) - more misc menu text
+0xCA870 (RAM) - more misc menu text
+0xCA8F8 (RAM) - more misc menu text
+
+0x2822F (file) - some minor strings (can't find pointers, possibly uses absolute pointers)
+0x2E3F8 (file) - items
+0x2F26C (file) - item descriptions
+0x33700 (file) - more items
+0x34190 (file) - recipes
+0x34274 (file) - recipe descriptions
+0x3483A (file) - recipe messages
+0x37759 (file) - titles
+0x37A10 (file) - more recipes
+0x37B0D (file) - title descriptions
+0x38A10 (file) - artes
+0x39580 (file) - arte descriptions
+0x3A6B9 (file) - strategies
+0x3A750 (file) - strategy descriptions
+0x3AADC (file) - character names and misc menu text
+0x3B232 (file) - more misc menu text
+0x3BE00 (file) - more misc menu text
+0x3BF00 (file) - more misc menu text
+0x3BF88 (file) - more misc menu text (extra strings from Phantasian Productions? base address is 0x3AADC)
+
+1) Tales Of Phantasia (PSX)
++ 0002.bin - text menu (summary items / recipes / titles / artes / tactics, menu text)
+=
+Tales Of Phantasia Cross Edition (PSP)
++ menu.d (compress 03)
+2) Tales Of Phantasia (PSX)
++ 0668.bin - text names shops
+=
+Tales Of Phantasia Cross Edition (PSP)
++ nmap.d (compress 03)
+TXR files 258 = top.prx (ELF)
+2) sys.d = font TIM + RAW ( sys_02.bin - raw)
+3) ttl_dat.d = logo TIM
+
+
+monsters PSX:
+top_0754-0991.bin - use shift-jis
+
+.definelabel ioLoadFile, 0x0892dae8
+
+; make_msg_buf fixed buffers - multiply by 0x44
+   088e1df0 00 31      sll     a2,a3,0x4
+            07 00
+   088e1df4 21 30      addu    a2,a2,a3
+            c7 00
+   088e1df8 80 30      sll     a2,a2,0x2
+            06 00
+
+
+   088e1ec0 00 31      sll     a2,a3,0x4
+            07 00
+   088e1ec4 08 09      lui     v1,0x908
+            03 3c
+   088e1ec8 21 30      addu    a2,a2,a3
+            c7 00
+   088e1ecc 80 30      sll     a2,a2,0x2
+            06 00
+
+
+   088e1fb8 00 29      sll     a1,a2,0x4
+            06 00
+   088e1fbc 21 28      addu    a1,a1,a2
+            a6 00
+   088e1fc0 80 28      sll     a1,a1,0x2
+            05 00
+            03 00
+
+   088e2024 00 19      sll     v1,a2,0x4
+            06 00
+   088e2028 21 18      addu    v1,v1,a2
+            66 00
+   088e202c 80 18      sll     v1,v1,0x2
+
+; dialogue display
+
+   088e2988 44 00      _addiu  s0,s0,0x44
+            10 26
+
+; font in ram
+0x08800000+0x87B794-0x64
+
+; char width
+   088e10a8 0e 00      addiu   a0,a0,0xe
+            84 24
+
+; add_str_prim
+
+   088e0b30 f0 ff      addiu   v0,v0,-0x10
+            42 24
+   088e0b34 57 83      jal     add_knj_prim                      undefined add_knj_prim()
+            23 0e
+   088e0b38 ff ff      _andi   a0,v0,0xffff
+            44 30
+
+sceNid section is bigger than it should be
+Check in the emulator the region at 0x08995BA0
+0x08995ba0-0x0899625f is free
+
+ELF is loaded to 0x8804000
+
+0x0908D2FC - buffer for compressed map file, capped at 0x30000 bytes (uncompressed text section is capped at 0x2A000 bytes)
+
+0x0880A8B8 - malloc
+
+; loads and stores text speed
+   088e23b4 6b 89      jal     get_msg_u_short                   undefined get_msg_u_sh
+            23 0e
+   088e23b8 00 00      _nop
+            00 00
+   088e23bc 08 09      lui     v1,0x908
+            03 3c
+   088e23c0 d0 7b      sh      v0,offset msg_speed(v1)           = ??
+            62 a4
+
+top.prx block pointers (pointer table offset):
+
+topx_prx_battle_jap.txt
+
+   0883104c 9b 08      lui     v0,0x89b
+            02 3c
+   08831050 90 f0      addiu   v0,v0,-0xf70
+            42 24
+
+topx_prx_title_descs_jap.txt
+   088c0518 9b 08      lui     v0,0x89b
+            02 3c
+   088c051c 74 17      addiu   v0,v0,0x1774
+            42 24
+
+topx_prx_item_descs_jap.txt
+   08830ffc 9d 08      lui     v0,0x89d
+            02 3c
+   08831000 34 22      addiu   v0,v0,0x2234
+            42 24
+
+   088c4874 9d 08      lui     v0,0x89d
+            02 3c
+   088c4878 34 22      addiu   v0,v0,0x2234
+            42 24
+
+topx_prx_titles_jap.txt
+
+   088c0240 9b 08      lui     v0,0x89b
+            02 3c
+   088c0244 9b 08      lui     v1,0x89b
+            03 3c
+   088c0248 bc 28      addiu   v0,v0,0x28bc
+            42 24
+
+   088c0500 9b 08      lui     v0,0x89b
+            02 3c
+   088c0504 bc 28      addiu   v0,v0,0x28bc
+            42 24
+
+   088c1e5c 9b 08      lui     v0,0x89b
+            02 3c
+   088c1e60 9b 08      lui     v1,0x89b
+            03 3c
+   088c1e64 bc 28      addiu   v0,v0,0x28bc
+            42 24
+
+   088e15a0 9b 08      lui     v0,0x89b
+            02 3c
+   088e15a4 bc 28      addiu   v0,v0,0x28bc
+            42 24
+
+topx_prx_items_jap.txt
+
+   08830fd4 9d 08      lui     v0,0x89d
+            02 3c
+   08830fd8 0c 70      addiu   v0,v0,0x700c
+            42 24
+
+   088affbc 9d 08      lui     v0,0x89d
+            02 3c
+   088affc0 40 18      sll     v1,s0,0x1
+            10 00
+   088affc4 0c 70      addiu   v0,v0,0x700c
+            42 24
+
+   088b75ac 9d 08      lui     v0,0x89d
+            02 3c
+   088b75b0 40 18      sll     v1,s0,0x1
+            10 00
+   088b75b4 0c 70      addiu   v0,v0,0x700c
+            42 24
+
+   088b7808 9d 08      lui     v0,0x89d
+            02 3c
+   088b780c 0c 70      addiu   v0,v0,0x700c
+            42 24
+
+   088b8ffc 9d 08      lui     v0,0x89d
+            02 3c
+   088b9000 0c 70      addiu   v0,v0,0x700c
+            42 24
+
+   088b91b8 9d 08      lui     v0,0x89d
+            02 3c
+   088b91bc 40 18      sll     v1,s0,0x1
+            10 00
+   088b91c0 0c 70      addiu   v0,v0,0x700c
+            42 24
+
+   088c140c 9d 08      lui     v0,0x89d
+            02 3c
+   088c1410 40 18      sll     v1,t0,0x1
+            08 00
+   088c1414 0c 70      addiu   v0,v0,0x700c
+            42 24
+
+   088c1ae0 9d 08      lui     v0,0x89d
+            02 3c
+   088c1ae4 40 18      sll     v1,t0,0x1
+            08 00
+   088c1ae8 0c 70      addiu   v0,v0,0x700c
+            42 24
+
+   088c21d0 9d 08      lui     v0,0x89d
+            02 3c
+   088c21d4 0c 70      addiu   v0,v0,0x700c
+            42 24
+
+   088c47ac 9d 08      lui     v0,0x89d
+            02 3c
+   088c47b0 0c 70      addiu   v0,v0,0x700c
+            42 24
+
+   088c4fc0 9d 08      lui     v0,0x89d
+            02 3c
+   088c4fc4 0c 70      addiu   v0,v0,0x700c
+            42 24
+
+   088ce8e8 9d 08      lui     a0,0x89d
+            04 3c
+   088ce8ec 9d 08      lui     v1,0x89d
+            03 3c
+   088ce8f0 21 60      li      t4,0
+            00 00
+   088ce8f4 21 50      li      t2,0
+            00 00
+   088ce8f8 01 00      li      a1,0x1
+            05 24
+   088ce8fc 0c 70      addiu   a0,a0,0x700c
+            84 24
+
+   088dae04 9d 08      lui     v0,0x89d
+            02 3c
+   088dae08 40 18      sll     v1,s0,0x1
+            10 00
+   088dae0c 0c 70      addiu   v0,v0,0x700c
+            42 24
+
+
+   088e0564 9d 08      lui     v1,0x89d
+            03 3c
+   088e0568 9d 08      lui     v0,0x89d
+            02 3c
+   088e056c 0c 70      addiu   v1,v1,0x700c
+            63 24
+
+   088e0904 9d 08      lui     v0,0x89d
+            02 3c
+   088e0908 0c 70      addiu   v0,v0,0x700c
+            42 24
+
+   088e2690 9d 08      lui     v0,0x89d
+            02 3c
+   088e2694 40 18      sll     v1,a0,0x1
+            04 00
+   088e2698 0c 70      addiu   v0,v0,0x700c
+            42 24
+
+   088ed6a4 9d 08      lui     v0,0x89d
+            02 3c
+   088ed6a8 0c 70      addiu   v0,v0,0x700c
+            42 24
+
+   088f0c38 9d 08      lui     v0,0x89d
+            02 3c
+   088f0c3c 0c 70      addiu   v0,v0,0x700c
+            42 24
+
+   topx_prx_misc2_jap:
+
+
+   088a9cc0 c5 08      lui     v0,0x8c5
+            02 3c
+   088a9cc4 78 86      lhu     v1,-0x7988(v0)=>DAT_08c48678      = 00F4h
+            43 94
+
+   088aab90 c5 08      lui     v0,0x8c5
+            02 3c
+   088aab94 c4 86      lhu     v1,-0x793c(v0)=>DAT_08c486c4      = 04DEh
+            43 94
+
+   088aac10 c5 08      lui     v0,0x8c5
+            02 3c
+   088aac14 c5 08      lui     v1,0x8c5
+            03 3c
+   088aac18 5c 86      addiu   v0,v0,-0x79a4
+            42 24
+
+   088ab0cc c5 08      _lui    v0,0x8c5
+            02 3c
+   088ab624 aa 86      lhu     a0,-0x7956(v0)=>DAT_08c486aa      = 036Ah
+            44 94
+
+   088ab654 c5 08      lui     v0,0x8c5
+            02 3c
+   088ab658 ac 86      lhu     a0,-0x7954(v0)=>DAT_08c486ac      = 0386h
+            44 94
+
+   088ab6c8 c5 08      lui     v0,0x8c5
+            02 3c
+   088ab6cc ae 86      lhu     a0,-0x7952(v0)=>DAT_08c486ae      = 03A4h
+            44 94
+
+   088ab6f4 c5 08      lui     v0,0x8c5
+            02 3c
+   088ab6f8 b0 86      lhu     a0,-0x7950(v0)=>DAT_08c486b0      = 03AAh
+            44 94
+
+   088ab720 c5 08      lui     v0,0x8c5
+            02 3c
+   088ab724 b2 86      lhu     a0,-0x794e(v0)=>DAT_08c486b2      = 03B6h
+            44 94
+
+   088abc28 c5 08      lui     v0,0x8c5
+            02 3c
+   088abc2c 84 86      lhu     v1,-0x797c(v0)=>DAT_08c48684      = 0136h
+            43 94
+
+   088abd38 c5 08      lui     v0,0x8c5
+            02 3c
+   088abd3c 40 87      lhu     a0,-0x78c0(v0)=>DAT_08c48740      = 0BD4h
+            44 94
+
+   088abe40 c5 08      lui     v0,0x8c5
+            02 3c
+   088abe44 44 87      lhu     a0,-0x78bc(v0)=>DAT_08c48744      = 0C06h
+            44 94
+
+   088abeb4 c5 08      lui     v0,0x8c5
+            02 3c
+   088abeb8 48 87      lhu     a0,-0x78b8(v0)=>DAT_08c48748      = 0C28h
+            44 94
+
+   088abf10 c5 08      lui     v0,0x8c5
+            02 3c
+   088abf14 42 87      lhu     a0,-0x78be(v0)=>DAT_08c48742      = 0BFAh
+            44 94
+
+   088abf84 c5 08      lui     v0,0x8c5
+            02 3c
+   088abf88 46 87      lhu     a0,-0x78ba(v0)=>DAT_08c48746      = 0C14h
+            44 94
+
+   088abfe0 c5 08      lui     v0,0x8c5
+            02 3c
+   088abfe4 4a 87      lhu     a0,-0x78b6(v0)=>DAT_08c4874a      = 0C3Ch
+            44 94
+
+   088bdf08 c5 08      lui     v1,0x8c5
+            03 3c
+   088bdf0c 5c 86      addiu   v1,v1,-0x79a4
+            63 24
+
+   088ac054 c5 08      lui     v0,0x8c5
+            02 3c
+   088ac058 52 87      lhu     a0,-0x78ae(v0)=>DAT_08c48752      = 0C70h
+            44 94
+
+   088ac0b0 c5 08      lui     v0,0x8c5
+            02 3c
+   088ac0b4 4c 87      lhu     a0,-0x78b4(v0)=>DAT_08c4874c      = 0C46h
+            44 94
+
+   088ac124 c5 08      lui     v0,0x8c5
+            02 3c
+   088ac128 54 87      lhu     a0,-0x78ac(v0)=>DAT_08c48754      = 0C7Ch
+            44 94
+
+   088ac180 c5 08      lui     v0,0x8c5
+            02 3c
+   088ac184 4e 87      lhu     a0,-0x78b2(v0)=>DAT_08c4874e      = 0C50h
+            44 94
+
+   088ac1dc c5 08      lui     v0,0x8c5
+            02 3c
+   088ac1e0 50 87      lhu     a0,-0x78b0(v0)=>DAT_08c48750      = 0C60h
+            44 94
+
+   088af714 c5 08      lui     v0,0x8c5
+            02 3c
+   088af718 86 86      lhu     v1,-0x797a(v0)=>DAT_08c48686      = 0144h
+            43 94
+
+   088b4c78 c5 08      lui     v0,0x8c5
+            02 3c
+   088b4c7c 68 86      lhu     v1,-0x7998(v0)=>DAT_08c48668      = 00BAh
+            43 94
+
+   088b6178 c5 08      lui     v0,0x8c5
+            02 3c
+   088b617c a6 86      lhu     a0,-0x795a(v0)=>DAT_08c486a6      = 02CEh
+            44 94
+
+   088b61b4 c5 08      lui     v0,0x8c5
+            02 3c
+   088b61b8 c0 86      lhu     a0,-0x7940(v0)=>DAT_08c486c0      = 04A0h
+            44 94
+
+   088b61f0 c5 08      lui     v0,0x8c5
+            02 3c
+   088b61f4 a8 86      lhu     a0,-0x7958(v0)=>DAT_08c486a8      = 031Eh
+            44 94
+
+   088b621c c5 08      lui     v0,0x8c5
+            02 3c
+   088b6220 c2 86      lhu     a0,-0x793e(v0)=>DAT_08c486c2      = 04C0h
+            44 94
+
+   088b61ec c5 08      _lui    v0,0x8c5
+            02 3c
+   088b6250 a8 86      lhu     a0,-0x7958(v0)=>DAT_08c486a8      = 031Eh
+            44 94
+
+   088b6278 c5 08      lui     v0,0x8c5
+            02 3c
+   088b627c c0 86      lhu     a0,-0x7940(v0)=>DAT_08c486c0      = 04A0h
+            44 94
+
+   088b63b4 c5 08      lui     v0,0x8c5
+            02 3c
+   088b63b8 88 86      addiu   v0,v0,-0x7978
+            42 24
+
+   088b6db0 c5 08      lui     v0,0x8c5
+            02 3c
+   088b6db4 6a 86      lhu     v1,-0x7996(v0)=>DAT_08c4866a      = 00C0h
+            43 94
+
+   088b7c0c c5 08      lui     v0,0x8c5
+            02 3c
+   088b7c10 9c 86      addiu   v0,v0,-0x7964
+            42 24
+
+   088b7d58 c5 08      _lui    v0,0x8c5
+            02 3c
+   088b7d74 2e 87      lhu     v1,-0x78d2(v0)=>DAT_08c4872e      = 0AFCh
+            43 94
+
+   088b8114 c5 08      lui     v0,0x8c5
+            02 3c
+   088b8118 32 87      addiu   v0,v0,-0x78ce
+            42 24
+
+   088b8924 c5 08      lui     v0,0x8c5
+            02 3c
+   088b8928 7c 86      lhu     v1,-0x7984(v0)=>DAT_08c4867c      = 0106h
+            43 94
+
+   088b8920 c5 08      _lui    v0,0x8c5
+            02 3c
+   088b8948 6c 86      lhu     v1,-0x7994(v0)=>DAT_08c4866c      = 00C6h
+            43 94
+
+   088b8ab8 c5 08      lui     v0,0x8c5
+            02 3c
+   088b8abc 20 36      seh     a2,v1
+            03 7c
+   088b8ac0 82 86      lhu     v1,-0x797e(v0)=>DAT_08c48682      = 0128h
+            43 94
+
+   088b8b7c c5 08      lui     v0,0x8c5
+            02 3c
+   088b8b80 20 36      seh     a2,v1
+            03 7c
+   088b8b84 92 86      lhu     v1,-0x796e(v0)=>DAT_08c48692      = 019Ah
+            43 94
+
+   088b9f58 c5 08      lui     v0,0x8c5
+            02 3c
+   088b9f5c ee 86      lhu     a0,-0x7912(v0)=>DAT_08c486ee      = 0628h
+            44 94
+
+   088b9f84 c5 08      lui     v0,0x8c5
+            02 3c
+   088b9f88 88 86      lhu     a0,-0x7978(v0)=>DAT_08c48688      = 0154h
+            44 94
+
+   088b9fb0 c5 08      lui     v0,0x8c5
+            02 3c
+   088b9fb4 8a 86      lhu     a0,-0x7976(v0)=>DAT_08c4868a      = 015Ah
+            44 94
+
+   088bc908 c5 08      lui     v0,0x8c5
+            02 3c
+   088bc90c b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088bcc24 c5 08      lui     v0,0x8c5
+            02 3c
+   088bcc28 6e 86      lhu     v1,-0x7992(v0)=>DAT_08c4866e      = 00D0h
+            43 94
+
+   088bdb34 c5 08      lui     v0,0x8c5
+            02 3c
+   088bdb38 70 86      lhu     v1,-0x7990(v0)=>DAT_08c48670      = 00D6h
+            43 94
+
+   088bdf08 c5 08      lui     v1,0x8c5
+            03 3c
+   088bdf0c 5c 86      addiu   v1,v1,-0x79a4
+            63 24
+
+   088bf724 c5 08      lui     v0,0x8c5
+            02 3c
+   088bf728 9a 86      lhu     v1,-0x7966(v0)=>DAT_08c4869a      = 01E8h
+            43 94
+
+   088bf740 c5 08      lui     v0,0x8c5
+            02 3c
+   088bf744 9c 86      lhu     a1,-0x7964(v0)=>DAT_08c4869c      = 01FEh
+            45 94
+
+   088c006c c5 08      lui     v0,0x8c5
+            02 3c
+   088c0070 72 86      lhu     v1,-0x798e(v0)=>DAT_08c48672      = 00DCh
+            43 94
+
+   088c0728 c5 08      lui     v0,0x8c5
+            02 3c
+   088c072c 74 86      lhu     v1,-0x798c(v0)=>DAT_08c48674      = 00E2h
+            43 94
+
+   088c11cc c5 08      lui     v0,0x8c5
+            02 3c
+   088c11d0 3e 87      lhu     a0,-0x78c2(v0)=>DAT_08c4873e      = 0BBAh
+            44 94
+
+   088c1758 c5 08      lui     v0,0x8c5
+            02 3c
+   088c175c 36 87      lhu     a0,-0x78ca(v0)=>PTR_DAT_08c48736  = 0b720b5e
+            44 94
+
+   088c1d2c c5 08      lui     v0,0x8c5
+            02 3c
+   088c1d30 76 86      lhu     v1,-0x798a(v0)=>DAT_08c48676      = 00E8h
+            43 94
+
+   088c28a0 c5 08      lui     v0,0x8c5
+            02 3c
+   088c28a4 7e 86      lhu     v1,-0x7982(v0)=>DAT_08c4867e      = 010Eh
+            43 94
+
+   088c3c4c c5 08      _lui    v0,0x8c5
+            02 3c
+   088c3c58 f4 86      lhu     a0,-0x790c(v0)=>DAT_08c486f4      = 0672h
+            44 94
+
+   088c41d8 c5 08      lui     v1,0x8c5
+            03 3c
+   088c41dc 5c 86      addiu   v1,v1,-0x79a4
+            63 24
+
+   088c422c c5 08      lui     v0,0x8c5
+            02 3c
+   088c4230 88 86      lhu     v1,-0x7978(v0)=>DAT_08c48688      = 0154h
+            43 94
+
+   088c4264 c5 08      lui     v0,0x8c5
+            02 3c
+   088c4268 8a 86      lhu     v1,-0x7976(v0)=>DAT_08c4868a      = 015Ah
+            43 94
+
+   088c47e4 c5 08      lui     v1,0x8c5
+            03 3c
+   088c47e8 c5 08      lui     v0,0x8c5
+            02 3c
+   088c47ec 56 87      addiu   v1,v1,-0x78aa
+            63 24
+
+   088c4c64 c5 08      lui     v0,0x8c5
+            02 3c
+   088c4c68 9c 87      addiu   v0,v0,-0x7864
+            42 24
+
+   088c4d20 c5 08      lui     v0,0x8c5
+            02 3c
+   088c4d24 94 86      lhu     a0,-0x796c(v0)=>DAT_08c48694      = 01AAh
+            44 94
+
+   088c4d4c c5 08      lui     v0,0x8c5
+            02 3c
+   088c4d50 96 86      lhu     a0,-0x796a(v0)=>DAT_08c48696      = 01C2h
+            44 94
+
+   088c4d9c c5 08      lui     v1,0x8c5
+            03 3c
+   088c4da0 40 20      sll     a0,a0,0x1
+            04 00
+   088c4da4 5c 86      addiu   v1,v1,-0x79a4
+            63 24
+
+   088c4df4 c5 08      lui     v1,0x8c5
+            03 3c
+   088c4df8 40 20      sll     a0,a0,0x1
+            04 00
+   088c4dfc 5c 86      addiu   v1,v1,-0x79a4
+            63 24
+
+   088c4ff4 c5 08      lui     v0,0x8c5
+            02 3c
+   088c4ff8 98 86      lhu     a0,-0x7968(v0)=>DAT_08c48698      = 01D8h
+            44 94
+
+   088c5024 c5 08      lui     v0,0x8c5
+            02 3c
+   088c5028 88 86      lhu     a0,-0x7978(v0)=>DAT_08c48688      = 0154h
+            44 94
+
+   088c5050 c5 08      lui     v0,0x8c5
+            02 3c
+   088c5054 8a 86      lhu     a0,-0x7976(v0)=>DAT_08c4868a      = 015Ah
+            44 94
+
+   088c514c c5 08      lui     v0,0x8c5
+            02 3c
+   088c5150 e6 86      lhu     a0,-0x791a(v0)=>DAT_08c486e6      = 05AAh
+            44 94
+
+   088c5178 c5 08      lui     v0,0x8c5
+            02 3c
+   088c517c 88 86      lhu     a0,-0x7978(v0)=>DAT_08c48688      = 0154h
+            44 94
+
+   088c51a4 c5 08      lui     v0,0x8c5
+            02 3c
+   088c51a8 8a 86      lhu     a0,-0x7976(v0)=>DAT_08c4868a      = 015Ah
+            44 94
+
+   088c5304 c5 08      lui     v0,0x8c5
+            02 3c
+   088c5308 2c 87      lhu     a0,-0x78d4(v0)=>DAT_08c4872c      = 0ADEh
+            44 94
+
+   088dabcc c5 08      lui     v0,0x8c5
+            02 3c
+   088dabd0 40 18      sll     v1,v1,0x1
+            03 00
+   088dabd4 d0 86      addiu   v0,v0,-0x7930
+            42 24
+
+   088db03c c5 08      lui     s1,0x8c5
+            11 3c
+   088db040 21 90      li      s2,0
+            00 00
+   088db044 5c 86      addiu   s1,s1,-0x79a4
+            31 26
+
+   088db08c c5 08      lui     s1,0x8c5
+            11 3c
+   088db090 21 80      li      s0,0
+            00 00
+   088db094 4c 00      li      s3,0x4c
+            13 24
+   088db098 58 9b      addiu   s2,s2,-0x64a8
+            52 26
+   088db09c 5c 86      addiu   s1,s1,-0x79a4
+            31 26
+
+   088db118 c5 08      lui     s1,0x8c5
+            11 3c
+   088db11c 21 80      li      s0,0
+            00 00
+   088db120 60 00      li      s3,0x60
+            13 24
+   088db124 60 9b      addiu   s2,s2,-0x64a0
+            52 26
+   088db128 5c 86      addiu   s1,s1,-0x79a4
+            31 26
+
+   088e1614 c5 08      lui     v0,0x8c5
+            02 3c
+   088e1618 5c 86      addiu   v0,v0,-0x79a4
+            42 24
+
+top.prx block pointers (first string offset):
+
+topx_prx_battle_jap.txt:
+
+   0883105c 9b 08      lui     v0,0x89b
+            02 3c
+   08831060 b4 f0      addiu   v0,v0,-0xf4c
+            42 24
+
+topx_prx_title_descs_jap:
+
+   088c0510 9b 08      lui     v1,0x89b
+            03 3c
+   088c0514 a0 29      addiu   v1,v1,0x29a0
+            63 24
+
+topx_prx_item_descs_jap:
+
+   0883100c 9d 08      lui     v0,0x89d
+            02 3c
+   08831010 5c 25      addiu   v0,v0,0x255c
+            42 24
+
+   088c486c 9d 08      lui     v1,0x89d
+            03 3c
+   088c4870 5c 25      addiu   v1,v1,0x255c
+            63 24
+
+topx_prx_titles_jap:
+
+   088c0244 9b 08      lui     v1,0x89b
+            03 3c
+   088c0248 bc 28      addiu   v0,v0,0x28bc
+            42 24
+   088c024c 40 20      sll     a0,a0,0x1
+            04 00
+   088c0250 21 10      addu    v0,v0,a0
+            44 00
+   088c0254 00 00      lhu     a1,0x0(v0)=>class_name_ptr        = 01h
+            45 94
+   088c0258 a0 29      addiu   v1,v1,0x29a0
+            63 24
+
+   088c03b4 9b 08      lui     v0,0x89b
+            02 3c
+   088c03b8 40 19      sll     v1,a0,0x5
+            04 00
+   088c03bc bc 28      addiu   v0,v0,0x28bc
+            42 24
+
+   088c0510 9b 08      lui     v1,0x89b
+            03 3c
+   088c0514 a0 29      addiu   v1,v1,0x29a0
+            63 24
+
+   088c1e60 9b 08      lui     v1,0x89b
+            03 3c
+   088c1e64 bc 28      addiu   v0,v0,0x28bc
+            42 24
+   088c1e68 40 20      sll     a0,a0,0x1
+            04 00
+   088c1e6c 21 10      addu    v0,v0,a0
+            44 00
+   088c1e70 00 00      lhu     a1,0x0(v0)=>class_name_ptr        = 01h
+            45 94
+   088c1e74 a0 29      addiu   v1,v1,0x29a0
+            63 24
+
+   088e15b0 9b 08      lui     v0,0x89b
+            02 3c
+   088e15b4 a0 29      addiu   v0,v0,0x29a0
+            42 24
+
+topx_prx_items_jap:
+
+   08830fe4 9d 08      lui     v0,0x89d
+            02 3c
+   08830fe8 34 73      addiu   v0,v0,0x7334
+            42 24
+
+   088affd8 9d 08      lui     v0,0x89d
+            02 3c
+   088affdc 34 73      addiu   v0,v0,0x7334
+            42 24
+
+   088b75c0 9d 08      lui     v1,0x89d
+            03 3c
+   088b75c4 34 73      addiu   v1,v1,0x7334
+            63 24
+
+   088b7818 9d 08      lui     v1,0x89d
+            03 3c
+   088b781c 34 73      addiu   v1,v1,0x7334
+            63 24
+
+   088b900c 9d 08      lui     v1,0x89d
+            03 3c
+   088b9010 34 73      addiu   v1,v1,0x7334
+            63 24
+
+   088b91d4 9d 08      lui     v0,0x89d
+            02 3c
+   088b91d8 34 73      addiu   v0,v0,0x7334
+            42 24
+
+   088c1420 9d 08      lui     v1,0x89d
+            03 3c
+   088c1424 34 73      addiu   v1,v1,0x7334
+            63 24
+
+   088c1af8 9d 08      lui     v1,0x89d
+            03 3c
+   088c1afc 34 73      addiu   v1,v1,0x7334
+            63 24
+
+   088c21e0 9d 08      lui     v1,0x89d
+            03 3c
+   088c21e4 34 73      addiu   v1,v1,0x7334
+            63 24
+
+   088c47a4 9d 08      lui     v1,0x89d
+            03 3c
+   088c47a8 34 73      addiu   v1,v1,0x7334
+            63 24
+
+   088c4fb8 9d 08      lui     v1,0x89d
+            03 3c
+   088c4fbc 34 73      addiu   v1,v1,0x7334
+            63 24
+
+   088ce8ec 9d 08      lui     v1,0x89d
+            03 3c
+   088ce8f0 21 60      li      t4,0
+            00 00
+   088ce8f4 21 50      li      t2,0
+            00 00
+   088ce8f8 01 00      li      a1,0x1
+            05 24
+   088ce8fc 0c 70      addiu   a0,a0,0x700c
+            84 24
+   088ce900 34 73      addiu   v1,v1,0x7334
+            63 24
+
+   088dae18 9d 08      lui     v1,0x89d
+            03 3c
+   088dae1c 34 73      addiu   v1,v1,0x7334
+            63 24
+
+   088e0568 9d 08      lui     v0,0x89d
+            02 3c
+   088e056c 0c 70      addiu   v1,v1,0x700c
+            63 24
+   088e0570 40 20      sll     a0,a0,0x1
+            04 00
+   088e0574 21 18      addu    v1,v1,a0
+            64 00
+   088e0578 00 00      lhu     v1,0x0(v1)=>item_name_ptr         = 01h
+            63 94
+   088e057c 34 73      addiu   v0,v0,0x7334
+            42 24
+
+   088e0900 9d 08      lui     v1,0x89d
+            03 3c
+   088e0904 9d 08      lui     v0,0x89d
+            02 3c
+   088e0908 0c 70      addiu   v0,v0,0x700c
+            42 24
+   088e090c 40 20      sll     a0,a0,0x1
+            04 00
+   088e0910 21 10      addu    v0,v0,a0
+            44 00
+   088e0914 00 00      lhu     a1,0x0(v0)=>item_name_ptr         = 01h
+            45 94
+   088e0918 34 73      addiu   v1,v1,0x7334
+            63 24
+
+   088e26a8 9d 08      lui     v0,0x89d
+            02 3c
+   088e26ac 34 73      addiu   v0,v0,0x7334
+            42 24
+
+   088ed6bc 9d 08      lui     v0,0x89d
+            02 3c
+   088ed6c0 34 73      addiu   v0,v0,0x7334
+            42 24
+
+   088f0c6c 9d 08      lui     v0,0x89d
+            02 3c
+   088f0c70 34 73      addiu   v0,v0,0x7334
+            42 24
+
+   topx_prx_misc2_jap.txt:
+
+   088a9ccc c5 08      lui     v0,0x8c5
+            02 3c
+   088a9cd0 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088aab98 c5 08      lui     v0,0x8c5
+            02 3c
+   088aab9c b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088bdf18 c5 08      lui     v0,0x8c5
+            02 3c
+   088bdf1c 00 00      lhu     v1,0x0(v1)=>str14_ptr             = 02h
+            63 94
+   088bdf20 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088aac14 c5 08      lui     v1,0x8c5
+            03 3c
+   088aac18 5c 86      addiu   v0,v0,-0x79a4
+            42 24
+   088aac1c 40 20      sll     a0,a0,0x1
+            04 00
+   088aac20 21 10      addu    v0,v0,a0
+            44 00
+   088aac24 6a 00      lhu     a0,0x6a(v0)=>DAT_08c486c6         = F4h
+            44 94
+   088aac28 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088ab628 c5 08      lui     v1,0x8c5
+            03 3c
+   088ab62c b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088ab65c c5 08      lui     v1,0x8c5
+            03 3c
+   088ab660 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088ab6d0 c5 08      lui     v1,0x8c5
+            03 3c
+   088ab6d4 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088ab6fc c5 08      lui     v1,0x8c5
+            03 3c
+   088ab700 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088ab728 c5 08      lui     v1,0x8c5
+            03 3c
+   088ab72c b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088abc34 c5 08      lui     v0,0x8c5
+            02 3c
+   088abc38 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088abd40 c5 08      lui     v1,0x8c5
+            03 3c
+   088abd44 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088abe48 c5 08      lui     v1,0x8c5
+            03 3c
+   088abe4c b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088abebc c5 08      lui     v1,0x8c5
+            03 3c
+   088abec0 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088abf18 c5 08      lui     v1,0x8c5
+            03 3c
+   088abf1c b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088abf8c c5 08      lui     v1,0x8c5
+            03 3c
+   088abf90 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088abfe8 c5 08      lui     v1,0x8c5
+            03 3c
+   088abfec b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088ac05c c5 08      lui     v1,0x8c5
+            03 3c
+   088ac060 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088ac0b8 c5 08      lui     v1,0x8c5
+            03 3c
+   088ac0bc b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088ac12c c5 08      lui     v1,0x8c5
+            03 3c
+   088ac130 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088ac188 c5 08      lui     v1,0x8c5
+            03 3c
+   088ac18c b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088ac1e4 c5 08      lui     v1,0x8c5
+            03 3c
+   088ac1e8 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088af720 c5 08      lui     v0,0x8c5
+            02 3c
+   088af724 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088b4c84 c5 08      lui     v0,0x8c5
+            02 3c
+   088b4c88 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088b6180 c5 08      lui     v1,0x8c5
+            03 3c
+   088b6184 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088b61bc c5 08      lui     v1,0x8c5
+            03 3c
+   088b61c0 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088b61f8 c5 08      lui     v1,0x8c5
+            03 3c
+   088b61fc b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088b6224 c5 08      lui     v1,0x8c5
+            03 3c
+   088b6228 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088b6254 c5 08      lui     v1,0x8c5
+            03 3c
+   088b6258 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088b6280 c5 08      lui     v1,0x8c5
+            03 3c
+   088b6284 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088b63cc c5 08      lui     v0,0x8c5
+            02 3c
+   088b63d0 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088b6dbc c5 08      lui     v0,0x8c5
+            02 3c
+   088b6dc0 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088b7c1c c5 08      lui     v1,0x8c5
+            03 3c
+   088b7c20 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088b7d78 c5 08      lui     a0,0x8c5
+            04 3c
+   088b7d7c b8 87      addiu   a0,a0,-0x7848
+            84 24
+
+   088b8124 c5 08      lui     v0,0x8c5
+            02 3c
+   088b8128 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088b8930 c5 08      lui     v0,0x8c5
+            02 3c
+   088b8934 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088b8950 c5 08      lui     v0,0x8c5
+            02 3c
+   088b8954 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088b8ac4 c5 08      lui     v0,0x8c5
+            02 3c
+   088b8ac8 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088b8b88 c5 08      lui     v0,0x8c5
+            02 3c
+   088b8b8c b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088b9f60 c5 08      lui     v1,0x8c5
+            03 3c
+   088b9f64 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088b9f8c c5 08      lui     v1,0x8c5
+            03 3c
+   088b9f90 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088b9fb8 c5 08      lui     v1,0x8c5
+            03 3c
+   088b9fbc b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088bc908 c5 08      lui     v0,0x8c5
+            02 3c
+   088bc90c b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088bcc30 c5 08      lui     v0,0x8c5
+            02 3c
+   088bcc34 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088bdb40 c5 08      lui     v0,0x8c5
+            02 3c
+   088bdb44 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088bdf18 c5 08      lui     v0,0x8c5
+            02 3c
+   088bdf1c 00 00      lhu     v1,0x0(v1)=>str14_ptr             = 02h
+            63 94
+   088bdf20 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088bf72c c5 08      lui     v0,0x8c5
+            02 3c
+   088bf730 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088bf748 c5 08      lui     a0,0x8c5
+            04 3c
+   088bf74c b8 87      addiu   a0,a0,-0x7848
+            84 24
+
+   088c0078 c5 08      lui     v0,0x8c5
+            02 3c
+   088c007c b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088c0734 c5 08      lui     v0,0x8c5
+            02 3c
+   088c0738 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088c11c4 c5 08      lui     v1,0x8c5
+            03 3c
+   088c11c8 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088c1760 c5 08      lui     v1,0x8c5
+            03 3c
+   088c1764 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088c1d38 c5 08      lui     v0,0x8c5
+            02 3c
+   088c1d3c b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088c28ac c5 08      lui     v0,0x8c5
+            02 3c
+   088c28b0 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088c3c5c c5 08      lui     v1,0x8c5
+            03 3c
+   088c3c60 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088c41e4 c5 08      lui     v0,0x8c5
+            02 3c
+   088c41e8 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088c4238 c5 08      lui     v0,0x8c5
+            02 3c
+   088c423c b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088c4274 c5 08      lui     v0,0x8c5
+            02 3c
+   088c4278 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088c47e8 c5 08      lui     v0,0x8c5
+            02 3c
+   088c47ec 56 87      addiu   v1,v1,-0x78aa
+            63 24
+   088c47f0 40 20      sll     a0,a0,0x1
+            04 00
+   088c47f4 21 18      addu    v1,v1,a0
+            64 00
+   088c47f8 00 00      lhu     v1,0x0(v1)=>PTR_DAT_08c48756      = 0c960c8c
+            63 94
+   088c47fc b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088c4c74 c5 08      lui     v1,0x8c5
+            03 3c
+   088c4c78 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088c4d28 c5 08      lui     v1,0x8c5
+            03 3c
+   088c4d2c b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088c4d54 c5 08      lui     v1,0x8c5
+            03 3c
+   088c4d58 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088c4db0 c5 08      lui     a0,0x8c5
+            04 3c
+   088c4db4 b8 87      addiu   a0,a0,-0x7848
+            84 24
+
+   088c4e08 c5 08      lui     a0,0x8c5
+            04 3c
+   088c4e0c b8 87      addiu   a0,a0,-0x7848
+            84 24
+
+   088c4ffc c5 08      lui     v1,0x8c5
+            03 3c
+   088c5000 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088c502c c5 08      lui     v1,0x8c5
+            03 3c
+   088c5030 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088c5058 c5 08      lui     v1,0x8c5
+            03 3c
+   088c505c b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088c5154 c5 08      lui     v1,0x8c5
+            03 3c
+   088c5158 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088c5180 c5 08      lui     v1,0x8c5
+            03 3c
+   088c5184 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088c51ac c5 08      lui     v1,0x8c5
+            03 3c
+   088c51b0 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088c530c c5 08      lui     v1,0x8c5
+            03 3c
+   088c5310 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088dabe0 c5 08      lui     v0,0x8c5
+            02 3c
+   088dabe4 b8 87      addiu   v0,v0,-0x7848
+            42 24
+
+   088db050 c5 08      lui     v1,0x8c5
+            03 3c
+   088db054 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088db0d8 c5 08      lui     v1,0x8c5
+            03 3c
+   088db0dc b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088db14c c5 08      lui     v1,0x8c5
+            03 3c
+   088db150 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   088e1624 c5 08      lui     v1,0x8c5
+            03 3c
+   088e1628 b8 87      addiu   v1,v1,-0x7848
+            63 24
+
+   ; play time animation
+   ; FUN_088b413c
+
+   ; FUN_08831044 - display battle string
+
+   ; FUN_0887c0f0 - battle item menu
+
+   ; FUN_088b8fb4 - main menu item list
+
+   ; FUN_088c2c8c - name entry screen name display
+
+   ; 088c2d5c - check for this caller in add_knj_prim (for name entry) - 0x3c(sp)
+
+   ; FUN_088c22a0 - name entry screen
+
+   ; 0x44887E "Item"
+   ; 8C487B8 - misc2 first string
+
+
+item found - 08c28e2c (424E80)
+
+0x8c278b0 - map file - 5916 bytes big (0x26CD4 in top_0002 in PSX)
+
+
+pointers to resident message map:
+                    LAB_088d4bac                      XREF[1]: 088d4b94(j)  
+   088d4bac c3 08      lui     v1,0x8c3
+            03 3c
+   088d4bb0 cc 8f      lw      param_1,-0x7034(v1)=>res_sce_data = 08c278b0
+            64 8c
+
+                    init_resident_msg                 XREF[1]: init_sce_sys:088d4acc(
+   088d50dc c3 08      lui     v1,0x8c3
+            03 3c
+         assume gp = <UNKNOWN>
+   088d50e0 cc 8f      lw      t1,-0x7034(v1)=>res_sce_data      = 08c278b0
+            69 8c
+
+add_asc_prim
+move_str_cursor
+get_special_name
+dsp_menu_title
+add_k12_prim
+FUN_088b5ec4
+menu_special_main
+
+the third argument to add_str_prim basically selects the font: 0 = ank (kana), 1 = k12 (small kanji), 2 = knj (big kanji)
+
+
+int FUN_0883101c(uint param_1)
+
+{
+  return *(ushort *)(&DAT_089aef60 + (param_1 & 0xffff) * 2) + 0x89aefb4;
+}
+
+patch other writes in menu_item_main
+
+FUN_088c4ce4 - bare-handed message
+4446A8 - ryori (k12)
+08c48634 - main menu ptr table
+
+insert main menu
+
+FUN_088b3e50 - main menu options
+
+0x9207400 - Japanese Yes/No
+0x92F7800 - English Yes/No
+
+8D9A9D8 (59A9D8) - Hellhound in ram
+088570E0 - monster name write
+088A67C4
+
+FUN_088a6770
+
+089b10d0 - monster names (shift-jis)
+089b10d0 - shift-jis look-up table
+
+FUN_088c4f80 - discard message
+
+FUN_088c4ce4 - Formation (undo)
+
+08c290c0 - window funcs
+
+FUN_088b9080 - render item with number
+FUN_088b74d0 - render equipment menu left
+
+FUN_088b5960 - Cless artes list
+FUN_088b5c00 - normal artes list
+
+
+world map:
+
+   088ee15c c6 08      _lui    s3,0x8c6
+            13 3c
+   088ee160 c6 08      lui     s3,0x8c6
+            13 3c
+   088ee164 02 00      b       LAB_088ee170
+            00 10
+0x45DA10 - pointer (14110 bytes)
+   088ee168 bc 19      _addiu  s3,s3,0x19bc
+            73 26
+0x45A634 - pointer (13274 bytes)
+                    LAB_088ee16c                      XREF[1]: 088ee158(j)  
+   088ee16c e0 e5      addiu   s3,s3,-0x1a20
+            73 26
+
+FUN_088c2b78 - draw_alphabet
+
+08a29620 - name entry cursor table?
+
+FUN_08837560 - tokugi_start
+FUN_088899c4 - btl_msg_disp
+08831044 - btl_str2
+0888ac34 - str2cat
+0888ac08 - str2cpy
+
+FUN_0887653c
+
+## Skits
+
+Stored at 0x08c4a364 in top.prx, with a pointer table at 0x08c5d210.
+
+variables:
+09088444 - current skit
+0908845c - temporary buffer for skit
+09088c64 - duration in frames
+
+exec_sce_talk - main routine for skits
+FUN_088c8bf0 - play skit audio
+FUN_088e6db8 - lip flap animation routine
+FUN_088e81b4 - memcpy and variable init for skit
+
+; NOP to enable debug (displays frame counter?)
+088e6c98 0e 00      beq     v1,zero,LAB_088e6cd4
+        60 10
+
+decode_talk_tim
+
+snd_set_r_voice - battle voices (called from 0888b554 - req_voice)
+
+9088e5c -> talk_vol
+9088449 -> talk_flag
+908844c -> talk_sce_time
+9088458 -> talk_mouth_volume
+9088c5c -> talk_dat
+09088450 -> talk_voice_time
+09088454 -> talk_voice_total
+
+088e772c -> tloop_wait_talk_time
+
+tsce_talk_parameter, case 6 of the switch - lip flap
+
+battle_start - hook battle quotes display here?
+
+so, init in req_voice
+cleanup in that branch of snd_set_r_voice:
+    if (uVar6 == DAT_08e2c870) {
+      snd_break_voice();
+    }
+
+Seems like battle uses `disp_str_8`/`put_font_8`, their `ot` comes from `&btlWork->unk28->unk4A0`
+disp is 88A6A34 and put is 88A68F0
+vblank_draw (88727b0)
+Or inside the infinite loop of battle_start (like 8872208, which calls battle_sequence)
+
+snd_end_r_voice
+
+FUN_08887494 - arte popup
+
+game_mode_title
+game_mode_opening
+
+// grade shop graphics
+void FUN_088bacb4(void)
+
+{
+  int iVar1;
+  int iVar2;
+  int iVar3;
+  int iVar4;
+  int iVar5;
+  
+  iVar1 = malloc_heap(120000,0);
+  iVar2 = malloc_heap(0x100000,0);
+  set_cdread_adr_block(GRADE_SHOP_TIM,iVar1,0,0);
+  iVar5 = 0;
+  iVar4 = iVar1;
+  do {
+    iVar3 = *(int *)(iVar4 + 4);
+    if (iVar3 < 0) {
+      iVar3 = iVar3 + 3;
+    }
+    sc_decode(iVar2,(char *)(iVar1 + (iVar3 >> 2) * 4));
+    nmap_LoadTex(iVar2);
+    iVar5 = iVar5 + 1;
+    iVar4 = iVar4 + 8;
+  } while (iVar5 < 3);
+  free_heap(iVar2);
+  free_heap(iVar1);
+  return;
+}
+
+snd_set_seq - plays BGMs
+
+FUN_088ddea4 - sound mode menu routine
+
+FUN_088c53b0 - avatar load function
+
+event code for setting bgm:
+C0 01 XX 00   00 00 00 00   96 80 00
+XX = song num
+
+s_d01_09.decomp - forest at the start of the game
+
+FUN_088f0340 - monster book (called by monster_exec)
+FUN_088c1da0 - status screen
+
+0x08C47010 - credits PAK
+read first byte, if not 2 skip 7 bytes, otherwise is a pointer to the text
+
+FUN_08925df4 - load tim from file
+FUN_08824698 - ending splash display
+FUN_08925df4 - takes file number
+; set_cdread_adr_block
+FUN_08804000 - NDX splash
+
+08c47e3c - Produced By pointer
+08c47d0c - PERFOMED pointer
+
+8c2ea34 - credits acf
+FUN_088df2b4 - display credits
+
+; disable battle swirl
+; 088aed38 89 ba      jal     enemy_encount                     undefined enemy_encoun
+;         23 0e
+; 088aed3c 00 00      _nop
+;         00 00
+; .org 0x088aed38
+;     nop
+
+; 088aed48 89 ba      jal     enemy_encount                     undefined enemy_encoun
+;         23 0e
+; 088aed4c 00 00      _nop
+;         00 00
+; .org 0x088aed48
+;     nop
+
+set to 1 here 892e1a0 too
+3 messages here `8c80d04` and the other 3 at `08a28a30`
+
+"メモリースティック�が挿されていません。
+テイルズ オブ ファンタジア クロスエディションの
+ゲームデータを保存するには、
+384KB以上の空き容量が必要です。"
+
+"記録メディアの空き容量が不足しています。
+テイルズ オブ ファンタジア クロスエディションの
+ゲームデータを保存するには、
+384KB以上の空き容量が必要です。"
+
+"このままゲームを開始しますか？
+"
+
+_C0 Always Sunny
+_L 0x200F3D04 0x00000000
+
+_C0 No heat
+_L 0x2010A4BC 0x00000000
+
+_C0 No Fire Tower effect
+_L 0x2010A4BC 0x00000000
+
+_C0 No Magma effect
+_L 0x2010A324 0x00000000
+
+_C0 No Efreet effect
+_L 0x2010A3D8 0x00000000
+
+_C0 No wavy screen effect, period
+_L 0x2010AAEC 0x03E00008
+_L 0x2010AAF0 0x00000000
+
+_C0 No wavy fog effect, period
+_L 0x200FA060 0x03E00008
+_L 0x200FA064 0x00000000
+
+_C0 No wavy screen effect, period
+_L 0x2010AAEC 0x03E00008
+_L 0x2010AAF0 0x00000000
+
+08c47e58 - width table for credits font
+
+08c661f4 - Ishrantu monster book data
+
+void FUN_088b8d54(void)
+
+{
+  draw_menu_str(ot,0xe0,0x10,str08_dat + str08_ptr[0x42],0);
+  add_window_prim(ot,&DAT_08a28f6c,0,0,0,0);
+  return;
+}
+
+called from:
+   088b8990 55 e3      jal     FUN_088b8d54                      undefined FUN_088b8d54()
+            22 0e
+   088b8994 00 00      _nop
+            00 00
+
+i_c06_09_events - castle infiltration
+m_i24_10_events - changed Pelt to Red Lantern
+i_c10_10_events - Chester blocking passage to Euclid
+a_01_09_events and m_i25_10_events - Arsia event BGM
+
+battle voices:
+
+in FUN_088c8bf0:
+        unaff_s1 = (&PTR_s_RIFFh,_08c26b7c)[uVar4];
+        unaff_s0 = (&PTR_LAB_08c26e0c)[uVar4];
+seems to be pointers and sizes
+and 08c2709c are the ids
+
+wavs seem to be right before pointers @ 08a63bb4...08c26b7c
+
+scenario/skit voices: 48kbit
+battle voices: 64kbit
+PSP_at3tool.exe -e -br 64 input.wav output.wav
+
+088c6bb8 - display HP, t0 (param 5) = character data, param5 + 0x16 = cur
+088c6cac - display TP, t0 (param 5) = character data, param5 + 0x1c = cur
+09088ed0 - party data
+
+
+   ; loads max HP without accessories (0x16 is the one with)
+   088747a0 14 00      lhu     v0,0x14(s1)
+            22 96
+
+   ; loads max TP without accessories (0x1c is the one with)
+   088747b4 1a 00      lhu     v0,0x1a(s1)
+            22 96
+
+   088747c4 1e 00      sh      v0,0x1e(s1)
+            22 a6

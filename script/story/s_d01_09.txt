@@ -1,0 +1,102 @@
+The sign reads:
+
+“The Tree of Spirits”
+<pause>
+“It is said that a spirit inhabits this
+tree.”
+<pause>
+“We request everyone's cooperation
+in preserving it for future
+generations.”<nl>
+-Euclid Tourism Association{END}
+
+<Cless>:<nl>
+ Huh. This side's blank.{END}
+
+<audio_065F><Cless>:<nl>
+ Huh?
+<pause>
+<audio_0660><Cless>:<nl>
+ I lost sight of it...
+<pause>
+<audio_0661><Chester>:<nl>
+ Well, not like it could have gone
+ very far...<wait>{END}
+
+<audio_0662><Chester>:<nl>
+ I'm gonna backtrack a little.{END}
+
+<audio_0663><Cless>:<nl>
+ But didn't it run back here...?{END}
+
+<speed_0000>???:<nl>
+ <speed_0004>Do not...<nl>
+...harm the tree...<speed_FFFF>{END}
+
+<audio_0665><Chester>:<nl>
+ No luck.
+<pause>
+<audio_0666><Chester>:<nl>
+ How about you?
+<pause>
+<audio_0667><Chester>:<nl>
+ Hey, everything all right, buddy?
+ You look like you just saw a ghost
+ or something.
+<pause>
+<audio_0668><Cless>:<nl>
+ Yeah...{END}
+
+<audio_0669><Chester>:<nl>
+ There it is!{END}
+
+<audio_066A><Cless>:<nl>
+ Wow!
+ We got a huge one!<wait>{END}
+
+<audio_066B><Chester>:<nl>
+ Yeah!
+ Ami won't be disappointed by this
+ sucker!
+<pause>
+<audio_066C><Chester>:<nl>
+ Well, time to go home and share
+ the wealth!<wait>{END}
+
+<audio_066D><Chester>:<nl>
+ Wh...what the!?
+<pause>
+<audio_066E><Cless>:<nl>
+ That's<speed_0010>...<speed_FFFF>
+<pause>
+<Cless>:<nl>
+ ...<audio_066F>the village's bell!!!
+<pause>
+<audio_0670><Cless>:<nl>
+ What's going on!?
+<pause>
+<audio_0671><Chester>:<nl>
+ We've gotta hurry!{END}
+
+<Chester>:<nl>
+ Dude, look!
+ A boar!{END}
+
+<Chester>:<nl>
+ After it!{END}
+
+<Cless>:<nl>
+ Ahead!!{END}
+
+<Chester>:<nl>
+ Hahah!
+ You ain't gettin' away from us!{END}
+
+<Chester>:<nl>
+ You want to go home already?
+<pause>
+<Chester>:<nl>
+ Come on, man.
+ We haven't even caught anything
+ yet!{END}
+

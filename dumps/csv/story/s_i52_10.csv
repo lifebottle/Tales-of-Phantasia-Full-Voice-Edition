@@ -1,0 +1,1175 @@
+Japanese	English
+ミゲール剣術道場{END}	Miguel Fencing School{END}
+聖レニオス教会{END}	Church of Saint Lenios{END}
+武具屋『虎牙破斬』{END}	Equipment Store “Tiger Blade”{END}
+宿屋『ミゲールＩＮＮ』{END}	Inn “Miguel Inn”{END}
+雑貨屋『ベンジャミン』{END}	General Store “Benjamin”{END}
+ミゲールの町{END}	Town of Miguel{END}
+"神父
+「自然と共に人としてあるがまま
+　に生きること、それが大地母神
+　マーテルの教えです」{END}"	"Priest
+ “Live harmoniously with nature.”
+<pause>
+Priest
+ That is the teaching of Martel, the
+ Mother Goddess.{END}"
+"シスター
+「あなた達は旅の方かしら？」
+<pause>
+シスター
+「神の御加護がありますように」
+<pause>
+<Cless>
+「ありがとう」{END}"	"Nun
+ Greetings, travelers.
+<pause>
+Nun
+ May you be blessed with the
+ divine protection of the
+ goddess on your journeys.
+<pause>
+<Cless>
+ Thank you.{END}"
+"武具屋
+「らっしゃ〜い」{END}"	"Clerk
+ Welcome to Tiger Blade!{END}"
+"武具屋
+「ありがとやんした〜」{END}"	"Clerk
+ Thank you!{END}"
+"<audio_1310>宿の主人
+「いらっしゃい」
+<pause>
+<audio_1311>宿の主人
+「一晩<num1_00000060>ガルドになりますよ」
+<pause>
+<audio_1312>宿の主人
+「お泊まりですか？」{END}"	"<audio_1310>Innkeeper
+ Welcome to the Miguel Inn.
+<pause>
+<audio_1311>Innkeeper
+ One night is <num1_00000060> gald.
+<pause>
+<audio_1312>Innkeeper
+ Will you be staying?{END}"
+"<audio_1313>宿の主人
+「ゆっくりしていって下さい」{END}"	"<audio_1313>Innkeeper
+ Good night.{END}"
+"宿の主人
+「すいません、お金が足りません
+　よ」{END}"	"Innkeeper
+ I'm sorry, but you don't have
+ enough money.{END}"
+"宿の主人
+「また来て下さいね」{END}"	"Innkeeper
+ Please come again.{END}"
+"おやじ
+「あ〜、釣りがしてぇ・・・」{END}"	"Man
+ Ahhh... Fishing...{END}"
+"雑貨屋
+「らっしゃい」{END}"	"Clerk
+ Welcome to Benjamin.{END}"
+"雑貨屋
+「おおきに」{END}"	"Clerk
+ Thanks a bunch.{END}"
+"店員
+「えっ、この石像？」
+<pause>
+店員
+「これ売り物なの」
+<pause>
+店員
+「１００００００００ガルドなの
+　誰も買う人いないけどね<sweat>」{END}"	"Assistant
+ Oh, you like that statue, do you?
+<pause>
+Assistant
+ It's up for sale, but...
+<pause>
+Assistant
+ Since the owner's asking nine
+ figures, we haven't been getting
+ too many offers for it<sweat>{END}"
+"<Cless>
+「これって・・・」
+<pause>
+<Cless>
+「トーティス村の宿にあった石像
+　じゃないか？」
+<pause>
+<Chester>
+「・・・だな」{END}"	"<Cless>
+ Hey...
+<pause>
+<Cless>
+ Wasn't this thing at the inn back in
+ Totus?
+<pause>
+<Chester>
+ ...Sure looks like it.{END}"
+"町の人
+「ぶつぶつ・・・」{END}"	"Citizen
+ *Grumble grumble*...{END}"
+"町の人
+「マーテル様、どうか世界をお守
+　り下さい・・・」{END}"	"Citizen
+ Lady Martel, please protect the
+ world...{END}"
+"練習生
+「道場が狭いので、外で練習して
+　います」{END}"	"Student
+ The school building is so small that
+ some of us have to train outside.
+<pause>
+Student
+ Personally, I prefer it out here.
+ Seriously, nothing beats the feel of
+ the breeze on your back during
+ intensive sessions!{END}"
+"練習生
+「先代のミゲール師匠がいた頃は
+　今よりもっと大きい道場だった
+　らしいね」{END}"	"Student
+ Apparently, the school was bigger
+ back when Master Miguel was in
+ charge.
+<pause>
+Student
+ What fool decided to shrink it!?
+ I want his head...{END}"
+"女の子
+「ユークリッドの都では武術大会
+　が毎日のように開かれているら
+　しいよ」
+<pause>
+女の子
+「ダオスを倒せる戦士を捜すため
+　なんだって」{END}"	"Girl
+ Seems they hold a combat
+ tournament, like, every day at the
+ capital of Euclid.
+<pause>
+Girl
+ They're really desperate to find a
+ warrior who can defeat Dhaos.{END}"
+"気合マン
+「気合、気合〜！！」{END}"	"Spirited Swordsman
+ FIGHT ON! FIGHT OOONNN!!!{END}"
+"町の人
+「ここら辺りは、魔物も少なくて
+　助かります」{END}"	"Citizen
+ This region's relatively safe with so
+ few monsters roaming about.{END}"
+"男の子
+「俺、科学者になりたいんだ」
+<pause>
+男の子
+「ユークリッドの科学研究所で働
+　きたいな」{END}"	"Boy
+ I wanna be a scientist
+ when I grow up.
+<pause>
+Boy
+ My dream is to work at the
+ laboratory in Euclid.{END}"
+"受付嬢
+「ミゲール剣術道場へようこそ」
+<pause>
+受付嬢
+「入会しますか？」
+<pause>
+受付嬢
+「それとも見学しますか？」
+<pause>
+受付嬢
+「体験入会もありますよ」
+<pause>
+{END}"	"Receptionist
+ Welcome to the Miguel Fencing
+ School.
+<pause>
+Receptionist
+ Would you like to enroll?
+<pause>
+Receptionist
+ Or perhaps you're just visiting to
+ get a feel for the style?
+<pause>
+Receptionist
+ If you're interested, an
+ introductory membership is also
+ available.
+<pause>
+{END}"
+"<Cless>
+「ミゲール剣術道場・・・」
+<pause>
+<Cless>
+（過去に戻った僕が建てたんだろ
+　うか？）{END}"	"<Cless>
+ Miguel Fencing School...
+<pause>
+<Cless>
+ (Did I build this when I returned
+ home?){END}"
+"受付嬢
+「ミゲール剣術道場へようこそ」
+<pause>
+受付嬢
+「やはり、入会しますか？」
+<pause>
+<Cless>
+「いっ、いいえ・・・」{END}"	"Receptionist
+ Welcome to the Miguel Fencing
+ School.
+<pause>
+Receptionist
+ Are you here to enroll?
+<pause>
+<Cless>
+ N-No thanks...{END}"
+"師範
+「最近、何か練習生の数が増えて
+　きたな」{END}"	"Instructor
+ There's been a sudden influx
+ of new students lately.{END}"
+"師範
+「ユークリッドの武術大会目当て
+　の人が多く来ているよ」
+<pause>
+師範
+「結構な優勝賞品がもらえるらし
+　いよ」{END}"	"Instructor
+ It's probably because of that damn
+ combat tournament in Euclid.
+<pause>
+Instructor
+ Most of them are undisciplined
+ fools only interested in winning the
+ prize after achieving a flashy
+ victory.{END}"
+"練習生
+「えいっ！」{END}"	"Student
+ Hup!{END}"
+"練習生
+「とうっ！」{END}"	"Student
+ Yah!{END}"
+"練習生
+「はっ！」{END}"	"Student
+ Hah!{END}"
+"練習生
+「こんな噂があります」
+<pause>
+練習生
+「トレントの森で精霊<var_D800>を
+　見たという人がいるのです」
+<pause>
+練習生
+「あれは超古代の伝説だと思って
+　いたのですが・・・」
+<pause>
+練習生
+「やはり、実在するんでしょうか
+　ねぇ・・・」{END}"	"Student
+ So, there've been these rumors
+ going around the school...
+<pause>
+Student
+ Like, about some guys who claim to
+ have seen the spirit called Origin in
+ the Treant Forest.
+<pause>
+Student
+ I thought that was just some fairy
+ tale from the ancient era, but...
+<pause>
+Student
+ If people are still talking about it,
+ maybe Origin is real after all...{END}"
+"師範
+「君、いい腕っぷしだな」
+<pause>
+師範
+「ここでさらに鍛えてみる気はな
+　いか？」
+<pause>
+師範
+「今なら安くしておくよ」<wait>{END}"	"Instructor
+ My, you look like a skilled one.
+<pause>
+Instructor
+ How about it? Why not train
+ yourself further here?
+<pause>
+Instructor
+ We've got some slick deals on
+ memberships right now.<wait>{END}"
+"<Cless>
+「いえ、結構です」
+<pause>
+師範
+「それじゃあ、この奥義書を買わ
+　ないか？」
+<pause>
+師範
+「今なら２００００ガルドと格安
+　なんだが」
+<pause>
+<color_0002>奥義書を買いますか？<color_0000>{END}"	"<Cless>
+ No thank you.
+ I can manage.
+<pause>
+Instructor
+ Looking for arcane arte books by
+ chance, then?
+<pause>
+Instructor
+ I've got one for the low, low price
+ of 20000 gald.
+<pause>
+<color_0002>Buy the arcane arte book?<color_0000>{END}"
+"師範
+「そりゃ残念だ・・・」{END}"	"Instructor
+ What a shame...{END}"
+"師範
+「お金が足りないようだな」
+<pause>
+師範
+「これ以上はまけられないな」{END}"	"Instructor
+ This isn't enough.
+<pause>
+Instructor
+ Can't let it go for any less.{END}"
+"<color_0002><Cless>は<var_9F00>を覚えました。<color_0000>
+<pause>
+師範
+「どうも！」
+<pause>
+師範
+「これからも修行を積んで、私の
+　ように強くなるようにね！」{END}"	"<color_0002><Cless> learned
+<var_9F00>.<color_0000>
+<pause>
+Instructor
+ Thanks!
+<pause>
+Instructor
+ Keep up your training, and we'll
+ become equals!{END}"
+"女の子
+「もう、おじいちゃんたら無理す
+　るからこういう目にあうのよ」
+<pause>
+女の子
+「おじいちゃん武術大会に出るっ
+　て聞かないのよ」{END}"	"Girl
+ You're a fool, Gramps.
+ This is what happens when
+ you overwork yourself!
+<pause>
+Girl
+ What were you thinking, anyway!?
+ The combat tournament isn't for
+ someone as old and frail as you!{END}"
+"おじいさん
+「いてててて・・・」
+<pause>
+おじいさん
+「こ、腰が・・・」<wait>{END}"	"Old Man
+ Owwww...
+<pause>
+Old Man
+ M-My back...<wait>{END}"
+"おじいさん
+「あれは役に立ったかの？」{END}"	"Old Man
+ Oh, it's you.
+ Was that book helpful?{END}"
+"おじいさん
+「無理はするものではないのう」{END}"	"Old Man
+ It wasn't because I overworked
+ myself...{END}"
+"おじいさん
+「お、あんた剣士じゃな・・・」
+<pause>
+おじいさん
+「あんたに、そこのタンスの中の
+　物をやろう」
+<pause>
+おじいさん
+「わしゃもうこんな状態じゃから
+　捨てようと思っとったんじゃ」{END}"	"Old Man
+ Oh, swordsman, huh?
+<pause>
+Old Man
+ There's something in the cabinet
+ you might like.
+<pause>
+Old Man
+ I don't think I have any business
+ using it in my condition.{END}"
+"男の子
+「やーい、ここまでおいでー！」{END}"	"Boy
+ Tag!
+ YOU'RE IT!{END}"
+"女の子
+「お兄ちゃん、宿屋の中で走っちゃ
+　だめだよ」
+<pause>
+女の子
+「あなたも走っちゃだめよ」{END}"	"Girl
+ Brother!
+ Behave yourself!
+<pause>
+Girl
+ Mister, don't play along with him.{END}"
+"魔術師
+「この世には、いにしえに封印さ
+　れた魔術や召喚術があるとか」
+<pause>
+魔術師
+「一度見てみたいものだね」<wait>{END}"	"Mage
+ Some magic spells and summoning
+ artes were sealed away long ago.
+<pause>
+Mage
+ Perhaps they're really dangerous,
+ but... Man, I think I could die happy
+ if I could ever witness their power.<wait>{END}"
+"魔術師
+「それって、どんなすごいものな
+　んだろうね・・・」{END}"	"Mage
+ Forbidden magic must really be
+ something else...{END}"
+"魔術師
+「あれ？君も魔術師？」
+<pause>
+魔術師
+「呪文書譲ってやろうか？」
+<pause>
+魔術師
+「魔術の中ではそんなに強くない
+　ものだけどね」<wait>{END}"	"Mage
+ Oh, seems there's a mage like me
+ among your ranks...
+<pause>
+Mage
+ I've got a spell book here that
+ I don't really need anymore.
+ You want it?
+<pause>
+Mage
+ It's not all that advanced, but you
+ might find it useful.<wait>{END}"
+<color_0002><Arche>は<var_C700>を覚えました。<color_0000>{END}	<color_0002><Arche> learned <var_C700>.<color_0000>{END}
+"ローブを着た人
+「こんにちは」
+<pause>
+ローブを着た人
+「近頃、世間では、<color_0002>収集品<color_0000>を集め
+　るのが流行っているのよ」
+<pause>
+ローブを着た人
+「<color_0002>収集品<color_0000>について、
+　知りたくない？」{END}"	"Robed Woman
+ Hello.
+<pause>
+Robed Woman
+ Did you know? <color_0002>Collecting<color_0000> is all the
+ rage these days!
+<pause>
+Robed Woman
+ Would you like a rundown
+ on <color_0002>collectible<color_0000> items?{END}"
+"ローブを着た人
+「収集品は、その名の通り、集め
+　て楽しむものよ」
+<pause>
+ローブを着た人
+「名前の先頭に、(c)がついている
+　アイテムが収集品だからね」
+<pause>
+ローブを着た人
+「収集品は、マニアのための品物
+　だから、店で売ったとしても、
+　二束三文にしかならないの」
+<pause>
+ローブを着た人
+「でも、お好きな人には、たまら
+　ない品物なのよね♪」<wait>{END}"	"Robed Woman
+ Collectible items, as you might
+ imagine, are goods manufactured
+ for the enjoyment of collectors.
+<pause>
+Robed Woman
+ You can tell if an object is
+ collectible if it has a (c) symbol
+ stamped on it.
+<pause>
+Robed Woman
+ Collectibles tend to be pricey
+ because they're rare and only
+ enthusiasts want them.
+<pause>
+Robed Woman
+ It works out because they'll stop at
+ nothing to complete their
+ collections! <note><wait>{END}"
+"ローブを着た人
+「収集品を集めるためには、交換
+　が重要よ」{END}"	"Robed Woman
+ Trading with other collectors is key
+ to completing one's own collection.{END}"
+"ローブを着た人
+「あなた達に、これをあげるわ」<wait>{END}"	"Robed Woman
+ To get you started,
+ I'll give you this.<wait>{END}"
+<color_0002><item_8801>を手に入れました。<color_0000>{END}	<color_0002>Acquired a <item_8801>.<color_0000>{END}
+"ローブを着た人
+「今後のために、聞いておいたほ
+　うが、いいと思うけど・・・」{END}"	"Robed Woman
+ Oh? Not into trendy stuff, huh?
+ Ah well...{END}"
+"料理人
+「にくじゃが作ってるかい？」{END}"	"Chef
+ Have you made Potato Stew?{END}"
+"料理人
+「私は『すばらしき味の世界』の
+　住人」
+<pause>
+料理人
+「この味を、より多くの人に伝え
+　たい！」
+<pause>
+料理人
+「君も、私の世界に触れてみない
+　か？」{END}"	"Chef
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef
+ Come, don't you wish to taste the
+ flavors of my world?{END}"
+"料理人
+「この料理を伝授しよう！」<wait>{END}"	"Chef
+ I'll teach you this dish!<wait>{END}"
+"<color_0002>にくじゃがを料理できるようになり
+ました。<color_0000>{END}"	<color_0002>Learned the recipe for Potato Stew.<color_0000>{END}
+"料理人
+「おお、なんということだ！」{END}"	"Chef
+ What!?
+ How can you reject this taste!?{END}"
+"<Cless>
+「村は変わっても、この橋だけは
+　残っているな・・・」{END}"	"<Cless>
+ As much as the village changes
+ over decades, this bridge is as
+ recognizable as ever...{END}"
+"<Cless>
+「これは・・・」
+<pause>
+<Cless>
+「奥義書だ！！」<wait>{END}"	"<Cless>
+ This is an arcane arte book!<wait>{END}"
+<color_0002><Cless>は<var_9400>を覚えました。{END}	"<color_0002><Cless> learned
+<var_9400>.{END}"
+"練習生
+「邪魔しないで下さい！」
+<pause>
+練習生
+「危ないですよ！」{END}"	"Student
+ Hey, watch where you're going!
+<pause>
+Student
+ Unless you want me to put you in a
+ WORLD OF PAIN!{END}"
+"<audio_1032><Chester>
+「ここが・・・」
+<pause>
+<audio_1033><Chester>
+「未来のトーティスなのか？」
+<pause>
+<audio_1034>ハリソン
+「ここは、ミゲールという町です」
+<pause>
+<audio_1035><Cless>
+「ミゲール・・・」
+<pause>
+<audio_1036><Cless>
+「父さんの名前が、町の名前に？」
+<pause>
+<audio_1037>ハリソン
+「この南ユークリッド大陸には、
+　ダオスはなぜか攻撃をしてきま
+　せん」
+<pause>
+<audio_1038>ハリソン
+「ですから、この辺りにいる限り
+　は安全だと思います」<wait>{END}"	"<audio_1032><Chester>
+ Whoa, is this...
+<pause>
+<audio_1033><Chester>
+ ...what becomes of Totus in the
+ future?
+<pause>
+<audio_1034>Harrison
+ This is the town of Miguel.
+<pause>
+<audio_1035><Cless>
+ Miguel...
+<pause>
+<audio_1036><Cless>
+ It was named after Dad?
+<pause>
+<audio_1037>Harrison
+ For whatever reason, Dhaos has
+ refrained from attacking South
+ Euclid in this era.
+<pause>
+<audio_1038>Harrison
+ As long as we stay around here for
+ now, we should be no in danger.<wait>{END}"
+"<audio_1039><Klarth>
+「ベネツィアは、大丈夫なのか？」<wait>{END}"	"<audio_1039><Klarth>
+ With all that in mind, how is
+ Venezia doing?<wait>{END}"
+"<audio_103A>ハリソン
+「はい」
+<pause>
+<audio_103B>ハリソン
+「まずは、船でアルヴァニスタに
+　向かいましょう」
+<pause>
+<audio_103C>ハリソン
+「陛下に会って、話を聞いていた
+　だきたいのです」
+<pause>
+<audio_103D>ハリソン
+「私は先に<color_0002>ベネツィア<color_0000>に行って船
+　の手配をします」
+<pause>
+<audio_103E>ハリソン
+「準備が整いしだい来て下さい」
+<pause>
+<audio_103F>ハリソン
+「それから、これをお渡ししてお
+　きます」
+<pause>
+<audio_1040>ハリソン
+「この時代の、ワールドマップで
+　す」<wait>{END}"	"<audio_103A>Harrison
+ It is fine.
+<pause>
+<audio_103B>Harrison
+ Anyway, our first objective is to
+ sail to Alvanista.
+<pause>
+<audio_103C>Harrison
+ Second, we must have an audience
+ with His Majesty.
+<pause>
+<audio_103D>Harrison
+ Speaking of <color_0002>Venezia<color_0000>, I shall take
+ my leave ahead of you to make
+ travel arrangements at the port
+ there.
+<pause>
+<audio_103E>Harrison
+ Please follow me there once you've
+ finished your preparations.
+<pause>
+<audio_103F>Harrison
+ Finally, take this map of the world.
+<pause>
+<audio_1040>Harrison
+ It's up-to-date with the
+ information of this era,
+ so it may be of use.<wait>{END}"
+<color_0002><item_9000>を手に入れました。<color_0000>{END}	<color_0002>Acquired a <item_9000> of the future.<color_0000>{END}
+"<audio_1041><Cless>
+「よし、これからは常に五人で行
+　動しよう！」{END}"	"<audio_1041><Cless>
+ All right!
+ We're five strong now!{END}"
+"<color_0002>これからはパーティーが五人になりますが、戦闘は四人までしか参加できません。
+<pause>
+パーティーの入替えはメニュー画面の隊列モードで行って下さい。
+<pause>
+なお、隊列５番以降のメンバーにも経験値は加算されますが、封印によるボーナス加算（経験値１。５倍／２倍）は適用されません。{END}"	"<color_0002>Though you now have five party
+members, only four of them may
+participate in battle.
+<pause>
+Change the party by going to the
+Formation menu.
+<pause>
+Anyone outside of the battle still
+earns experience points, but they
+won't get any bonuses awarded by
+some accessories.{END}"
+ミゲールの町{END}	Town of Miguel{END}
+"<Cless>
+「ミゲール剣術道場・・・」
+<pause>
+<Cless>
+「過去に戻った僕が建てたんだろ
+　うか？」{END}"	"<Cless>
+ Miguel Fencing School...
+<pause>
+<Cless>
+ Did I build it when I returned
+ home?{END}"
+"<audio_1314>ミゲール
+「飛燕連脚！！」{END}"	"<audio_1314>Miguel
+ <var_8200>!{END}"
+"<audio_1315><Cless>
+「わー！スゴイ！スゴイ！」<wait>{END}"	"<audio_1315><Cless>
+ Wow! Wow! Cool!<wait>{END}"
+"<audio_1316>ミゲール
+「これが飛燕連脚という技だ」
+<pause>
+<audio_1317><Cless>
+「スゴイ！スゴイ！」
+<pause>
+<audio_1318><Cless>
+「父さん、かっこいい！！」
+<pause>
+<audio_1319>ミゲール
+「そうか？」
+<pause>
+<audio_131A><Cless>
+「うん！父さん、もっとスゴイの
+　やって！」<wait>{END}"	"<audio_1316>Miguel
+ That one was <var_8200>.
+ It's one of the basics.
+<pause>
+<audio_1317><Cless>
+ Cool! Cool!
+<pause>
+<audio_1318><Cless>
+ Dad, you're so awesome!
+<pause>
+<audio_1319>Miguel
+ I am, huh?
+<pause>
+<audio_131A><Cless>
+ Yeah!
+ Dad, do something else cool!<wait>{END}"
+"<audio_131B>ミゲール
+「うーん、そうだな、次は・・・」
+<pause>
+<audio_131C>マリア
+「あら、二人で何をしてるの？」{END}"	"<audio_131B>Miguel
+ All right then, let's see...
+ How about--
+<pause>
+<audio_131C>Maria
+ Oh, what are you two up to?{END}"
+"<audio_131D><Cless>
+「母さん！」{END}"	"<audio_131D><Cless>
+ Hey, Mom!{END}"
+"<audio_131E><Cless>
+「父さんスゴイんだ！
+　バン！バン！バーンって」
+<pause>
+<audio_131F>マリア
+「そう・・・」<wait>{END}"	"<audio_131E><Cless>
+ Dad's the COOLEST!
+ He's all like bam! Bam! BAAAM!
+<pause>
+<audio_131F>Maria
+ Right...<wait>{END}"
+"<unk1><audio_1320>マリア
+<Cless>に技を見せてたの？」
+<pause>
+<audio_1321>ミゲール
+ああ、これから剣術を教えてゆくのに、型だけでも見せておこうと思ったんだが・・・」
+<pause>
+<audio_1322><Cless>
+父さん！
+もっとスゴイのが見たい！」
+<pause>
+<audio_1323>ミゲール
+・・・この言葉に、のせられてしまったよ」
+<pause>
+<audio_1324>ミゲール
+ちょっとはりきりすぎたかな？」
+<pause>
+<audio_1325>マリア
+いよいよ<Cless>にも剣を教えるのね？」
+<pause>
+<audio_1326>ミゲール
+ああ、早くから始めたほうがいいだろう」
+<pause>
+<audio_1327>ミゲール
+そのほうが身につくしな」
+<pause>
+<audio_1328>ミゲール
+それに・・・」
+<pause>
+<audio_1329>ミゲール
+いずれは<Cless>にも封印のペンダントを守ってもらわなければならない・・・」
+<pause>
+<audio_132A>マリア
+・・・そうね・・・」
+<pause>
+<audio_132B><Cless>
+ペンダント？」
+<pause>
+<audio_132C>マリア
+うん、いつか<Cless>にも見せてあげるね」<wait>{END}"	"<unk1><audio_1320>Maria
+ So you've been demonstrating your
+ artes to our son?
+<pause>
+<audio_1321>Miguel
+ Yeah.
+ I figured I'd show him a few tricks
+ to get him interested, but...
+<pause>
+<audio_1322><Cless>
+ Hey, Dad!
+ Show me some more cool stuff!
+<pause>
+<audio_1323>Miguel
+ ...Now I've got to put up with this.
+<pause>
+<audio_1324>Miguel
+ I guess I got little too excited and
+ jumped the gun.
+<pause>
+<audio_1325>Maria
+ So you're planning to teach him
+ about swordplay before long?
+<pause>
+<audio_1326>Miguel
+ Yeah.
+ The sooner he starts his training,
+ the better.
+<pause>
+<audio_1327>Miguel
+ He'll learn faster that way.
+<pause>
+<audio_1328>Miguel
+ Besides...
+<pause>
+<audio_1329>Miguel
+ One day, we'll have to pass down
+ our duty of protecting the pendant
+ of the seal to him...
+<pause>
+<audio_132A>Maria
+ ...True...
+<pause>
+<audio_132B><Cless>
+ A pendant?
+ What's that?
+<pause>
+<audio_132C>Maria
+ I'll show it to you when you get a
+ little older.<wait>{END}"
+"<audio_132D><Cless>
+「ふーん・・・それよりも父さん
+　もっとスゴイ技が見たいよー！」
+<pause>
+<audio_132E>ミゲール
+「もっとスゴイ技か・・・うーん」{END}"	"<audio_132D><Cless>
+ Hmmph... Well, okay.
+ But I wanna see Dad do more cool
+ artes first!
+<pause>
+<audio_132E>Miguel
+ More cool artes... Yeah.{END}"
+"<audio_132F>ミゲール
+「・・・これは父さんも練習中の
+　技なんだが・・・」
+<pause>
+<audio_1330>ミゲール
+「・・・いくぞ！」
+<pause>
+<audio_1331>ミゲール
+「奥義！！冥空斬翔剣！！！」{END}"	"<audio_132F>Miguel
+ ...I haven't yet mastered this one,
+ myself, but...
+<pause>
+<audio_1330>Miguel
+ ...Here I go!
+<pause>
+<audio_1331>Miguel
+ The greatest of all
+ Alvein Style artes!
+Stygian Blade!!{END}"
+"<audio_1332>ミゲール
+「・・・どうだ？」<wait>{END}"	"<audio_1332>Miguel
+ ...Well, did you like that?<wait>{END}"
+"<audio_1333><Cless>
+「スゴイ！スゴイ！バラバラになっ
+　ちゃった！」
+<pause>
+{END}"	"<audio_1333><Cless>
+ Yeah! Yeah!
+ You blew it to pieces!
+<pause>
+{END}"
+"<audio_1334>ミゲール
+「まだまだだな・・・」<wait>{END}"	"<audio_1334>Miguel
+ Still a long way to go...<wait>{END}"
+"<audio_1335><Cless>
+「・・・・・・」<wait>{END}"	"<audio_1335><Cless>
+ ...<wait>{END}"
+"<unk1><audio_1336>マリア
+どうしたの？<Cless>」
+<pause>
+<audio_1337><Cless>
+父さん」
+<pause>
+{END}"	"<unk1><audio_1336>Maria
+ What's wrong, <Cless>?
+<pause>
+<audio_1337><Cless>
+ Dad.
+<pause>
+{END}"
+"<unk1><audio_1338>ミゲール
+ん？」
+<pause>
+<audio_1339><Cless>
+僕も練習したらできるようになるかな？」
+<pause>
+<audio_133A>ミゲール
+あ、ああ！できるようになる！」
+<pause>
+<audio_133B><Cless>
+ホント？」
+<pause>
+<audio_133C>ミゲール
+本当だとも！たくさん練習すれば、父さんよりも強くなれるぞ」
+<pause>
+<audio_133D><Cless>
+じゃあ、たくさん練習する！」
+<pause>
+<audio_133E>ミゲール
+そうか！父さんもたくさん練習してこの技を完成させるぞ！」
+<pause>
+<audio_133F>ミゲール
+そうしたら<Cless>に教えてやるからな！」
+<pause>
+{END}"	"<unk1><audio_1338>Miguel
+ Hm?
+<pause>
+<audio_1339><Cless>
+ Could I do that too if I practiced?
+<pause>
+<audio_133A>Miguel
+ Uh...yeah!
+ You sure could!
+<pause>
+<audio_133B><Cless>
+ Really?
+<pause>
+<audio_133C>Miguel
+ Really!
+ If you practice enough, you'll
+ become even stronger than me!
+<pause>
+<audio_133D><Cless>
+ Then I'll practice a lot!
+<pause>
+<audio_133E>Miguel
+ Good!
+ I'll keep on training myself
+ and complete this arte!
+<pause>
+<audio_133F>Miguel
+ Then I'll be able to pass it on to
+ you!
+<pause>
+{END}"
+"<audio_1340><Cless>
+「うん！」{END}"	"<audio_1340><Cless>
+ Yay!{END}"
+"<audio_1341><Cless>
+「・・・・・・
+　父さん・・・母さん・・・」
+<pause>
+<audio_1342>チェスター
+「<Cless>？」
+<pause>
+{END}"	"<audio_1341><Cless>
+ ...
+ Mom... Dad...
+<pause>
+<audio_1342><Chester>
+ You okay, dude?
+<pause>
+{END}"
+"<audio_1343><Cless>
+「あ・・・ごめん、なんでもない
+　んだ」
+<pause>
+<audio_1344><Chester>
+「そうか・・・」
+<pause>
+{END}"	"<audio_1343><Cless>
+ Uh... Sorry, I had an intense dream.
+<pause>
+<audio_1344><Chester>
+ Ah... Well, let's pack up and go.
+<pause>
+{END}"
+"<audio_1345><Cless>
+「・・・あの技・・・」
+<pause>
+<audio_1346><Cless>
+「あの後も何度か見せてもらった
+　けど・・・」
+<pause>
+<audio_1347><Cless>
+「僕もいつか使えるだろうか？」
+<pause>
+<audio_1348><Cless>
+「・・・・・・」<wait>{END}"	"<audio_1345><Cless>
+ (...That arte...)
+<pause>
+<audio_1346><Cless>
+ (I remember having him show it to
+ me several times again after that.)
+<pause>
+<audio_1347><Cless>
+ (Maybe I could try it for myself...)
+<pause>
+<audio_1348><Cless>
+ (......)<wait>{END}"
+<color_0002><Cless>は『<var_8801>』の称号を得ました。<color_0000>{END}	"<color_0002><Cless> has earned the title
+“<var_8801>.”<color_0000>{END}"
+"<Cless>
+「この橋は、変わらないんだな」
+<pause>
+<Chester>
+「・・・」
+<pause>
+<Chester>
+「なあ<Cless>・・・」{END}"	"<Cless>:<nl>
+This bridge hasn't changed a bit.
+<pause>
+<Chester>:<nl>
+...
+<pause>
+<Chester>:<nl>
+Hey, <Cless>...{END}"
+"<Cless>
+「どうかしたのか・・・？」
+<pause>
+<Chester>
+「やっと・・・、ここまで来た」{END}"	"<Cless>:<nl>
+Something on your mind?
+<pause>
+<Chester>:<nl>
+It's hard to believe we've come
+this far.{END}"
+"<Cless>
+「ああ」
+<pause>
+<Chester>
+「つい、この間まで・・・」
+<pause>
+<Chester>
+「この川辺で遊んでたよな」{END}"	"<Cless>:<nl>
+Yeah.
+<pause>
+<Chester>:<nl>
+It seems like just yesterday...
+<pause>
+<Chester>:<nl>
+...we were playing on the bank of
+this river.{END}"
+"<Cless>
+「<Chester>・・・」{END}"	"<Cless>:<nl>
+<Chester>...{END}"
+"<Chester>
+「アミィがさ・・・」
+<pause>
+<Chester>
+「水を怖がって、川に入れない
+　んだ」
+<pause>
+<Chester>
+「それでもあいつは、俺たちと
+　一緒に遊びたいから・・・」
+<pause>
+<Chester>
+「その場でジッとしたまま
+　動かないんだ・・・」{END}"	"<Chester>:<nl>
+Ami...
+<pause>
+<Chester>:<nl>
+She was afraid of swimming
+and wouldn't go in.
+<pause>
+<Chester>:<nl>
+Still, she wanted to be with us...
+<pause>
+<Chester>:<nl>
+She just stood there on the bank
+waiting for us...{END}"
+"<Cless>
+「・・・そうだったな」
+<pause>
+<Chester>
+「・・・・・・」{END}"	"<Cless>:<nl>
+I remember that.
+<pause>
+<Chester>:<nl>
+......{END}"
+"<Chester>
+「アミィのヤツ・・・」
+<pause>
+<Chester>
+「今ごろ、天国で寂しがって
+　泣いてるんじゃないか？」{END}"	"<Chester>:<nl>
+That Ami...
+<pause>
+<Chester>:<nl>
+I bet she's lonely and crying,
+even in the afterlife.{END}"
+"<Cless>
+「<Chester>・・・、
+　お前・・・」{END}"	"<Cless>:<nl>
+<Chester>...
+You're...{END}"
+"<Chester>
+「・・・・・・」{END}"	"<Chester>:<nl>
+......{END}"
+"<Chester>
+「なあ<Cless>」{END}"	"<Chester>:<nl>
+Hey, <Cless>.{END}"
+"<Chester>
+「早いとこ、ダオスの野郎を
+　ブっ倒してさ・・・」{END}"	"<Chester>:<nl>
+Let's beat Dhaos' ass
+ASAP...{END}"
+"<Chester>
+「俺たちの村に戻ろうぜ」{END}"	"<Chester>:<nl>
+...so we can get back to our
+village.{END}"
+"<Cless>
+「そうだな」
+<pause>
+<Chester>
+「俺たちの手で、村を
+　建て直すんだ」
+<pause>
+<Cless>
+「・・・ああ！」{END}"	"<Cless>:<nl>
+Sounds good.
+<pause>
+<Chester>:<nl>
+We'll rebuild it with our own two
+hands.
+<pause>
+<Cless>:<nl>
+Yeah!{END}"
+"<color_0002><speed_0001><Chester>は『<var_D001>』の
+称号を得ました。<color_0000>{END}"	"<color_0002><speed_0001><Chester> has earned the title
+“<var_D001>.”<color_0000>{END}"

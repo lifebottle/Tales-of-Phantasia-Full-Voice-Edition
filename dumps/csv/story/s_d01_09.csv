@@ -1,0 +1,146 @@
+Japanese	English
+"『精霊の樹』
+<pause>
+『この樹には精霊が宿っていると
+　言われています』
+<pause>
+『傷つけないように、みなさんの
+　ご協力をお願いいたします　　
+　　　　　ユークリッド観光協会』{END}"	"The sign reads:
+
+“The Tree of Spirits”
+<pause>
+“It is said that a spirit inhabits this
+tree.”
+<pause>
+“We request everyone's cooperation
+in preserving it for future
+generations.”<nl>
+-Euclid Tourism Association{END}"
+"<Cless>
+「こっちからじゃ読めないな」{END}"	"<Cless>
+ Huh. This side's blank.{END}"
+"<audio_065F><Cless>
+「あれ？」
+<pause>
+<audio_0660><Cless>
+「見失ったか・・・」
+<pause>
+<audio_0661><Chester>
+「間違いなく、この辺りにいる
+　はずなんだけどな・・・」<wait>{END}"	"<audio_065F><Cless>
+ Huh?
+<pause>
+<audio_0660><Cless>
+ I lost sight of it...
+<pause>
+<audio_0661><Chester>
+ Well, not like it could have gone
+ very far...<wait>{END}"
+"<audio_0662><Chester>
+「オレ、近くを探してくるぜ」{END}"	"<audio_0662><Chester>
+ I'm gonna backtrack a little.{END}"
+"<audio_0663><Cless>
+「確かに、こっちへ来たと思った
+　んだけど・・・」{END}"	"<audio_0663><Cless>
+ But didn't it run back here...?{END}"
+"<speed_0000>？？？
+<speed_0004>「樹を・・・<speed_0002>　　　　　　　　　
+　<speed_0004>けがさないで・・・」<speed_FFFF>{END}"	"<speed_0000>???
+ <speed_0004>Do not...
+...harm the tree...<speed_FFFF>{END}"
+"<audio_0665><Chester>
+「こっちには、いなかったぞ」
+<pause>
+<audio_0666><Chester>
+「そっちはどうだ？」
+<pause>
+<audio_0667><Chester>
+「<Cless>、どうした？」
+<pause>
+<audio_0668><Cless>
+「いや・・・」{END}"	"<audio_0665><Chester>
+ No luck.
+<pause>
+<audio_0666><Chester>
+ How about you?
+<pause>
+<audio_0667><Chester>
+ Hey, everything all right, buddy?
+ You look like you just saw a ghost
+ or something.
+<pause>
+<audio_0668><Cless>
+ Yeah...{END}"
+"<audio_0669><Chester>
+「いたぞ！」{END}"	"<audio_0669><Chester>
+ There it is!{END}"
+"<audio_066A><Cless>
+「大物だな！」<wait>{END}"	"<audio_066A><Cless>
+ Wow!
+ We got a huge one!<wait>{END}"
+"<audio_066B><Chester>
+「これだけ獲れれば十分だろう」
+<pause>
+<audio_066C><Chester>
+「それじゃあ、村に戻ろうぜ」<wait>{END}"	"<audio_066B><Chester>
+ Yeah!
+ Ami won't be disappointed by this
+ sucker!
+<pause>
+<audio_066C><Chester>
+ Well, time to go home and share
+ the wealth!<wait>{END}"
+"<audio_066D><Chester>
+「なっ、なんだ！？」
+<pause>
+<audio_066E><Cless>
+「あれは<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_066F><Cless>
+「村の半鐘の音だ！」
+<pause>
+<audio_0670><Cless>
+「何かあったのか！？」
+<pause>
+<audio_0671><Chester>
+「急ごう！！」{END}"	"<audio_066D><Chester>
+ Wh...what the!?
+<pause>
+<audio_066E><Cless>
+ That's<speed_0010>...<speed_FFFF>
+<pause>
+<Cless>
+ ...<audio_066F>the village's bell!!!
+<pause>
+<audio_0670><Cless>
+ What's going on!?
+<pause>
+<audio_0671><Chester>
+ We've gotta hurry!{END}"
+"<Chester>
+「あっ、猪だ！！」{END}"	"<Chester>
+ Dude, look!
+ A boar!{END}"
+"<Chester>
+「追いかけよう！」{END}"	"<Chester>
+ After it!{END}"
+"<Cless>
+「いた、あそこだ！！」{END}"	"<Cless>
+ Ahead!!{END}"
+"<Chester>
+「逃がすもんか！」{END}"	"<Chester>
+ Hahah!
+ You ain't gettin' away from us!{END}"
+"<Chester>
+「もう帰るのか？」
+<pause>
+<Chester>
+「まだあんまり獲物を捕まえてな
+　いぞ」{END}"	"<Chester>
+ You want to go home already?
+<pause>
+<Chester>
+ Come on, man.
+ We haven't even caught anything
+ yet!{END}"

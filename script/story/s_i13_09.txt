@@ -1,0 +1,1178 @@
+<Cless>:<nl>
+ We shouldn't just barge into other
+ people's houses.{END}
+
+<color_0002>Rest?<color_0000>{END}
+
+<audio_0737><Cless>:<nl>
+ Whoa!{END}
+
+<audio_0738>???:<nl>
+ About time you woke up, man.{END}
+
+<audio_0739><Cless>:<nl>
+ ......
+<pause>
+<audio_073A><Cless>:<nl>
+ <Chester>!
+ You're here too!?{END}
+
+<audio_073B>Morrison:<nl>
+ I believe I mentioned that your
+ buddy already told me your name.<wait>{END}
+
+<audio_073C>Morrison:<nl>
+ Or did you not catch that?{END}
+
+<unk1><audio_073D><Chester>:<nl>
+ Mr. Morrison showed up at the
+ village shortly after you left.
+ You must've just missed him.
+<pause>
+{END}
+
+<audio_073E><Chester>:<nl>
+ Thanks to him, we were able to
+ give the villagers proper burials
+ faster than I'd thought.
+<pause>
+<audio_073F><Cless>:<nl>
+ So that's what happened...<wait>{END}
+
+<audio_0740><Cless>:<nl>
+ But what brought you to the
+ village, Mr. Morrison?
+<pause>
+<audio_0741>Morrison:<nl>
+ I was on the trail of a man in
+ black armor.
+<pause>
+<audio_0742>Morrison:<nl>
+ If I had learned of him just a bit
+ sooner, I might've been able to
+ help protect everyone...
+<pause>
+<audio_0743>Morrison:<nl>
+ But even with Miguel there...<nl>
+ What an atrocity...
+<pause>
+<audio_0744>Morrison:<nl>
+ They went after Maria, too<speed_0020>...<speed_FFFF>
+ Such a shame...<wait>{END}
+
+<audio_0745><Cless>:<nl>
+ You knew both of my parents!?
+<pause>
+<audio_0746>Morrison:<nl>
+ Yes, they were old friends of mine.<wait>{END}
+
+<audio_0747>Morrison:<nl>
+ Meryl is the name of this
+ young lady's mother.
+ I knew her as well.{END}
+
+<audio_0748>Morrison:<nl>
+ Probably<speed_0020>...<speed_FFFF>better than
+ any of you did.{END}
+
+<audio_0749><Mint>:<nl>
+ Mother<speed_0010>...<speed_FFFF><wait>{END}
+
+<audio_074A><Cless>:<nl>
+ ......{END}
+
+<audio_074B>Morrison:<nl>
+ By the way, <Cless>...<nl>
+ Miguel should've had a jewel of
+ which he took great care...
+<pause>
+<audio_074C>Morrison:<nl>
+ Do you have any idea where it
+ might be?
+<pause>
+<audio_074D><Cless>:<nl>
+ He gave me something like that--
+ a necklace containing a jewel for
+ my birthday a couple years back,
+ but--
+<pause>
+<audio_074E>Morrison:<nl>
+ Oh!? Do you have it with you now?
+<pause>
+{END}
+
+<audio_074F><Cless>:<nl>
+ Well, you see<speed_0010>...<speed_FFFF>
+<pause>
+<Cless>:<nl>
+ It <audio_0750>was stolen from me...<wait>{END}
+
+<audio_0751>Morrison:<nl>
+ What did you say!?
+<pause>
+<audio_0752><Cless>:<nl>
+ Just before they threw me in a
+ cell, a man in black armor yanked
+ it from my neck.
+<pause>
+<audio_0753><Cless>:<nl>
+ What's so special about the jewel,
+ anyway?
+<pause>
+{END}
+
+<audio_0754>Morrison:<nl>
+ ......
+<pause>
+<audio_0755>Morrison:<nl>
+ How could this have happened<speed_0010>...?<speed_FFFF>
+<pause>
+Morrison:<nl>
+ We<audio_0756>'re losing every advantage we
+ had!
+<pause>
+<audio_0757>Morrison:<nl>
+ This isn't good...{END}
+
+<audio_0758>Morrison:<nl>
+ I must go to the mausoleum.
+<pause>
+<audio_0759>Morrison:<nl>
+ The rest of you should wait here
+ until I return.
+<pause>
+<audio_075A><Cless>:<nl>
+ Hold it!
+ Is that where the man in black
+ armor went?
+<pause>
+<audio_075B><Cless>:<nl>
+ We'll go with you!
+<pause>
+<audio_075C><Cless>:<nl>
+ Please let us avenge our families!
+<pause>
+<audio_075D>Morrison:<nl>
+ Forget it!<wait>{END}
+
+<audio_075E><Chester>:<nl>
+ Oh, come on!
+<pause>
+<audio_075F><Cless>:<nl>
+ Please, sir!
+<pause>
+<audio_0760>Morrison:<nl>
+ As you are now, you would be
+ nothing but a burden to me.
+<pause>
+<audio_0761><Chester>:<nl>
+ As if YOU know what we're capable
+ of!
+<pause>
+<audio_0762><Cless>:<nl>
+ Please give us a chance...
+<pause>
+<audio_0763>Morrison:<nl>
+ Have you ever bested Miguel in a
+ duel?
+<pause>
+<audio_0764><Cless>:<nl>
+ Well, uh<speed_0020>...<speed_FFFF>{END}
+
+<audio_0765>Morrison:<nl>
+ I apologize.
+<pause>
+<audio_0766>Morrison:<nl>
+ If I allowed you to die because of
+ those pendants...
+<pause>
+<audio_0767>Morrison:<nl>
+ I could never face my old friends
+ again.
+<pause>
+<audio_0768>Morrison:<nl>
+ So, for heaven's sake. Please don't
+ be selfish about this.{END}
+
+<unk1><Mint>:<nl>
+ Mr. Alvein, are you feeling better?
+<pause>
+{END}
+
+<Cless>:<nl>
+ Yeah, sorry to make you worry.
+<pause>
+<Cless>:<nl>
+ I feel good as new!
+<pause>
+<Mint>:<nl>
+ You were out for so long...<nl>
+ Thank goodness...
+<pause>
+<Cless>:<nl>
+ Oh, um, by the way...
+<pause>
+<Mint>:<nl>
+ May I help you with something?
+<pause>
+<Cless>:<nl>
+ Er, well, it's just I've noticed you're
+ always very formal when referring
+ to me.
+<pause>
+<Mint>:<nl>
+ Oh...<nl>
+ Does it make you uncomfortable?
+ I'm sorry...
+<pause>
+<Cless>:<nl>
+ No, it's not that.
+ I just think it's a little...excessive.
+ Please just call me <Cless>.{END}
+
+Peddler:<nl>
+ Hello, I'm a peddler.
+ Would you like to see my wares?{END}
+
+Peddler:<nl>
+ Ah, excuse me!
+<pause>
+Peddler:<nl>
+ Is Mr. Morrison in?
+<pause>
+Peddler:<nl>
+ I called out, but received no reply...
+<pause>
+Peddler:<nl>
+ Well, since you're here, would you
+ like to see my wares?{END}
+
+Peddler:<nl>
+ Come again!{END}
+
+Maid:<nl>
+ Hello there!
+<pause>
+Maid:<nl>
+ My friend put in a recommendation
+ for me, and what do you know--I
+ got the job!
+<pause>
+Maid:<nl>
+ Wow, what a hunk that
+ Mr. Morrison turned
+ out to be <heart><wait>{END}
+
+Maid:<nl>
+ Omigosh, I can't believe I said it
+ aloud <heart><wait>{END}
+
+<Cless>:<nl>
+ ...{END}
+
+Morrison:<nl>
+ I love going out just to take in the
+ fresh, sweet air.
+<pause>
+Morrison:<nl>
+ I find it positively invigorating!{END}
+
+Maid:<nl>
+ Hello, I'm in charge of all the
+ housekeeping.
+<pause>
+Maid:<nl>
+ I really enjoy working here.
+<pause>
+Maid:<nl>
+ The fresh air, the clean water,
+ and the plants everywhere...<nl>
+ I never want to leave!{END}
+
+Traveling Artist:<nl>
+ My name is Curio.
+<pause>
+Traveling Artist:<nl>
+ I'm an artist whose inspiration
+ comes from the beautiful curves of
+ a woman's body.<wait>{END}
+
+Traveling Artist:<nl>
+ Are you taking good care of my
+ mirror?
+<pause>
+Traveling Artist:<nl>
+ It's one of a kind, so you'd better
+ treat it well!{END}
+
+Traveling Artist:<nl>
+ Hey, you have a Naughty Magazine!
+ Curves, curves, curves!
+<pause>
+Traveling Artist:<nl>
+ Oh, you've gotta let me have it!
+ Well, how 'bout it!?{END}
+
+Traveling Artist:<nl>
+ Oh, baby, baby! *drool*
+<pause>
+Traveling Artist:<nl>
+ Uh, ahem, I mean...
+<pause>
+Traveling Artist:<nl>
+ This is absolutely inspirational!
+<pause>
+Traveling Artist:<nl>
+ Please, take this in exchange.<wait>{END}
+
+<color_0002>Acquired <item_8101>.<color_0000>{END}
+
+Traveling Artist:<nl>
+ Well, shucks...<nl>
+ No inspiration for me, then...{END}
+
+Traveling Artist:<nl>
+ Hmm...<nl>
+ What kind of painting would set the
+ world on fire...{END}
+
+Girl:<nl>
+ My great-grandpa was an amazing
+ cleric!
+<pause>
+Girl:<nl>
+ And his grandpa's grandpa was a
+ hero who defeated the demon lord!
+<pause>
+Girl:<nl>
+ I'm not making this up!{END}
+
+Harold D. Morrison:<nl>
+ I'm afraid there's little else I
+ can offer besides hospitality.
+ Please feel free to make
+ yourselves at home.{END}
+
+???:<nl>
+ Hm? Who are you people!?
+<pause>
+???:<nl>
+ I am very busy.
+ I haven't the time for you right
+ now.
+<pause>
+<Cless>:<nl>
+ Say, is your name Mr. Morrison?
+<pause>
+???:<nl>
+ Why, yes...<nl>
+ Harold D. Morrison,
+ to be exact, but--
+<pause>
+Harold:<nl>
+ Wait, are you...
+<pause>
+Harold:<nl>
+ Are you Mr. <Cless> Alvein, of
+ whom my grandfather spoke!?
+<pause>
+<Cless>:<nl>
+ Yes, that would be me.
+<pause>
+Harold:<nl>
+ I see...<nl>
+ So you've taken the time to come
+ and visit me.
+<pause>
+Harold:<nl>
+ Naturally, I would like to provide
+ my assistance, but...
+<pause>
+Harold:<nl>
+ I lack the power to fight Dhaos.
+<pause>
+Harold:<nl>
+ It goes without saying,
+ but my grandfather was
+ Trinicus D. Morrison...
+<pause>
+Harold:<nl>
+ ...and his ancestor was Edward.
+<pause>
+Harold:<nl>
+ The two of them commanded
+ incredible powers.
+<pause>
+Harold:<nl>
+ However, I was not fortunate
+ enough to inherit them.
+<pause>
+<Cless>:<nl>
+ Your sentiments are more than
+ enough.
+<pause>
+<Klarth>:<nl>
+ Speaking of your grandfather, did
+ he ever tell you stories about what
+ we ended up doing?
+<pause>
+Harold:<nl>
+ Are you certain this is something
+ you wish to hear about?
+<pause>
+<Chester>:<nl>
+ Nahhh, I don't think so...
+<pause>
+<Arche>:<nl>
+ Hey, waitaminute!
+ You totally gotta be kidding!
+<pause>
+<Arche>:<nl>
+ This is something we NEED to hear!
+<pause>
+<Chester>:<nl>
+ I sure as hell don't NEED to!
+ Just shaddap already!
+<pause>
+<Klarth>:<nl>
+ Easy, now.
+ Let's not embarrass ourselves in
+ front of Mr. Morrison with a
+ childish fight.
+<pause>
+<Chester>:<nl>
+ ......
+<pause>
+<Klarth>:<nl>
+ But I agree with you, <Chester>.
+ It's probably for the best that we
+ just drop the subject.
+<pause>
+<Arche>:<nl>
+ Huhhh?
+ What's with you guys!?
+<pause>
+<Arche>:<nl>
+ I don't get it!
+ I think it'd be nice to know!
+<pause>
+<Klarth>:<nl>
+ There are many things in
+ this world that people are
+ better off not knowing.
+ This is one of those.
+<pause>
+<Arche>:<nl>
+ Ohhh, really?
+<pause>
+<Klarth>:<nl>
+ Forgive me for asking that
+ silly question, Harold.
+ It never happened.
+ Let's just leave it at that.
+<pause>
+Harold:<nl>
+ As you wish.
+ No harm done.
+<pause>
+<Arche>:<nl>
+ Well, it's not like it's big news
+ anymore, so what's so bad in
+ hearing about it?
+<pause>
+<Chester>:<nl>
+ Yeah, but if you heard it and
+ changed something along the way,
+ wouldn't that screw things up
+ anyway?
+<pause>
+Harold:<nl>
+ ......
+<pause>
+Harold:<nl>
+ I do believe that people should
+ create their own destiny by
+ themselves.
+<pause>
+Harold:<nl>
+ In fact, there is an old adage told
+ by fortune tellers...
+<pause>
+Harold:<nl>
+ A person's fate is already 99%
+ decided when they are born.
+<pause>
+Harold:<nl>
+ But the remaining 1% can be
+ changed through hard work and
+ effort.
+<pause>
+Harold:<nl>
+ To tell you all the truth, my
+ grandfather did not tell me even
+ one word of your exploits.
+<pause>
+Harold:<nl>
+ He could have kept it a secret for
+ any number of reasons, but...
+<pause>
+Harold:<nl>
+ I believe it was because he didn't
+ wish to take away that 1% of free
+ will.
+<pause>
+<Cless>:<nl>
+ Yeah, that makes sense.
+<pause>
+<Arche>:<nl>
+ Whah?
+<pause>
+<Arche>:<nl>
+ We only get 1%?
+ Man, what a drag...
+<pause>
+<Mint>:<nl>
+ I don't think that's how it works.
+<pause>
+<Mint>:<nl>
+ You have to be earnest and work
+ hard for the things that are
+ precious to you.
+<pause>
+<Klarth>:<nl>
+ Precisely. If you find out you have
+ some wonderful future, you might
+ end up thinking it's inevitable.
+<pause>
+<Klarth>:<nl>
+ So you end up getting lazy in life
+ and become depressed when that
+ future you thought you had never
+ materializes.
+<pause>
+<Arche>:<nl>
+ Hmm...<nl>
+ I guess I see your point.
+<pause>
+<Chester>:<nl>
+ Hahah, oh sure!
+ I bet that went in one ear and
+ right out the other.
+<pause>
+<Arche>:<nl>
+ Did not!!!
+<pause>
+<Arche>:<nl>
+ Would you stop talking such crap!?
+<pause>
+<Klarth>:<nl>
+ I do believe I asked you two to
+ stop the juvenile bickering...
+<pause>
+<Arche>:<nl>
+ ......
+<pause>
+Harold:<nl>
+ Anyway, I'm afraid there isn't
+ really much else I can offer you...
+<pause>
+Harold:<nl>
+ But please feel free to make
+ yourselves at home.{END}
+
+Chef:<nl>
+ Did you make Pescatore yet?{END}
+
+Chef:<nl>
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef:<nl>
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef:<nl>
+ Come, don't you wish to taste the
+ flavors of my world?{END}
+
+Chef:<nl>
+ I'll teach you this dish!<wait>{END}
+
+<color_0002>Learned the recipe for Pescatore.<color_0000>{END}
+
+Chef:<nl>
+ What!?
+ How can you reject this taste!?{END}
+
+<audio_0769><Mint>:<nl>
+ What should we do now?{END}
+
+<audio_076A><Chester>:<nl>
+ I dunno about you guys, but I say
+ screw what Mr. Morrison said.
+ Sit here and twiddle my thumbs
+ until he gets back? Like hell!<wait>{END}
+
+<audio_076B><Mint>:<nl>
+ I<speed_0010>...<speed_FFFF><wait>{END}
+
+<audio_076C><Cless>:<nl>
+ ......
+<pause>
+<audio_076D><Chester>:<nl>
+ You're being awfully quiet,
+ <Cless>.
+<pause>
+<audio_076E><Chester>:<nl>
+ Are you just going to sit on your ass
+ and wait here because someone
+ else told you to?
+<pause>
+<audio_076F><Chester>:<nl>
+ Think of the villagers...{END}
+
+<audio_0770><Chester>:<nl>
+ What the hell!
+ Come on, man!
+<pause>
+<audio_0771><Chester>:<nl>
+ We made a promise, dammit!!!
+<pause>
+<audio_0772><Chester>:<nl>
+ We promised we would avenge
+ Totus together, no matter what!
+ What's wrong with you!?
+<pause>
+{END}
+
+<audio_0773><Chester>:<nl>
+ Sure, Mr. Morrison just may be
+ right...
+<pause>
+<audio_0774><Chester>:<nl>
+ If we follow him, we may well end
+ up joining our families...
+<pause>
+{END}
+
+<audio_0775><Chester>:<nl>
+ But this is a time when we have to
+ stand up for ourselves and fight!!{END}
+
+<audio_0776><Chester>:<nl>
+ Hey!
+ Are you even listening!?{END}
+
+<audio_0777><Mint>:<nl>
+ Please stop this!
+<pause>
+<audio_0778><Mint>:<nl>
+ Please...{END}
+
+<audio_0779>???:<nl>
+ Boy, this place sure is noisy today.{END}
+
+<audio_077A>Tristan:<nl>
+ Hey, Morrison!
+ You home?{END}
+
+<audio_077B>Tristan:<nl>
+ Oh, what now?
+ Has he gone off somewhere?<wait>{END}
+
+<audio_077C><Cless>:<nl>
+ Master Tristan!?
+<pause>
+<audio_077D><Cless>:<nl>
+ What are you doing here?
+<pause>
+<audio_077E>Tristan:<nl>
+ Oh, young <Cless>!
+<pause>
+<audio_077F>Tristan:<nl>
+ I come here to have tea with
+ Morrison pretty often.
+<pause>
+<audio_0780>Tristan:<nl>
+ And what about you?
+ What are you doing here?<wait>{END}
+
+<audio_0781><Cless>:<nl>
+ Well, the truth is...{END}
+
+<audio_0782><Cless>:<nl>
+ ...And that's the entire story.
+<pause>
+{END}
+
+<audio_0783>Tristan:<nl>
+ Hmmm...
+<pause>
+<audio_0784>Tristan:<nl>
+ My, that's awful...
+<pause>
+<audio_0785>Tristan:<nl>
+ And those cowardly rats even used
+ Maria as a human shield against
+ Miguel...
+<pause>
+<audio_0786><Cless>:<nl>
+ Could it have been their people
+ who called you away?
+<pause>
+<audio_0787>Tristan:<nl>
+ Well, even if I had stayed in the
+ village...
+<pause>
+<audio_0788>Tristan:<nl>
+ One decrepit old man...couldn't have
+ done anything.
+<pause>
+<audio_0789><Cless>:<nl>
+ ......
+<pause>
+<audio_078A>Tristan:<nl>
+ So, Morrison said you'd just be in
+ his way, you say...{END}
+
+<audio_078B><Mint>:<nl>
+ Yes...
+<pause>
+<audio_078C>Tristan:<nl>
+ Hohohoh...
+<pause>
+<audio_078D>Tristan:<nl>
+ He's acting so big just because he
+ can use some clerical artes.
+<pause>
+<audio_078E><Mint>:<nl>
+ Mr. Morrison is a cleric as well!?<wait>{END}
+
+<audio_078F>Tristan:<nl>
+ “As well,” huh...?
+<pause>
+<audio_0790>Tristan:<nl>
+ ......
+<pause>
+<audio_0791>Tristan:<nl>
+ Oh, I see!
+ You must be Meryl's daughter.
+<pause>
+<audio_0792>Tristan:<nl>
+ You look just like your mother.
+<pause>
+<audio_0793>Tristan:<nl>
+ You'll be quite the fox!{END}
+
+<audio_0794><Cless>:<nl>
+ There's something I don't
+ understand...<wait>{END}
+
+<unk1><audio_0795><Cless>:<nl>
+ Why do so many people recognize
+ <Mint> and I?<wait>{END}
+
+<audio_0796>Tristan:<nl>
+ Would you really like to know?
+<pause>
+<audio_0797><Cless>:<nl>
+ Yes, please!
+<pause>
+<audio_0798><Cless>:<nl>
+ And about how we can avenge the
+ village!<wait>{END}
+
+<audio_0799><Chester>:<nl>
+ Dude! Yeah!
+<pause>
+<audio_079A><Mint>:<nl>
+ <Cless>...!
+<pause>
+<audio_079B><Cless>:<nl>
+ Perhaps Mr. Morrison was right...
+<pause>
+<audio_079C><Cless>:<nl>
+ But I won't falter anymore!
+<pause>
+{END}
+
+<audio_079D><Cless>:<nl>
+ Master, please!
+<pause>
+<audio_079E>Tristan:<nl>
+ Very well.
+<pause>
+<audio_079F>Tristan:<nl>
+ However...
+<pause>
+<audio_07A0>Tristan:<nl>
+ Your equipment might not be quite
+ up to the task.
+<pause>
+<audio_07A1>Tristan:<nl>
+ You should get some better gear
+ from the peddler who just arrived.
+<pause>
+<audio_07A2>Tristan:<nl>
+ Once you're prepared, head to the
+ cave to the southeast.
+<pause>
+<audio_07A3>Tristan:<nl>
+ I'll go ahead and wait for you
+ there.{END}
+
+<audio_07A4><Cless>:<nl>
+ Huh...?
+<pause>
+<audio_07A5><Chester>:<nl>
+ Is something wrong, man?
+<pause>
+<audio_07A6><Cless>:<nl>
+ (It's gone...!)
+<pause>
+<audio_07A7><Cless>:<nl>
+ (The earring I got in the dungeon
+ disappeared!)
+<pause>
+<audio_07A8><Cless>:<nl>
+ (Did it fall out of my pocket?)
+<pause>
+<audio_07A9><Cless>:<nl>
+ (When could that have happened?)<wait>{END}
+
+<unk1><audio_07AA><Mint>:<nl>
+ <Cless>, is something troubling
+ you?<wait>{END}
+
+<audio_07AB><Cless>:<nl>
+ Umm, well...
+<pause>
+<audio_07AC><Cless>:<nl>
+ Nah, forget it.
+ Let's go!{END}
+
+<audio_071A>???:<nl>
+ Are you all right?{END}
+
+<audio_071B><Cless>:<nl>
+ Where am I...?
+<pause>
+<audio_071C>???:<nl>
+ You're in my residence.
+<pause>
+{END}
+
+<audio_071D>???:<nl>
+ My name is Trinicus D. Morrison.
+<pause>
+<audio_071E><Cless>:<nl>
+ I...was poisoned...
+<pause>
+<audio_071F><Cless>:<nl>
+ Did you save me, sir?
+<pause>
+<audio_0720>Morrison:<nl>
+ Well, something like that.
+<pause>
+<audio_0721><Cless>:<nl>
+ Thank you very much.
+<pause>
+<audio_0722>Morrison:<nl>
+ Your name is <Cless>, correct?
+<pause>
+<audio_0723>Morrison:<nl>
+ That's what I heard from your
+ buddy, at least.
+<pause>
+<audio_0724>Morrison:<nl>
+ And the young lady told me of your
+ harrowing escape prior to arriving
+ here.
+<pause>
+<audio_0725>Morrison:<nl>
+ That's about it.
+ Just wanted to fill you in
+ on the circumstances.{END}
+
+<unk1><audio_0726><Mint>:<nl>
+ Oh, you have awakened, Mr. Alvein?
+<pause>
+{END}
+
+<audio_0727><Mint>:<nl>
+ I'm so glad<speed_0010>...<speed_FFFF>
+<pause>
+Morrison:<nl>
+ Ah<audio_0728>, yes.
+ Remember to thank her properly.
+<pause>
+<audio_0729>Morrison:<nl>
+ Don't be fooled by her delicate
+ frame! She was carrying you to
+ safety when I found you!<wait>{END}
+
+<audio_072A><Mint>:<nl>
+ Mr. Morrison...<nl>
+ I, um... <panic>{END}
+
+<audio_072B><Cless>:<nl>
+ I really do appreciate
+ it, <Mint>.<wait>{END}
+
+<audio_072C><Mint>:<nl>
+ It's...I...<wait>{END}
+
+<unk1><audio_072D><Mint>:<nl>
+ Ah, umm...<nl>
+ Anyway, Mr. Alvein?
+<pause>
+<audio_072E><Mint>:<nl>
+ You should eat this.
+ It'll help you feel better.{END}
+
+<unk1><audio_072F><Cless>:<nl>
+ Wow, this tastes great!
+<pause>
+<audio_0730><Cless>:<nl>
+ I could eat it every day!
+<pause>
+<audio_0731><Cless>:<nl>
+ Could you please teach me the
+ recipe?<wait>{END}
+
+<color_0002>Learned the recipe for Chawanmushi.<wait><color_0000>{END}
+
+<audio_0732><Mint>:<nl>
+ Also, you should hold onto this.<wait>{END}
+
+<color_0002>Acquired a <item_9E00>.<color_0000>
+<pause>
+<audio_0733><Cless>:<nl>
+ What's this?
+<pause>
+<audio_0734><Mint>:<nl>
+ I'm sure it will be helpful.<wait>{END}
+
+<unk1><audio_0735>Morrison:<nl>
+ Hahah. Before you take a look at
+ that book, why don't you go out
+ and get some fresh air to help you
+ wake up?<wait>{END}
+
+<audio_0736><Cless>:<nl>
+ Ah, that sounds good.{END}
+
+<audio_0FD8><speed_0004><Cless>:<nl>
+ I guess this is farewell, then...
+<pause>
+<audio_0FD9><Klarth>:<nl>
+ Yeah...
+<pause>
+<audio_0FDA><Klarth>:<nl>
+ We'll be leaving for Thor soon.
+<pause>
+<audio_0FDB><Arche>:<nl>
+ I don't wanna forget you guys...
+<pause>
+<audio_0FDC><Arche>:<nl>
+ So, from the bottom of my heart, I
+ totally won't...
+<pause>
+<audio_0FDD><Arche>:<nl>
+ Never, ever...{END}
+
+<unk1><audio_0FDE><speed_0004><Klarth>:<nl>
+ <Mint>, dry your eyes.
+<pause>
+<audio_0FDF><Klarth>:<nl>
+ Our meeting should have been
+ impossible to begin with.
+<pause>
+<audio_0FE0><Klarth>:<nl>
+ By some miracle, though, you made
+ it happen.
+<pause>
+<audio_0FE1><Klarth>:<nl>
+ Rather than lament our departure,
+ I think we should revel in how
+ spectacular it was to meet people
+ from another century.
+<pause>
+<audio_0FE2><Mint>:<nl>
+ ......
+<pause>
+<audio_0FE3><Mint>:<nl>
+ You're right...
+<pause>
+<audio_0FE4><Cless>:<nl>
+ Um, <Klarth>...<nl>
+ And <Arche>...
+<pause>
+<audio_0FE5><Cless>:<nl>
+ Take care, both of you.
+<pause>
+<audio_0FE6><Klarth>:<nl>
+ Yeah, same to you.{END}
+
+<audio_0FE7><speed_0004><Arche>:<nl>
+ Well, see ya guys!{END}
+
+<audio_0FE8>Morrison:<nl>
+ Wh-What's that noise!?{END}
+
+<audio_0FE9><Arche>:<nl>
+ Look!
+ The sky!!{END}
+
+<audio_0FEA><Klarth>:<nl>
+ S-Seems to be over now...
+<pause>
+<audio_0FEB><Cless>:<nl>
+ What in the world was that!?{END}
+
+<audio_0FEC>???:<nl>
+ Oh, it seems the trip went well!
+<pause>
+<audio_0FED>???:<nl>
+ Surely this grand residence is that
+ of Trinicus D. Morrison...{END}
+
+<audio_0FEE>Morrison:<nl>
+ That was the light of time travel...
+<pause>
+<audio_0FEF>Morrison:<nl>
+ Just who are you, and from
+ whence, or when, did you come?
+<pause>
+<audio_0FF0>???:<nl>
+ My name is Harrison.
+ I come from fifty years into the
+ future, at the behest of the King of
+ Alvanista.{END}
+
+<audio_0FF1><Klarth>:<nl>
+ Hold on!
+<pause>
+<audio_0FF2><Klarth>:<nl>
+ Future, you say!?
+<pause>
+<audio_0FF3>Harrison:<nl>
+ A being called Dhaos emerged in
+ our world several years ago.
+<pause>
+<audio_0FF4>Harrison:<nl>
+ Because of him, the world is on the
+ brink of destruction, and we have
+ no means of fighting back.
+ As a last-ditch effort, we--
+<pause>
+<audio_0FF5><Cless>:<nl>
+ Wait!
+ Do you mean Dhaos was behind the
+ meteorites that just bombarded
+ the area!?
+<pause>
+<audio_0FF6>Harrison:<nl>
+ As I thought, he has begun to
+ attack you.
+<pause>
+<audio_0FF7>Harrison:<nl>
+ Probably out of fear that we'd try
+ to retrieve you from the past.<wait>{END}
+
+<audio_0FF8><Cless>:<nl>
+ But how can this be...?
+<pause>
+<audio_0FF9><Cless>:<nl>
+ I thought we killed him!<wait>{END}
+
+<audio_0FFA><Arche>:<nl>
+ Shows what we know!<wait>{END}
+
+<audio_0FFB><Klarth>:<nl>
+ Heh, looks as if our goodbye was a
+ bit premature.<wait>{END}
+
+<audio_0FFC><Cless>:<nl>
+ Let's go, everyone!
+ To the future!<wait>{END}
+
+<audio_0FFD><Mint>:<nl>
+ I'm ready!{END}
+
+<audio_0FFE>Morrison:<nl>
+ I do think that I'm the one who
+ would be the encumbrance this
+ time around.<wait>{END}
+
+<audio_0FFF>Morrison:<nl>
+ I'll stay behind and await your
+ return.
+<pause>
+<audio_1000><Cless>:<nl>
+ I understand.
+<pause>
+<audio_1001>Morrison:<nl>
+ If you make it back, I'll tell you
+ some old stories about your
+ parents.
+<pause>
+<audio_1002>Morrison:<nl>
+ ...So, make sure you do it.
+<pause>
+<audio_1003><Cless>:<nl>
+ We will!{END}
+
+<audio_1004><Cless>:<nl>
+ <Chester>!
+ You're coming with us, too!<wait>{END}
+
+<audio_1005><Chester>:<nl>
+ Of course I am!{END}
+
+<audio_1006><Arche>:<nl>
+ Hmmmm...{END}
+
+<audio_1007><Arche>:<nl>
+ Hmm-hmm...{END}
+
+<audio_1008><Arche>:<nl>
+ Yeah, I dunno.
+ You look kinda wussy.<wait>{END}
+
+<audio_1009><Chester>:<nl>
+ !?
+<pause>
+<audio_100A><Arche>:<nl>
+ Well, you were like half-dead
+ back there, y'know?
+ If you were more manly, you--<wait>{END}
+
+<audio_100B><Chester>:<nl>
+ Just shut up already,
+ you little wench!
+ Why I oughta--<wait>{END}
+
+<audio_100C><Cless>:<nl>
+ <Chester>, back off!
+<pause>
+<audio_100D><Mint>:<nl>
+ Please don't fight, you two!{END}
+
+<audio_100E><Arche>:<nl>
+ Yeah yeah, all right then.<wait>{END}
+
+<audio_100F><Arche>:<nl>
+ I guess we'll see if you can keep
+ up with us, boy. Oh, and DO try not
+ to slack off, would you?<wait>{END}
+
+<unk1><audio_1010><Cless>:<nl>
+ Please forgive her.<wait>{END}
+
+<unk1><audio_1011><Cless>:<nl>
+ She's only teasing you...
+<pause>
+<audio_1012><Chester>:<nl>
+ ......{END}
+

@@ -1,0 +1,1074 @@
+<Cless>
+「人の家に勝手に入れないだろう」{END}
+
+<color_0002>休みますか？<color_0000>{END}
+
+<audio_0737><Cless>
+「うわっ！」{END}
+
+<audio_0738>？？？
+「目が覚めたか、<Cless>」{END}
+
+<audio_0739><Cless>
+「・・・・・・」
+<pause>
+<audio_073A><Cless>
+「<Chester>！」{END}
+
+<audio_073B>モリスン
+「君の名は、君の友人から聞いた
+　と、言っただろう？」<wait>{END}
+
+<audio_073C>モリスン
+「気がつかなかったかな？」{END}
+
+<unk1><audio_073D><Chester>
+<Cless>が村を出ていったのと入れ違いに、モリスンさんが来てな」
+<pause>
+{END}
+
+<audio_073E><Chester>
+「そのおかげで、村の人達を思っ
+　たよりも早く弔うことができた
+　んだ」
+<pause>
+<audio_073F><Cless>
+「そうだったのか」<wait>{END}
+
+<audio_0740><Cless>
+「でも、なぜ、モリスンさんが？」
+<pause>
+<audio_0741>モリスン
+「私は、黒い鎧の男を追っている
+　んだ」
+<pause>
+<audio_0742>モリスン
+「もう少し情報が早ければ、村を
+　守ることができたかもしれない
+　が・・・」
+<pause>
+<audio_0743>モリスン
+「しかし、ミゲールが居ながら何
+　ということだ・・・」
+<pause>
+<audio_0744>モリスン
+「それに、マリアも<speed_0020>・・・<speed_FFFF>
+　気の毒な事になったな・・・」<wait>{END}
+
+<audio_0745><Cless>
+「父さんと母さんの事を、知って
+　いるんですか！？」
+<pause>
+<audio_0746>モリスン
+「ああ、ニ人とは古い友人でね」<wait>{END}
+
+<audio_0747>モリスン
+「それに、お嬢さんの母親・・・
+　メリルのことも、よく知ってい
+　るよ」{END}
+
+<audio_0748>モリスン
+「たぶん<speed_0020>、<speed_FFFF>君達よりもね」{END}
+
+<audio_0749><Mint>
+「お母さん<speed_0010>・・・」<wait><speed_FFFF>{END}
+
+<audio_074A><Cless>
+「・・・・・・」{END}
+
+<audio_074B>モリスン
+「そういえば、ミゲールが大切に
+　していた宝石があったと思うん
+　だが・・・」
+<pause>
+<audio_074C>モリスン
+「<Cless>君は知らないか？」
+<pause>
+<audio_074D><Cless>
+「その宝石なら、首飾りにして誕
+　生日のプレゼントとしてもらい
+　ましたが・・・」
+<pause>
+<audio_074E>モリスン
+「今、それを持っているかい？」
+<pause>
+{END}
+
+<audio_074F><Cless>
+「それが<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_0750><Cless>
+「奪われてしまいました・・・」<wait>{END}
+
+<audio_0751>モリスン
+「何だって！？」
+<pause>
+<audio_0752><Cless>
+「捕まった時に、黒い鎧の男に奪
+　われたんです」
+<pause>
+<audio_0753><Cless>
+「いったい、あのペンダントの宝
+　石には何があるんですか？」
+<pause>
+{END}
+
+<audio_0754>モリスン
+「・・・・・・」
+<pause>
+<audio_0755>モリスン
+「何てことだ<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_0756>モリスン
+「全てが、後手に回ってしまう」
+<pause>
+<audio_0757>モリスン
+「まずいな・・・」{END}
+
+<audio_0758>モリスン
+「私は、地下墓地に行かなければ
+　ならなくなった」
+<pause>
+<audio_0759>モリスン
+「君達はここに残るんだ」
+<pause>
+<audio_075A><Cless>
+「その地下墓地に、鎧の男がいる
+　んですね？」
+<pause>
+<audio_075B><Cless>
+「僕達も行きます！」
+<pause>
+<audio_075C><Cless>
+「仇を討たせて下さい！」
+<pause>
+<audio_075D>モリスン
+「だめだ！」<wait>{END}
+
+<audio_075E><Chester>
+「そんな！」
+<pause>
+<audio_075F><Cless>
+「お願いします！」
+<pause>
+<audio_0760>モリスン
+「今の君達では、足手まといにし
+　かならない」
+<pause>
+<audio_0761><Chester>
+「決めつけないで下さい！」
+<pause>
+<audio_0762><Cless>
+「やってみなけりゃ・・・」
+<pause>
+<audio_0763>モリスン
+「君は、ミゲールと互角に渡りあ
+　えるか？」
+<pause>
+<audio_0764><Cless>
+「それは<speed_0020>・・・」<speed_FFFF>{END}
+
+<audio_0765>モリスン
+「すまんな」
+<pause>
+<audio_0766>モリスン
+「親友の忘れ形見を、危険な目に
+　あわせたとあっては・・・」
+<pause>
+<audio_0767>モリスン
+「先に逝った彼らに、顔向けでき
+　ないんでな」
+<pause>
+<audio_0768>モリスン
+「頼むから、わがままは言わない
+　でくれ」{END}
+
+<unk1><Mint>
+<Cless>さん、体のほうは大丈夫ですか？」
+<pause>
+{END}
+
+<Cless>
+「ああ、心配かけてごめん」
+<pause>
+<Cless>
+「もう平気さ」
+<pause>
+<Mint>
+「よかった・・・」{END}
+
+行商人
+「私は行商人ですが、何か買いま
+　せんか？」{END}
+
+行商人
+「あ、すみません」
+<pause>
+行商人
+「モリスンさんいますか？」
+<pause>
+行商人
+「いくら呼んでも返事がないもの
+　ですから・・・」
+<pause>
+行商人
+「ああ、あなたも何か買われませ
+　んか？」{END}
+
+行商人
+「まいど！」{END}
+
+お手伝い
+「こんにちは」
+<pause>
+お手伝い
+「私、友人に紹介されてこの家で
+　働いているの」
+<pause>
+お手伝い
+「でも、モリスンのおじさまって
+　<speed_0010>す・て・き<heart>」<wait><speed_FFFF>{END}
+
+お手伝い
+「きゃ、言っちゃった<heart>」<wait>{END}
+
+<Cless>
+「・・・・・・」{END}
+
+モリスン
+「外に行って新鮮な空気を吸って
+　くるといい」
+<pause>
+モリスン
+「気分も良くなる」{END}
+
+お手伝い
+「私、お手伝いです」
+<pause>
+お手伝い
+「ここは良い所ですね」
+<pause>
+お手伝い
+「空気も水も新鮮だし、自然は
+　いっぱいあるし・・・」{END}
+
+旅の画家
+「僕は、くりお」
+<pause>
+旅の画家
+「実は、画家なんだけど、やはり
+　僕の芸術心をゆさぶるものは、
+　女体ですな」<wait>{END}
+
+旅の画家
+「<item_8101>、大切にして
+　くれてるかな？」
+<pause>
+旅の画家
+「あれは、一品モノだからね」{END}
+
+旅の画家
+「おお、あなたが持っているのは
+　女体がたくさん出ている本では
+　ないですか！？」
+<pause>
+旅の画家
+「僕に、その<item_E400>をく
+　れませんか？」{END}
+
+旅の画家
+「うわっ、すっげぇ〜！」
+<pause>
+旅の画家
+「あっ、いやいや、ゴホン・・・」
+<pause>
+旅の画家
+「これは、すばらしい！」
+<pause>
+旅の画家
+「これを、どうぞ」<wait>{END}
+
+<color_0002><item_8101>を手に入れました。<color_0000>{END}
+
+旅の画家
+「ふ〜む、残念なり・・・」{END}
+
+旅の画家
+「ふ〜む、芸術とは・・・」{END}
+
+女の子
+「私のひいおじいさんって、すごい
+　法術師だったのよ」
+<pause>
+女の子
+「そのまたおじいさんのおじいさん
+　は魔王を倒した勇者だったのよ」
+<pause>
+女の子
+「うそじゃないよ」{END}
+
+ハロルド＝Ｄ＝モリスン
+「たいしたもてなしもできないが
+　ゆっくりしていってくれ」{END}
+
+？？？
+「ん、何だ君達は？」
+<pause>
+？？？
+「今、手が離せないんだよ」
+<pause>
+<Cless>
+「もしかして、あなたはモリスン
+　さんですか？」
+<pause>
+？？？
+「確かに私の名はハロルド＝Ｄ＝
+　モリスンだが・・・」
+<pause>
+ハロルド
+「君達は・・・」
+<pause>
+ハロルド
+「もしかして、祖父の言っていた
+　<Cless>殿か！？」
+<pause>
+<Cless>
+「ええ、そうです」
+<pause>
+ハロルド
+「そうか・・・君達が・・・」
+<pause>
+ハロルド
+「本来ならば、君達の手伝いをす
+　るべきなのだろうが・・・」
+<pause>
+ハロルド
+「私には、ダオスと戦う力はない」
+<pause>
+ハロルド
+「知っていると思うが、私の祖父
+　はトリニクス＝Ｄ＝モリスン、
+　そして・・・」
+<pause>
+ハロルド
+「その先祖は、エドワード・・・」
+<pause>
+ハロルド
+「かの二人には、すばらしい力が
+　あった」
+<pause>
+ハロルド
+「しかし、残念ながら私には、そ
+　の才能は受け継がれることはな
+　かった・・・」
+<pause>
+<Cless>
+「気持ちだけで十分です」
+<pause>
+<Klarth>
+「それより、あなたのおじいさん
+　から私達がこれからどうなるか
+　聞いてはいませんか？」
+<pause>
+ハロルド
+「それを、話してしまってよろし
+　いのだろうか？」
+<pause>
+<Chester>
+「やめようぜ、オレは聞きたくな
+　い」
+<pause>
+<Arche>
+「なんでよ？」
+<pause>
+<Arche>
+「いーじゃん、聞いとけば」
+<pause>
+<Chester>
+「うるさいなぁ、オレは聞きたく
+　ないんだよ」
+<pause>
+<Klarth>
+「まあまぁ、ここで口論はやめに
+　しよう」
+<pause>
+<Chester>
+「・・・・・・」
+<pause>
+<Klarth>
+「そうだな、聞くのは止めておこ
+　う・・・」
+<pause>
+<Arche>
+「えー、なんでよ？」
+<pause>
+<Arche>
+「聞いたっていーじゃん」
+<pause>
+<Klarth>
+「人間には、知ってはいけないこ
+　とや知らないほうがいいという
+　ことがあるんだ」
+<pause>
+<Arche>
+「そんなもんかなぁ〜？」
+<pause>
+<Klarth>
+「申しわけありません、ハロルド
+　さん、先程の質問は忘れていた
+　だけますか？」
+<pause>
+ハロルド
+「いやいや、気にせずに・・・」
+<pause>
+<Arche>
+「占いみたいなもんだし、聞いと
+　けばいいのに・・・」
+<pause>
+<Chester>
+「話を聞いてから行動したら、歴
+　史が変わっちまうだろう」
+<pause>
+ハロルド
+「・・・・・・」
+<pause>
+ハロルド
+「自分の運命は、自分で切り開く
+　ものだと私は思っております」
+<pause>
+ハロルド
+「占い師のよく使う言葉に、こん
+　な言葉がある・・・」
+<pause>
+ハロルド
+『人の運命というものは９９％は
+　すでに決まっているものだ』
+<pause>
+ハロルド
+『しかし残りの１％は、人の努力
+　によって変えることができる』
+<pause>
+ハロルド
+「実のところ、私の祖父はあなた
+　方の行く末の事は、一言も語っ
+　てくれなかった」
+<pause>
+ハロルド
+「その事実を、どう解釈するかは
+　人によって様々だとは思います
+　が」
+<pause>
+ハロルド
+「私は、１％の希望をつみ取りた
+　くなかったからではないかと考
+　えます」
+<pause>
+<Cless>
+「ええ、僕もそう思います」
+<pause>
+<Arche>
+「ホエ？」
+<pause>
+<Arche>
+「１％しか希望がないの？」
+<pause>
+<Mint>
+「そうではないと思います」
+<pause>
+<Mint>
+「ひたむきに努力する姿勢が大切
+　ということではないでしょうか」
+<pause>
+<Klarth>
+「なまじ結果を知っていると、手
+　を抜いたり、あきらめたりする
+　からな」
+<pause>
+<Arche>
+「そっかぁ〜、そだね」
+<pause>
+<Chester>
+「ホントにわかってんのか？」
+<pause>
+<Arche>
+「わかってるわよー！！」
+<pause>
+<Arche>
+「いちいちうるさいなぁ！！」
+<pause>
+<Klarth>
+「こらこら、ケンカはやめる」
+<pause>
+<Arche>
+「・・・・・・」
+<pause>
+ハロルド
+「まあ、たいしたもてなしもでき
+　ないが・・・」
+<pause>
+ハロルド
+「せめて、ゆっくりしていって下
+　さい」{END}
+
+料理人
+「ペスカトーレ作ってるかい？」{END}
+
+料理人
+「私は『すばらしき味の世界』の
+　住人」
+<pause>
+料理人
+「この味を、より多くの人に伝え
+　たい！」
+<pause>
+料理人
+「君も、私の世界に触れてみない
+　か？」{END}
+
+料理人
+「この料理を伝授しよう！」<wait>{END}
+
+<color_0002>ペスカトーレを料理できるようにな
+りました。<color_0000>{END}
+
+料理人
+「おお、なんということだ！」{END}
+
+<audio_0769><Mint>
+「私達、これからどうすればいい
+　のでしょう？」{END}
+
+<audio_076A><Chester>
+「モリスンさんはああ言ったけど
+　オレは待ってるなんて、絶対に
+　いやだぜ」<wait>{END}
+
+<audio_076B><Mint>
+「私は<speed_0010>・・・」<wait><speed_FFFF>{END}
+
+<audio_076C><Cless>
+「・・・・・・」
+<pause>
+<audio_076D><Chester>
+「<Cless>はどう思う？」
+<pause>
+<audio_076E><Chester>
+「待ってるつもりなのか？」
+<pause>
+<audio_076F><Chester>
+「村をやった奴らが・・・」{END}
+
+<audio_0770><Chester>
+「はっきりしろよ！」
+<pause>
+<audio_0771><Chester>
+「あの時、約束しただろう！！」
+<pause>
+<audio_0772><Chester>
+「必ずみんなの仇を討とうって、
+　約束したじゃないか」
+<pause>
+{END}
+
+<audio_0773><Chester>
+「そりゃあ、モリスンさんの言う
+　通りなのかもしれない」
+<pause>
+<audio_0774><Chester>
+「戦ったところで負けるだけなの
+　かもしれない・・・」
+<pause>
+{END}
+
+<audio_0775><Chester>
+「でも今は、それでも戦わなきゃ
+　ならない時なんだよ！！」{END}
+
+<audio_0776><Chester>
+「おいってば！」{END}
+
+<audio_0777><Mint>
+「ケンカはやめて下さい！」
+<pause>
+<audio_0778><Mint>
+「お願いです・・・」{END}
+
+<audio_0779>？？？
+「何ぞ、騒々しいのぅ」{END}
+
+<audio_077A>トリスタン
+「お〜い、モリスンよ〜い」{END}
+
+<audio_077B>トリスタン
+「何じゃ、おらんのか」<wait>{END}
+
+<audio_077C><Cless>
+「トリスタン師匠！？」
+<pause>
+<audio_077D><Cless>
+「どうしてここに？」
+<pause>
+<audio_077E>トリスタン
+「おお、<Cless>か」
+<pause>
+<audio_077F>トリスタン
+「わしは茶飲みに、ここにはよく
+　来るんじゃよ」
+<pause>
+<audio_0780>トリスタン
+「おんしこそ、こんな所で何をし
+　てるんじゃ？」<wait>{END}
+
+<audio_0781><Cless>
+「実は・・・」{END}
+
+<audio_0782><Cless>
+「・・・というわけなんです」
+<pause>
+{END}
+
+<audio_0783>トリスタン
+「ふぅむ・・・」
+<pause>
+<audio_0784>トリスタン
+「何ということじゃ」
+<pause>
+<audio_0785>トリスタン
+「ミゲールはマリアを人質にとら
+　れて、散ったか・・・」
+<pause>
+<audio_0786><Cless>
+「あの時、師匠を呼び出したのも
+　奴らの手の者だったのかもしれ
+　ません・・・」
+<pause>
+<audio_0787>トリスタン
+「いや、わしがあの時、村から出
+　なかったとしても・・・」
+<pause>
+<audio_0788>トリスタン
+「こんな老いぼれ・・・
+　ひとたまりもなかったろうて」
+<pause>
+<audio_0789><Cless>
+「・・・・・・」
+<pause>
+<audio_078A>トリスタン
+「それにしても、モリスンは言っ
+　たんじゃな、おんし達は足手ま
+　といと・・・」{END}
+
+<audio_078B><Mint>
+「はい・・・」
+<pause>
+<audio_078C>トリスタン
+「ほっほっほ・・・」
+<pause>
+<audio_078D>トリスタン
+「ちょいと、法術なんぞを使える
+　からといって、あやつはテング
+　になっておるんじゃ」
+<pause>
+<audio_078E><Mint>
+「モリスンさんも、法術師なので
+　すか？」<wait>{END}
+
+<audio_078F>トリスタン
+「も？・・・」
+<pause>
+<audio_0790>トリスタン
+「・・・・・・」
+<pause>
+<audio_0791>トリスタン
+「おうおう、メリルさんとこの娘
+　さんじゃな」
+<pause>
+<audio_0792>トリスタン
+「母さんそっくりじゃ」
+<pause>
+<audio_0793>トリスタン
+「美人になるぞぃ」{END}
+
+<audio_0794><Cless>
+「でも、なぜ？」<wait>{END}
+
+<unk1><audio_0795><Cless>
+なぜ、みんなが僕や<Mint>のこと、それに親のことまで知ってるんですか？」<wait>{END}
+
+<audio_0796>トリスタン
+「知りたいか？」
+<pause>
+<audio_0797><Cless>
+「はい、教えて下さい」
+<pause>
+<audio_0798><Cless>
+「それに、やっぱり僕達は仇を討
+　ちたいんです！」<wait>{END}
+
+<audio_0799><Chester>
+「<Cless>！」
+<pause>
+<audio_079A><Mint>
+「<Cless>さん！」
+<pause>
+<audio_079B><Cless>
+「モリスンさんの言ったことが正
+　しいかもしれないけど・・・」
+<pause>
+<audio_079C><Cless>
+「僕は、もう迷わない！」
+<pause>
+{END}
+
+<audio_079D><Cless>
+「師匠、お願いします！！」
+<pause>
+<audio_079E>トリスタン
+「いいじゃろう」
+<pause>
+<audio_079F>トリスタン
+「じゃが・・・」
+<pause>
+<audio_07A0>トリスタン
+「その装備では、ちと心細いのぅ」
+<pause>
+<audio_07A1>トリスタン
+「今、行商人が来とるから装備を
+　整えてくるといいぞぃ」
+<pause>
+<audio_07A2>トリスタン
+「準備ができたら、南東の洞窟へ
+　行くのじゃ」
+<pause>
+<audio_07A3>トリスタン
+「わしは、一足先に行って、待っ
+　ておるぞぃ」{END}
+
+<audio_07A4><Cless>
+「あれ？」
+<pause>
+<audio_07A5><Chester>
+「<Cless>、どうした？」
+<pause>
+<audio_07A6><Cless>
+（<item_3200>が・・・）
+<pause>
+<audio_07A7><Cless>
+（地下牢でもらった<item_3200>が
+　ない）
+<pause>
+<audio_07A8><Cless>
+（落としたのか？）
+<pause>
+<audio_07A9><Cless>
+（いったい、どこで無くしたんだ
+　ろう？）<wait>{END}
+
+<unk1><audio_07AA><Mint>
+<Cless>さん、どうかなさいました？」<wait>{END}
+
+<audio_07AB><Cless>
+「あっ、ああ・・・」
+<pause>
+<audio_07AC><Cless>
+「何でもない、行こう！」{END}
+
+<audio_071A>？？？
+「大丈夫か？」{END}
+
+<audio_071B><Cless>
+「ここは・・・」
+<pause>
+<audio_071C>？？？
+「ここは、私の家だ」
+<pause>
+{END}
+
+<audio_071D>？？？
+「私はトリニクス＝Ｄ＝モリスン
+　という者だよ」
+<pause>
+<audio_071E><Cless>
+「僕・・・毒にやられて・・・」
+<pause>
+<audio_071F><Cless>
+「モリスンさんが助けてくれたん
+　ですか？」
+<pause>
+<audio_0720>モリスン
+「まあ、そういうことになるかな」
+<pause>
+<audio_0721><Cless>
+「ありがとうございました」
+<pause>
+<audio_0722>モリスン
+「君は、<Cless>君だったね」
+<pause>
+<audio_0723>モリスン
+「君の友人から聞いたよ」
+<pause>
+<audio_0724>モリスン
+「お嬢さんから、ここに至るまで
+　のいきさつも聞いている」
+<pause>
+<audio_0725>モリスン
+「一応、事情は理解しているつも
+　りさ」{END}
+
+<unk1><audio_0726><Mint>
+<Cless>さん、目が覚め
+ましたか？」
+<pause>
+{END}
+
+<audio_0727><Mint>
+「よかった<speed_0010>・・・」
+<pause>
+<speed_FFFF><audio_0728>モリスン
+「このお嬢さんにも、よく礼を言
+　うことだね」
+<pause>
+<audio_0729>モリスン
+「この細腕で、気を失った君を運
+　んでいたんだ」<wait>{END}
+
+<audio_072A><Mint>
+「モリスンさん・・・<panic>
+　そんな・・・」{END}
+
+<audio_072B><Cless>
+「ありがとう・・・<Mint>」<wait>{END}
+
+<audio_072C><Mint>
+「そんな・・・」<wait>{END}
+
+<unk1><audio_072D><Mint>
+あっ、あの・・・<Cless>さん」
+<pause>
+<audio_072E><Mint>
+これを食べて、元気を出して下さい」{END}
+
+<unk1><audio_072F><Cless>
+うまい！」
+<pause>
+<audio_0730><Cless>
+<Mint>、これ、とてもおいしいよ！」
+<pause>
+<audio_0731><Cless>
+よかったら、作り方を教えてくれないかな」<wait>{END}
+
+<color_0002>ちゃわんむしを料理できるようになりました。<wait><color_0000>{END}
+
+<audio_0732><Mint>
+「それから、これをどうぞ」<wait>{END}
+
+<color_0002><item_9E00>を手に入れました。<color_0000>
+<pause>
+<audio_0733><Cless>
+「これは？」
+<pause>
+<audio_0734><Mint>
+「きっと、役立つと思います」<wait>{END}
+
+<unk1><audio_0735>モリスン
+そうだ、<Cless>君、気分転換に外の空気を吸ってきたらどうだい？」<wait>{END}
+
+<audio_0736><Cless>
+「あ、はい」{END}
+
+<audio_0FD8><speed_0004><Cless>
+「お別れ、ですね・・・」
+<pause>
+<audio_0FD9><Klarth>
+「ああ・・・」
+<pause>
+<audio_0FDA><Klarth>
+「後は、我々だけでトールに行く
+　ことにするよ」
+<pause>
+<audio_0FDB><Arche>
+「忘れちゃやだよ・・・」
+<pause>
+<audio_0FDC><Arche>
+「あたしは絶対みんなのこと忘れ
+　ないから・・・」
+<pause>
+<audio_0FDD><Arche>
+「絶対、忘れない・・・」{END}
+
+<unk1><audio_0FDE><speed_0004><Klarth>
+<Mint>、泣くな」
+<pause>
+<audio_0FDF><Klarth>
+私達は、本来できるはずのない出会いをしてしまった・・・」
+<pause>
+<audio_0FE0><Klarth>
+いや、することができた」
+<pause>
+<audio_0FE1><Klarth>
+私はむしろ、みんなに出会えてよかったと喜ぶべきだと考えているんだ」
+<pause>
+<audio_0FE2><Mint>
+・・・・・・」
+<pause>
+<audio_0FE3><Mint>
+はい・・・」
+<pause>
+<audio_0FE4><Cless>
+<Klarth>さん・・・
+<Arche>・・・」
+<pause>
+<audio_0FE5><Cless>
+二人とも、お元気で」
+<pause>
+<audio_0FE6><Klarth>
+ああ、お前達もな・・・」{END}
+
+<audio_0FE7><speed_0004><Arche>
+「それじゃ、バイバイだね」{END}
+
+<audio_0FE8>モリスン
+「な、何だ！？」{END}
+
+<audio_0FE9><Arche>
+「みんな、あれ見て！！」{END}
+
+<audio_0FEA><Klarth>
+「ど、どうやらおさまったようだ
+　な・・・」
+<pause>
+<audio_0FEB><Cless>
+「いったい何がどうなっているん
+　だ！？」{END}
+
+<audio_0FEC>？？？
+「おお、着いたようだな！」
+<pause>
+<audio_0FED>？？？
+「確かにここはトリニクス＝Ｄ＝
+　モリスン殿の家だ」{END}
+
+<audio_0FEE>モリスン
+「今のは時間転移の光・・・」
+<pause>
+<audio_0FEF>モリスン
+「あなたはいったい？」
+<pause>
+<audio_0FF0>？？？
+「私はハリソン、５０年後の未来
+　からアルヴァニスタ国王の命に
+　よりやって来ました」{END}
+
+<audio_0FF1><Klarth>
+「何だって？」
+<pause>
+<audio_0FF2><Klarth>
+「未来から！？」
+<pause>
+<audio_0FF3>ハリソン
+「ダオスは、私達の世界に現れて
+　すでに数年になります」
+<pause>
+<audio_0FF4>ハリソン
+「世界は破滅の危機に瀕し、万策
+　尽きた我々にはもはやみなさん
+　に頼るしかなく・・・」
+<pause>
+<audio_0FF5><Cless>
+「それじゃあ、やっぱりさっきの
+　隕石はダオスの！？」
+<pause>
+<audio_0FF6>ハリソン
+「やはり、攻撃してきましたか」
+<pause>
+<audio_0FF7>ハリソン
+「ダオスは私が過去の世界から、
+　あなた達を連れてくることを、
+　恐れたのでしょう」<wait>{END}
+
+<audio_0FF8><Cless>
+「何てことだ・・・」
+<pause>
+<audio_0FF9><Cless>
+「ダオスは死んだんじゃなかった
+　のか！？」<wait>{END}
+
+<audio_0FFA><Arche>
+「こうしちゃいられないじゃん」<wait>{END}
+
+<audio_0FFB><Klarth>
+「まだ別れるには早いらしいな」<wait>{END}
+
+<audio_0FFC><Cless>
+「行こう、未来へ！」<wait>{END}
+
+<audio_0FFD><Mint>
+「はい！」{END}
+
+<audio_0FFE>モリスン
+「今度は足手まといになるのは私
+　だな」<wait>{END}
+
+<audio_0FFF>モリスン
+「待っているよ」
+<pause>
+<audio_1000><Cless>
+「はい」
+<pause>
+<audio_1001>モリスン
+「帰ったら、君の両親の昔の事で
+　も話してあげよう」
+<pause>
+<audio_1002>モリスン
+「・・・必ず、帰ってきてくれよ」
+<pause>
+<audio_1003><Cless>
+「はい！」{END}
+
+<audio_1004><Cless>
+「<Chester>、お前も来いよ」<wait>{END}
+
+<audio_1005><Chester>
+「ああ！」{END}
+
+<audio_1006><Arche>
+「ふ〜ん・・・」{END}
+
+<audio_1007><Arche>
+「ふむふむ・・・」{END}
+
+<audio_1008><Arche>
+「なんか、弱そう・・・」<wait>{END}
+
+<audio_1009><Chester>
+「！？」
+<pause>
+<audio_100A><Arche>
+「だって、なんだか頼りなさそう
+　なんだもん」<wait>{END}
+
+<audio_100B><Chester>
+「なんだと！こいつ」<wait>{END}
+
+<audio_100C><Cless>
+「やめろよ<Chester>」
+<pause>
+<audio_100D><Mint>
+「二人ともケンカはやめて下さい」{END}
+
+<audio_100E><Arche>
+「わかったわよぅ」<wait>{END}
+
+<audio_100F><Arche>
+「まあ、せいぜいがんばってよね
+　キ・ミ」<wait>{END}
+
+<unk1><audio_1010><Cless>
+<Chester>、ゆるしてやってくれよ」<wait>{END}
+
+<unk1><audio_1011><Cless>
+<Arche>も悪気はないんだ」
+<pause>
+<audio_1012><Chester>
+・・・・・・」{END}
+

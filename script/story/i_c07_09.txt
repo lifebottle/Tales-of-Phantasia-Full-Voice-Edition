@@ -1,0 +1,803 @@
+<Cless>:<nl>
+ Is this the statue of Odin that
+ Valkyrie was talking about?{END}
+
+???:<nl>
+ May the magnanimous and
+ triumphant grace mine sacred
+ precinct.{END}
+
+???:<nl>
+ May the diminutive and the feeble
+ be gone!{END}
+
+
+　　　　　You, mortal!
+<pause>
+{END}
+
+
+　　　　That which you possess is beyond
+ your ken!{END}
+
+<audio_0E4F><Klarth>:<nl>
+ Hey, <Cless>!
+<pause>
+<audio_0E50><Klarth>:<nl>
+ Where are you going!?
+<pause>
+<audio_0E51><Cless>:<nl>
+ I heard a woman's voice...
+<pause>
+<audio_0E52><Klarth>:<nl>
+ Huh?
+<pause>
+<audio_0E53><Klarth>:<nl>
+ The hell are you talking about?{END}
+
+<audio_0E54><Arche>:<nl>
+ H-H-He disappeared!? <panic>
+<pause>
+<audio_0E55><Mint>:<nl>
+ <Cless>...
+<pause>
+<audio_0E56><Mint>:<nl>
+ No...{END}
+
+<unk1><audio_0E57><Arche>:<nl>
+ Eeek! <Mint>, <Mint>!!!
+ Get up, get up!!<wait>{END}
+
+<audio_0E58><Arche>:<nl>
+ We can't lose you too!!{END}
+
+<unk1><audio_0E59>Soldier:<nl>
+ Commander <Klarth>, what are
+ you doing?
+<pause>
+<audio_0E5A>Soldier:<nl>
+ Please hurry and join the battle!<wait>{END}
+
+<audio_0E5B><Klarth>:<nl>
+ B-But our comrade...
+<pause>
+<audio_0E5C>Soldier:<nl>
+ The battle isn't over yet!
+<pause>
+<audio_0E5D>Soldier:<nl>
+ This is no time to grieve!
+<pause>
+<audio_0E5E><Klarth>:<nl>
+ Er, I was...{END}
+
+<audio_0E5F><Cless>:<nl>
+ Who are you!?
+<pause>
+<audio_0E60>???:<nl>
+ I am one beholden to Odin, who
+ presently slumbers.
+<pause>
+<audio_0E61>???:<nl>
+ Your kind has christened me
+ Valkyrie.
+<pause>
+<audio_0E62><Cless>:<nl>
+ Odin?
+<pause>
+<audio_0E63><Cless>:<nl>
+ Valkyrie?{END}
+
+<audio_0E64><Cless>:<nl>
+ What do you want with me?
+<pause>
+<audio_0E65>Valkyrie:<nl>
+ Return to us the holy artifact.<wait>{END}
+
+<audio_0E66>Valkyrie:<nl>
+ That which you possess, Gungnir.
+<pause>
+<audio_0E67>Valkyrie:<nl>
+ It is an instrument of my Lord,
+ Odin.
+<pause>
+<audio_0E68>Valkyrie:<nl>
+ An inferior being such as yourself
+ defiles the Lord's treasure with
+ your flesh.<wait>{END}
+
+<audio_0E69><Cless>:<nl>
+ I-Inferior being...
+<pause>
+<audio_0E6A>Valkyrie:<nl>
+ That holy spear was unlawfully
+ removed from My Lord's custody...
+<pause>
+<audio_0E6B><Cless>:<nl>
+ Th-This belongs to a god... <panic>
+<pause>
+<audio_0E6C>Valkyrie:<nl>
+ Should you surrender it without
+ incident, you shall be compensated.
+<pause>
+<audio_0E6D>Valkyrie:<nl>
+ Should you refuse our proposition,
+ however, you shall incur divine
+ punishment, and...{END}
+
+<audio_0E6E><Cless>:<nl>
+ Hey, that's a nice horse.
+ Does it fly?{END}
+
+Sentry:<nl>
+ All is well!{END}
+
+Leisen:<nl>
+ Henceforth, you shall be known as
+ the Heroes of Legend to this nation.
+<pause>
+Leisen:<nl>
+ Leave the remaining monsters to
+ us. We shall eradicate every last
+ one still standing.
+<pause>
+Leisen:<nl>
+ With this, everlasting peace shall be
+ brought unto this world.{END}
+
+Leisen:<nl>
+ Our military has taken substantial
+ losses in this battle.
+<pause>
+Leisen:<nl>
+ What happens now is up to you,
+ and you alone.
+<pause>
+Leisen:<nl>
+ But fear not, we still intend to help
+ you in whatever way we can.{END}
+
+Leisen:<nl>
+ War is approaching, and we must
+ be vigilant.{END}
+
+Researcher:<nl>
+ The Mana Cannon has been reduced
+ to slag.
+<pause>
+Researcher:<nl>
+ We'll have to go back to the
+ drawing board now...{END}
+
+Researcher:<nl>
+ If this research proves fruitful,
+ we'll be able to develop a weapon
+ capable of dealing a decisive blow
+ to Dhaos.{END}
+
+Researcher:<nl>
+ Dhaos' only weak point was magic.
+<pause>
+Researcher:<nl>
+ Even so, the elves didn't have the
+ stomach to fight against him.
+<pause>
+Researcher:<nl>
+ They just cowered in their forest.{END}
+
+Researcher:<nl>
+ Dhaos' only weak point is magic.
+<pause>
+Researcher:<nl>
+ Despite this, the elves won't lift a
+ finger to strike against him.
+<pause>
+Researcher:<nl>
+ They just huddle together in their
+ forest, like cowards.{END}
+
+Researcher:<nl>
+ My current project is to study
+ witches and their mysterious
+ brooms.{END}
+
+Researcher Udu:<nl>
+ We've also begun researching the
+ fusion of magitechnology and
+ spirits.{END}
+
+Researcher:<nl>
+ Every day I do nothing but
+ research.
+<pause>
+Researcher:<nl>
+ My wife must be having second
+ thoughts about our marriage...{END}
+
+Researcher:<nl>
+ We work day and night to realize
+ humanity's dream.{END}
+
+Researcher:<nl>
+ We could've swiftly removed Dhaos
+ from power if we had the magic
+ power of the elves...
+<pause>
+Researcher:<nl>
+ I can't shake my curiosity though:
+ How did Sir Edward use magic?
+<pause>
+Researcher:<nl>
+ Were the rumors about him
+ actually true?{END}
+
+Researcher:<nl>
+ We could obliterate Dhaos if we
+ had the magic power of the elves...
+<pause>
+Researcher:<nl>
+ I've been wondering, though: How
+ is Sir Edward able to use magic?
+<pause>
+Researcher:<nl>
+ Could the rumors about him
+ actually be true?{END}
+
+Researcher:<nl>
+ I'm studying mana, the source of
+ magic.{END}
+
+Researcher:<nl>
+ If our research proves helpful--
+<pause>
+Researcher:<nl>
+ Eh, you know what?
+ This is worth it; I'm positive our
+ research will make a difference.{END}
+
+Sentry:<nl>
+ All is well!{END}
+
+Sentry:<nl>
+ My shift ended ages ago!
+ What's taking my replacement so
+ long to get here!?{END}
+
+Sentry:<nl>
+ Only authorized personnel are
+ allowed beyond this point.{END}
+
+Sentry:<nl>
+ Don't let this out, but there's
+ one hell of a weapon in the room
+ behind us. A real monster!{END}
+
+<audio_0D80>Leisen:<nl>
+ This is our magitechnology research
+ center.
+<pause>
+<audio_0D81>Leisen:<nl>
+ If our research is fruitful, humans
+ will be able to use magic.
+<pause>
+<audio_0D82>Leisen:<nl>
+ Just think of it--isn't it
+ marvelous?<wait>{END}
+
+<audio_0D83><Klarth>:<nl>
+ Wait, WHAT!?
+<pause>
+<audio_0D84><Klarth>:<nl>
+ Magic...usable by humans!?
+<pause>
+<audio_0D85><Klarth>:<nl>
+ Are you sure?
+<pause>
+<audio_0D86><Klarth>:<nl>
+ That would be a dream come true...
+<pause>
+<audio_0D87>Leisen:<nl>
+ Should we be victorious in this war,
+ it would be our pleasure to teach
+ you all about it in repayment of
+ your service.<wait>{END}
+
+<audio_0D88><Klarth>:<nl>
+ R-Really!?<wait>{END}
+
+<audio_0D89><Klarth>:<nl>
+ Listen up, kids. If we fail because
+ of you, I promise you'll never live
+ it down. Hmhmhm...<wait>{END}
+
+<audio_0D8A>Leisen:<nl>
+ Feel free to speak with the
+ researchers for more details.
+<pause>
+<audio_0D8B>Leisen:<nl>
+ Now, if you'll excuse me.
+ I must return to my duties.{END}
+
+<audio_1583><Arche>:<nl>
+ I still don't get it.<wait>{END}
+
+<audio_1584><Klarth>:<nl>
+ Huh?<wait>{END}
+
+<audio_1585><Arche>:<nl>
+ I mean, what we were talking
+ about before. You know, Dhaos'
+ so-called ambition.<wait>{END}
+
+<audio_1586><Arche>:<nl>
+ Sure, he attacked a town...
+<pause>
+<audio_1587><Arche>:<nl>
+ Killed people...
+<pause>
+<audio_1588><Arche>:<nl>
+ And is controlling monsters...
+<pause>
+<audio_1589><Arche>:<nl>
+ But...{END}
+
+<audio_158A><Klarth>:<nl>
+ But what?<wait>{END}
+
+<audio_158B><Arche>:<nl>
+ What about Venezia or Euclid?
+ I don't remember him pulling
+ anything on them.
+<pause>
+<audio_158C><Arche>:<nl>
+ And he hasn't made a move
+ against Alvanista either, right?
+ Aside from playing puppeteer
+ with Prince Laird, I mean.
+<pause>
+<audio_158D><Arche>:<nl>
+ I guess he was trying to destroy
+ Alvanista from the inside, but...
+<pause>
+<audio_158E><Arche>:<nl>
+ Haven't you noticed that Midgard
+ seems to be the only place Dhaos is
+ messing with directly?
+<pause>
+<audio_158F><Arche>:<nl>
+ Why do you suppose that is?{END}
+
+<audio_1590><Klarth>:<nl>
+ Now that you mention it...
+<pause>
+<audio_1591><Cless>:<nl>
+ Just what is the problem?
+<pause>
+<audio_1592><Cless>:<nl>
+ Think about what you just said!
+ “Sure, he attacked a town...”, which
+ would be Harmel, wouldn't it!?{END}
+
+<audio_1593><Arche>:<nl>
+ ......
+<pause>
+<audio_1594><Cless>:<nl>
+ Not only that, but you said that he
+ killed people too! Wasn't it Dhaos'
+ fault that <Rhea> and her parents
+ died!?
+<pause>
+<audio_1595><Cless>:<nl>
+ Is that really meaningless to you!?<wait>{END}
+
+<unk1><audio_1596><Mint>:<nl>
+ Please calm down, <Cless>!
+ You're going too far!{END}
+
+<audio_1597><Arche>:<nl>
+ Aha. That's it...<wait>{END}
+
+<audio_1598><Cless>:<nl>
+ Huh?<wait>{END}
+
+<audio_1599><Arche>:<nl>
+ Harmel's the weird one, isn't it?<wait>{END}
+
+<audio_159A><Arche>:<nl>
+ Why did Dhaos have to smash it?
+ It just seemed like a small,
+ harmless town. Nothing shady
+ about that, right?<wait>{END}
+
+<audio_159B><Klarth>:<nl>
+ Yes, indeed...
+<pause>
+<audio_159C><Arche>:<nl>
+ Maybe I'm overthinking this, but...
+<pause>
+<audio_159D><Arche>:<nl>
+ ...could Midgard, Harmel, and
+ possibly <Rhea>'s parents have
+ something in common?
+<pause>
+<audio_159E><Arche>:<nl>
+ I just find it kinda funny how
+ nothing's happened anywhere else...{END}
+
+<audio_159F><Klarth>:<nl>
+ Dhaos' objective...<nl>
+ As you said, we know little about it.
+<pause>
+<audio_15A0><Arche>:<nl>
+ I got an idea.
+ Why don't we go drop
+ in on my dad?
+<pause>
+<audio_15A1><Arche>:<nl>
+ He might know something.
+<pause>
+<audio_15A2><Arche>:<nl>
+ And besides, I got a little bone to
+ pick with him.
+<pause>
+<audio_15A3><Klarth>:<nl>
+ Y-Your house, at a time like
+ this!? <panic>
+<pause>
+<audio_15A4><Klarth>:<nl>
+ Isn't that just a LITTLE far?
+ They did ask us to wait around in
+ the city for orders, you know.
+<pause>
+<audio_15A5><Arche>:<nl>
+ Don't worry!
+ I got just the thing!
+<pause>
+<audio_15A6><Arche>:<nl>
+ Quick-jump! It'll get us there and
+ back, like, super fast, 'kay?<wait>{END}
+
+<audio_15A7><Arche>:<nl>
+ Now, let's go <heart>
+<pause>
+<color_0002>What will you do?<nl>
+<speed_0000>1. Quick-jump there<nl>
+2. Walk there<speed_FFFF>{END}
+
+<audio_0DD4><Cless>:<nl>
+ Mr. Morrison, what's going on!?
+<pause>
+<audio_0DD5>Morrison:<nl>
+ ......
+<pause>
+<audio_0DD6>???:<nl>
+ Hmhm, so the whole troupe has
+ finally assembled.
+<pause>
+<audio_0DD7>Morrison:<nl>
+ Why have you come here, Jestona?
+<pause>
+<audio_0DD8>Jestona:<nl>
+ Y'see, it's not my style to just
+ deliver a formal war declaration
+ and hightail it home.
+<pause>
+<audio_0DD9>Jestona:<nl>
+ So, I thought I'd add a personal
+ touch while I can: I'm going to
+ wipe you out! Lord Dhaos will
+ surely be very pleased with me!
+<pause>
+<audio_0DDA><Cless>:<nl>
+ What!?{END}
+
+<audio_0DDB>Jestona:<nl>
+ Don't move!<wait>{END}
+
+<audio_0DDC>Jestona:<nl>
+ If you so much as twitch, I'll make
+ mincemeat out of this little brat.
+<pause>
+<audio_0DDD><Cless>:<nl>
+ You dirty...!
+<pause>
+<audio_0DDE>Jestona:<nl>
+ Now, slaughter yourselves!
+<pause>
+<audio_0DDF>Jestona:<nl>
+ Yeah, that's right! The caped punk,
+ Morrison, and you other three!
+ Hurry up and slit your throats, or
+ the kid gets it!{END}
+
+<audio_0DE0>Morrison:<nl>
+ Everyone, pay close attention<speed_0010>...{END}
+
+<audio_0DE1>Jestona:<nl>
+ Ugh!!<wait>{END}
+
+<audio_0DE2>Jestona:<nl>
+ W-Why youuuu!!{END}
+
+<audio_0DE3><Cless>:<nl>
+ Mr. Morrison!!!
+<pause>
+<audio_0DE4>Morrison:<nl>
+ Stay back!!!
+<pause>
+<audio_0DE5>Morrison:<nl>
+ By expanding on this spell, it should
+ be possible to open a time travel
+ portal...
+<pause>
+<audio_0DE6>Jestona:<nl>
+ Hahahahah, this is the end for you!!!
+<pause>
+<audio_0DE7>Morrison:<nl>
+ Ugh...
+<pause>
+<audio_0DE8>Morrison:<nl>
+ It's a shame...I couldn't finish...<nl>
+ researching...this power...
+<pause>
+<audio_0DE9>Morrison:<nl>
+ Huff...huff...<speed_FFFF>just be...<speed_FFFF>a bit more...<speed_FFFF>
+ careful...<speed_FFFF>when you...<speed_FFFF>do it...
+<pause>
+<audio_0DEA>Jestona:<nl>
+ Wh-What are y--!?{END}
+
+<audio_0DEB><Mint>:<nl>
+ What...what did he do?
+<pause>
+<audio_0DEC><Cless>:<nl>
+ Mr. Morrison...{END}
+
+<unk1><audio_0DED><Cless>:<nl>
+ So <Arche>, are you still feeling a
+ bit squeamish about facing Dhaos?{END}
+
+<audio_0DEE><Cless>:<nl>
+ You saw what just happened, didn't
+ you!?
+<pause>
+<audio_0DEF><Cless>:<nl>
+ He'll stop at nothing to kill us!
+<pause>
+<audio_0DF0><Arche>:<nl>
+ I get it...
+<pause>
+<audio_0DF1><Arche>:<nl>
+ I won't say any more<speed_0010>...{END}
+
+<audio_0DF2><Mint>:<nl>
+ <Cless>...
+<pause>
+<audio_0DF3><Mint>:<nl>
+ With this, history is...
+<pause>
+<audio_0DF4><Mint>:<nl>
+ ...no longer as it is written in the
+ book...
+<pause>
+<audio_0DF5><Cless>:<nl>
+ That's the second time...
+<pause>
+<audio_0DF6><Cless>:<nl>
+ ...a Morrison has paid with his life
+ to save us!<wait>{END}
+
+<audio_0DF7><Cless>:<nl>
+ I've had enough! I won't allow this
+ to happen again!
+<pause>
+<audio_0DF8><Cless>:<nl>
+ We will destroy him!!!
+<pause>
+<audio_0DF9><Cless>:<nl>
+ And...
+<pause>
+<audio_0DFA><Cless>:<nl>
+ And then this nightmare will finally
+ be over!!{END}
+
+<audio_0E6F>Operator:<nl>
+ Target check: Complete.
+<pause>
+<audio_0E70>Operator:<nl>
+ Magic power density: Eleven-nine.
+<pause>
+<audio_0E71>Operator:<nl>
+ Laser operation system: All clear.
+<pause>
+<audio_0E72>Operator:<nl>
+ All systems at the ready...
+<pause>
+<audio_0E73>Leisen:<nl>
+ Terrific.
+ Aim, and...{END}
+
+<audio_0E74>Leisen:<nl>
+ ...FIRE!!!{END}
+
+<audio_13FF>Leisen:<nl>
+ What's the status of the
+ equipment?
+<pause>
+<audio_1400>Engineer:<nl>
+ Favorable, sir.
+<pause>
+<audio_1401>Leisen:<nl>
+ Good.
+ Now even Dhaos shall tremble...
+<pause>
+<audio_1402>Leisen:<nl>
+ Hmhmhm...{END}
+
+<audio_16C9>Leisen:<nl>
+ Hah hah hah!
+<pause>
+<audio_16CA>Leisen:<nl>
+ Did you see that!?
+ The might of the Mana Cannon is
+ without peer!
+<pause>
+<audio_16CB>Operator:<nl>
+ Sir Leisen!
+ We didn't get all of them!
+<pause>
+<audio_16CC>Leisen:<nl>
+ Well, don't just
+ stand there gawking.
+ Give them another volley!{END}
+
+<audio_0E2A>Guard:<nl>
+ Commander <Klarth>!{END}
+
+<audio_0E2B>Guard:<nl>
+ I commend you on a job well done.
+<pause>
+<audio_0E2C>Guard:<nl>
+ Please be on your way to the
+ throne room, where an assembly is
+ soon to be held.
+<pause>
+<audio_0E2D>Guard:<nl>
+ Many men from the other units
+ have already gathered there and
+ anticipate your participation.{END}
+
+???:<nl>
+ Welcome, mighty one.
+<pause>
+???:<nl>
+ Mine name is Odin.
+<pause>
+<Cless>:<nl>
+ THE Odin...?<wait>{END}
+
+Odin:<nl>
+ Hast thou overcome the limitations
+ of thine flesh?
+<pause>
+Odin:<nl>
+ Then I shalt ask thee once more.<wait>{END}
+
+Odin:<nl>
+ Hast thou the courage to show me
+ thy strength?{END}
+
+Odin:<nl>
+ That is to say, dost thou have the
+ courage to fight me alone?{END}
+
+Odin:<nl>
+ Then show me the strength of man.
+<pause>
+<Cless>:<nl>
+ With pleasure!!{END}
+
+Odin:<nl>
+ Mmm...
+<pause>
+Odin:<nl>
+ Very well.
+ I permit thee to employ
+ the arms of a god.{END}
+
+<Arche>:<nl>
+ How'd you lose to an old guy?
+<pause>
+<Mint>:<nl>
+ Are you hurt?
+<pause>
+<Klarth>:<nl>
+ You were out of your league...
+<pause>
+Odin:<nl>
+ Let the weak be gone from my
+ sight!!!
+<pause>
+Odin:<nl>
+ Return when thou hast honed
+ thyself.
+<pause>
+<Cless>:<nl>
+ Agh...{END}
+
+Odin:<nl>
+ So thou art one without courage.
+<pause>
+Odin:<nl>
+ Do not sully mine sanctuary
+ with thy presence!
+ Leave at once!{END}
+
+Odin:<nl>
+ Wield this spear as thou seest fit.
+<pause>
+Odin:<nl>
+ Farewell.
+ We shalt not meet again until thou
+ art relieved of thy cage of flesh.{END}
+
+<audio_0DFC>Leisen:<nl>
+ As you all know...
+<pause>
+<audio_0DFD>Leisen:<nl>
+ Dhaos' castle is situated on an
+ island in the northeastern region of
+ our country.{END}
+
+<audio_0DFE>Leisen:<nl>
+ All that connects the island to the
+ mainland is this single bridge.
+<pause>
+<audio_0DFF>Leisen:<nl>
+ It is evident this will be,
+ strategically speaking, the critical
+ point.
+<pause>
+<audio_0E00>Leisen:<nl>
+ Accordingly, the objective of the
+ first stage of this battle is to
+ secure the bridge.
+<pause>
+<audio_0E01>Leisen:<nl>
+ Our army will march forth from
+ Midgard, cross the Valhalla Plains,
+ and advance toward the bridge.
+ Like this:{END}
+
+<audio_0E02>Leisen:<nl>
+ It should take five days for the
+ main force to reach this point by
+ the shortest route.
+<pause>
+<audio_0E03>Leisen:<nl>
+ However, the enemy army will
+ have finished crossing the bridge
+ within that time.{END}
+
+Valkyrie:<nl>
+ Greetings.
+ It has been some time.
+<pause>
+Valkyrie:<nl>
+ I have observed your aspect in
+ battle.
+<pause>
+Valkyrie:<nl>
+ Surely you shall masterfully employ
+ Gungnir, the divine spear.
+<pause>
+Valkyrie:<nl>
+ Gungnir is contained within the
+ azure chest. However...
+<pause>
+Valkyrie:<nl>
+ Please partake of the crimson
+ chest, first.
+<pause>
+Valkyrie:<nl>
+ Now, I must take my leave of you.{END}
+

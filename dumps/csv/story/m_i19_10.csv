@@ -1,0 +1,1918 @@
+Japanese	English
+宿屋『ユークリッドＩＮＮ』{END}	Inn “Euclid Inn”{END}
+八百屋『ベジット』{END}	Greengrocer “Veggie”{END}
+道具屋『猫目』{END}	Item Shop “Cat's Eye”{END}
+武具屋『ビショップ』{END}	Equipment Shop “Bishop”{END}
+<Klarth>魔術研究所{END}	"<Klarth><'s/'> Magic Research Center
+{END}"
+"貿易商
+「ここは、いいのがそろってるよ」
+<pause>
+貿易商
+「なにしろ、貿易の町ベネツィア
+　からの直輸入品だからね」{END}"	"Trader
+ These shops have some of the
+ nicest stuff you'll find anywhere!
+<pause>
+Trader
+ Of course, that's because it's
+ imported straight from Venezia,
+ the trading city.{END}"
+"<Cless>
+「すみません、あなたがエルウィ
+　ンさんですか？」
+<pause>
+エルウィン
+「ああ、そうだけど」
+<pause>
+エルウィン
+「何で僕の名前を知ってるの？」
+<pause>
+<Cless>
+「実は、あなたに想いをよせてる
+　女性がいるんです」
+<pause>
+エルウィン
+「へぇ、それは光栄だね」
+<pause>
+エルウィン
+「どんな人、名前は？」
+<pause>
+<Cless>
+「えっ？<panic>」{END}"	"<Cless>
+ Excuse me, sir.
+ Are you Elwyn, by chance?
+<pause>
+Elwyn
+ Yes, that's right.
+<pause>
+Elwyn
+ But how do you know?
+<pause>
+<Cless>
+ Well, you see...
+ There's this lady outside who has a
+ crush on you.
+<pause>
+Elwyn
+ Heh, I'm honored.
+<pause>
+Elwyn
+ What's she like?
+ What's her name?
+<pause>
+<Cless>
+ Oh yeah... <panic>
+ Uh, be right back <panic>{END}"
+"エルウィン
+「どんな人なのかなぁ・・・」{END}"	"Elwyn
+ I wonder what she's like...{END}"
+"<Cless>
+「名前はナンシー、この村の八百
+　屋の娘だということです」
+<pause>
+エルウィン
+「そうか、ナンシーっていう娘な
+　んだ・・・」
+<pause>
+エルウィン
+「でも、会うのは・・・」
+<pause>
+<Mint>
+「なぜですか？」
+<pause>
+エルウィン
+「僕は、ベネツィアの輸入会社の
+　者なんだ」
+<pause>
+エルウィン
+「今はたまたま営業でこの村に来
+　ているんだけど・・・」
+<pause>
+エルウィン
+「すぐにベネツィアに戻らなけれ
+　ばならない」
+<pause>
+エルウィン
+「それに、社長・・・父さんが、
+　許してくれないよ」
+<pause>
+<Cless>
+「でも一度だけでも会ってみては
+　どうですか？」
+<pause>
+エルウィン
+「いや一度でも会えば、また会い
+　たくなってしまうよ・・・」
+<pause>
+エルウィン
+「彼女によろしく言っておいてく
+　れないか」
+<pause>
+エルウィン
+「さ、仕事仕事」{END}"	"<Cless>
+ She said her name is Nancy, and
+ that she's the daughter of this
+ village's greengrocer.
+<pause>
+Elwyn
+ Nancy, is it...
+<pause>
+Elwyn
+ Huh, well...
+ This could be tough...
+<pause>
+<Mint>
+ What's wrong?
+<pause>
+Elwyn
+ Unfortunately, I'm very short on
+ time.
+<pause>
+Elwyn
+ I work for a Venezian import
+ company, and came to this village
+ on business.
+<pause>
+Elwyn
+ My job here's almost done, and I'm
+ scheduled to begin my return trip
+ to Venezia shortly after.
+<pause>
+Elwyn
+ Besides, the president of my
+ company--my dad, that is--would
+ never allow it.
+<pause>
+<Cless>
+ You can't set aside even a minute
+ to at least get acquainted?
+<pause>
+Elwyn
+ I'm a little afraid that if I see her
+ even once, it may be hard for me
+ to just leave and forget about her.
+<pause>
+Elwyn
+ Give her my regards, would you?
+<pause>
+Elwyn
+ I have to get back to work.{END}"
+"エルウィン
+「さ、仕事仕事」{END}"	"Elwyn
+ I have to get back to work.{END}"
+"男の子
+「外で遊びたいよ〜」
+<pause>
+男の子
+「でも、父さんが店を手伝えって
+　言うんだ・・・」{END}"	"Boy
+ I wanna play outsiiiide!
+<pause>
+Boy
+ But dad's making me help out in
+ the store...{END}"
+"男の子
+「エルウィンはベネツィアに帰っ
+　たよ」{END}"	"Boy
+ Elwyn's gone back to Venezia.{END}"
+"道具屋
+「いらっしゃい」{END}"	"Clerk
+ Welcome to Cat's Eye.{END}"
+"道具屋
+「ありがとう、また来て下さい」{END}"	"Clerk
+ Thanks.
+ Please come again.{END}"
+"武器屋
+「らっしゃい」{END}"	"Clerk
+ Welcome to <var_9401>.{END}"
+"武器屋
+「ありがとう、旅の方」{END}"	"Clerk
+ Thank you, traveler.{END}"
+"ナンシーの母・マギー
+「ナンシーが私の元を離れて行っ
+　てしまったよ」
+<pause>
+マギー
+「だけど、愛する男のためだから
+　ね・・・」
+<pause>
+マギー
+「後悔しないようにするのがいい
+　のさ・・・」
+<pause>
+マギー
+「年はとってしまったけど、私も
+　同じ女・・・」
+<pause>
+マギー
+「止めることなんてできなかった
+　よ」<wait>{END}"	"Nancy's mother, Maggie
+ Nancy has left me for the man she
+ loves.
+<pause>
+Maggie
+ I'm happy for her, though. She will
+ be able to live without regrets.
+<pause>
+Maggie
+ My life has remained stagnant
+ throughout all these years.
+<pause>
+Maggie
+ I've never had the opportunity to
+ change its course.
+<pause>
+Maggie
+ Anyway, back to business...<wait>{END}"
+"ナンシーの母・マギー
+「いらっしゃい、いいのがそろっ
+　てるよ」{END}"	"Maggie
+ Welcome to Veggie.
+ Take a look and see all
+ we have to offer.{END}"
+"マギー
+「ありがとうね」{END}"	"Maggie
+ Thanks.{END}"
+"八百屋のおかみ
+「いらっしゃい、いいのがそろっ
+　てるよ」{END}"	"Owner
+ Welcome to Veggie.
+ Take a look and see all
+ we have to offer.{END}"
+"八百屋のおかみ
+「ありがとうね」{END}"	"Owner
+ Thanks.{END}"
+"村の人
+「さて、今夜のおかずは〜っと」{END}"	"Villager
+ Let's see...
+ Tonight's dinner will be...
+<pause>
+Villager
+ Oh, I just can't make up my mind!{END}"
+"村の人
+「風の噂では、遠くの国でとてつ
+　もなく大きな軍隊が作られてい
+　るそうよ」{END}"	"Villager
+ A rumor's been spreading around
+ that a distant country is amassing
+ an enormous army.{END}"
+"旅人
+「私は旅の者です」
+<pause>
+旅人
+「途中ローンヴァレイという谷を
+　見たのですが、何かいつも激し
+　い風が吹いていましたよ」
+<pause>
+旅人
+「そうそう、あそこにはバートと
+　いう人が住んでいて、天気を
+　占っているそうですね」
+<pause>
+旅人
+「ハーメルの町では、よく当たる
+　と評判でしたよ」{END}"	"Traveler
+ Hi there. I'm a traveler.
+ Let me tell you something
+ interesting.
+<pause>
+Traveler
+ As I went by a region called Lone
+ Valley, there was an unnaturally
+ violent tempest blowing from it.
+<pause>
+Traveler
+ A man named Bart actually lives
+ in that crazy place.
+ Seems he has a talent for
+ predicting the weather.
+<pause>
+Traveler
+ The guy's made a name for himself
+ in the town of Harmel for his
+ astounding accuracy.{END}"
+"料理人
+「サンドイッチ作ってるかい？」{END}"	"Chef
+ Have you made a Sandwich?{END}"
+"料理人
+「私は『すばらしき味の世界』の
+　住人」
+<pause>
+料理人
+「この味を、より多くの人に伝え
+　たい！」
+<pause>
+料理人
+「君も、私の世界に触れてみない
+　か？」{END}"	"Chef
+ I come from the World of Fabulous
+ Flavors!
+<pause>
+Chef
+ I wish for all the people of the
+ world to experience this taste!
+<pause>
+Chef
+ Come, don't you wish to taste the
+ flavors of my world?{END}"
+"料理人
+「この料理を伝授しよう！」<wait>{END}"	"Chef
+ I'll teach you this dish!<wait>{END}"
+"<color_0002>サンドイッチを料理できるようにな
+りました。<color_0000>{END}"	<color_0002>Learned the recipe for Sandwich.<color_0000>{END}
+"料理人
+「おお、なんということだ！」{END}"	"Chef
+ What!?
+ How can you reject this taste!?{END}"
+"宿主
+「いらっしゃいませ、お泊まりで
+　すか？」
+<pause>
+宿主
+「一晩<num1_00000018>ガルドになりますよ」{END}"	"Innkeeper
+ Welcome to the Euclid Inn.
+ Are you staying with us?
+<pause>
+Innkeeper
+ One night is <num1_00000018> gald.{END}"
+"宿主
+「ゆっくりしていって下さい」{END}"	"Innkeeper
+ Good night.{END}"
+"宿主
+「あいすみません、お金が足りま
+　せんよ」{END}"	"Innkeeper
+ Sorry, you don't have enough
+ money.{END}"
+"宿主
+「また来て下さいね」{END}"	"Innkeeper
+ Please come again.{END}"
+"主婦
+「あ、ごめんなさい」
+<pause>
+主婦
+「今、猫のゴハンの準備してるの」
+<pause>
+<Cless>
+「・・・たいへんですね」
+<pause>
+主婦
+「まあ、子供の代わりみたいなも
+　のだから気にならないわよ」{END}"	"Housewife
+ Oh, I'm sorry.
+<pause>
+Housewife
+ I'm preparing lunch for the cats.
+<pause>
+<Cless>
+ ...Must be tough.
+<pause>
+Housewife
+ Oh, it's no trouble.
+ They're my children, after all.{END}"
+"犬好きの男
+「犬の方が好きだなぁ・・・」{END}"	"Dog Dude
+ I prefer dogs, myself...{END}"
+"<Cless>
+「・・・実は、犬だとか？」{END}"	"<Cless>
+ ...Isn't this one a dog!?{END}"
+"猫好きのじいさん
+「わしは、猫好きのじいさんぢゃ」<wait>{END}"	"Cat-Crazy Coot
+ I'm the old man who likes kitty
+ cats.<wait>{END}"
+"猫好きのじいさん
+「う〜ん、ネコちゃーん<heart>」{END}"	"Cat-Crazy Coot
+ Here, kitty-kittyyyyy <heart>{END}"
+"ミラルド
+「世界樹ユグドラシルを復活させ
+　たのね？」
+<pause>
+ミラルド
+「じゃあもう旅は終わり？」
+<pause>
+<Klarth>
+「いや、まだやらなければならな
+　いことがある」
+<pause>
+<Klarth>
+「もしかしたら・・・」
+<pause>
+ミラルド
+「もしかしたら？」
+<pause>
+<Klarth>
+「いや、何でもない」
+<pause>
+<Klarth>
+「留守を頼むぞ」
+<pause>
+ミラルド
+「ええ・・・」{END}"	"<Klarth>
+ So where's my pie, woman?
+<pause>
+Mirald
+ Hohoh...
+<pause>
+Mirald
+ Saved the World Tree
+ and all that, huh?
+ So you're finally back?
+<pause>
+<Klarth>
+ Actually, no.
+ There's still one thing left, but I
+ thought I'd stop by one last time
+ before we get onto it.
+<pause>
+<Klarth>
+ If by some chance...
+<pause>
+Mirald
+ “If by some chance,” *what*?
+<pause>
+<Klarth>
+ Bah, never mind.
+<pause>
+<Klarth>
+ Just keep holding the
+ fort while I'm gone.
+ That's good enough.
+<pause>
+Mirald
+ Yeah, sure...{END}"
+"ミラルド
+「うーん、ユグドラシルを救う方
+　法ねぇ・・・」
+<pause>
+ミラルド
+「私にはわからないわ」
+<pause>
+ミラルド
+「ごめんなさい」{END}"	"Mirald
+ Hmm...
+ How to save the sacred tree...
+<pause>
+Mirald
+ Honestly, I haven't got a clue.
+ Maybe there's something in the
+ library I've forgotten about?
+<pause>
+Mirald
+ I'm really sorry.
+ I wish I could help.{END}"
+"ミラルド
+「それじゃ、気をつけてね」<wait>{END}"	"Mirald
+ Well, be careful.<wait>{END}"
+"<unk1>ミラルド
+<Klarth>のことを
+よろしく頼むわ」<wait>{END}"	"<unk1>Mirald
+ Take good care of <Klarth>.<wait>{END}"
+"<Klarth>
+「おいおい、これでも私は年長者
+　なんだぞ」
+<pause>
+ミラルド
+「あら、年は関係ないわよ」<wait>{END}"	"<Klarth>
+ Hey, hey!
+ I'm too old for this
+ kind of treatment!
+<pause>
+Mirald
+ Maybe you should ACT like it, then!<wait>{END}"
+"ミラルド
+「そうそう、これは私からのせん
+　別よ」
+<pause>
+<Klarth>
+「・・・・・・」
+<pause>
+<Klarth>
+「一応もらっといてやる」<wait>{END}"	"Mirald
+ Hey, by the way: I have little
+ parting gift for you.
+<pause>
+<Klarth>
+ ......
+<pause>
+<Klarth>
+ I'm waiting.
+ Hand it over already.<wait>{END}"
+"<color_0002><item_7700>を手に入れました。
+<pause>
+<color_0000>ミラルド
+「もう、素直じゃないんだから」<wait>{END}"	"<color_0002>Acquired an <item_7700>.
+<pause>
+<color_0000>Mirald
+ I see you're still not going to win
+ any prizes for your graciousness
+ anytime soon.<wait>{END}"
+"村の人
+「ベルアダム村の東に洞窟がある
+　よね」
+<pause>
+村の人
+「そこに入った人から聞いた話な
+　んだけど、小人がたくさんいた
+　そうだよ」
+<pause>
+村の人
+「それって精霊かなぁ？」{END}"	"Villager
+ There's an interesting cavern east
+ of Belladam.
+<pause>
+Villager
+ Some chap told me he saw a bunch
+ of midgets when he went inside.
+<pause>
+Villager
+ Could they be spirits?{END}"
+"旅人
+「私は旅の者です」
+<pause>
+旅人
+「はるばるベネツィアからやって
+　来ました」
+<pause>
+<Cless>
+「だ、大丈夫でしたか？」
+<pause>
+<Cless>
+「女の人が一人旅なんて・・・」
+<pause>
+旅人
+「神の御加護がありますから」
+<pause>
+旅人
+「それにホーリィボトルをたくさ
+　ん持っていますからね」
+<pause>
+旅人
+「ホーリィボトルには神聖な力が
+　宿っているといわれています」
+<pause>
+旅人
+「これを使えば、悪魔といえども
+　寄ってこなくなりますよ」{END}"	"Traveler
+ I just traveled all the way here
+ from Venezia.
+<pause>
+<Cless>
+ A-Are you sure that's safe?
+ Are you able to defend yourself?
+<pause>
+<Cless>
+ No offense, but you don't look like
+ the fighting sort.
+<pause>
+Traveler
+ The divine protection of God keeps
+ me out of harm's way.
+<pause>
+Traveler
+ That is, I carry a surplus of Holy
+ Bottles on my journeys.
+<pause>
+Traveler
+ A sacred power is sealed within
+ them.
+<pause>
+Traveler
+ If you expend one, that power will
+ surround you and repel wicked
+ creatures.{END}"
+"<Cless>
+「暖炉の中をのぞいてみよう」{END}"	"<Cless>
+ I've always wondered what a
+ toasted marshmallow feels like...{END}"
+"<Cless>
+「あっちー！！」{END}"	"<Cless>
+ OUCH!!{END}"
+"『四大元素と精霊』
+<pause>
+精霊はそれぞれが司るべき元素、
+地、水、火、風があり、これがい
+わゆる四大元素と呼ばれるもので
+ある。{END}"	"“The Four Great Elements
+and Spirits”
+<pause>
+Spirits govern the principal elements
+of Earth, Water, Fire, and Wind;
+collectively known as the Four Great
+Elements.{END}"
+"『精霊と元素に関する定義』
+<pause>
+精霊は実に多くの種類がある。
+<pause>
+四大元素（地水火風）を中心とす
+るもの。
+<pause>
+また星、月、闇、光など精神世界
+に存在するものなど、実に多種多
+様である。{END}"	"“Defining the
+Spirit/Element Relationship”
+<pause>
+There are many types of spirits.
+<pause>
+Some of the more prominent spirits
+belong to the Four Great Elements
+(Earth, Water, Fire, and Wind).
+<pause>
+But there are also spirits of things
+like stars, moons, darkness, and
+light existing in the Spirit World.{END}"
+"『精霊と物理世界』
+<pause>
+我々のこの物理世界に存在しうる
+主な精霊をあげよう。
+<pause>
+地の<var_D100>、水の<var_D000>、
+火の<var_D200>、風の<var_CF00>。
+<pause>
+そして、それら四大元素を統率す
+る分子の精霊<var_D300>。
+<pause>
+その他、月の精霊<var_D400>、闇の精霊
+<var_D500>、光の精霊<var_D600>など。
+<pause>
+また、いまだ確認されていない精
+霊も多数存在すると考えられてい
+る。{END}"	"“Spirits and the Physical World”
+<pause>
+The four main spirits--the Four
+Great Spirits--manifest themselves
+in our physical world as follows:
+<pause>
+Gnome, of Earth;
+Undine, of Water;
+Efreet, of Fire;
+<var_CF00>, of Wind.
+<pause>
+In addition, their leader is known as
+Maxwell, the Spirit of Molecules.
+<pause>
+Others include Luna, the Spirit of the
+Moon, Shadow, the Spirit of
+Darkness, and Aska, the Spirit of
+Light.
+<pause>
+Also, it's thought that there are
+other spirits whose existence has
+yet to be confirmed.{END}"
+"『精霊の社会的構造１』
+<pause>
+精霊の世界を社会的に見てみると上位精霊と下位精霊に分けられるようだ。
+<pause>
+しかし、今わかっているのは四大精霊とそれを統率する<var_D300>の存在のみである。{END}"	"“Spirit Social Order I”
+<pause>
+When viewing the social order of
+the world of spirits, it becomes
+apparent that spirits are divided
+into an upper and lower class.
+<pause>
+As of now, however, the only spirits
+we know for certain to exist are
+the Four Great Spirits and Maxwell,
+who leads them.{END}"
+"『精霊の社会的構造２』
+<pause>
+未確認ではあるが、<var_D400>、<var_D500>、<var_D600>にもそれら精霊に従う下位精霊が存在するらしい。
+<pause>
+また、それらの関係とは全く違った社会的構造を持つ精霊も存在するという。{END}"	"“Spirit Social Order II”
+<pause>
+It has not been proven, but there is
+evidence that the spirits Luna,
+Shadow, and Aska exist, as well as other, lesser
+spirits.
+<pause>
+There are also unverified reports
+stating that spirits of a completely
+different social order exist.{END}"
+"古い文書がある。
+<pause>
+モーリア坑道の地下深くに遺跡ら
+しきものが発見された。
+<pause>
+アルヴァニスタ王はただちに調査
+隊を向かわせる意向を発表。
+<pause>
+考古学者の話ではドワーフ族の住
+居跡ではないか、とのこと。{END}"	"(An old document. It reads...)
+<pause>
+What you're looking for might be
+deep underground, in the Moria
+Mine.
+<pause>
+The King of Alvanista has announced plans
+to send a research team soon.
+<pause>
+Archaeologists claim they've found
+remnants of a dwarven settlement
+down there.{END}"
+"『精霊と指輪』
+<pause>
+精霊との契約には特別な指輪が必
+要である。
+<pause>
+その指輪はエルフ族であるレオナ
+ルドとドワーフ族の名工ギースの
+共作といわれている。{END}"	"“Spirits and Rings”
+<pause>
+One requires a special ring to make
+a pact with a spirit.
+<pause>
+These items were crafted by an elf
+named Leonardo, and a dwarf
+named Aegis.{END}"
+手紙のようだ。<wait>{END}	(Found a letter. It says...)<wait>{END}
+"<unk2><Klarth>、残念ながら契約の指輪を作る技術は失われてしまったようだ』
+<pause>
+多くの遺跡を調べてみたのだが、契約の指輪に関する情報は極めて少ない』
+<pause>
+だが、まったく希望がないわけではない』
+<pause>
+アルヴァニスタ王国にあるモーリア坑道だ』
+<pause>
+あそこで発見されたドワーフ族の遺跡に未使用の指輪があるかもしれない』
+<pause>
+調べてみてはどうだろうか？』{END}"	"<unk2>“Dear <Klarth>,
+
+I'm sorry to inform you that the
+craft of making pact rings has been
+lost.”
+<pause>
+“We have searched many ruins, but
+information pertaining to pact rings
+is exceedingly scarce.”
+<pause>
+“However, that is not to say there
+is no hope.”
+<pause>
+“There's the Moria Mine in the
+Kingdom of Alvanista.”
+<pause>
+“Unused rings that have yet to be
+discovered may exist in the
+dwarven ruins there.”
+<pause>
+“Why don't you look into that?”{END}"
+"お金があった。
+<pause>
+<Klarth>
+「ああ<panic>、ちょ、ちょっと、
+　それは<panic>」
+<pause>
+どうやら<Klarth>のヘソクリのようだ。
+<pause>
+元に戻しておこう。{END}"	"(Found some money...)
+<pause>
+<Klarth>
+ H-Hey! <panic>
+ What the hell are you doing!? <panic>
+<pause>
+(Looks like his secret stash.
+Let's put it back.){END}"
+"<Cless>
+「参考になるような書物はないみ
+　たいだ」{END}"	"<Cless>
+ Looks like a bunch of reference
+ books.{END}"
+"<Cless>
+「これは呪文書だ！」<wait>{END}"	"<Cless>
+ This is a spell book!<wait>{END}"
+<color_0002><Arche>は<var_C200>を覚えました。<color_0000>{END}	<color_0002><Arche> learned <var_C200>.<color_0000>{END}
+"<Cless>
+「他には何もないか」{END}"	"<Cless>
+ There's nothing else here.{END}"
+"<Cless>
+「これは・・・」
+<pause>
+<Cless>
+「子供向けの絵本か」{END}"	"<Cless>
+ Wh-What...?
+<pause>
+<Cless>
+ A children's picture book?
+ Whose is this?{END}"
+"<Cless>
+「これは呪文書だ！」<wait>{END}"	"<Cless>
+ This is a spell book!<wait>{END}"
+<color_0002><Arche>は<var_BF00>を覚えました。<color_0000>{END}	<color_0002><Arche> learned Ice Tornado.<color_0000>{END}
+"<Cless>
+「他には何もないか」{END}"	"<Cless>
+ There's nothing else here.{END}"
+"<Cless>
+「でも、僕が持っていても仕方が
+　ない、戻しておこう」{END}"	"<Cless>
+ But I don't have any use for it.
+ I'll put it back.{END}"
+"<audio_08E0>？？？
+「ミラルドか？」
+<pause>
+<audio_08E1>？？？
+「茶ならそこのテーブルに置いて
+　おいてくれないか」<wait>{END}"	"<audio_08E0>???
+ Mirald?
+<pause>
+<audio_08E1>???
+ Just set the tea on the table.<wait>{END}"
+"<unk1><audio_08E2><Mint>
+あの、あなたが<Klarth>さんでしょうか？」<wait>{END}"	"<unk1><audio_08E2><Mint>
+ Excuse me sir, are you
+ Mr. <Klarth> F. Lester?<wait>{END}"
+"<audio_08E3>？？？
+「ん？」{END}"	"<audio_08E3>???
+ Hmm?{END}"
+"<audio_08E4><Klarth>
+「そうだが・・・」<wait>{END}"	"<audio_08E4><Klarth>
+ That's right...<wait>{END}"
+"<audio_08E5><Klarth>
+「この私に何の用かな？
+　""お嬢ちゃん""・・・」<wait>{END}"	"<audio_08E5><Klarth>
+ What sort of business would a
+ sweetie like you have with me?<wait>{END}"
+"<unk1><audio_08E6><Mint>
+<Klarth>さんの魔術の知識を教えていただきたいのです」<wait>{END}"	"<unk1><audio_08E6><Mint>
+ We were hoping you could teach us
+ about magic, sir.<wait>{END}"
+"<audio_08E7><Klarth>
+「魔術？」
+<pause>
+<audio_08E8><Klarth>
+「ああ、魔術学の受講希望者か」<wait>{END}"	"<audio_08E7><Klarth>
+ Magic?
+<pause>
+<audio_08E8><Klarth>
+ So you've heard about my
+ research, huh?<wait>{END}"
+"<audio_08E9><Klarth>
+「ならば、奥にいるミラルドにそ
+　う言ってくれ」
+<pause>
+<audio_08EA><Klarth>
+「受講料は前金で一千万ガルド」
+<pause>
+<audio_08EB><Mint>
+「えっ、お金？」
+<pause>
+<audio_08EC><Mint>
+「そんなには<speed_0010>・・・」{END}"	"<audio_08E9><Klarth>
+ In that case, go over there and tell
+ Mirald.
+<pause>
+<audio_08EA><Klarth>
+ The lecture fee is 10 million gald,
+ paid in advance.
+<pause>
+<audio_08EB><Mint>
+ Goodness...
+ That's a lot of money...
+<pause>
+<audio_08EC><Mint>
+ We can't afford that much<speed_0010>...{END}"
+"<audio_08ED><Klarth>
+「それでは、教えるわけにはいか
+　ないな」
+<pause>
+<audio_08EE><Klarth>
+「出直しておいで、お嬢ちゃん」
+<pause>
+<audio_08EF><Mint>
+「・・・・・・」
+<pause>
+<audio_08F0><Mint>
+「その呼び方はやめて下さい」
+<pause>
+<audio_08F1><Klarth>
+「すまないね」<wait>{END}"	"<audio_08ED><Klarth>
+ Oh. Well, that's a shame.
+ Seems I have nothing to teach you.
+<pause>
+<audio_08EE><Klarth>
+ Come back when you've got the
+ money, Sweetie.
+<pause>
+<audio_08EF><Mint>
+ ......
+<pause>
+<audio_08F0><Mint>
+ Please stop calling me that!
+<pause>
+<audio_08F1><Klarth>
+ Well, excuse me, Princess.<wait>{END}"
+"<audio_08F2><Klarth>
+「何しろ、まだ君の名前を知らな
+　いものでな」
+<pause>
+<audio_08F3><Klarth>
+「初対面だと思ったのは、私の勘
+　違いか？」<wait>{END}"	"<audio_08F2><Klarth>
+ If I had your name to begin with, I
+ might've been able to use it.
+<pause>
+<audio_08F3><Klarth>
+ If you're so mannerless that you
+ can't even introduce yourselves,
+ what do you expect from me?<wait>{END}"
+"<unk1><audio_08F4><Mint>
+あっ<speed_0020>、<speed_FFFF>す<speed_0020>、<speed_FFFF>すみません」
+<pause>
+<audio_08F5><Mint>
+私は、<Mint>＝アドネードと申します」
+<pause>
+<audio_08F6><Mint>
+こちらは、<Cless>さんです」{END}"	"<unk1><audio_08F4><Mint>
+ Ah<speed_0020>, <speed_FFFF>I<speed_0020>-<speed_FFFF>I beg your forgiveness!
+<pause>
+<audio_08F5><Mint>
+ My name is <Mint> Adnade.
+<pause>
+<audio_08F6><Mint>
+ And this is Mr. <Cless> Alvein.{END}"
+"<unk1><audio_08F7><Cless>
+<Klarth>さん、僕達には魔術がどうしても必要なんです！」
+<pause>
+<audio_08F8><Cless>
+ダオスを倒すために！」<wait>{END}"	"<unk1><audio_08F7><Cless>
+ Mr. Lester, we need magic at any
+ cost!
+<pause>
+<audio_08F8><Cless>
+ We need it to defeat Dhaos!<wait>{END}"
+"<audio_08F9><Klarth>
+「ダオスを倒すだと？」
+<pause>
+<audio_08FA><Klarth>
+「本気か？」{END}"	"<audio_08F9><Klarth>
+ Defeat Dhaos?
+ What?
+<pause>
+<audio_08FA><Klarth>
+ So you're just a couple of
+ comedians, huh?{END}"
+"<audio_08FB><Klarth>
+「ふん、魔術についてタダで学ぼ
+　うという口実にしては、大風呂
+　敷すぎると思うがな」<wait>{END}"	"<audio_08FB><Klarth>
+ Hmph, nice try. Now hand over the
+ money or get out of here. I
+ haven't got all day.<wait>{END}"
+"<audio_08FC><Cless>
+「なっ！」
+<pause>
+<audio_08FD><Mint>
+「ひどい・・・」<wait>{END}"	"<audio_08FC><Cless>
+ Wha--!!!
+<pause>
+<audio_08FD><Mint>
+ How heartless...<wait>{END}"
+"<audio_08FE>？？？
+「<Klarth>！」
+<pause>
+<audio_08FF>？？？
+「そんな言い方はないでしょ！」{END}"	"<audio_08FE>???
+ <Klarth> F. Lester!
+<pause>
+<audio_08FF>???
+ How dare you talk to our guests
+ like that!{END}"
+"<audio_0900><Klarth>
+「ミラルド！」
+<pause>
+<audio_0901>ミラルド
+「まったくもう！」
+<pause>
+<audio_0902>ミラルド
+「どうしてあなたはそうぶっきら
+　ぼうで、がさつで、思いやりが
+　ないの？」
+<pause>
+<audio_0903>ミラルド
+「初対面の人でしょ？」
+<pause>
+<audio_0904>ミラルド
+「あなたを頼って来てるんでしょ
+　う？」
+<pause>
+<audio_0905>ミラルド
+「もう少し優しくできないの？」
+<pause>
+<audio_0906>ミラルド
+「ほんっとにばかばかばか！！」
+<pause>
+<audio_0907>ミラルド
+「もうっ！」{END}"	"<audio_0900><Klarth>
+ Mirald!
+<pause>
+<audio_0901>Mirald
+ I mean, really!
+<pause>
+<audio_0902>Mirald
+ Why must you always be so curt,
+ rude, and inconsiderate?
+<pause>
+<audio_0903>Mirald
+ Isn't this the first time you've met
+ these people?
+<pause>
+<audio_0904>Mirald
+ Aren't they depending on you?
+<pause>
+<audio_0905>Mirald
+ Would it kill you to show some
+ manners!?
+<pause>
+<audio_0906>Mirald
+ You're such an egotistical,
+ self-centered moron sometimes!
+<pause>
+<audio_0907>Mirald
+ Argh...
+ You insufferable man!{END}"
+"<audio_0908>ミラルド
+「ごめんなさいね」
+<pause>
+<audio_0909>ミラルド
+「この人、精神的に子供なの」{END}"	"<audio_0908>Mirald
+ I'm very sorry.
+<pause>
+<audio_0909>Mirald
+ Beneath that thick skull of his, he's
+ just a spoiled child.{END}"
+"<audio_090A>ミラルド
+「そうだわ！」
+<pause>
+<audio_090B>ミラルド
+「こんな人じゃなくて、もっと頼
+　りになる人を、私が紹介してあ
+　げるわ」<wait>{END}"	"<audio_090A>Mirald
+ Oh, I know!
+<pause>
+<audio_090B>Mirald
+ Let me introduce you to someone
+ more reliable; not a person like
+ him.<wait>{END}"
+"<audio_090C>ミラルド
+「<speed_0010>こ・ん・な・人<speed_FFFF>・・・」<wait>{END}"	"<audio_090C>Mirald
+ Not...a...person...<wait>{END}"
+"<audio_090D>ミラルド
+「じゃなくてね」
+<pause>
+<audio_090E><Klarth>
+「な！」<wait>{END}"	"<audio_090D>Mirald
+ ...like HIM!
+<pause>
+<audio_090E><Klarth>
+ Wha!?<wait>{END}"
+"<audio_090F><Klarth>
+「おいっ！！」
+<pause>
+<audio_0910><Klarth>
+「こんな人とはなんだ！！」
+<pause>
+<audio_0911><Klarth>
+「こんな人とは！！！」<wait>{END}"	"<audio_090F><Klarth>
+ HEY!!!
+<pause>
+<audio_0910><Klarth>
+ A person like HIM!?
+<pause>
+<audio_0911><Klarth>
+ A person like WHO!?<wait>{END}"
+"<audio_0912>ミラルド
+「悪い？」
+<pause>
+<audio_0913>ミラルド
+「頼りにならない人になんて、こ
+　んな人で十分でしょ！」<wait>{END}"	"<audio_0912>Mirald
+ What's the big deal?
+<pause>
+<audio_0913>Mirald
+ Hmph...
+ I don't see a need to explain
+ myself to such an unreliable dolt.<wait>{END}"
+"<audio_0914><Klarth>
+「頼りにならないとは、どういう
+　意味だ！」
+<pause>
+<audio_0915><Klarth>
+「この辺じゃ私以外に誰がいると
+　いうんだ！？」<wait>{END}"	"<audio_0914><Klarth>
+ What do you mean “unreliable”!?
+<pause>
+<audio_0915><Klarth>
+ You're saying there's someone
+ around here besides me!?<wait>{END}"
+"<audio_0916>ミラルド
+「あら、わかってるじゃない」<wait>{END}"	"<audio_0916>Mirald
+ Oh, finally coming around, are you?<wait>{END}"
+"<audio_0917><Klarth>
+（なんてことだ・・・）<wait>{END}"	"<audio_0917><Klarth>
+ (The hell is she going on about...?)<wait>{END}"
+"<audio_0918>ミラルド
+（あなた達、もうひと押しよ！）
+<pause>
+{END}"	"<audio_0918>Mirald
+ (Pssst! You two!
+ Give him another push!)
+<pause>
+{END}"
+"<unk1><audio_0919><Mint>
+あの、私達・・・」
+<pause>
+<audio_091A><Cless>
+どうしても、<Klarth>さんの協力が必要なんです」<wait>{END}"	"<unk1><audio_0919><Mint>
+ Um, please, sir...
+<pause>
+<audio_091A><Cless>
+ You're the only one who can help
+ us.<wait>{END}"
+"<audio_091B><Klarth>
+「協力？」
+<pause>
+<audio_091C><Mint>
+「はい、そうです」{END}"	"<audio_091B><Klarth>
+ Help?
+<pause>
+<audio_091C><Mint>
+ Yes, that's correct.{END}"
+"<audio_091D><Klarth>
+「ふう、なんだか知らんがわけあ
+　りらしいな・・・」
+<pause>
+<audio_091E><Klarth>
+「いったい、どういうことか話を
+　聞こうじゃないか」{END}"	"<audio_091D><Klarth>
+ Feh...
+ Well, you seem to have your
+ reasons for badgering me so
+ persistently...
+<pause>
+<audio_091E><Klarth>
+ So why don't you tell me what the
+ hell they are, already?{END}"
+"<audio_091F><Klarth>
+「う〜ん・・・未来からねぇ」
+<pause>
+<audio_0920><Klarth>
+「信じがたいな・・・」
+<pause>
+<audio_0921><Cless>
+「信じてもらえなくても仕方がな
+　いことです・・・」
+<pause>
+<audio_0922><Cless>
+「僕もそうでしたから・・・」
+<pause>
+<audio_0923><Cless>
+「どちらにしても、ダオスを倒す
+　ためには魔術が必要なんです」
+<pause>
+<audio_0924><Mint>
+「お願いです、力を貸していただ
+　けませんか？」{END}"	"<audio_091F><Klarth>
+ Uh-huh, riiiight...
+ You're from the future.
+<pause>
+<audio_0920><Klarth>
+ Maybe you kids really are
+ comedians.
+<pause>
+<audio_0921><Cless>
+ Yeah, I know it sounds crazy...
+<pause>
+<audio_0922><Cless>
+ I also had a hard time believing
+ before realizing it...
+<pause>
+<audio_0923><Cless>
+ But whether it's true or not, the
+ fact is we need the power of
+ magic to stand any chance against
+ Dhaos.
+<pause>
+<audio_0924><Mint>
+ Please, can you lend us your
+ strength?{END}"
+"<audio_0925><Klarth>
+「残念だが、私自身が魔術を使え
+　るわけではない」
+<pause>
+<audio_0926><Klarth>
+「私は、エルフでもハーフエルフ
+　でもない普通の人間だからな」
+<pause>
+<audio_0927><Klarth>
+「耳はとがっていないだろ？」<wait>{END}"	"<audio_0925><Klarth>
+ Hoh hoh, who said I could use
+ magic?
+<pause>
+<audio_0926><Klarth>
+ I'm just your average human;
+ neither elf nor half-elf.
+<pause>
+<audio_0927><Klarth>
+ My ears aren't pointed, see?<wait>{END}"
+"<audio_0928><Mint>
+「それは、ベルアダムの村長さん
+　からもうかがいました」<wait>{END}"	"<audio_0928><Mint>
+ Yes, that's what the chief of
+ Belladam told us, but...<wait>{END}"
+"<unk1><audio_0929><Mint>
+でも・・・<Klarth>さんなら
+きっと力になっていただける
+はずと」
+<pause>
+{END}"	"<unk1><audio_0929><Mint>
+ ...he still has a lot of confidence in
+ you, Mr. Lester.
+<pause>
+{END}"
+"<audio_092A><Klarth>
+「・・・・・・」
+<pause>
+<audio_092B><Klarth>
+「・・・実は、魔術を使えるのは
+　エルフだけではない」
+<pause>
+<audio_092C><Klarth>
+「精霊もまた、魔術に等しい力を
+　持っている」
+<pause>
+<audio_092D><Klarth>
+「私の研究テーマは、精霊達の力
+　を借りて魔術を行使する方法を
+　探ることだ」<wait>{END}"	"<audio_092A><Klarth>
+ ......
+<pause>
+<audio_092B><Klarth>
+ ...Actually, magic isn't completely
+ limited to elves.
+<pause>
+<audio_092C><Klarth>
+ The spirits also have a power equal
+ to magic.
+<pause>
+<audio_092D><Klarth>
+ My research is centered around
+ finding a way to use magic
+ indirectly by borrowing the power
+ of spirits.<wait>{END}"
+"<audio_092E><Klarth>
+「その名を召喚術・・・」
+<pause>
+<audio_092F>ミラルド
+「でも、まだ使えないのよね」<wait>{END}"	"<audio_092E><Klarth>
+ That is, to summon them via
+ summoning artes, as I call them...
+<pause>
+<audio_092F>Mirald
+ Not that you've gone beyond just
+ the theory yet, right?<wait>{END}"
+"<audio_0930><Klarth>
+「いちいちうるさいな」<wait>{END}"	"<audio_0930><Klarth>
+ I would be ever so appreciative if
+ you would be quiet, woman.<wait>{END}"
+"<audio_0931><Klarth>
+「理論的に可能なことはわかって
+　いるんだ」
+<pause>
+<audio_0932><Klarth>
+「あとは、精霊と契約することに
+　成功すれば、魔術と同等の力を
+　行使できる」
+<pause>
+<audio_0933><Klarth>
+「・・・だが、契約には様々な危
+　険が伴うんだ」<wait>{END}"	"<audio_0931><Klarth>
+ Anyway, yes--it's theoretically
+ possible.
+<pause>
+<audio_0932><Klarth>
+ If I succeed in making a pact with
+ a spirit, I'll be able to use a power
+ equal to magic.
+<pause>
+<audio_0933><Klarth>
+ ...However, making a pact is easier
+ said than done.<wait>{END}"
+"<unk1><audio_0934><Klarth>
+何しろ精霊というやつは、人間がなかなか足を踏み入れないような所にいることが多くてね」
+<pause>
+<audio_0935><Klarth>
+<Cless>君に<Mint>さん、だったかな？」
+<pause>
+{END}"	"<unk1><audio_0934><Klarth>
+ Spirits tend to stay in dangerous
+ places where humans can't easily
+ set foot.
+<pause>
+<audio_0935><Klarth>
+ How does that sound to the two of
+ you?
+<pause>
+{END}"
+"<audio_0936><Klarth>
+「そこで、だ・・・」
+<pause>
+<audio_0937><Klarth>
+「君達が私に協力してくれるとい
+　うなら・・・」
+<pause>
+<audio_0938><Klarth>
+「私の召喚術を君達の目的のため
+　に役立てようじゃないか」
+<pause>
+<audio_0939><Klarth>
+「それでいいかな？」<wait>{END}"	"<audio_0936><Klarth>
+ To put it simply...
+<pause>
+<audio_0937><Klarth>
+ You scratch my back, and I'll
+ scratch yours.
+<pause>
+<audio_0938><Klarth>
+ That is, if you help me with my
+ summoning artes, I'll return the
+ favor by supporting your cause
+ with them.
+<pause>
+<audio_0939><Klarth>
+ Do we have ourselves a deal?<wait>{END}"
+"<audio_093A><Cless>
+「は、はい！」
+<pause>
+<audio_093B><Mint>
+「ありがとうございます！！」
+<pause>
+<audio_093C><Klarth>
+「それなら、早速で悪いがローン
+　ヴァレイにつき合ってくれ」
+<pause>
+<audio_093D><Klarth>
+「あの谷には風の精霊の<var_CF00>が
+　住んでいるんだ」<wait>{END}"	"<audio_093A><Cless>
+ Y-Yes, sir!
+<pause>
+<audio_093B><Mint>
+ Thank you very much!!!
+<pause>
+<audio_093C><Klarth>
+ In that case, I don't mean to rush,
+ but let's head for Lone Valley
+ straight away.
+<pause>
+<audio_093D><Klarth>
+ <var_CF00>, the Spirit of Wind, lives
+ there.<wait>{END}"
+"<audio_093E><Klarth>
+「ミラルド、帽子を取ってくれ」<wait>{END}"	"<audio_093E><Klarth>
+ Mirald, fetch my hat.<wait>{END}"
+"<unk1><audio_093F><Klarth>
+・・・・・・」
+<pause>
+<audio_0940><Klarth>
+しばらく帰れないかもしれないが・・・」
+<pause>
+<audio_0941>ミラルド
+私のことなら大丈夫よ」
+<pause>
+<audio_0942>ミラルド
+そうそう、帰ってきたら、今考えている新しいパイを作ってあげるわ」
+<pause>
+<audio_0943><Klarth>
+ならば、それを励みにがんばるとするか」
+<pause>
+<audio_0944><Klarth>
+それじゃあ、行ってくるぞ」
+<pause>
+<audio_0945>ミラルド
+<Klarth>、これも忘れずにね」<wait>{END}"	"<unk1><audio_093F><Klarth>
+ ......
+<pause>
+<audio_0940><Klarth>
+ I probably won't be returning for a
+ while...
+<pause>
+<audio_0941>Mirald
+ I'll live.
+<pause>
+<audio_0942>Mirald
+ Oh, right...
+ I've had this new pie in mind.
+ How about I bake it for you
+ when you get back?
+<pause>
+<audio_0943><Klarth>
+ Hmph.
+ It had better be the best
+ damn pie I've ever had.
+<pause>
+<audio_0944><Klarth>
+ Well then, I'm off.
+<pause>
+<audio_0945>Mirald
+ Wait up, Speedy.
+ Don't forget this.<wait>{END}"
+<color_0002><item_9F00>を手に入れました。<color_0000>{END}	<color_0002>Acquired the <item_9F00>.<color_0000>{END}
+"<unk1><audio_0946>ミラルド
+そうそう、<Cless>さん、<Mint>さん」
+<pause>
+<audio_0947>ミラルド
+ここの蔵書は魔術や精霊に関するものばかりなの」
+<pause>
+<audio_0948>ミラルド
+参考に読んでいったら？」{END}"	"<unk1><audio_0946>Mirald
+ By the way, you two...
+<pause>
+<audio_0947>Mirald
+ Our library is all about magic and
+ spirits.
+<pause>
+<audio_0948>Mirald
+ Perhaps you might find it helpful.
+<pause>
+Mirald
+ Oh, and one more thing.
+ You should avoid addressing
+ <Klarth> so formally.
+<pause>
+Mirald
+ We don't want to inflate that big
+ head of his any more, now do we?
+<pause>
+<Klarth>
+ Shut up, Mirald.
+<pause>
+<Klarth>
+ But yeah, just <Klarth> is fine.{END}"
+"<audio_0EEB><Mint>
+「お母さん」{END}"	"<audio_0EEB><Mint>
+ Mommy?{END}"
+"<audio_0EEC><Mint>の母・メリル
+「な〜に？」
+<pause>
+<audio_0EED><Mint>
+「それ、きれい・・・」
+<pause>
+<audio_0EEE>メリル
+「ああ、これ？」
+<pause>
+<audio_0EEF><Mint>
+「うん」
+<pause>
+<audio_0EF0><Mint>
+「その、お耳につけてるの・・・
+　欲しいな」{END}"	"<audio_0EEC><Mint><'s/'> mother, Meryl
+ Yes, darling?
+<pause>
+<audio_0EED><Mint>
+ Those things on your ears...
+ They're so pretty.
+<pause>
+<audio_0EEE>Meryl
+ Oh, my earrings?
+<pause>
+<audio_0EEF><Mint>
+ Yeah.
+<pause>
+<audio_0EF0><Mint>
+ Can I have them?{END}"
+"<audio_0EF1>メリル
+「ごめんね」
+<pause>
+<audio_0EF2>メリル
+「このイヤリングはあげられない
+　の・・・」
+<pause>
+<audio_0EF3><Mint>
+「どおして？」
+<pause>
+<audio_0EF4>メリル
+「これはね、お母さんのお母さん
+　からもらった大事な大事な法術
+　師のあかしなの」{END}"	"<audio_0EF1>Meryl
+ I'm sorry, honey.
+<pause>
+<audio_0EF2>Meryl
+ I can't give them to you...
+<pause>
+<audio_0EF3><Mint>
+ Why?
+<pause>
+<audio_0EF4>Meryl
+ They're precious keepsakes given
+ to me by my mommy's mommy.
+ They represent my status as a
+ cleric.{END}"
+"<audio_0EF5><Mint>
+「お母さんのタイセツなもの？」
+<pause>
+<audio_0EF6>メリル
+「そうよ」{END}"	"<audio_0EF5><Mint>
+ So that means they're REAL
+ important to you, Mommy?
+<pause>
+<audio_0EF6>Meryl
+ Very much.{END}"
+"<audio_0EF7><Mint>
+「お馬さんの形してるよ？」
+<pause>
+<audio_0EF8>メリル
+「ユニコーンっていうのよ」
+<pause>
+<audio_0EF9>メリル
+「この馬は法術師の象徴なの」
+<pause>
+<audio_0EFA><Mint>
+「ショウ、チョウ？」
+<pause>
+<audio_0EFB>メリル
+「じゃあ<item_7B01>のかわりに、
+　この帽子をあげるから、我慢し
+　てね」{END}"	"<audio_0EF7><Mint>
+ How come they're shaped like
+ horsies?
+<pause>
+<audio_0EF8>Meryl
+ They're unicorns, dear.
+<pause>
+<audio_0EF9>Meryl
+ The unicorn symbolizes the
+ Order of Clerics.
+<pause>
+<audio_0EFA><Mint>
+ Sim-bowl-eyes-es?
+<pause>
+<audio_0EFB>Meryl
+ Instead of my earrings,
+ you can have my cap.
+ Hold still.{END}"
+"<unk1><audio_0EFC><Mint>
+お母さん、ありがとう」
+<pause>
+<audio_0EFD>メリル
+ちょっと大きすぎたかしら」
+<pause>
+<audio_0EFE>メリル
+でもよく似合っているわ」
+<pause>
+<audio_0EFF>メリル
+これで<Mint>も立派な法術師ね」
+<pause>
+<audio_0F00><Mint>
+うん！」{END}"	"<unk1><audio_0EFC><Mint>
+ Thank you, Mommy.
+ I love it!
+<pause>
+<audio_0EFD>Meryl
+ It's a little big...
+<pause>
+<audio_0EFE>Meryl
+ But it looks good and you'll grow
+ right into it.
+<pause>
+<audio_0EFF>Meryl
+ It's proof you will also become a
+ wonderful cleric.
+<pause>
+<audio_0F00><Mint>
+ Yeah!{END}"
+"<audio_0F01><Mint>
+「私もお母さんみたいな法術師に
+　なる！」{END}"	"<audio_0F01><Mint>
+ I want to be just like you when I
+ grow up, Mommy!{END}"
+"<audio_1225>ミラルド
+「はい、それじゃあ今日の授業は
+　ここまでね」
+<pause>
+<audio_1226>ミラルド
+「基本的なことはだいたい今日で
+　終わりね」
+<pause>
+<audio_1227>生徒
+「ありがとうございます」
+<pause>
+<audio_1228>生徒
+「ところで・・・」<wait>{END}"	"<audio_1225>Mirald
+ ...And that concludes today's lesson.
+<pause>
+<audio_1226>Mirald
+ We got through the fundamentals
+ today.
+<pause>
+<audio_1227>Student
+ Thank you, Miss Rune.
+<pause>
+<audio_1228>Student
+ By the way...<wait>{END}"
+"<unk1><audio_1229>生徒
+<Klarth>さんはいつ戻って来るんですか？」<wait>{END}"	"<unk1><audio_1229>Student
+ When is Mr. Lester coming back?<wait>{END}"
+"<audio_122A>生徒
+「あのダオスをやっつけたんです
+　よね？」
+<pause>
+<audio_122B>生徒
+「村長も大喜びで村をあげてパー
+　ティーやるんだってはりきって
+　ますよ」
+<pause>
+<audio_122C>ミラルド
+「さあねぇ・・・」
+<pause>
+<audio_122D>ミラルド
+「まあ、あいつはゾンビみたいに
+　しぶとい奴だから、そのうちに
+　帰ってくるでしょ」
+<pause>
+<audio_122E>生徒
+「はは、そんなもんですかね」
+<pause>
+<audio_122F>生徒
+「それじゃあ、また明日」
+<pause>
+<audio_1230>ミラルド
+「ええ、またね」{END}"	"<audio_122A>Student
+ He beat up that Dhaos guy, right?
+<pause>
+<audio_122B>Student
+ His return will be so exciting that
+ even the village chief will want to
+ throw a party.
+<pause>
+<audio_122C>Mirald
+ I suppose so...
+<pause>
+<audio_122D>Mirald
+ Anyway, he's as stubborn as a
+ zombie, so he'll be back sooner or
+ later.
+<pause>
+<audio_122E>Student
+ Hahah, that's true.
+<pause>
+<audio_122F>Student
+ Well, see you tomorrow.
+<pause>
+<audio_1230>Mirald
+ Yeah, see you.{END}"
+"<audio_1231>ミラルド
+「まったく、どこをほっつき歩い
+　てんのかしらねぇ・・・」
+<pause>
+<audio_1232>ミラルド
+「あれでも少しは役に立ってんの
+　かしら？」{END}"	"<audio_1231>Mirald
+ Sigh...
+ That fool just had to go
+ wander off and disappear...
+<pause>
+<audio_1232>Mirald
+ Is there anything I
+ can do to help him?
+ Even just a little?{END}"
+"<audio_1233>ミラルド
+「ま、気長に待っててあげるわ」{END}"	"<audio_1233>Mirald
+ Well, I suppose I'll just have to
+ wait patiently for the day he
+ returns.{END}"
+"<Klarth>
+「・・・ミラルドか？」{END}"	"<Klarth>:<nl>
+...Mirald, is that you?{END}"
+"ミラルド
+「お茶、入ったわよ」{END}"	"Mirald:<nl>
+I made some tea.{END}"
+"<Klarth>
+「・・・ああ」{END}"	"<Klarth>:<nl>
+...Okay.{END}"
+"ミラルド
+「ここ<speed_0010>、<speed_00FF>置いとくわね」{END}"	"Mirald:<nl>
+I'll just<speed_0010>...<speed_00FF>put it here.{END}"
+"<Klarth>
+「・・・ああ」{END}"	"<Klarth>:<nl>
+...Okay.{END}"
+"ミラルド
+「・・・あまり、無理しないほう
+　がいいんじゃない？」{END}"	"Mirald:<nl>
+Please don't push yourself too hard, okay?
+{END}"
+"<Klarth>
+「・・・ああ」{END}"	"<Klarth>:<nl>
+...Okay.{END}"
+"<Klarth>
+「なんだ？」
+<pause>
+<Klarth>
+「なにか用でもあるのか？」
+<pause>
+ミラルド
+「・・・別に」
+<pause>
+<Klarth>
+「だったら少し放っておいてくれ
+　ないか？」{END}"	"<Klarth>:<nl>
+What?
+<pause>
+<Klarth>:<nl>
+There something you want?
+<pause>
+Mirald:<nl>
+No...
+<pause>
+<Klarth>:<nl>
+Then leave me alone for a while,
+will you?{END}"
+"<Klarth>
+「今は手が離せないんだ」{END}"	"<Klarth>:<nl>
+I'm busy at the moment.{END}"
+"ミラルド
+「<speed_0010>・・・・・・・・・<speed_00FF>」{END}"	"Mirald:<nl>
+<speed_0010>......<speed_00FF>{END}"
+"<Klarth>
+「おいッ、ミラルド！」{END}"	"<Klarth>:<nl>
+Hey, Mirald!{END}"
+"<Klarth>
+「いないのか？」{END}"	"<Klarth>:<nl>
+No one home?{END}"
+"ミラルド
+「なんなのよ、大声出して！」{END}"	"Mirald:<nl>
+What's all the racket!?{END}"
+"<Klarth>
+「聞いてくれ！」
+<pause>
+<Klarth>
+「私は間違ってなかったんだ！」
+<pause>
+<Klarth>
+「頭のカタい学会のやつらを
+　見返してやるぞ！」
+<pause>
+ミラルド
+「・・・・・・」{END}"	"<Klarth>:<nl>
+Guess what!?
+<pause>
+<Klarth>:<nl>
+I was right!
+<pause>
+<Klarth>:<nl>
+Now I can show those pigheaded
+scholars!
+<pause>
+Mirald:<nl>
+......{END}"
+"ミラルド
+「だから、いったいなんなのよ」
+<pause>
+ミラルド
+「とりあえず、落ち着いて話して
+　くれない？」
+<pause>
+<Klarth>
+「あ、ああ、すまん・・・」{END}"	"Mirald:<nl>
+What are you yammering on about?
+<pause>
+Mirald:<nl>
+Just relax. Take a deep breath
+and then tell me all about it.
+<pause>
+<Klarth>:<nl>
+Oh, uh... Sorry...{END}"
+"<Klarth>
+「落ち着いて聞いてくれ・・・」
+<pause>
+{END}"	"<Klarth>:<nl>
+Now listen to this...
+<pause>
+{END}"
+"<Klarth>
+「まぁ、たいした事では
+　ないんだが・・・」
+<pause>
+<Klarth>
+「先ほど、風の精霊シルフと
+　契約を結んできた」
+<pause>
+{END}"	"<Klarth>:<nl>
+It's really no big deal, but...
+<pause>
+<Klarth>:<nl>
+I just made a pact with
+the Spirit of Wind, Sylph.
+<pause>
+{END}"
+"<Klarth>
+「これで、私もエルフの魔術師と
+　同等の力を得たんだ」
+<pause>
+<Klarth>
+「私の研究は間違っていなかった
+　ということだ」{END}"	"<Klarth>:<nl>
+That means I now have the same
+power as an elven mage.
+<pause>
+<Klarth>:<nl>
+And my research has been correct
+all along.{END}"
+"ミラルド
+「・・・そう、よかったわねぇ」{END}"	"Mirald:<nl>
+Really? That's great.{END}"
+"<Klarth>
+「・・・って、おいッ！」{END}"	"<Klarth>:<nl>
+Hey! That's it!?{END}"
+"<Klarth>
+「もう少しなんかないのか？」{END}"	"<Klarth>:<nl>
+That's all you have to say?{END}"
+"<Klarth>
+「私がどれだけ研究していたか、
+　お前も知っているだろう！」
+<pause>
+ミラルド
+「・・・知ってるわよ<sweat>」
+<pause>
+ミラルド
+「知ってるから、そんな事で
+　いちいち驚かないわ」
+<pause>
+ミラルド
+「それともなに？」
+<pause>
+ミラルド
+「あなたは自分の研究に自信が
+　なかったわけ？」{END}"	"<Klarth>:<nl>
+You know how hard I've
+researched the matter!
+<pause>
+Mirald:<nl>
+...I know. <sweat>
+<pause>
+Mirald:<nl>
+That's why I'm not surprised
+with the results.
+<pause>
+Mirald:<nl>
+Perhaps you're acting this way
+because...
+<pause>
+Mirald:<nl>
+...you doubted your own research?
+{END}"
+"<Klarth>
+「うッ・・・」
+<pause>
+ミラルド
+「まったく・・・」{END}"	"<Klarth>:<nl>
+Huh...?
+<pause>
+Mirald:<nl>
+Good grief...{END}"
+"<Cless>
+「<Klarth>さんって・・・」
+<pause>
+<Cless>
+「家では、尻にしかれてるみたい
+　だね・・・<sweat>」
+<pause>
+<Mint>
+「みたい・・・」{END}"	"<Cless>:<nl>
+Poor <Klarth>...
+<pause>
+<Cless>:<nl>
+Talk about being henpecked.<sweat>
+<pause>
+<Mint>:<nl>
+Yes...{END}"
+"ミラルド
+「まあ、とにかくおめでとう」
+<pause>
+ミラルド
+「でも、まだまだこれから
+　なんでしょう？」
+<pause>
+ミラルド
+「がんばってね」
+<pause>
+<Klarth>
+「ああ！」{END}"	"Mirald:<nl>
+Anyhow, congratulations.
+<pause>
+Mirald:<nl>
+But you still have a lot of work
+to do, don't you?
+<pause>
+Mirald:<nl>
+Keep it up!
+<pause>
+<Klarth>:<nl>
+Yeah, yeah!{END}"
+"ミラルド
+「二人とも、これからもこの人の
+　ことよろしくね」
+<pause>
+<Cless>
+「はは・・・」{END}"	"Mirald:<nl>
+I hope you'll continue taking
+good care of him, you two.
+<pause>
+<Cless>:<nl>
+Ha ha...{END}"
